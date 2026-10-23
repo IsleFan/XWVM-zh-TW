@@ -256,6 +256,8 @@ namespace XwvmChineseFont
             return chosen;
         }
 
+        internal static bool IsFallbackFont(TMP_FontAsset font) => font != null && Assets.ContainsValue(font);
+
         private static TMP_FontAsset GetOrCreateAsset(FaceRef face)
         {
             if (Assets.TryGetValue(face.Key, out TMP_FontAsset existing))

@@ -5,7 +5,8 @@ namespace XwvmChineseFont
 {
     /// <summary>
     /// Polls the game's selected locale and tells <see cref="FallbackFontLoader"/> and
-    /// <see cref="UiTextLocalizer"/> when it changes; also drives the UI text replacement.
+    /// <see cref="UiTextLocalizer"/> when it changes; also drives the UI text replacement and
+    /// <see cref="SubMeshPropertySync"/> (animated materials on 3D text).
     /// </summary>
     internal class LocaleWatcher : MonoBehaviour
     {
@@ -37,6 +38,12 @@ namespace XwvmChineseFont
                 UiTextLocalizer.SetLocale(locale);
             }
             UiTextLocalizer.Tick();
+            SubMeshPropertySync.Refresh();
+        }
+
+        private void LateUpdate()
+        {
+            SubMeshPropertySync.Sync();
         }
 
         /// <summary>Lower-case locale code such as "zh-tw", or null while Unity Localization is still starting.</summary>

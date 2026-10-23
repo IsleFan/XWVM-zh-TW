@@ -1,6 +1,5 @@
 {
   "_comment": "Texts XWVM does not take from its XLIFF files (Rewired control-mapping window, input action names, mouse element names). Exact English text -> zh-TW. Applied only while the selected locale is zh.",
-
   "Yes": "是",
   "No": "否",
   "Add": "新增",
@@ -55,7 +54,6 @@
   "Sensitivity:": "靈敏度：",
   "Invert": "反轉",
   "Clear Controls": "清除按鍵設定",
-
   "Left Mouse Button": "滑鼠左鍵",
   "Right Mouse Button": "滑鼠右鍵",
   "Middle Mouse Button": "滑鼠中鍵",
@@ -74,7 +72,6 @@
   "Mouse Left": "滑鼠左移",
   "Mouse Up": "滑鼠上移",
   "Mouse Down": "滑鼠下移",
-
   "Ship Movement": "艦艇操控",
   "Weapons": "武器",
   "Energy": "能源",
@@ -86,7 +83,6 @@
   "Camera": "鏡頭",
   "User Interface": "使用者介面",
   "UI Mappings": "介面按鍵配置",
-
   "Yaw": "偏航",
   "Yaw right": "向右偏航",
   "Yaw left": "向左偏航",
@@ -279,5 +275,6 @@
   "Menu: Targeting": "選單：目標鎖定",
   "Zoom to Left MFD": "放大左 MFD",
   "Zoom to Right MFD": "放大右 MFD",
-  "Target Closest Hostile Bomber": "鎖定最近的敵方轟炸機"
+  "Target Closest Hostile Bomber": "鎖定最近的敵方轟炸機",
+  "中文 (台湾) (zh-tw)": "繁體中文 (台灣) (zh-tw)"
 }

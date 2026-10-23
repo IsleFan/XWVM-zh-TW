@@ -26,6 +26,11 @@
   - `translation/install_language_mac.sh`：資料夾可寫時不用 sudo；可用 `XWVM_LOCALIZATION_DIR` 指定位置（測試用）。
   - `release/macos/`、`release/windows/`：雙擊安裝／移除程式與使用說明；`release/build_release.py` 產生兩個 zip（保留執行權限、中文檔名 UTF-8、Windows 文字檔 BOM＋CRLF）。
   - `README.en.md`：英文版 README；README.md 新增一般使用者下載說明。
+- 開場滾動字幕中文消失的修正（v0.9.1-beta，使用者已在遊戲中確認）：
+  - `font-plugin/SubMeshPropertySync.cs`：把 3D TextMeshPro 主渲染器的 MaterialPropertyBlock（動畫寫入）每幀複製到使用中文 fallback 字型的子網格渲染器。
+  - `font-plugin/LocaleWatcher.cs`：每 0.25 秒更新追蹤清單，LateUpdate 同步。
+  - `font-plugin/FallbackFontLoader.cs`：新增 `IsFallbackFont`。
+  - `font-plugin/XwvmChineseFont-zh-TW.json`：語言選單「中文 (台湾) (zh-tw)」→「繁體中文 (台灣) (zh-tw)」（僅在中文介面下）。
 - 公開前清理：移除 ChatGPT 流程檔（CLOUD-HANDOFF／CLOUD-CONTENTS）與本機路徑；commit 改用 GitHub noreply 信箱；README 加非官方聲明；倉庫改為公開。
 
 ### 問題與解法（Problems & Solutions）
@@ -38,6 +43,7 @@
 - 一般 Mac 沒有 Python → 改用 macOS 內建 JXA 修改 JSON（plutil 的 -append 在舊版 macOS 不一定有）。
 - 下載的檔案帶隔離標記 → 安裝程式先移除自身資料夾的 com.apple.quarantine；實測安裝後 app 內無隔離標記、簽章有效。
 - PowerShell 5.1 讀無 BOM 的 .ps1 會用 ANSI 解碼中文 → ps1 存成 UTF-8 BOM；.bat 只用 ASCII 內容。
+- 開場滾動字幕（3D TextMeshPro `TextMeshPro_Crawl`）在中文下整段消失：遊戲把 face color 設為黃色、透明度 0，再由 Animator 以 MaterialPropertyBlock 淡入主渲染器；中文字在 TMP_SubMesh 子渲染器上收不到 → 同步 property block。以暫時的診斷版外掛（不 commit）取得執行時資料確認。
 - 機種 CSV 的迴圈變數 `field` 遮蔽了新加的同名變數，導致驗證全錯 → 改名 `target_key`，靠既有測試抓到。
 
 ### 待辦事項（TODO）
@@ -46,5 +52,6 @@
 - Windows 版實測（字型：msjh.ttc；install_windows.ps1 未在 Windows／PowerShell 上執行過，只做過括號結構檢查）。
 - 確認 Windows 版 XWVM 的語言檔資料夾實際位置，必要時更新 install_windows.ps1 的搜尋清單。
 - macOS 安裝程式「找不到 XWVM 時跳出選擇視窗」與 Gatekeeper 首次開啟提示未實測（需要 GUI 操作）。
+- 戰役開場的滾動字幕（ScrollTextLoader，也是 3D TextMeshPro）一併確認。
 - 視需要檢討「本遊戲建議」譯名。
 - 日文／韓文字型鏈只驗證了字型偵測（log 已列出 Hiragino、Apple SD Gothic Neo），尚未以實際 ja／ko 語言包在遊戲中測試。
