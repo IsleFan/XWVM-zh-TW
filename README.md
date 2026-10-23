@@ -22,14 +22,14 @@
 ./font-plugin/install_mac.sh
 
 # 2. 中文語言包：複製到 XWVM 的 StreamingAssets（會要求輸入 Mac 密碼）
-./translation/install_zh-TW_mac.sh zh-TW-v1
+./translation/install_language_mac.sh zh-TW-v1
 ```
 
 3. 用 **`/Applications/XWVM/xwvm-zhTW.app`** 開遊戲。
 4. `Settings > Audio and Language > Subtitles and Language > Language` 選 **Chinese (Traditional)**。
 
 > XWVM 每次更新後要重跑第 1 步（重建 xwvm-zhTW.app）；語言包若被更新覆蓋，重跑第 2 步。
-> 移除語言包：`./translation/install_zh-TW_mac.sh --uninstall`；移除外掛：刪掉 `xwvm-zhTW.app` 即可。
+> 移除語言包：`./translation/install_language_mac.sh --uninstall zh-TW`；移除外掛：刪掉 `xwvm-zhTW.app` 即可。
 
 ## Windows（之後使用）
 
@@ -55,14 +55,14 @@ XWVM 本身會讀取 `StreamingAssets/Localization/XLIFF/<語系>/*.xliff`，檔
 
 一個約 450 行的 C# 外掛，在遊戲啟動時：
 
-1. 從系統找繁中字型（macOS：蘋方-繁 PingFang TC Medium → 黑體-繁 → Arial Unicode；Windows：微軟正黑體 → 新細明體）。`.ttc` 字型集會逐一比對字型家族名稱，避免選到簡體或日文字面。
+1. 依遊戲目前的語系組出一條字型鏈（zh-TW：蘋方-繁 → 黑體-繁；Windows：微軟正黑體），後面再接日文、韓文等補字字型（Hiragino、Apple SD Gothic Neo、Arial Unicode）。`.ttc` 字型集會逐一比對字型家族名稱，避免選到簡體或日文字面。
 2. 用 TextMeshPro 的 `TMP_FontAsset.CreateFontAsset` 建立**動態 SDF 字型**（用到哪個字才畫哪個字，不需要事先做字型圖集）。
-3. 把它加到 `TMP_Settings` 的全域 fallback，以及每個已載入 TMP 字型的 `fallbackFontAssetTable`；每次切換場景再補一次。
+3. 依序加到 `TMP_Settings` 的全域 fallback，以及每個已載入 TMP 字型的 `fallbackFontAssetTable`；每次切換場景再補一次，玩家切換語言時自動重排順序（例如切到日文時 Hiragino 排第一，漢字才是日文字形）。
 
 **載入方式**：最初嘗試 BepInEx 5.4.23.5，但它的 doorstop 在這版 Unity 6 上無法啟動（arm64 與 Rosetta 都試過）。改用 Unity 內建機制：
 
 - 把 DLL 放進遊戲的 `Managed/`，並登記到 `ScriptingAssemblies.json`；
-- 在 `RuntimeInitializeOnLoads.json` 加一筆，讓 Unity 在第一個場景載入前呼叫 `ChineseFontLoader.Init`。
+- 在 `RuntimeInitializeOnLoads.json` 加一筆，讓 Unity 在第一個場景載入前呼叫 `FallbackFontLoader.Init`。
 
 macOS 的 XWVM 安裝在 root 擁有的資料夾，所以 `install_mac.sh` 用 APFS clone 複製出 `xwvm-zhTW.app`（幾乎不佔空間），修改副本後重新做 ad-hoc 簽章，**原版 app 完全不動**。存檔與設定兩者共用。
 
@@ -90,10 +90,33 @@ cd translation
 # 編輯 translate/**/*.json 的 target_zh_TW 欄位
 python3 tools/localization_tool.py validate            # 檢查格式
 python3 tools/localization_tool.py build --name zh-TW-v2
-./install_zh-TW_mac.sh zh-TW-v2
+./install_language_mac.sh zh-TW-v2
 ```
 
 按鍵設定畫面等「不在 XLIFF 裡」的字串：編輯 `font-plugin/XwvmChineseFont-zh-TW.json` 後重跑 `font-plugin/install_mac.sh`。
+
+## 新增其他語言（日文、韓文…）
+
+外掛與工具都以語系為參數，新增語言不必改程式：
+
+```bash
+# 1. 建立該語言的翻譯工作區（從本機 XWVM 安裝抽取英文原文；欄位會是 target_ja）
+python3 translation/tools/localization_tool.py extract --locale ja --out translation-ja
+
+# 2. 翻譯 translation-ja/translate/**/*.json 的 target_ja，然後驗證與匯出
+python3 translation/tools/localization_tool.py validate --root translation-ja
+python3 translation/tools/localization_tool.py build --root translation-ja --name ja-v1
+
+# 3. 安裝（語系由語言包自動判斷）
+./translation/install_language_mac.sh translation-ja/exports/ja-v1
+```
+
+- 語系代碼須為 `xx` 或 `xx-YY`（XWVM 只認得這種檔名）。
+- **複數規則依語言檢查**：中、日、韓、越、泰等只有一種複數形，所有分支要寫成相同的通用形（不同時會警告）；俄、烏、捷克等需要 3 個分支，波蘭、斯洛維尼亞 4 個，阿拉伯 6 個（依 Unity SmartFormat 的規則，分支數不對會讓遊戲出錯）。
+- 字型：外掛已內建 zh-TW／zh-HK／zh-CN／ja／ko 的字型鏈，其他語言用預設鏈；可在 `XwvmChineseFont.ini` 用 `Fonts.<語系>` 覆寫。
+- 按鍵設定畫面：複製 `font-plugin/XwvmChineseFont-zh-TW.json` 為 `XwvmChineseFont-ja.json` 並翻譯，重跑 `font-plugin/install_mac.sh`。
+- 分批翻譯的檢查腳本也接受語系：`python3 translation/tools/pipeline/check_batch.py <batch> <out> ja`。
+- 做不到：阿拉伯文、希伯來文（由右往左）與泰文、印地文（字形組合），TextMeshPro 本身不支援這些排版。
 
 ## 重新編譯外掛
 
@@ -105,7 +128,7 @@ dotnet build -c Release && cp bin/Release/XwvmChineseFont.dll .
 # Windows：dotnet build -c Release -p:GameManaged="C:\...\XWVM_Data\Managed"
 ```
 
-設定（選用）：在 DLL 旁放 `XwvmChineseFont.ini` 可指定字型檔、字型家族、字重與大小倍率；或把 `.ttf/.otf` 放進 `XwvmChineseFont-fonts/` 資料夾。詳見 [font-plugin/README.zh-TW.md](font-plugin/README.zh-TW.md)。
+設定（選用）：在 DLL 旁放 `XwvmChineseFont.ini` 可指定字型檔、各語系的字型鏈（`Fonts.<語系>`）、字重與大小倍率；或把 `.ttf/.otf` 放進 `XwvmChineseFont-fonts/` 資料夾。詳見 [font-plugin/README.zh-TW.md](font-plugin/README.zh-TW.md)。
 
 ---
 

@@ -21,7 +21,7 @@ ASSEMBLY = "XwvmChineseFont"
 INIT_ENTRY = {
     "assemblyName": ASSEMBLY,
     "nameSpace": "XwvmChineseFont",
-    "className": "ChineseFontLoader",
+    "className": "FallbackFontLoader",
     "methodName": "Init",
     "loadTypes": 1,  # RuntimeInitializeLoadType.BeforeSceneLoad
     "isUnityClass": False,
@@ -66,17 +66,18 @@ def main(argv):
     assemblies["types"] = [assemblies["types"][i] for i in keep]
     inits["root"] = [e for e in inits["root"] if e.get("assemblyName") != ASSEMBLY]
 
-    # Extra UI translations (control-mapping window etc.) read by the DLL at startup.
-    ui_json = ASSEMBLY + "-zh-TW.json"
+    # Per-locale UI translations (control-mapping window etc.), XwvmChineseFont-<locale>.json.
+    ui_pattern = ASSEMBLY + "-*.json"
+    for old in managed.glob(ui_pattern):
+        old.unlink()
     if uninstall:
         (managed / name).unlink(missing_ok=True)
-        (managed / ui_json).unlink(missing_ok=True)
     else:
         if not dll.is_file():
             sys.exit(f"DLL not found: {dll}")
         shutil.copy2(dll, managed / name)
-        if dll.with_name(ui_json).is_file():
-            shutil.copy2(dll.with_name(ui_json), managed / ui_json)
+        for table in dll.parent.glob(ui_pattern):
+            shutil.copy2(table, managed / table.name)
         assemblies["names"].append(name)
         assemblies["types"].append(16)
         inits["root"].append(INIT_ENTRY)

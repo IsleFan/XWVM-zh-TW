@@ -150,7 +150,86 @@ class WorkspaceTests(unittest.TestCase):
             ref.write_bytes(original)
 
 
+class OtherLocaleTests(unittest.TestCase):
+    """A workspace for another language: field names, export paths and plural rules follow the locale."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.temp = tempfile.TemporaryDirectory(prefix="xwvm-localization-locale-test-")
+        source = Path(cls.temp.name) / "install"
+        shutil.copytree(tool.DEFAULT_OUT / "reference", source)
+        shutil.copyfile(tool.DEFAULT_OUT / "LICENSE-XWVM-localization.txt", source / "LICENSE")
+        cls.root = Path(cls.temp.name) / "ja-workspace"
+        cls.manifest = tool.init_workspace(source, cls.root, "ja")
+
+    @classmethod
+    def tearDownClass(cls):
+        cls.temp.cleanup()
+
+    def edit_entry(self, predicate, value):
+        """Sets target_ja on the first matching entry; returns a function restoring the file."""
+        for item in self.manifest["files"]:
+            path = self.root / "translate" / item["translation"]
+            doc = tool.read_json(path)
+            entry = next((e for e in doc["entries"] if predicate(e)), None)
+            if entry:
+                original = path.read_bytes()
+                entry["target_ja"] = value
+                tool.write_json(path, doc)
+                return lambda: path.write_bytes(original)
+        self.fail("no matching entry")
+
+    def test_workspace_uses_locale_field(self):
+        self.assertEqual(self.manifest["target_locale"], "ja")
+        doc = tool.read_json(self.root / "translate" / self.manifest["files"][0]["translation"])
+        self.assertEqual(doc["target_locale"], "ja")
+        self.assertIn("target_ja", doc["entries"][0])
+        self.assertNotIn("target_zh_TW", doc["entries"][0])
+        result = tool.validate(self.root)
+        self.assertTrue(result["ok"], result["errors"])
+        self.assertEqual(result["locale"], "ja")
+
+    def test_export_paths_and_language_attributes(self):
+        restore = self.edit_entry(lambda e: e["id"].startswith("XWVM.UI.GameLibrary.xliff::") and e["unit_id"] == "MainMenu.Label.StartGame",
+                                  "ゲーム開始")
+        try:
+            out = tool.build(self.root, "ja-export")
+        finally:
+            restore()
+        xlf = tool.parse(out / "Localization/XLIFF/ja/XWVM.UI.GameLibrary_ja.xliff")
+        self.assertEqual(xlf.getroot().get("trgLang"), "ja")
+        unit = next(u for u in xlf.findall(".//x:unit", tool.N) if u.get("id") == "MainMenu.Label.StartGame")
+        self.assertEqual(unit.find("x:segment/x:target", tool.N).text, "ゲーム開始")
+        self.assertTrue((out / "Localization/CSV/XWVM.xwing.Species_ja.csv").is_file())
+        self.assertFalse((out / "Localization/XLIFF/zh-TW").exists())
+
+    def test_single_form_language_warns_on_different_plural_branches(self):
+        is_count = lambda e: e["unit_id"] == "Library.Value.LibraryCount"
+        restore = self.edit_entry(is_count, "{gameCount:plural:1 本|{} 本} インストール済み")
+        try:
+            result = tool.validate(self.root)
+        finally:
+            restore()
+        self.assertTrue(result["ok"], result["errors"])
+        self.assertTrue(any("LibraryCount" in w and "第一個複數分支" in w for w in result["warnings"]))
+
+    def test_invalid_locale_code_is_rejected(self):
+        for code in ["zh_TW", "zh-Hant", "jpn", "../x", ""]:
+            with self.subTest(code=code), self.assertRaises(ValueError):
+                tool.target_field(code)
+
+
 class SyntaxTests(unittest.TestCase):
+    def test_plural_branch_count_follows_target_language(self):
+        source = "{count:plural:1 ship|{} ships}"
+        # Chinese/Japanese use the first branch only; the general form may add "{}" to every branch.
+        self.assertEqual(tool.check_translation(source, "{count:plural:{} 艘|{} 艘}", locale="zh-TW"), [])
+        # Russian SmartFormat rule returns branch 0..2, so three branches are required.
+        self.assertEqual(tool.check_translation(source, "{count:plural:{} корабль|{} корабля|{} кораблей}", locale="ru"), [])
+        self.assertTrue(tool.check_translation(source, "{count:plural:{} корабль|{} кораблей}", locale="ru"))
+        self.assertEqual(tool.check_translation(source, "{count:plural:{} statek|{} statki|{} statków|{} statku}", locale="pl"), [])
+        self.assertTrue(tool.check_translation(source, "{count:plural:{} navire|{} navires|{} x}", locale="fr"))
+
     def test_placeholders_reorder_and_missing(self):
         self.assertEqual(tool.check_translation("Page {pIndex} / {pCount}", "共 {pCount} 頁，第 {pIndex} 頁"), [])
         self.assertTrue(tool.check_translation("Page {pIndex} / {pCount}", "第 {pIndex} 頁"))

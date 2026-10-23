@@ -5,76 +5,59 @@ using System.Reflection;
 using Newtonsoft.Json;
 using TMPro;
 using UnityEngine;
-using UnityEngine.Localization.Settings;
 
 namespace XwvmChineseFont
 {
     /// <summary>
     /// Translates UI text that XWVM does not take from its XLIFF files: the Rewired control-mapping
     /// window (its LanguageData asset), input action names and mouse element names shown in TMP texts.
-    /// Translations come from XwvmChineseFont-zh-TW.json (exact English text -> Chinese) next to this DLL
-    /// and are only applied while the selected locale is Chinese; switching language restores the English.
+    /// Each XwvmChineseFont-&lt;locale&gt;.json next to this DLL (exact English text -> translation) is used
+    /// while that locale is selected (exact code first, then language); switching locale restores English.
     /// </summary>
-    internal class UiTextLocalizer : MonoBehaviour
+    internal static class UiTextLocalizer
     {
-        private const string LogPrefix = "[XwvmChineseFont] ";
-        private const float ScanInterval = 0.25f;
+        private const string FilePrefix = "XwvmChineseFont-";
 
-        private Dictionary<string, string> _translations;
-        private readonly Dictionary<TMP_Text, KeyValuePair<string, string>> _changedTexts = new Dictionary<TMP_Text, KeyValuePair<string, string>>();
-        private readonly List<(object owner, FieldInfo field, string original)> _changedFields = new List<(object, FieldInfo, string)>();
-        private readonly HashSet<int> _patchedAssets = new HashSet<int>();
-        private bool _active;
-        private float _nextScan;
+        private static readonly Dictionary<string, Dictionary<string, string>> Tables =
+            new Dictionary<string, Dictionary<string, string>>(StringComparer.OrdinalIgnoreCase);
+        private static readonly Dictionary<TMP_Text, KeyValuePair<string, string>> ChangedTexts = new Dictionary<TMP_Text, KeyValuePair<string, string>>();
+        private static readonly List<(object owner, FieldInfo field, string original)> ChangedFields = new List<(object, FieldInfo, string)>();
+        private static readonly HashSet<int> PatchedAssets = new HashSet<int>();
+        private static Dictionary<string, string> _translations;
 
-        public static void Create(string dllDirectory)
+        public static void Init(string dllDirectory)
         {
-            string path = Path.Combine(dllDirectory, "XwvmChineseFont-zh-TW.json");
-            if (!File.Exists(path))
+            foreach (string path in Directory.GetFiles(dllDirectory, FilePrefix + "*.json"))
+            {
+                string locale = Path.GetFileNameWithoutExtension(path).Substring(FilePrefix.Length);
+                var table = JsonConvert.DeserializeObject<Dictionary<string, string>>(File.ReadAllText(path));
+                table.Remove("_comment");
+                Tables[locale] = table;
+                Debug.Log(FallbackFontLoader.LogPrefix + "Loaded " + table.Count + " UI translations for '" + locale + "' from " + path);
+            }
+        }
+
+        public static void SetLocale(string locale)
+        {
+            Restore();
+            string language = locale.Split('-')[0];
+            if (!Tables.TryGetValue(locale, out _translations))
+            {
+                Tables.TryGetValue(language, out _translations);
+            }
+        }
+
+        public static void Tick()
+        {
+            if (_translations == null)
             {
                 return;
             }
-            var translations = JsonConvert.DeserializeObject<Dictionary<string, string>>(File.ReadAllText(path));
-            translations.Remove("_comment");
-
-            var go = new GameObject("XwvmChineseFont.UiTextLocalizer") { hideFlags = HideFlags.HideAndDontSave };
-            DontDestroyOnLoad(go);
-            go.AddComponent<UiTextLocalizer>()._translations = translations;
-            Debug.Log(LogPrefix + "Loaded " + translations.Count + " extra UI translations from " + path);
+            PatchLanguageDataAssets();
+            TranslateVisibleTexts();
         }
 
-        private void Update()
-        {
-            if (Time.unscaledTime < _nextScan)
-            {
-                return;
-            }
-            _nextScan = Time.unscaledTime + ScanInterval;
-
-            bool chinese = IsChineseSelected();
-            if (chinese)
-            {
-                PatchLanguageDataAssets();
-                TranslateVisibleTexts();
-            }
-            else if (_active)
-            {
-                Restore();
-            }
-            _active = chinese;
-        }
-
-        private static bool IsChineseSelected()
-        {
-            if (!LocalizationSettings.HasSettings || !LocalizationSettings.InitializationOperation.IsDone)
-            {
-                return false;
-            }
-            string code = LocalizationSettings.SelectedLocale?.Identifier.Code;
-            return code != null && code.StartsWith("zh", StringComparison.OrdinalIgnoreCase);
-        }
-
-        private bool TryTranslate(string text, out string translated)
+        private static bool TryTranslate(string text, out string translated)
         {
             translated = null;
             if (string.IsNullOrEmpty(text))
@@ -97,7 +80,7 @@ namespace XwvmChineseFont
         }
 
         /// <summary>Rewired's ControlMapper reads its labels and dialog templates from LanguageData string fields.</summary>
-        private void PatchLanguageDataAssets()
+        private static void PatchLanguageDataAssets()
         {
             Type type = Type.GetType("Rewired.UI.ControlMapper.LanguageData, Assembly-CSharp");
             if (type == null)
@@ -106,59 +89,59 @@ namespace XwvmChineseFont
             }
             foreach (UnityEngine.Object asset in Resources.FindObjectsOfTypeAll(type))
             {
-                if (!_patchedAssets.Add(asset.GetInstanceID()))
+                if (!PatchedAssets.Add(asset.GetInstanceID()))
                 {
                     continue;
                 }
                 foreach (FieldInfo field in type.GetFields(BindingFlags.Instance | BindingFlags.NonPublic | BindingFlags.Public))
                 {
-                    if (field.FieldType == typeof(string) && TryTranslate((string)field.GetValue(asset), out string zh))
+                    if (field.FieldType == typeof(string) && TryTranslate((string)field.GetValue(asset), out string translated))
                     {
-                        _changedFields.Add((asset, field, (string)field.GetValue(asset)));
-                        field.SetValue(asset, zh);
+                        ChangedFields.Add((asset, field, (string)field.GetValue(asset)));
+                        field.SetValue(asset, translated);
                     }
                 }
             }
         }
 
-        private void TranslateVisibleTexts()
+        private static void TranslateVisibleTexts()
         {
-            if (_changedTexts.Count > 2000)
+            if (ChangedTexts.Count > 2000)
             {
                 var destroyed = new List<TMP_Text>();
-                foreach (TMP_Text key in _changedTexts.Keys)
+                foreach (TMP_Text key in ChangedTexts.Keys)
                 {
                     if (key == null)
                     {
                         destroyed.Add(key);
                     }
                 }
-                destroyed.ForEach(k => _changedTexts.Remove(k));
+                destroyed.ForEach(k => ChangedTexts.Remove(k));
             }
-            foreach (TMP_Text text in FindObjectsByType<TMP_Text>(FindObjectsSortMode.None))
+            foreach (TMP_Text text in UnityEngine.Object.FindObjectsByType<TMP_Text>(FindObjectsSortMode.None))
             {
                 string current = text.text;
-                if (TryTranslate(current, out string zh))
+                if (TryTranslate(current, out string translated))
                 {
-                    _changedTexts[text] = new KeyValuePair<string, string>(current, zh);
-                    text.text = zh;
+                    ChangedTexts[text] = new KeyValuePair<string, string>(current, translated);
+                    text.text = translated;
                 }
             }
         }
 
-        private void Restore()
+        private static void Restore()
         {
-            foreach (var (owner, field, original) in _changedFields)
+            foreach (var (owner, field, original) in ChangedFields)
             {
                 if (owner is UnityEngine.Object o && o != null)
                 {
                     field.SetValue(owner, original);
                 }
             }
-            _changedFields.Clear();
-            _patchedAssets.Clear();
+            ChangedFields.Clear();
+            PatchedAssets.Clear();
 
-            foreach (var pair in _changedTexts)
+            foreach (var pair in ChangedTexts)
             {
                 // Only undo our own change; the game may have replaced the text since.
                 if (pair.Key != null && pair.Key.text == pair.Value.Value)
@@ -166,7 +149,8 @@ namespace XwvmChineseFont
                     pair.Key.text = pair.Value.Key;
                 }
             }
-            _changedTexts.Clear();
+            ChangedTexts.Clear();
+            _translations = null;
         }
     }
 }

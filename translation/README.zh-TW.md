@@ -3,7 +3,7 @@
 ## 目前狀態（2026-10-23）
 
 - **8,940 個欄位全部翻譯完成**，`validate --complete` 通過。語言包：`exports/zh-TW-v1/`（31 個 XLIFF ＋ 機種 CSV）。
-- 安裝：`./install_zh-TW_mac.sh zh-TW-v1`（需輸入密碼）；移除：`./install_zh-TW_mac.sh --uninstall`。
+- 安裝：`./install_language_mac.sh zh-TW-v1`（需輸入密碼）；移除：`./install_language_mac.sh --uninstall zh-TW`。
 - 中文字型需搭配 XwvmChineseFont 外掛，從 `/Applications/XWVM/xwvm-zhTW.app` 啟動。
 - 術語：`glossary/glossary_zh-TW.csv`（台灣星戰權威譯名，含來源分級）、`glossary/game_terms_coined.tsv`（翻譯時新增的遊戲專有名詞）、`glossary/STYLE_GUIDE.zh-TW.md`（翻譯規範）。
 - 驗證器調整：允許複數分支內的 `{}` 數量不同（Unity SmartFormat 對中文永遠取第一個複數分支），並修正條件文字含冒號時的誤判。
