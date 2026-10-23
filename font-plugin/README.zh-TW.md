@@ -43,25 +43,30 @@ Unity 會依 `RuntimeInitializeOnLoads.json` 在啟動時呼叫外掛（`Fallbac
 ## macOS 安裝
 
 ```sh
-./install_mac.sh
+./install_mac.sh              # 移除：./install_mac.sh --uninstall
 ```
+
+- 登記外掛使用 macOS 內建的 JavaScript（`register_plugin.js`），不需要 Python。
 
 - 會在 `/Applications/XWVM/` 產生 `xwvm-zhTW.app`（原版 `xwvm.app` 不會被修改）。
   使用 APFS 複製，幾乎不佔額外空間。
 - 之後用 `xwvm-zhTW.app` 開遊戲。存檔與設定和原版共用。
 - **XWVM 每次更新後要重跑一次** `install_mac.sh`。
 
-## Windows 安裝（之後用）
+## Windows 安裝
 
-同一個 `XwvmChineseFont.dll` 可直接用在 Windows，不需要重新編譯。
+同一個 `XwvmChineseFont.dll` 可直接用在 Windows，不需要重新編譯，也不需要 Python（使用 Windows 10/11 內建的 PowerShell 5.1）：
 
-1. 安裝 Python 3。
-2. 找到 XWVM 安裝資料夾裡的 `XWVM_Data`（名稱為「執行檔名稱_Data」）。
-3. 執行（會一併複製同資料夾內所有 `XwvmChineseFont-*.json`）：
-   ```
-   python patch_xwvm.py "C:\路徑\XWVM\XWVM_Data" XwvmChineseFont.dll
-   ```
-4. 移除：`python patch_xwvm.py "C:\路徑\XWVM\XWVM_Data" --uninstall`（第一次修改前的原始檔也會另存為 `*.orig`）。
+```powershell
+powershell -ExecutionPolicy Bypass -File install_windows.ps1 [-GameDir "C:\路徑\XWVM"] [-LanguagePack <語言包資料夾>]
+```
+
+- 會自動尋找 XWVM（找不到時跳出選擇資料夾視窗），確認是 Mono 版，需要時要求系統管理員權限。
+- 複製 DLL 與同資料夾內所有 `XwvmChineseFont-*.json` 到 `XWVM_Data\Managed`，登記到 `ScriptingAssemblies.json`／`RuntimeInitializeOnLoads.json`（原始檔備份為 `*.orig`）。
+- 指定 `-LanguagePack` 時，會自動尋找 XWVM 的語言檔資料夾並安裝語言包。
+- 移除：加 `-Uninstall`。
+- 一般使用者請用 Release 壓縮檔裡的「安裝中文化.bat」，效果相同。
+- **尚未在 Windows 實機上測試。**
 
 ## 自訂字型與大小（選用）
 

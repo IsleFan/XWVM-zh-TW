@@ -1,0 +1,65 @@
+XWVM 繁體中文化 {{VERSION}}（Windows）
+======================================
+
+讓 XWVM（Star Wars: X-Wing 1993 的重製版）顯示繁體中文：介面、設定、任務簡報、
+HUD、過場字幕全部中文化。
+
+※ 非官方粉絲翻譯，與 Lucasfilm、Disney、LucasArts 及 XWVM Team 無關。
+※ 需要先安裝好 XWVM，並在 XWVM 中加入你擁有的正版 X-Wing。
+※ 這是測試版：Windows 版安裝程式尚未在 Windows 實機上測試過，若遇到問題請回報（網址在最下方）。
+
+
+■ 安裝步驟
+----------
+1. 先把整個壓縮檔「解壓縮」（對壓縮檔按右鍵 →「全部解壓縮」）。
+   不要直接在壓縮檔裡面雙擊執行。
+
+2. 雙擊「安裝中文化.bat」。
+
+   如果出現藍色的「Windows 已保護您的電腦」：
+   按「其他資訊」→「仍要執行」。
+
+3. 安裝程式會自動尋找 XWVM。
+   找不到時會跳出視窗，請選擇 XWVM 的安裝資料夾（裡面有 XWVM.exe 的那個資料夾）。
+
+4. 如果 XWVM 裝在「Program Files」等受保護的位置，會跳出「是否允許此應用程式變更您的裝置？」，
+   請按「是」。
+
+5. 看到綠色的「完成：已安裝中文化！」就完成了，按任意鍵關閉視窗。
+
+6. 照平常方式開啟 XWVM，第一次進遊戲到
+   Settings → Audio and Language → Subtitles and Language → Language
+   選「Chinese (Traditional)」。
+
+
+■ 常見問題
+----------
+・XWVM 更新後中文不見了？
+  重新雙擊「安裝中文化.bat」即可。
+
+・中文字顯示成方框？
+  中文字型使用 Windows 內建的「微軟正黑體」。請確認 Windows 的字型資料夾裡有 msjh.ttc。
+
+・出現「找不到 XWVM 的語言檔資料夾」？
+  請到專案網站回報，並告訴我們你的 XWVM 裝在哪裡。
+
+・想移除？
+  雙擊「移除中文化.bat」，遊戲會恢復原狀（存檔與設定不受影響）。
+
+・按鍵設定畫面裡的 ESC、Ctrl + F1 等鍵盤按鍵名稱維持英文，這是刻意的。
+
+
+■ 檔案說明
+----------
+安裝中文化.bat   一鍵安裝
+移除中文化.bat   一鍵移除
+files\           外掛（XwvmChineseFont.dll）、按鍵畫面中文對照表、繁體中文語言包、安裝用腳本
+
+專案網址與原始碼：https://github.com/IsleFan/XWVM-zh-TW
+問題回報：https://github.com/IsleFan/XWVM-zh-TW/issues
+
+
+■ 著作權
+--------
+Star Wars 及相關名稱與商標為 Lucasfilm Ltd. 所有。任務簡報等原版遊戲文字的著作權屬於原權利人；
+本翻譯僅供非商業用途，不得販售。若權利人要求，將立即移除。

@@ -19,6 +19,13 @@
   - `translation/tools/test_localization_tool.py`：新增 5 個測試（共 19 個）。
   - `translation/tools/pipeline/`：check_batch／merge_outputs 依語系運作。
   - `translation/install_zh-TW_mac.sh` → `install_language_mac.sh`：自動判斷語言包語系。
+- 一般使用者版本（Release v0.9.0-beta）：
+  - `font-plugin/register_plugin.js`：以 macOS 內建 JavaScript（JXA）登記外掛，取代需要 Python 的 `patch_xwvm.py`（已刪除）。
+  - `font-plugin/install_mac.sh`：改用 register_plugin.js，新增 `--uninstall`。
+  - `font-plugin/install_windows.ps1`（UTF-8 BOM）：PowerShell 5.1 安裝／移除外掛與語言包；自動尋找遊戲與語言檔資料夾、IL2CPP 檢查、需要時自動提權、JSON 備份 `*.orig`。
+  - `translation/install_language_mac.sh`：資料夾可寫時不用 sudo；可用 `XWVM_LOCALIZATION_DIR` 指定位置（測試用）。
+  - `release/macos/`、`release/windows/`：雙擊安裝／移除程式與使用說明；`release/build_release.py` 產生兩個 zip（保留執行權限、中文檔名 UTF-8、Windows 文字檔 BOM＋CRLF）。
+  - `README.en.md`：英文版 README；README.md 新增一般使用者下載說明。
 - 公開前清理：移除 ChatGPT 流程檔（CLOUD-HANDOFF／CLOUD-CONTENTS）與本機路徑；commit 改用 GitHub noreply 信箱；README 加非官方聲明；倉庫改為公開。
 
 ### 問題與解法（Problems & Solutions）
@@ -28,11 +35,16 @@
 - SmartFormat 對 `zh` 永遠取第一個複數分支 → 所有複數分支寫成通用形（`{} 款遊戲|{} 款遊戲`）。
 - 按鍵設定畫面不在 XLIFF → 外掛執行期替換文字。
 - SmartFormat 的俄文等規則不看分支數就回傳 0–2 等索引，分支不足會丟出例外 → 驗證器依語言要求分支數（ru 3、pl 4、ar 6…）。
+- 一般 Mac 沒有 Python → 改用 macOS 內建 JXA 修改 JSON（plutil 的 -append 在舊版 macOS 不一定有）。
+- 下載的檔案帶隔離標記 → 安裝程式先移除自身資料夾的 com.apple.quarantine；實測安裝後 app 內無隔離標記、簽章有效。
+- PowerShell 5.1 讀無 BOM 的 .ps1 會用 ANSI 解碼中文 → ps1 存成 UTF-8 BOM；.bat 只用 ASCII 內容。
 - 機種 CSV 的迴圈變數 `field` 遮蔽了新加的同名變數，導致驗證全錯 → 改名 `target_key`，靠既有測試抓到。
 
 ### 待辦事項（TODO）
 - 在遊戲中逐畫面確認排版（任務說明框換行、HUD／CMD 長度、任務目標組句）。
 - 以遊戲內「Export Original Game Strings」匯出的原文比對並更新任務文字。
-- Windows 版實測（字型：msjh.ttc）。
+- Windows 版實測（字型：msjh.ttc；install_windows.ps1 未在 Windows／PowerShell 上執行過，只做過括號結構檢查）。
+- 確認 Windows 版 XWVM 的語言檔資料夾實際位置，必要時更新 install_windows.ps1 的搜尋清單。
+- macOS 安裝程式「找不到 XWVM 時跳出選擇視窗」與 Gatekeeper 首次開啟提示未實測（需要 GUI 操作）。
 - 視需要檢討「本遊戲建議」譯名。
 - 日文／韓文字型鏈只驗證了字型偵測（log 已列出 Hiragino、Apple SD Gothic Neo），尚未以實際 ja／ko 語言包在遊戲中測試。

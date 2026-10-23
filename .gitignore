@@ -6,3 +6,4 @@ font-plugin/obj/
 # build outputs other than the published pack
 translation/exports/*
 !translation/exports/zh-TW-v1/
+release/dist/

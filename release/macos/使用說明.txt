@@ -1,0 +1,65 @@
+XWVM 繁體中文化 {{VERSION}}（macOS）
+====================================
+
+讓 XWVM（Star Wars: X-Wing 1993 的重製版）顯示繁體中文：介面、設定、任務簡報、
+HUD、過場字幕全部中文化。
+
+※ 非官方粉絲翻譯，與 Lucasfilm、Disney、LucasArts 及 XWVM Team 無關。
+※ 需要先安裝好 XWVM，並在 XWVM 中加入你擁有的正版 X-Wing。
+
+
+■ 安裝步驟
+----------
+1. 雙擊「安裝中文化.command」。
+
+   如果出現「無法打開，因為 Apple 無法檢查是否含有惡意軟體」或「無法驗證開發者」：
+   - macOS 15（Sequoia）以後：
+     先按「完成」關掉提示 → 打開「系統設定」→「隱私權與安全性」→ 往下捲，
+     找到「已阻擋『安裝中文化.command』」→ 按「強制打開」→ 輸入密碼 → 再按「打開」。
+   - macOS 14 以前：
+     對「安裝中文化.command」按右鍵（或 Control + 點一下）→「打開」→ 再按「打開」。
+
+2. 會開啟一個「終端機」視窗並自動安裝。
+   如果出現「Password:」，請輸入你的 Mac 登入密碼後按 Enter。
+   （輸入密碼時畫面不會顯示任何字，這是正常的。）
+
+3. 看到「✅ 安裝完成！」就完成了，按 Enter 關閉視窗。
+
+4. 以後請用「xwvm-zhTW」開遊戲（在「應用程式」→「XWVM」資料夾裡，安裝完成時會自動顯示）。
+
+5. 第一次進遊戲，到
+   Settings → Audio and Language → Subtitles and Language → Language
+   選「Chinese (Traditional)」。
+
+
+■ 常見問題
+----------
+・XWVM 更新後中文不見了？
+  重新雙擊「安裝中文化.command」即可。
+
+・XWVM 不在「應用程式 / XWVM」資料夾？
+  安裝程式會跳出視窗，請選擇你的 xwvm.app。
+
+・原版會被修改嗎？
+  不會。安裝程式會另外建立 xwvm-zhTW.app（幾乎不佔硬碟空間），存檔與設定兩者共用。
+
+・想移除？
+  雙擊「移除中文化.command」。
+
+・按鍵設定畫面裡的 ESC、Ctrl + F1 等鍵盤按鍵名稱維持英文，這是刻意的。
+
+
+■ 檔案說明
+----------
+安裝中文化.command   一鍵安裝
+移除中文化.command   一鍵移除
+files/              外掛（XwvmChineseFont.dll）、按鍵畫面中文對照表、繁體中文語言包、安裝用腳本
+
+專案網址與原始碼：https://github.com/IsleFan/XWVM-zh-TW
+問題回報：https://github.com/IsleFan/XWVM-zh-TW/issues
+
+
+■ 著作權
+--------
+Star Wars 及相關名稱與商標為 Lucasfilm Ltd. 所有。任務簡報等原版遊戲文字的著作權屬於原權利人；
+本翻譯僅供非商業用途，不得販售。若權利人要求，將立即移除。

@@ -1,5 +1,7 @@
 # XWVM 繁體中文化（zh-TW）
 
+**繁體中文** | [English](README.en.md)
+
 讓 [XWVM](https://www.moddb.com/mods/xwvm)（*Star Wars: X-Wing* 1993 的現代重製引擎）完整顯示**繁體中文（台灣）**。
 
 > **非官方粉絲翻譯。** 本專案與 Lucasfilm、Disney、LucasArts 及 XWVM Team 均無關聯，亦未獲其認可。
@@ -13,35 +15,44 @@
 
 ---
 
-## 快速安裝（macOS）
+## 一般使用者：下載就能用
 
-需要先裝好 XWVM（`/Applications/XWVM/xwvm.app`）並在遊戲中加入原版 X-Wing。
+到 [**Releases**](https://github.com/IsleFan/XWVM-zh-TW/releases) 下載對應的壓縮檔，解壓縮後雙擊安裝程式即可，不需要安裝其他軟體：
+
+| 系統 | 下載 | 安裝 |
+| --- | --- | --- |
+| macOS | `XWVM-zh-TW-<版本>-macOS.zip` | 雙擊「安裝中文化.command」 |
+| Windows | `XWVM-zh-TW-<版本>-Windows.zip` | 解壓縮後雙擊「安裝中文化.bat」 |
+
+壓縮檔內附「使用說明.txt」，說明 macOS／Windows 第一次執行時的安全性提示要怎麼處理。安裝完成後，第一次進遊戲到
+`Settings > Audio and Language > Subtitles and Language > Language` 選 **Chinese (Traditional)**。
+
+- 需要先裝好 XWVM，並在遊戲中加入你擁有的正版 X-Wing。
+- macOS 會另外建立 `xwvm-zhTW.app`（原版不會被修改），以後用它開遊戲；Windows 直接用原本的 XWVM 開。
+- XWVM 更新後，重新執行一次安裝程式。要移除就執行「移除中文化」。
+- **Windows 版目前是測試版**，安裝程式尚未在 Windows 實機上驗證，遇到問題請到 [Issues](https://github.com/IsleFan/XWVM-zh-TW/issues) 回報。
+
+## 從原始碼安裝（開發者）
+
+macOS（不需要 Python）：
 
 ```bash
-# 1. 中文字型外掛：建立 /Applications/XWVM/xwvm-zhTW.app（原版 app 不會被修改）
-./font-plugin/install_mac.sh
-
-# 2. 中文語言包：複製到 XWVM 的 StreamingAssets（會要求輸入 Mac 密碼）
-./translation/install_language_mac.sh zh-TW-v1
+./font-plugin/install_mac.sh                          # 建立 /Applications/XWVM/xwvm-zhTW.app
+./translation/install_language_mac.sh zh-TW-v1        # 安裝語言包（會要求輸入 Mac 密碼）
 ```
 
-3. 用 **`/Applications/XWVM/xwvm-zhTW.app`** 開遊戲。
-4. `Settings > Audio and Language > Subtitles and Language > Language` 選 **Chinese (Traditional)**。
+- 移除：`./font-plugin/install_mac.sh --uninstall`、`./translation/install_language_mac.sh --uninstall zh-TW`。
 
-> XWVM 每次更新後要重跑第 1 步（重建 xwvm-zhTW.app）；語言包若被更新覆蓋，重跑第 2 步。
-> 移除語言包：`./translation/install_language_mac.sh --uninstall zh-TW`；移除外掛：刪掉 `xwvm-zhTW.app` 即可。
+Windows（PowerShell 5.1，Windows 10/11 內建）：
 
-## Windows（之後使用）
-
-同一個 `XwvmChineseFont.dll` 不必重新編譯即可用於 Windows：
-
-```
-python font-plugin\patch_xwvm.py "C:\路徑\XWVM\XWVM_Data" font-plugin\XwvmChineseFont.dll
+```powershell
+powershell -ExecutionPolicy Bypass -File font-plugin\install_windows.ps1 -LanguagePack translation\exports\zh-TW-v1
 ```
 
-- `XWVM_Data` 是「執行檔名稱_Data」資料夾；原始 JSON 會備份成 `*.orig`，移除時加 `--uninstall`。
+- 會自動尋找 XWVM（或用 `-GameDir` 指定），需要時要求系統管理員權限；原始 JSON 備份為 `*.orig`；加 `-Uninstall` 移除。
 - 預設字型為微軟正黑體（`msjh.ttc`）。
-- 語言包：把 `translation/exports/zh-TW-v1/Localization/` 裡的 `XLIFF/zh-TW/` 與 `CSV/*_zh-TW.csv` 複製到 XWVM 的 `StreamingAssets/Localization/` 對應位置。
+
+建立 Release 壓縮檔：`python3 release/build_release.py v0.9.0-beta`（輸出到 `release/dist/`）。
 
 ---
 
@@ -64,7 +75,7 @@ XWVM 本身會讀取 `StreamingAssets/Localization/XLIFF/<語系>/*.xliff`，檔
 - 把 DLL 放進遊戲的 `Managed/`，並登記到 `ScriptingAssemblies.json`；
 - 在 `RuntimeInitializeOnLoads.json` 加一筆，讓 Unity 在第一個場景載入前呼叫 `FallbackFontLoader.Init`。
 
-macOS 的 XWVM 安裝在 root 擁有的資料夾，所以 `install_mac.sh` 用 APFS clone 複製出 `xwvm-zhTW.app`（幾乎不佔空間），修改副本後重新做 ad-hoc 簽章，**原版 app 完全不動**。存檔與設定兩者共用。
+macOS 的 XWVM 安裝在 root 擁有的資料夾，所以 `install_mac.sh` 用 APFS clone 複製出 `xwvm-zhTW.app`（幾乎不佔空間），修改副本後重新做 ad-hoc 簽章，**原版 app 完全不動**。存檔與設定兩者共用。登記外掛用的是 macOS 內建的 JavaScript（`register_plugin.js`），不需要 Python；Windows 則由 `install_windows.ps1` 用內建的 PowerShell 完成同樣的事。
 
 **按鍵設定畫面**：這個畫面是第三方輸入套件 Rewired 的 ControlMapper，文字寫死在遊戲資料裡、不經過 XLIFF（西、義、德文版這頁也都是英文）。外掛的 `UiTextLocalizer` 在語系為中文時，依 `XwvmChineseFont-zh-TW.json`（英文原文 → 中文，276 條）替換 ControlMapper 的 LanguageData 字串與畫面上的 TMP 文字；切回其他語言會還原。鍵盤按鍵名（ESC、Ctrl + F1）刻意保留英文。
 
@@ -136,7 +147,8 @@ dotnet build -c Release && cp bin/Release/XwvmChineseFont.dll .
 
 | 路徑 | 內容 |
 | --- | --- |
-| `font-plugin/` | 字型＋介面文字外掛原始碼、預先編譯的 DLL、按鍵畫面對照表、macOS 安裝腳本、跨平台修補腳本 |
+| `font-plugin/` | 字型＋介面文字外掛原始碼、預先編譯的 DLL、按鍵畫面對照表、macOS／Windows 安裝腳本 |
+| `release/` | 一般使用者版本的雙擊安裝／移除程式、使用說明、打包腳本 |
 | `translation/translate/` | 可編輯的翻譯 JSON（唯一日常編輯區） |
 | `translation/exports/zh-TW-v1/` | 可直接安裝的語言包 |
 | `translation/glossary/` | 台灣星戰術語表、遊戲新增專有名詞、翻譯規範 |
@@ -147,6 +159,7 @@ dotnet build -c Release && cp bin/Release/XwvmChineseFont.dll .
 
 ## 已知限制
 
+- Windows 安裝程式尚未在 Windows 實機上測試；Windows 版 XWVM 的語言檔資料夾位置由安裝程式自動搜尋。
 - 尚未逐畫面確認中文排版：任務說明框的換行、HUD 目標框與 CMD 的長度、由片段組合的任務目標句子。
 - 翻譯來源是 XWVM 隨附的樣板文字，未使用遊戲內「Export Original Game Strings」匯出的版本，與你註冊的原版遊戲版本可能有少數差異。
 - 未涵蓋：TIE Fighter 專用文字、自訂任務、圖片內嵌文字、配音。

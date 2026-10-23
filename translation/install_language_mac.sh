@@ -8,13 +8,16 @@
 #   ./install_language_mac.sh --uninstall <locale>            e.g. ./install_language_mac.sh --uninstall zh-TW
 set -e
 HERE="$(cd "$(dirname "$0")" && pwd)"
-LOC="/Library/Application Support/XWVM Team/XWVM/StreamingAssets/Localization"
+LOC="${XWVM_LOCALIZATION_DIR:-/Library/Application Support/XWVM Team/XWVM/StreamingAssets/Localization}"
+[ -d "$LOC/XLIFF" ] || { echo "XWVM language folder not found: $LOC" >&2; exit 1; }
+# The folder is normally owned by root; only ask for a password when it is not writable.
+if [ -w "$LOC/XLIFF" ] && [ -w "$LOC/CSV" ]; then SUDO=""; else SUDO="sudo"; fi
 USAGE="usage: $0 <export name | export folder> | --uninstall <locale>"
 
 if [ "$1" = "--uninstall" ]; then
     LOCALE="${2:?$USAGE}"
-    sudo rm -rf "$LOC/XLIFF/$LOCALE"
-    sudo rm -f "$LOC/CSV/"*_"$LOCALE".csv
+    $SUDO rm -rf "$LOC/XLIFF/$LOCALE"
+    $SUDO rm -f "$LOC/CSV/"*_"$LOCALE".csv
     echo "$LOCALE removed."
     exit 0
 fi
@@ -26,9 +29,9 @@ set -- "$PACK/XLIFF"/*/
 [ $# -eq 1 ] && [ -d "$1" ] || { echo "Expected exactly one locale folder in $PACK/XLIFF" >&2; exit 1; }
 LOCALE="$(basename "$1")"
 
-sudo rm -rf "$LOC/XLIFF/$LOCALE"
-sudo mkdir -p "$LOC/XLIFF/$LOCALE"
-sudo cp "$PACK/XLIFF/$LOCALE/"*.xliff "$LOC/XLIFF/$LOCALE/"
-sudo cp "$PACK/CSV/"*_"$LOCALE".csv "$LOC/CSV/"
+$SUDO rm -rf "$LOC/XLIFF/$LOCALE"
+$SUDO mkdir -p "$LOC/XLIFF/$LOCALE"
+$SUDO cp "$PACK/XLIFF/$LOCALE/"*.xliff "$LOC/XLIFF/$LOCALE/"
+$SUDO cp "$PACK/CSV/"*_"$LOCALE".csv "$LOC/CSV/"
 echo "Installed $LOCALE: $(ls "$LOC/XLIFF/$LOCALE" | wc -l | tr -d ' ') XLIFF files and the species CSV."
 echo "Start /Applications/XWVM/xwvm-zhTW.app and choose the language in Settings > Audio and Language > Language."

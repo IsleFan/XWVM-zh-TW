@@ -18,7 +18,7 @@ namespace XwvmChineseFont
     /// the glyph style (e.g. Japanese vs. Chinese Han forms), later fonts cover other scripts.
     /// The chain is re-ordered whenever the game's selected locale changes (see <see cref="LocaleWatcher"/>).
     ///
-    /// Unity calls <see cref="Init"/> because patch_xwvm.py registers it in
+    /// Unity calls <see cref="Init"/> because install_mac.sh (register_plugin.js) / install_windows.ps1 register it in
     /// RuntimeInitializeOnLoads.json and the DLL in ScriptingAssemblies.json.
     /// The DLL is platform independent: the same build works on macOS and Windows.
     ///
