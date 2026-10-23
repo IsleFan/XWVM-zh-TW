@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="Mission.level1.Title">
+      <segment state="translated">
+        <source>Level One</source>
+        <target>第一關</target></segment>
+    </unit>
+    <unit id="Mission.level1.Description">
+      <segment state="translated">
+        <source>Navigate carefully through the
+gates. You have [[8.5 minutes]] 
+to finish the course. If you
+get too far off track you
+may press [[H]] to abort this
+run. Each missed gate incurs
+a [[15 second]] time penalty.</source>
+        <target>小心穿越各道
+閘門。你有 [[8.5 分鐘]]
+完成賽道。如果
+偏離航道太遠，
+可按 [[H]] 中止這次
+挑戰。每錯過一道閘門
+會被罰時 [[15 秒]]。</target></segment>
+    </unit>
+    <unit id="Mission.level2.Title">
+      <segment state="translated">
+        <source>Level Two</source>
+        <target>第二關</target></segment>
+    </unit>
+    <unit id="Mission.level2.Description">
+      <segment state="translated">
+        <source>On this level you have
+[[6 minutes]] to complete the 
+course. For each target you 
+destroy you receive a 
+[[2 second]] time bonus. 
+Learn to configure your
+shields for greater safety.</source>
+        <target>本關你有
+[[6 分鐘]]完成
+賽道。每摧毀
+一個目標，可獲得
+[[2 秒]]的時間獎勵。
+學會調配你的
+護盾，以策安全。</target></segment>
+    </unit>
+    <unit id="Mission.level3.Title">
+      <segment state="translated">
+        <source>Level Three</source>
+        <target>第三關</target></segment>
+    </unit>
+    <unit id="Mission.level3.Description">
+      <segment state="translated">
+        <source>On this level you have a time
+limit of [[4.5 minutes]]. The
+course is more [[difficult]] and 
+there are more targets.
+Destroy as many [[targets]] as
+you can to increase your 
+time limit.</source>
+        <target>本關的時間
+限制為 [[4.5 分鐘]]。
+賽道更加[[困難]]，
+目標也更多。
+盡量多摧毀[[目標]]，
+藉此延長你的
+時間限制。</target></segment>
+    </unit>
+    <unit id="Mission.level4.Title">
+      <segment state="translated">
+        <source>Level Four</source>
+        <target>第四關</target></segment>
+    </unit>
+    <unit id="Mission.level4.Description">
+      <segment state="translated">
+        <source>On this level you have only 
+[[3 minutes]] to complete the
+course. Reconfigure your 
+power system to gain [[extra]]
+speed. Nearly every panel has
+a [[full complement]] of targets.
+Can you destroy them all?</source>
+        <target>本關你只有
+[[3 分鐘]]完成
+賽道。重新調配你的
+動力系統以獲得[[額外]]
+速度。幾乎每塊面板都
+[[佈滿]]了目標。
+你能全部摧毀嗎？</target></segment>
+    </unit>
+    <unit id="Mission.level5.Title">
+      <segment state="translated">
+        <source>Level Five</source>
+        <target>第五關</target></segment>
+    </unit>
+    <unit id="Mission.level5.Description">
+      <segment state="translated">
+        <source>Keep a careful balance between
+speed and shields.  You have
+[[5.5 minutes]] to complete
+the course.
+Complete this level to earn a
+promotion to [[flight officer]].</source>
+        <target>在速度與護盾之間
+謹慎取得平衡。你有
+[[5.5 分鐘]]完成
+賽道。
+完成本關即可
+晉升為[[飛行准尉]]。</target></segment>
+    </unit>
+    <unit id="Mission.level6.Title">
+      <segment state="translated">
+        <source>Level Six</source>
+        <target>第六關</target></segment>
+    </unit>
+    <unit id="Mission.level6.Description">
+      <segment state="translated">
+        <source>On this level the course is
+more [[difficult[[ and there
+are more targets.
+Configure your shields to full
+power forward.
+You have [[5 minutes]] to 
+complete this level.</source>
+        <target>本關賽道
+更加[[困難[[，
+目標也更多。
+將護盾調整為
+全力集中前方。
+你有 [[5 分鐘]]
+完成本關。</target></segment>
+    </unit>
+    <unit id="Mission.level7.Title">
+      <segment state="translated">
+        <source>Level Seven</source>
+        <target>第七關</target></segment>
+    </unit>
+    <unit id="Mission.level7.Description">
+      <segment state="translated">
+        <source>On this level all platforms are
+[[fully]] loaded with firing
+targets. If you have time try 
+to find a [[safe]] place to slow
+down and recharge your 
+shields. You have [[5 minutes]]
+to complete this level.</source>
+        <target>本關所有平台都
+[[滿載]]會開火的
+目標。有時間的話，
+找個[[安全]]的地方減速，
+為你的
+護盾充能。你有 [[5 分鐘]]
+完成本關。</target></segment>
+    </unit>
+    <unit id="Mission.level8.Title">
+      <segment state="translated">
+        <source>Level Eight</source>
+        <target>第八關</target></segment>
+    </unit>
+    <unit id="Mission.level8.Description">
+      <segment state="translated">
+        <source>This is the [[most]] difficult
+course. Some panels are set 
+up to shoot at you from 
+behind. You have a [[4.5 minute]] 
+time limit. Complete this level 
+to earn your [[flight badge]].
+[[May the Force be with you.]]</source>
+        <target>這是[[最]]困難的
+賽道。部分面板
+會從你背後
+開火。時間限制為 [[4.5 分鐘]]。
+完成本關即可
+獲得[[飛行徽章]]。
+[[願原力與你同在。]]</target></segment>
+    </unit>
+  </file>
+</xliff>

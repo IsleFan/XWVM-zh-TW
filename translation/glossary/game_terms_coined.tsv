@@ -1,0 +1,478 @@
+english	zh_TW	note	batch
+RED LEADER	紅色隊長	Designation；中隊顏色/AI 等級（依術語表）	M0_designations
+REPAIR DOCK	維修船塢	Designation；編隊/目標名	M0_designations
+VIRULENCE	劇毒	Designation；編隊/目標名	M0_designations
+RED	紅色	Designation；中隊顏色/AI 等級（依術語表）	M0_designations
+NOVICE	新手	Designation；中隊顏色/AI 等級（依術語表）	M0_designations
+OFFICER	軍官	Designation；中隊顏色/AI 等級（依術語表）	M0_designations
+VETERAN	老手	Designation；中隊顏色/AI 等級（依術語表）	M0_designations
+ACE	王牌	Designation；中隊顏色/AI 等級（依術語表）	M0_designations
+TOP ACE	頂尖王牌	Designation；中隊顏色/AI 等級（依術語表）	M0_designations
+MARIA	瑪莉亞	Designation；依術語表 Maria=瑪莉亞號（SHU Maria 與 CRS Maria 皆有），HUD/標籤不加「號」	M0_designations
+MALICE	惡意	Designation；STD（滅星者）艦名，HUD/標籤不加「號」，敘述句作「惡意號」	M0_designations
+CENTURY	世紀	Designation；編隊/目標名	M0_designations
+GOLD	金色	Designation；中隊顏色/AI 等級（依術語表）	M0_designations
+BLUE	藍色	Designation；中隊顏色/AI 等級（依術語表）	M0_designations
+CATHLEEN	凱瑟琳	Designation；CRS（巡洋艦）艦名，HUD/標籤不加「號」，敘述句作「凱瑟琳號」	M0_designations
+TERMINATOR	終結者	Designation；編隊/目標名	M0_designations
+DODEK	多戴克	Designation；編隊/目標名	M0_designations
+PENTA	潘塔	Designation；編隊/目標名	M0_designations
+MERCILESS	冷酷	Designation；編隊/目標名	M0_designations
+PROTOTYPE	原型機	Designation；編隊/目標名	M0_designations
+SHANTIPOLE	香提波	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「香提波號」	M0_designations
+FALCON	獵鷹	Designation；SHU（穿梭機）艦名，HUD/標籤不加「號」，敘述句作「獵鷹號」	M0_designations
+UPSIDE	上方	Designation；編隊/目標名	M0_designations
+DOWNSIDE	下方	Designation；編隊/目標名	M0_designations
+ROCHE	羅許	Designation；編隊/目標名	M0_designations
+JAVELIN	標槍	Designation；編隊/目標名	M0_designations
+OCEAN	海洋	Designation；編隊/目標名	M0_designations
+MANX	曼克斯	Designation；編隊/目標名	M0_designations
+TEVE	提夫	Designation；編隊/目標名	M0_designations
+HORNET	大黃蜂	Designation；編隊/目標名	M0_designations
+BUFFALO	水牛	Designation；編隊/目標名	M0_designations
+NINJA	忍者	Designation；編隊/目標名	M0_designations
+PETRAKIS	佩特拉基斯	Designation；編隊/目標名	M0_designations
+JORDI	喬迪	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「喬迪號」	M0_designations
+PANDA	熊貓	Designation；SHU（穿梭機）艦名，HUD/標籤不加「號」，敘述句作「熊貓號」	M0_designations
+ASSAULT	突擊	Designation；編隊/目標名	M0_designations
+PRIAM	普萊姆	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「普萊姆號」	M0_designations
+NAV BUOY	導航浮標	Designation；編隊/目標名	M0_designations
+SHRIKE	伯勞	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「伯勞號」	M0_designations
+BANSHEE	女妖	Designation；編隊/目標名	M0_designations
+PLANET	行星	Designation；編隊/目標名	M0_designations
+HANGAR PORT	機庫口	Designation；編隊/目標名	M0_designations
+RENHOEK	倫霍克	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「倫霍克號」	M0_designations
+STIMSENJ'KAT	史廷森賈卡特	Designation；CRS（巡洋艦）艦名，HUD/標籤不加「號」，敘述句作「史廷森賈卡特號」	M0_designations
+RAPIER	細劍	Designation；編隊/目標名	M0_designations
+FIRESTORM	火風暴	Designation；編隊/目標名	M0_designations
+REAPER	收割者	Designation；編隊/目標名	M0_designations
+MOJO	魔力	Designation；編隊/目標名	M0_designations
+SEINAR	西納	Designation；編隊/目標名	M0_designations
+RESOLUTE	堅決	Designation；編隊/目標名	M0_designations
+DEATHWING	死亡之翼	Designation；編隊/目標名	M0_designations
+SCHWA	施瓦	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「施瓦號」	M0_designations
+KOTIATE	柯蒂亞特	Designation；STD（滅星者）艦名，HUD/標籤不加「號」，敘述句作「柯蒂亞特號」	M0_designations
+BIRD OF PREY	猛禽	Designation；編隊/目標名	M0_designations
+MELLISSE	梅莉絲	Designation；編隊/目標名	M0_designations
+QILUIY	奇路伊	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「奇路伊號」	M0_designations
+XROI	澤洛伊	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「澤洛伊號」	M0_designations
+SCORPION	天蠍	Designation；編隊/目標名	M0_designations
+TRANSPO	運輸	Designation；編隊/目標名	M0_designations
+DARKSTAR	暗星	Designation；編隊/目標名	M0_designations
+ASTRO	宇航	Designation；編隊/目標名	M0_designations
+OMARA	歐瑪拉	Designation；編隊/目標名	M0_designations
+EMPLEH	恩普雷	Designation；編隊/目標名	M0_designations
+EXCELSIOR	精益	Designation；CRS（巡洋艦）艦名，HUD/標籤不加「號」，敘述句作「精益號」	M0_designations
+BLUE FOX	藍狐	Designation；編隊/目標名	M0_designations
+RAIDER	突襲者	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「突襲者號」	M0_designations
+DELLALT	戴拉特	Designation；編隊/目標名	M0_designations
+DAGGER	匕首	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「匕首號」	M0_designations
+ORCIM	歐爾辛	Designation；編隊/目標名	M0_designations
+ESORP	埃索普	Designation；編隊/目標名	M0_designations
+ARREIS	阿雷斯	Designation；編隊/目標名	M0_designations
+NIGIRO	尼吉羅	Designation；編隊/目標名	M0_designations
+MURTCEPS	穆特塞普斯	Designation；編隊/目標名	M0_designations
+BIXBY	畢克斯比	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「畢克斯比號」	M0_designations
+GORGON	戈貢	Designation；編隊/目標名	M0_designations
+WARSPITE	厭戰	Designation；編隊/目標名	M0_designations
+HARASSER	騷擾者	Designation；編隊/目標名	M0_designations
+RUGGERT	拉格特	Designation；編隊/目標名	M0_designations
+EICHLER	艾克勒	Designation；編隊/目標名	M0_designations
+INVINCIBLE	無敵	Designation；STD（滅星者）艦名，HUD/標籤不加「號」，敘述句作「無敵號」	M0_designations
+FUGAZI	弗加齊	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「弗加齊號」	M0_designations
+ARROYO	阿羅尤	Designation；編隊/目標名	M0_designations
+RHOON	魯恩	Designation；編隊/目標名	M0_designations
+SONNEL	索內爾	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「索內爾號」	M0_designations
+MAHAN	馬漢	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「馬漢號」	M0_designations
+TERROR	恐怖	Designation；編隊/目標名	M0_designations
+REDEMPTION	救贖	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「救贖號」	M0_designations
+MEDEVAC	醫療後送	Designation；編隊/目標名	M0_designations
+KOROLEV	科羅廖夫	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「科羅廖夫號」	M0_designations
+JUNO	朱諾	Designation；編隊/目標名	M0_designations
+RANGER	遊騎兵	Designation；CRV Ranger 與 TRN Ranger 皆有，HUD/標籤不加「號」，敘述句作「遊騎兵號」	M0_designations
+ARS OPUS	阿斯歐普斯	Designation；編隊/目標名	M0_designations
+RESCUE RIKER	救援萊克	Designation；編隊/目標名	M0_designations
+RESCUE	救援	Designation；SHU（穿梭機）艦名，HUD/標籤不加「號」，敘述句作「救援號」	M0_designations
+MAXIMUS	馬克西姆斯	Designation；CRS（巡洋艦）艦名，HUD/標籤不加「號」，敘述句作「馬克西姆斯號」	M0_designations
+RUDRIG	魯德里格	Designation；編隊/目標名	M0_designations
+NEGRA STAR	黑星	Designation；編隊/目標名	M0_designations
+SULLUST	蘇魯斯特	Designation；編隊/目標名	M0_designations
+SOR-SULL II	索蘇爾二號	Designation；編隊/目標名	M0_designations
+FREEDOM I	自由一號	Designation；編隊/目標名	M0_designations
+SAR X	薩爾 X	Designation；編隊/目標名	M0_designations
+COSOF	科索夫	Designation；編隊/目標名	M0_designations
+TECTOR	泰克特	Designation；編隊/目標名	M0_designations
+DOCK	船塢	Designation；編隊/目標名	M0_designations
+RALLTIIR	拉爾提爾	Designation；編隊/目標名	M0_designations
+LIGHTNING	閃電	Designation；編隊/目標名	M0_designations
+HERALD	先驅	Designation；編隊/目標名	M0_designations
+GAFRA	加弗拉	Designation；編隊/目標名	M0_designations
+GENUE	傑紐	Designation；編隊/目標名	M0_designations
+INTREPID	勇猛	Designation；STD（滅星者）艦名，HUD/標籤不加「號」，敘述句作「勇猛號」	M0_designations
+DRAGO	德拉戈	Designation；SHU（穿梭機）艦名，HUD/標籤不加「號」，敘述句作「德拉戈號」	M0_designations
+TORAL	托拉爾	Designation；編隊/目標名	M0_designations
+HYKO	海可	Designation；編隊/目標名	M0_designations
+UHURU	烏胡魯	Designation；編隊/目標名	M0_designations
+THE TONE	音律	Designation；編隊/目標名	M0_designations
+ORRON III	奧倫三號星	Designation；行星（羅馬數字→X號星）	M0_designations
+WILSEY	威爾西	Designation；SHU（穿梭機）艦名，HUD/標籤不加「號」，敘述句作「威爾西號」	M0_designations
+PHOENIX	鳳凰	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「鳳凰號」	M0_designations
+OJAI	歐海	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「歐海號」	M0_designations
+JEFFREY	傑佛瑞	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「傑佛瑞號」	M0_designations
+MAGNUS	馬格努斯	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「馬格努斯號」	M0_designations
+TANTIVE II	坦地夫二號	Designation；編隊/目標名	M0_designations
+TANTIVE III	坦地夫三號	Designation；編隊/目標名	M0_designations
+TANTIVE I	坦地夫一號	Designation；編隊/目標名	M0_designations
+KIAM I	基亞姆一號	Designation；編隊/目標名	M0_designations
+KIAM II	基亞姆二號	Designation；編隊/目標名	M0_designations
+KIAM III	基亞姆三號	Designation；編隊/目標名	M0_designations
+KIAM IV	基亞姆四號	Designation；編隊/目標名	M0_designations
+KIAM V	基亞姆五號	Designation；編隊/目標名	M0_designations
+VIPER	毒蛇	Designation；編隊/目標名	M0_designations
+IMMORTAL	不朽	Designation；STD（滅星者）艦名，HUD/標籤不加「號」，敘述句作「不朽號」	M0_designations
+T-FORCE	特遣	Designation；編隊/目標名	M0_designations
+TANTIVE IV	坦地夫四號	Designation；CRV（護衛艦）艦名	M0_designations
+FATE	命運	Designation；編隊/目標名	M0_designations
+LIBERTY	自由	Designation；CRS（巡洋艦）艦名，HUD/標籤不加「號」，敘述句作「自由號」	M0_designations
+DARA	達拉	Designation；編隊/目標名	M0_designations
+SIDRAL II	西卓二號	Designation；FRT（貨船）艦名	M0_designations
+FRAZIER	弗雷澤	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「弗雷澤號」	M0_designations
+KATO	卡托	Designation；編隊/目標名	M0_designations
+VULTURE	禿鷹	Designation；編隊/目標名	M0_designations
+HUNTER	獵人	Designation；SHU（穿梭機）艦名，HUD/標籤不加「號」，敘述句作「獵人號」	M0_designations
+INAD	伊納德	Designation；編隊/目標名	M0_designations
+DEFIANCE	不屈	Designation；CRS（巡洋艦）艦名，HUD/標籤不加「號」，敘述句作「不屈號」	M0_designations
+BESTINE	貝斯汀	Designation；編隊/目標名	M0_designations
+GODAR	戈達	Designation；編隊/目標名	M0_designations
+CORUSCANT	科羅森	Designation；編隊/目標名	M0_designations
+DIPUTS	迪普茨	Designation；編隊/目標名	M0_designations
+DAR ES I	達雷斯一號	Designation；編隊/目標名	M0_designations
+DAR ES II	達雷斯二號	Designation；編隊/目標名	M0_designations
+DAR ES III	達雷斯三號	Designation；編隊/目標名	M0_designations
+ETHAR	伊薩	Designation；編隊/目標名	M0_designations
+CEPTOR	攔截機	Designation；編隊/目標名	M0_designations
+ROGUE	俠盜	Designation；編隊/目標名	M0_designations
+RETSUB	雷特蘇布	Designation；編隊/目標名	M0_designations
+ZEP	齊普	Designation；編隊/目標名	M0_designations
+INDEPENDENCE	獨立	Designation；CRS（巡洋艦）艦名，HUD/標籤不加「號」，敘述句作「獨立號」	M0_designations
+DIVAD	迪瓦德	Designation；編隊/目標名	M0_designations
+DS COMM	死星通訊	Designation；編隊/目標名	M0_designations
+DEATH STAR	死星	Designation；編隊/目標名	M0_designations
+YAVIN	雅文	Designation；編隊/目標名	M0_designations
+CRESCENT	新月	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「新月號」	M0_designations
+INVADER	入侵者	Designation；編隊/目標名	M0_designations
+RED WIND	赤風	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「赤風號」	M0_designations
+DOBLL	多布爾	Designation；編隊/目標名	M0_designations
+LEBO	勒博	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「勒博號」	M0_designations
+CHIPR	奇普爾	Designation；SHU（穿梭機）艦名，HUD/標籤不加「號」，敘述句作「奇普爾號」	M0_designations
+BO	波	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「波號」	M0_designations
+GOAT	山羊	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「山羊號」	M0_designations
+PROBE	探測器	Designation；編隊/目標名	M0_designations
+ASSASSIN	刺客	Designation；編隊/目標名	M0_designations
+NAV SAT	導航衛星	Designation；編隊/目標名	M0_designations
+ANVIL	鐵砧	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「鐵砧號」	M0_designations
+KHAAZA'K	卡薩克	Designation；編隊/目標名	M0_designations
+T'UR	圖爾	Designation；編隊/目標名	M0_designations
+UZBE'K	烏茲貝克	Designation；編隊/目標名	M0_designations
+TADJYYYK	塔吉克	Designation；編隊/目標名	M0_designations
+NIHIL	虛無	Designation；STD（滅星者）艦名，HUD/標籤不加「號」，敘述句作「虛無號」	M0_designations
+LAUHU	勞胡	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「勞胡號」	M0_designations
+FIRELANCE	火矛	Designation；編隊/目標名	M0_designations
+HART	哈特	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「哈特號」	M0_designations
+OP MUS	歐普穆斯	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「歐普穆斯號」	M0_designations
+JAAMN	賈姆恩	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「賈姆恩號」	M0_designations
+ZZIB	齊布	Designation；編隊/目標名	M0_designations
+RED DRAGON	赤龍	Designation；編隊/目標名	M0_designations
+KESH	凱許	Designation；編隊/目標名	M0_designations
+RUHGER	魯格	Designation；編隊/目標名	M0_designations
+SERPENT	巨蛇	Designation；編隊/目標名	M0_designations
+WATHIS	瓦西斯	Designation；編隊/目標名	M0_designations
+TRIPS	崔普斯	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「崔普斯號」	M0_designations
+AVENGER	復仇者	Designation；STD（滅星者）艦名，HUD/標籤不加「號」，敘述句作「復仇者號」	M0_designations
+COMM SAT	通訊衛星	Designation；編隊/目標名	M0_designations
+GORDOON	戈杜恩	Designation；編隊/目標名	M0_designations
+SHREDDER	粉碎者	Designation；編隊/目標名	M0_designations
+ENFORCER	執法者	Designation；STD（滅星者）艦名，HUD/標籤不加「號」，敘述句作「執法者號」	M0_designations
+BLACKEN	黯黑	Designation；編隊/目標名	M0_designations
+PLEE'H	普利赫	Designation；編隊/目標名	M0_designations
+PERAL	佩拉爾	Designation；編隊/目標名	M0_designations
+SWOT'L	斯沃特爾	Designation；編隊/目標名	M0_designations
+MINE	水雷	Designation；編隊/目標名	M0_designations
+IMAC	伊瑪克	Designation；編隊/目標名	M0_designations
+KHAN	可汗	Designation；編隊/目標名	M0_designations
+NAV BOUY	導航浮標	Designation；編隊/目標名	M0_designations
+TRANSMOR	傳斯莫	Designation；編隊/目標名	M0_designations
+SARSUMA	薩蘇瑪	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「薩蘇瑪號」	M0_designations
+BADI DEA	巴迪迪亞	Designation；編隊/目標名	M0_designations
+TAUREG	陶雷格	Designation；編隊/目標名	M0_designations
+PLOORIOD X	普魯里奧德十號星	Designation；行星（羅馬數字→X號星）	M0_designations
+THUNDER	雷霆	Designation；編隊/目標名	M0_designations
+TYPHOON	颱風	Designation；編隊/目標名	M0_designations
+STORM	風暴	Designation；編隊名（TRN Storm=TRN 風暴；Storm Unit=風暴小隊另列）	M0_designations
+HALIFAX	哈利法克斯	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「哈利法克斯號」	M0_designations
+LG LT GREY, 2	大型淺灰 2	Designation；編隊/目標名	M0_designations
+FIGII	菲吉	Designation；編隊/目標名	M0_designations
+SENTINEL	哨兵	Designation；編隊/目標名	M0_designations
+MOTTI	莫提	Designation；編隊/目標名	M0_designations
+GEEDON	吉頓	Designation；編隊/目標名	M0_designations
+REMOH	雷莫	Designation；編隊/目標名	M0_designations
+TALLI	塔莉	Designation；編隊/目標名	M0_designations
+RAND	蘭德	Designation；編隊/目標名	M0_designations
+KAFFIR	卡菲爾	Designation；編隊/目標名	M0_designations
+KHIVAN	基凡	Designation；編隊/目標名	M0_designations
+HUGO	雨果	Designation；編隊/目標名	M0_designations
+GROTIUS	格勞秀斯	Designation；編隊/目標名	M0_designations
+ELITE	精銳	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「精銳號」	M0_designations
+ASHANTI	阿散蒂	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「阿散蒂號」	M0_designations
+DRONE SHED	靶機棚	Designation；編隊/目標名	M0_designations
+DRONE	靶機	Designation；編隊/目標名	M0_designations
+EAGLE	鷹	Designation；編隊/目標名	M0_designations
+CIELO	西耶洛	Designation；編隊/目標名	M0_designations
+NAMU	納穆	Designation；編隊/目標名	M0_designations
+OX	公牛	Designation；編隊/目標名	M0_designations
+WASP	黃蜂	Designation；編隊/目標名	M0_designations
+ORCA	虎鯨	Designation；編隊/目標名	M0_designations
+WOLF	狼	Designation；編隊/目標名	M0_designations
+YAVIN EXPRESS	雅文快線	Designation；編隊/目標名	M0_designations
+CARGO-GO	貨運通	Designation；編隊/目標名	M0_designations
+WHITEHAWK	白鷹	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「白鷹號」	M0_designations
+STRIKER	打擊者	Designation；編隊/目標名	M0_designations
+HAMMER	鐵鎚	Designation；編隊/目標名	M0_designations
+ARROW	飛箭	Designation；編隊/目標名	M0_designations
+RAMIT	拉米特	Designation；編隊/目標名	M0_designations
+ONTEBA	昂特巴	Designation；編隊/目標名	M0_designations
+PLOORIOD IV	普魯里奧德四號星	Designation；行星（羅馬數字→X號星）	M0_designations
+LEARY	李瑞	Designation；SHU（穿梭機）艦名，HUD/標籤不加「號」，敘述句作「李瑞號」	M0_designations
+BLAZEN	布雷森	Designation；編隊/目標名	M0_designations
+BLADE	利刃	Designation；編隊/目標名	M0_designations
+DARKNESS	黑暗	Designation；編隊/目標名	M0_designations
+CHALLENGE	挑戰	Designation；編隊/目標名	M0_designations
+LIBRA	天秤	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「天秤號」	M0_designations
+RAM'S HEAD	公羊頭	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「公羊頭號」	M0_designations
+NIVEN	尼文	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「尼文號」	M0_designations
+PURNEL	珀內爾	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「珀內爾號」	M0_designations
+PURPLE CLAW	紫爪	Designation；編隊/目標名	M0_designations
+RED TOOTH	赤牙	Designation；編隊/目標名	M0_designations
+HABATOK	哈巴托克	Designation；編隊/目標名	M0_designations
+RELENTLESS	無情	Designation；STD（滅星者）艦名，HUD/標籤不加「號」，敘述句作「無情號」	M0_designations
+JUVAINI	朱維尼	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「朱維尼號」	M0_designations
+METTERNICH	梅特涅	Designation；編隊/目標名	M0_designations
+YUNKOR IX	雲科九號星	Designation；行星（羅馬數字→X號星）	M0_designations
+TRIGGER	扳機	Designation；編隊/目標名	M0_designations
+TIGER	猛虎	Designation；編隊/目標名	M0_designations
+CLAW	利爪	Designation；編隊/目標名	M0_designations
+TREADER	踏行者	Designation；編隊/目標名	M0_designations
+WALKER	步行者	Designation；編隊/目標名	M0_designations
+STRIDER	闊步者	Designation；編隊/目標名	M0_designations
+MAYHEM	混亂	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「混亂號」	M0_designations
+PIT BULL	比特犬	Designation；編隊/目標名	M0_designations
+CIFICAP VIII	西菲卡八號星	Designation；行星（羅馬數字→X號星）	M0_designations
+STARLIFTER	舉星者	Designation；編隊/目標名	M0_designations
+THRASHER	狂擊者	Designation；編隊/目標名	M0_designations
+RETEP V	雷特普五號星	Designation；行星（羅馬數字→X號星）	M0_designations
+BARDICTOL	巴迪克托	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「巴迪克托號」	M0_designations
+RIPTIDE	激流	Designation；編隊/目標名	M0_designations
+HAVOK	浩劫	Designation；編隊/目標名	M0_designations
+BIRKBY	伯克比	Designation；編隊/目標名	M0_designations
+STARMOVER	移星者	Designation；編隊/目標名	M0_designations
+ANJISAN	安吉山	Designation；編隊/目標名	M0_designations
+KIELTY	基爾提	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「基爾提號」	M0_designations
+BADGER	獾	Designation；編隊/目標名	M0_designations
+RETEP III	雷特普三號星	Designation；行星（羅馬數字→X號星）	M0_designations
+STORM UNIT	風暴小隊	Designation；突擊隊運輸艦編隊（TRN Storm Unit），依術語表 Storm Unit Commandos=風暴小隊突擊隊員；不加「號」	M0_designations
+NORVECH	諾維奇	Designation；編隊/目標名	M0_designations
+LIBOM	利波姆	Designation；編隊/目標名	M0_designations
+TYPE 1 MINE	一型水雷	Designation；編隊/目標名	M0_designations
+SPIDER	蜘蛛	Designation；編隊/目標名	M0_designations
+BOLTTHROWER	弩砲	Designation；編隊/目標名	M0_designations
+BOFA 2	波法二號星	Designation；編隊/目標名	M0_designations
+OLRAC ETNOM	歐拉克艾特農	Designation；編隊/目標名	M0_designations
+CUTLASS	彎刀	Designation；編隊/目標名	M0_designations
+ORAMAC	歐拉馬克	Designation；編隊/目標名	M0_designations
+DARK EYE	暗眼	Designation；編隊/目標名	M0_designations
+TYPE 1	一型	Designation；編隊/目標名	M0_designations
+FARFELD II	法菲爾德二號星	Designation；行星（羅馬數字→X號星）	M0_designations
+MELISSE	梅莉絲	Designation；編隊/目標名	M0_designations
+NIGHTRIDER	夜騎士	Designation；編隊/目標名	M0_designations
+FEENICKS VI	菲尼克斯六號星	Designation；行星（羅馬數字→X號星）	M0_designations
+JESS	潔絲	Designation；編隊/目標名	M0_designations
+SLICK	狡猾	Designation；編隊/目標名	M0_designations
+MAXIMUM	極限	Designation；編隊/目標名	M0_designations
+PII II	皮伊二號星	Designation；行星（羅馬數字→X號星）	M0_designations
+INTERCEPTOR	攔截者	Designation；編隊/目標名	M0_designations
+RADLEY	拉德利	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「拉德利號」	M0_designations
+HABASSA IV	哈巴薩四號星	Designation；行星（羅馬數字→X號星）	M0_designations
+FILVE	菲爾夫	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「菲爾夫號」	M0_designations
+BILBRINGI	比爾布林吉	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「比爾布林吉號」	M0_designations
+PHANTOM	幻影	Designation；編隊/目標名	M0_designations
+ROCKS	岩石	Designation；編隊/目標名	M0_designations
+ROLLS	翻滾	Designation；編隊/目標名	M0_designations
+SHOCK	震撼	Designation；TRN（運輸艦）艦名，HUD/標籤不加「號」，敘述句作「震撼號」	M0_designations
+IGAKA	伊加卡	Designation；編隊/目標名	M0_designations
+SWEEPER	掃蕩者	Designation；編隊/目標名	M0_designations
+GHOST	幽靈	Designation；編隊/目標名	M0_designations
+CHIP	奇普	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「奇普號」	M0_designations
+YOGI	尤吉	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「尤吉號」	M0_designations
+DOILE	多伊爾	Designation；編隊/目標名	M0_designations
+WESAL	韋薩爾	Designation；編隊/目標名	M0_designations
+DOTERMIN	多特明	Designation；編隊/目標名	M0_designations
+SORNSEN	索恩森	Designation；編隊/目標名	M0_designations
+SHURIK	舒里克	Designation；編隊/目標名	M0_designations
+RED HILL	赤丘	Designation；編隊/目標名	M0_designations
+BULLOCKS	布洛克斯	Designation；編隊/目標名	M0_designations
+CLOUD 9	九重天	Designation；編隊/目標名	M0_designations
+WIDOW	寡婦	Designation；編隊/目標名	M0_designations
+SUNAJ	蘇納吉	Designation；編隊/目標名	M0_designations
+BLACKJACK	黑傑克	Designation；編隊/目標名	M0_designations
+DINKO	丁柯	Designation；編隊/目標名	M0_designations
+BLOODSNIFFER	嗅血者	Designation；編隊/目標名	M0_designations
+TIE FIRE	鈦火	Designation；編隊/目標名	M0_designations
+KAN	坎	Designation；編隊/目標名	M0_designations
+KANT	康特	Designation；編隊/目標名	M0_designations
+WUNT	溫特	Designation；編隊/目標名	M0_designations
+MINNO	米諾	Designation；編隊/目標名	M0_designations
+IMBAK	伊姆巴克	Designation；編隊/目標名	M0_designations
+DRAGON	巨龍	Designation；編隊/目標名	M0_designations
+FANG	毒牙	Designation；編隊/目標名	M0_designations
+YALI	雅莉	Designation；CRS（巡洋艦）艦名，HUD/標籤不加「號」，敘述句作「雅莉號」	M0_designations
+FEAR	恐懼	Designation；編隊/目標名	M0_designations
+FURY	狂怒	Designation；編隊/目標名	M0_designations
+HATE	仇恨	Designation；編隊/目標名	M0_designations
+SPITE	怨恨	Designation；編隊/目標名	M0_designations
+IDUA	伊杜亞	Designation；編隊/目標名	M0_designations
+ROUH	魯赫	Designation；編隊/目標名	M0_designations
+WIGGINS	威金斯	Designation；編隊/目標名	M0_designations
+BETAR	貝塔爾	Designation；編隊/目標名	M0_designations
+CITADEL	堡壘	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「堡壘號」	M0_designations
+WARRIOR	戰士	Designation；編隊/目標名	M0_designations
+LIBERATOR	解放者	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「解放者號」	M0_designations
+TALON	猛爪	Designation；編隊/目標名	M0_designations
+TURKANA	圖卡納	Designation；編隊/目標名	M0_designations
+KRAYT	克雷特	Designation；編隊/目標名	M0_designations
+BANTHAR	班薩爾	Designation；編隊/目標名	M0_designations
+DEDDITE	德代特	Designation；編隊/目標名	M0_designations
+BOFOR	波佛	Designation；編隊/目標名	M0_designations
+KARINNE	卡琳	Designation；CRV（護衛艦）艦名，HUD/標籤不加「號」，敘述句作「卡琳號」	M0_designations
+HAMPTON	漢普頓	Designation；FRT（貨船）艦名，HUD/標籤不加「號」，敘述句作「漢普頓號」	M0_designations
+FURIOUS	憤怒	Designation；編隊/目標名	M0_designations
+MERCY	慈悲	Designation；編隊/目標名	M0_designations
+STAR'S END	星之盡頭	Designation；編隊/目標名	M0_designations
+VEHEMENCE	狂暴	Designation；FRG（巡防艦）艦名，HUD/標籤不加「號」，敘述句作「狂暴號」	M0_designations
+HASTI	哈絲蒂	Designation；SHU（穿梭機）艦名，HUD/標籤不加「號」，敘述句作「哈絲蒂號」	M0_designations
+Orion IV	奧瑞恩四號星	新詞；過場字幕中的行星（羅馬數字→X號星）	M0_designations
+Petrakis	佩特拉基斯	新詞；簡報地圖地名	M0_designations
+Mellisse / Melisse	梅莉絲	新詞；簡報地圖地名，兩種拼法同譯	M0_designations
+Maxam	馬克薩姆	新詞；簡報地圖地名	M0_designations
+Sunaj	蘇納吉	新詞；地名/編隊名 SUNAJ 4	M0_designations
+Senex	塞內克斯	依術語表 Senex System=塞內克斯星系；單用作「塞內克斯」	M0_designations
+Yunkor IX	雲科九號星	新詞；行星	M0_designations
+Cificap VIII	西菲卡八號星	新詞；行星	M0_designations
+Retep III / Retep V	雷特普三號星 / 雷特普五號星	新詞；行星	M0_designations
+Bofa II	波法二號星	新詞；行星（Designation 作 BOFA 2 亦同）	M0_designations
+Farfeld II	法菲爾德二號星	新詞；行星	M0_designations
+Feenicks VI	菲尼克斯六號星	新詞；行星	M0_designations
+Pii II	皮伊二號星	新詞；行星	M0_designations
+Plooriod X	普魯里奧德十號星	依術語表 Plooriod 用字	M0_designations
+Task Force (CRV Task Force)	特遣隊	簡報標籤；編隊 T-FORCE n=特遣 n	M0_designations
+Ceptor	攔截機	依術語表俚稱；編隊 CEPTOR n=攔截機 n	M0_designations
+Rogue	俠盜	依術語表；編隊 ROGUE n=俠盜 n	M0_designations
+Telgorn	泰爾戈恩	新詞；製造商名（Telgorn Delta class Dx-9=泰爾戈恩 Delta 級 Dx-9）	M0_designations
+AT-AT / AT-ST Walkers	AT-AT 步行機 / AT-ST 步行機	新詞；WLKRS 同	M0_designations
+Aggressor	假想敵	訓練任務的假想敵機（Aggressor Squadron=假想敵中隊）	M0_designations
+WOTAN / OTAN / WOTON	沃坦	貨物欄彩蛋名；OTAN、WOTON 視為截斷/誤拼同譯	M0_designations
+MAX	麥克斯	貨物欄彩蛋名	M0_designations
+MADMAX	瘋狂麥斯	貨物欄彩蛋名	M0_designations
+MAXLAND	麥克斯蘭	貨物欄彩蛋名	M0_designations
+DARTH JR / DARTHET	小達斯 / 達斯特	貨物欄彩蛋名	M0_designations
+LONSIGAR	隆西加	貨物欄名稱（音譯）	M0_designations
+OOLAH / Oola	烏拉	貨物欄 OOLAH 與穿梭機 SHU Oola 同譯	M0_designations
+Greel wood	格里爾木	貨物	M0_designations
+Norvanian grog	諾瓦尼亞烈酒	貨物	M0_designations
+Tibanna gas	提巴納氣體	貨物	M0_designations
+Chrysopaz	克里索帕茲	貨物（寶石，音譯）	M0_designations
+Formex	弗麥克斯	貨物（音譯）	M0_designations
+Memo-wire	記憶線材	貨物	M0_designations
+Dev's Sidestep	戴夫的側步閃避	任務標題	M0_designations
+Operation "Blunt Stick"	「鈍棍」行動	任務標題	M0_designations
+Storm Unit	風暴小隊	依術語表 Storm Unit Commandos；TRN Storm Unit=TRN 風暴小隊	M0_designations
+OP n / HM n (briefing headers)	任務 n / 歷史任務 n	簡報標題列格式，例 >OP 6A: → >任務 6A：	M0_designations
+(YOU) in briefing tags	（你）	例 X-W Red 1 (YOU)=X-W 紅色 1（你）	M0_designations
+Tour I Scene 1	第一服役期 第一幕	過場標題格式	M0_designations
+Level One … Eight	第一關 … 第八關	試煉場關卡標題	M0_designations
+Bonus (mission group)	額外任務	A/X/B-wing Bonus Mission n=A翼/X翼/B翼戰機額外任務 n	M0_designations
+Cmdr. Skywalker	天行者中校	過場字幕；依軍階稱呼	M0_designations
+Mennaalii / Mennaalii system	梅納利 / 梅納利星系	新詞；max101x 船團遇襲地點（音譯）	M1_mission_text.new_terms
+Battle of Hoth	霍斯星戰役	依 Hoth=霍斯星、Battle of Yavin=雅文戰役類推	M1_mission_text.new_terms
+ID mode (CMD)	識別模式	CMD 的 ID 模式；動詞 ID/IDing=識別	M1_mission_text.new_terms
+"Starwing" Gunboats	「星翼」砲艇	依 Assault Gunboat 條目（Legends 名 Alpha 級 Xg-1 星翼）	M1_mission_text.new_terms
+David Wessman	David Wessman	任務設計者署名，保留英文原名	M1_mission_text.new_terms
+Kashyyyk	卡西克星	武技族母星；簡報中作「[[卡西克星]]」	M2_mission_text.new_terms
+Salvation	拯救號	反抗軍艦隊醫療船（過場 resc2）；Redemption 已用「救贖號」故區分	M2_mission_text.new_terms
+Plooriod III	普魯里奧德三號星	依術語表 Plooriod 用字＋羅馬數字規則	M2_mission_text.new_terms
+Greater Plooriad Sector	大普魯里奧德星區	原文拼 Plooriad，同 Plooriod	M2_mission_text.new_terms
+Imperial Drydock IV	帝國第四乾塢	過場字幕	M2_mission_text.new_terms
+Rebel Combat Training Facilities / Rebel Training Facilities	反抗軍戰鬥訓練設施 / 反抗軍訓練設施	過場字幕（hidden=隱密的）	M2_mission_text.new_terms
+Hit and Fade strike	「打帶跑」突擊	defect 任務	M2_mission_text.new_terms
+Ordnance and Supply Command	軍械補給司令部	依術語表 Ordnance Command=軍械司令部	M2_mission_text.new_terms
+StarWing Assault Gunboat	星翼突擊砲艇	依術語表 Starwing=星翼	M2_mission_text.new_terms
+Rescue One (SHU)	救援一號	句中稱呼；HUD 作「救援 1」	M2_mission_text.new_terms
+Medevac Shuttles	醫療後送穿梭機	依 M0 MEDEVAC=醫療後送	M2_mission_text.new_terms
+Prisoner Transports	囚犯運輸艦		M2_mission_text.new_terms
+Imperial Battle Station	帝國戰鬥太空站	依術語表 Death Star 條註記	M2_mission_text.new_terms
+Despayre	絕望星	新詞；監獄行星，意譯（中文星戰社群常見譯法）	M3_mission_text.new_terms
+Chief of State	國家元首	蒙·莫瑟瑪的頭銜	M3_mission_text.new_terms
+Imperial Military Advisors	帝國軍事顧問	簡報用語	M3_mission_text.new_terms
+Saheelindeel	薩希林迪爾	新詞；地名（監聽站所在地），音譯	M4_mission_text.new_terms
+Hollan D1 (sector)	霍蘭 D1（星區）	新詞；Hollan D1 sector=霍蘭 D1 星區	M4_mission_text.new_terms
+Droma (sector)	卓瑪（星區）	新詞；Droma Sector=卓瑪星區	M4_mission_text.new_terms
+Leafar	利法爾人	新詞；欲加入聯盟的種族/勢力（the Leafar=利法爾人）	M4_mission_text.new_terms
+Supply and Ordnance Command	補給與軍械司令部	依術語表 Ordnance Command=軍械司令部 延伸	M4_mission_text.new_terms
+Blade 5 (Corvette, in sentences)	利刃 5 號	HUD 作 BLADE 5=利刃 5；敘述句加「號」；後更名公羊頭號	M4_mission_text.new_terms
+Operation "Grain Snatch"	「奪取穀物」行動	依任務標題 Grain Snatch=奪取穀物	M4_mission_text.new_terms
+Force Escort system outpost	星系護航部隊前哨站	新詞；帝國星系護航部隊的前哨站	M4_mission_text.new_terms
+Slayn & Korpil	斯萊恩與柯皮爾	B翼戰機製造商（音譯）；句中作「斯萊恩與柯皮爾公司」	M5_mission_text.new_terms
+Sunaj IV	蘇納吉四號星	行星（羅馬數字→X號星）；依 Sunaj=蘇納吉	M5_mission_text.new_terms
+Ferry pilot	轉場飛行員	負責運送戰機、未受戰鬥訓練的飛行員	M5_mission_text.new_terms
+Task force (of STD Relentless)	特遣艦隊	無情號麾下艦隊；M0 的 CRV Task Force 標籤作「特遣隊」	M5_mission_text.new_terms
+>SPOILER!	>劇透警告！	攻略提示中的劇透標頭	M5_mission_text.new_terms
+Halley Kadorto	哈雷·卡多托	新詞；歷史任務 halley 的飛行員（音譯，性別不明故不用「莉」）	M6_mission_text.new_terms
+Dev	戴夫	依任務標題 Dev's Sidestep=戴夫的側步閃避	M6_mission_text.new_terms
+Calamarians / Calamari prisoners	卡拉馬里人 / 卡拉馬里囚犯	新詞；Mon Calamari 種族簡稱	M6_mission_text.new_terms
+"Maze" (proving ground course)	「迷宮」	新詞；試煉場賽道名	M6_mission_text.new_terms
+Proving Ground Courses	試煉場賽道	依 Pilot Proving Ground=飛行員試煉場	M6_mission_text.new_terms
+Historical Combat Simulations	歷史戰役模擬	依 Historical Combat=歷史戰役	M6_mission_text.new_terms
+Imperial Training Ground / Training Area	帝國訓練場 / 帝國訓練區		M6_mission_text.new_terms
+Heat-Tracking Laser Mines	熱追蹤雷射水雷	標籤 HT-Mines=HT 水雷	M6_mission_text.new_terms
+Hit and fade	打帶跑	戰術名；hit and fade interdiction strike=打帶跑攔截突擊	M6_mission_text.new_terms
+Kill shot	致命一擊	攻略提示用語	M6_mission_text.new_terms
+Twin Ion Engine	雙離子引擎	TIE 全稱；句中作「鈦（TIE，雙離子引擎）」	M6_mission_text.new_terms
+Holo discs	全像光碟	貨物/任務完成訊息	M6_mission_text.new_terms
+FRG Dragon	巡防艦巨龍號	Designation DRAGON=巨龍；敘述句加艦種與「號」	M6_mission_text.new_terms
+P.O.W.s	戰俘		M6_mission_text.new_terms
+Commando unit	突擊小隊	依 Commandos=突擊隊	M6_mission_text.new_terms
+Imperial Command	帝國指揮部		M6_mission_text.new_terms
+Primary Territories of the Republic	共和國主要領域		M6_mission_text.new_terms
+X-Wing VS TIE Fighter	X翼戰機 VS 鈦戰機	遊戲庫中的遊戲名	U2_new_terms
+X-Wing Alliance	X翼戰機：聯盟	遊戲庫中的遊戲名	U2_new_terms
+Game Library / Library	遊戲庫	XWVM 啟動器	U2_new_terms
+Pilot Registration	飛行員註冊	中央大廳房間	U2_new_terms
+Merits / Pilot Merits	功績 / 飛行員功績		U2_new_terms
+Pilot Log	飛行員日誌		U2_new_terms
+Spaceport	太空港	Enter Spaceport=進入太空港	U2_new_terms
+Briefing Room	簡報室		U2_new_terms
+Refly Mission	重飛任務		U2_new_terms
+Operation (Tour of Duty unit)	作戰	{0} Operation {1}=「{0} 作戰 {1}」；Scores for each Operation=各作戰分數	U2_new_terms
+Bonus Mission / Bonus Combat Missions	額外任務 / 額外戰役任務		U2_new_terms
+Plot armor	主角光環	作弊容忍提示	U2_new_terms
+Heroic awards	英勇獎項		U2_new_terms
+Bonus Objectives Pin / Secondary Objectives Pin	額外目標胸針 / 次要目標胸針	Pin=胸針，避免與 Flight Badge 飛行徽章混淆	U2_new_terms
+Combat Medallion	戰鬥獎章	Medallion=獎章（同曼圖因獎章）	U2_new_terms
+Medal of Unity / Progress / Loyalty / Destiny	團結勳章 / 進步勳章 / 忠誠勳章 / 天命勳章	帝國戰役勳章	U2_new_terms
+Medal of Dignity / Futility / Horror / Guile / Victory	尊嚴勳章 / 徒勞勳章 / 恐怖勳章 / 狡詐勳章 / 勝利勳章	帝國戰役勳章	U2_new_terms
+Inner Circle	內環	秘密教團位階，接續第二/三/四環	U2_new_terms
+Decoration (award)	綴飾	Undecorated {award}=無綴飾的{award}	U2_new_terms
+Wotan Weave	沃坦迂迴	閃避機動名	U2_new_terms
+S-foils	S翼	X翼戰機的打擊翼	U2_new_terms
+Attack run	攻擊航線	setting up for attack run=準備進入攻擊航線	U2_new_terms
+Damage control screen	損害控制畫面		U2_new_terms
+Markings (astromech)	塗裝	Head/Body Markings=頭部/機身塗裝；Marking set=塗裝組合	U2_new_terms

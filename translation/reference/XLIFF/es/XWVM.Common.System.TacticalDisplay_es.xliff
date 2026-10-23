@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file original="XWVM.Common.System.TacticalDisplay">
+      <unit id="Orders.Label">
+        <segment state="translated">
+          <source>ORDERS</source>
+          <target>ÓRDENES</target>
+        </segment>
+      </unit>
+      <unit id="TimeLeft.Label">
+        <segment state="translated">
+          <source>TIME LEFT</source>
+          <target>TIEMPO RESTANTE</target>
+        </segment>
+      </unit>
+      <unit id="CurrentTarget.Label">
+        <segment state="translated">
+          <source>CURRENT TARGET</source>
+          <target>OBJETIVO ACTUAL</target>
+        </segment>
+      </unit>
+      <unit id="DistanceFromTarget.Label">
+        <segment state="translated">
+          <source>DISTANCE FROM TARGET</source>
+          <target>DISTANCIA AL OBJETIVO</target>
+        </segment>
+      </unit>
+      <unit id="NoInformationAvailable">
+        <segment state="translated">
+          <source>No information available.</source>
+          <target>No hay información disponible.</target>
+        </segment>
+      </unit>
+      <unit id="TacticalDisplayTitle">
+        <segment state="translated">
+          <source>Tactical Information</source>
+          <target>Información Táctica</target>
+        </segment>
+      </unit>
+      <unit id="System.Laser.Label">
+        <segment state="translated">
+          <source>LASER</source>
+          <target>LÁSER</target>
+        </segment>
+      </unit>
+      <unit id="System.Ion.Label">
+        <segment>
+          <source>ION</source>
+          <target>ION</target>
+        </segment>
+      </unit>
+      <unit id="System.Warhead.Label">
+        <segment state="translated">
+          <source>WARHEAD</source>
+          <target>OJIVA</target>
+        </segment>
+      </unit>
+      <unit id="System.Beam.Label">
+        <segment state="translated">
+          <source>BEAM</source>
+          <target>HAZ</target>
+        </segment>
+      </unit>    
+      <unit id="System.Shield.Label">
+        <segment state="translated">
+          <source>SHIELD</source>
+          <target>ESCUDO</target>
+        </segment>
+      </unit>    
+      <unit id="System.Hull.Label">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>CASCO</target>
+        </segment>
+      </unit>    
+      <unit id="System.Offline.Label">
+        <segment state="translated">
+          <source>OFFLINE ({0}s)</source>
+          <target>INACTIVO ({0}s)</target>
+        </segment>
+      </unit>    
+  </file>
+</xliff>

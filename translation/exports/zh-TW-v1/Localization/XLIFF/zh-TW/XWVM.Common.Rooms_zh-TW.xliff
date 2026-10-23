@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" trgLang="zh-TW">
+  <file id="XWVM.Common.Rooms" srcLang="en" trgLang="zh-TW">
+    <unit id="AstromechWorkshop.Header.Label">
+      <segment state="translated">
+        <source>Astromech Workshop</source>
+        <target>宇航機器人工坊</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.View.Label">
+      <segment state="translated">
+        <source>View</source>
+        <target>檢視</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.Autorotate.Label">
+      <segment state="translated">
+        <source>Auto-rotate</source>
+        <target>自動旋轉</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.Autorotate.TooltipTitle">
+      <segment state="translated">
+        <source>Auto-rotate</source>
+        <target>自動旋轉</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.Autorotate.TooltipContent">
+      <segment state="translated">
+        <source>Automatically rotate the view.</source>
+        <target>自動旋轉視角。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.RotationSpeed.Label">
+      <segment state="translated">
+        <source>Rotation Speed</source>
+        <target>旋轉速度</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.RotationSpeed.TooltipTitle">
+      <segment state="translated">
+        <source>Auto-rotate speed</source>
+        <target>自動旋轉速度</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.RotationSpeed.TooltipContent">
+      <segment state="translated">
+        <source>Set the speed of the auto rotation.</source>
+        <target>設定自動旋轉的速度。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.PoseMode.Label">
+      <segment state="translated">
+        <source>Pose Mode</source>
+        <target>姿勢模式</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.PoseMode.TooltipTitle">
+      <segment state="translated">
+        <source>Pose Mode</source>
+        <target>姿勢模式</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.PoseMode.TooltipContent">
+      <segment state="translated">
+        <source>Switch between 2 and 3 legs.</source>
+        <target>在兩足與三足姿勢之間切換。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.Customize.Label">
+      <segment state="translated">
+        <source>Customize</source>
+        <target>自訂</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.Name.Label">
+      <segment state="translated">
+        <source>Astromech Name</source>
+        <target>宇航機器人名稱</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.Name.TooltipTitle">
+      <segment state="translated">
+        <source>Astromech Name</source>
+        <target>宇航機器人名稱</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.Name.TooltipContent">
+      <segment state="translated">
+        <source>Use a custom name for your onboard R2 unit (for craft that use one).</source>
+        <target>為你機上的 R2 機器人設定自訂名稱（適用於配備 R2 的艦艇）。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadSection.Label">
+      <segment state="translated">
+        <source>Astromech Head</source>
+        <target>宇航機器人頭部</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadDropdown.Label">
+      <segment state="translated">
+        <source>Astromech Head</source>
+        <target>宇航機器人頭部</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadDropdown.TooltipTitle">
+      <segment state="translated">
+        <source>Astromech Head</source>
+        <target>宇航機器人頭部</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadDropdown.TooltipContent">
+      <segment state="translated">
+        <source>Select the astromech head you would like to use.</source>
+        <target>選擇你想使用的宇航機器人頭部。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkings.Label">
+      <segment state="translated">
+        <source>Head Markings</source>
+        <target>頭部塗裝</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkings.TooltipTitle">
+      <segment state="translated">
+        <source>Astromech Head Markings</source>
+        <target>宇航機器人頭部塗裝</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkings.TooltipContent">
+      <segment state="translated">
+        <source>Select the astromech head markings you would like to use.</source>
+        <target>選擇你想使用的宇航機器人頭部塗裝。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor1.Label">
+      <segment state="translated">
+        <source>Head Markings Color 1</source>
+        <target>頭部塗裝顏色 1</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor1.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 1</source>
+        <target>塗裝顏色 1</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor1.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>設定此塗裝的顏色。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor2.Label">
+      <segment state="translated">
+        <source>Head Markings Color 2</source>
+        <target>頭部塗裝顏色 2</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor2.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 2</source>
+        <target>塗裝顏色 2</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor2.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>設定此塗裝的顏色。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor3.Label">
+      <segment state="translated">
+        <source>Head Markings Color 3</source>
+        <target>頭部塗裝顏色 3</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor3.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 3</source>
+        <target>塗裝顏色 3</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor3.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>設定此塗裝的顏色。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor4.Label">
+      <segment state="translated">
+        <source>Head Markings Color 4</source>
+        <target>頭部塗裝顏色 4</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor4.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 4</source>
+        <target>塗裝顏色 4</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor4.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>設定此塗裝的顏色。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodySection.Label">
+      <segment state="translated">
+        <source>Astromech Body</source>
+        <target>宇航機器人機身</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkings.Label">
+      <segment state="translated">
+        <source>Body Markings</source>
+        <target>機身塗裝</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkings.TooltipTitle">
+      <segment state="translated">
+        <source>Astromech Body Markings</source>
+        <target>宇航機器人機身塗裝</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkings.TooltipContent">
+      <segment state="translated">
+        <source>Select the body markings pattern you would like to use.</source>
+        <target>選擇你想使用的機身塗裝樣式。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor1.Label">
+      <segment state="translated">
+        <source>Body Markings Color 1</source>
+        <target>機身塗裝顏色 1</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor1.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 1</source>
+        <target>塗裝顏色 1</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor1.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>設定此塗裝的顏色。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor2.Label">
+      <segment state="translated">
+        <source>Body Markings Color 2</source>
+        <target>機身塗裝顏色 2</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor2.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 2</source>
+        <target>塗裝顏色 2</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor2.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>設定此塗裝的顏色。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor3.Label">
+      <segment state="translated">
+        <source>Body Markings Color 3</source>
+        <target>機身塗裝顏色 3</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor3.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 3</source>
+        <target>塗裝顏色 3</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor3.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>設定此塗裝的顏色。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor4.Label">
+      <segment state="translated">
+        <source>Body Markings Color 4</source>
+        <target>機身塗裝顏色 4</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor4.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 4</source>
+        <target>塗裝顏色 4</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor4.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>設定此塗裝的顏色。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.ColorPicker.CloseButton.Label">
+      <segment state="translated">
+        <source>Close</source>
+        <target>關閉</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.OverwritePrompt.Label">
+      <segment state="translated">
+        <source>A droid already exists with this name, overwrite?</source>
+        <target>已有同名的機器人，要覆寫嗎？</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.OverwritePrompt.SaveButton.Label">
+      <segment state="translated">
+        <source>Save and Overwrite</source>
+        <target>儲存並覆寫</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.OverwritePrompt.CancelButton.Label">
+      <segment state="translated">
+        <source>Cancel</source>
+        <target>取消</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.AssignPrompt.Label">
+      <segment state="translated">
+        <source>This droid is not assigned to your current pilot yet. Would you like to assign it now?</source>
+        <target>此機器人尚未指派給目前的飛行員。要現在指派嗎？</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.AssignPrompt.AssignButton.Label">
+      <segment state="translated">
+        <source>Assign to current pilot</source>
+        <target>指派給目前的飛行員</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.AssignPrompt.NotAssignButton.Label">
+      <segment state="translated">
+        <source>Do not assign</source>
+        <target>不指派</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSection.Label">
+      <segment state="translated">
+        <source>Load Droid</source>
+        <target>載入機器人</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSection.NoDroidsMessage.Label">
+      <segment state="translated">
+        <source>No droids currently available to load.</source>
+        <target>目前沒有可載入的機器人。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSection.LoadButton.Label">
+      <segment state="translated">
+        <source>Load</source>
+        <target>載入</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSection.CancelButton.Label">
+      <segment state="translated">
+        <source>Cancel</source>
+        <target>取消</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.NewButton.Label">
+      <segment state="translated">
+        <source>New droid</source>
+        <target>新機器人</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.NewButton.TooltipTitle">
+      <segment state="translated">
+        <source>New</source>
+        <target>新增</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.NewButton.TooltipContent">
+      <segment state="translated">
+        <source>Create a new droid, starting from the default R2 unit.</source>
+        <target>以預設的 R2 機器人為基礎，建立新的機器人。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.LoadButton.Label">
+      <segment state="translated">
+        <source>Load existing droid</source>
+        <target>載入現有機器人</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.LoadButton.TooltipTitle">
+      <segment state="translated">
+        <source>Load</source>
+        <target>載入</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.LoadButton.TooltipContent">
+      <segment state="translated">
+        <source>Select a droid config to edit.</source>
+        <target>選擇要編輯的機器人設定。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveButton.Label">
+      <segment state="translated">
+        <source>Save current droid</source>
+        <target>儲存目前的機器人</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveButton.TooltipTitle">
+      <segment state="translated">
+        <source>Save</source>
+        <target>儲存</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveButton.TooltipContent">
+      <segment state="translated">
+        <source>Save this astromech config.</source>
+        <target>儲存此宇航機器人設定。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveAssignButton.Label">
+      <segment state="translated">
+        <source>Save and assign to current pilot</source>
+        <target>儲存並指派給目前的飛行員</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveAssignButton.TooltipTitle">
+      <segment state="translated">
+        <source>Save and assign to current pilot</source>
+        <target>儲存並指派給目前的飛行員</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveAssignButton.TooltipContent">
+      <segment state="translated">
+        <source>Save this astromech config (overwrite any existing droid with the same name), and assign it to the current pilot.</source>
+        <target>儲存此宇航機器人設定（覆寫任何同名的現有機器人），並指派給目前的飛行員。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.MarkingSet.Name">
+      <segment state="translated">
+        <source>Marking set {num}</source>
+        <target>塗裝組合 {num}</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.SaveSuccess.Message">
+      <segment state="translated">
+        <source>Droid {name} saved{isAssigned:cond: and assigned|} successfully.</source>
+        <target>機器人 {name} 已成功儲存{isAssigned:cond:並指派|}。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.SaveFailUnnamed.Message">
+      <segment state="translated">
+        <source>Unable to save droid. Please name the droid first.</source>
+        <target>無法儲存機器人。請先為機器人命名。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.SaveFailError.Message">
+      <segment state="translated">
+        <source>Error on saving droid.</source>
+        <target>儲存機器人時發生錯誤。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.OverwriteNamePrompt.Label">
+      <segment state="translated">
+        <source>A droid already exists with this name ({name}), overwrite?</source>
+        <target>已有同名（{name}）的機器人，要覆寫嗎？</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSuccess.Message">
+      <segment state="translated">
+        <source>Droid {name} loaded successfully.</source>
+        <target>已成功載入機器人 {name}。</target></segment>
+    </unit>
+    <unit id="AstromechWorkshop.Exit.Label">
+      <segment state="translated">
+        <source>Exit Workshop</source>
+        <target>離開工坊</target></segment>
+    </unit>
+
+  </file>
+</xliff>

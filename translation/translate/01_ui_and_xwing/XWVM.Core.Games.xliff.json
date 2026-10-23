@@ -1,0 +1,79 @@
+{
+  "format": "xwvm-translation-workspace-v1",
+  "native_format": "xliff2",
+  "source_file": "XLIFF/es/XWVM.Core.Games_es.xliff",
+  "target_locale": "zh-TW",
+  "instructions": "只編輯 target_zh_TW 與 translator_note。空白 target 匯出時保留英文；這份 JSON 不是遊戲原生格式。",
+  "entries": [
+    {
+      "id": "XWVM.Core.Games.xliff::XWVM.Core.Games::xwvm::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.Core.Games",
+      "unit_id": "xwvm",
+      "segment_index": 0,
+      "source": "XWVM",
+      "target_zh_TW": "XWVM",
+      "source_format": "text",
+      "context": "XWVM.Core.Games / xwvm",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.Core.Games.xliff::XWVM.Core.Games::xwing::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.Core.Games",
+      "unit_id": "xwing",
+      "segment_index": 0,
+      "source": "X-Wing",
+      "target_zh_TW": "X翼戰機",
+      "source_format": "text",
+      "context": "XWVM.Core.Games / xwing",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.Core.Games.xliff::XWVM.Core.Games::tf::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.Core.Games",
+      "unit_id": "tf",
+      "segment_index": 0,
+      "source": "TIE Fighter",
+      "target_zh_TW": "鈦戰機",
+      "source_format": "text",
+      "context": "XWVM.Core.Games / tf",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.Core.Games.xliff::XWVM.Core.Games::xvt::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.Core.Games",
+      "unit_id": "xvt",
+      "segment_index": 0,
+      "source": "X-Wing VS TIE Fighter",
+      "target_zh_TW": "X翼戰機 VS 鈦戰機",
+      "source_format": "text",
+      "context": "XWVM.Core.Games / xvt",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.Core.Games.xliff::XWVM.Core.Games::xwa::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.Core.Games",
+      "unit_id": "xwa",
+      "segment_index": 0,
+      "source": "X-Wing Alliance",
+      "target_zh_TW": "X翼戰機：聯盟",
+      "source_format": "text",
+      "context": "XWVM.Core.Games / xwa",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    }
+  ]
+}

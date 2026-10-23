@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.Common.System.TargetComponents">    
+      <unit id="Default">
+        <segment>
+          <source/>
+        </segment>
+      </unit>
+      <unit id="MainHull">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>CASCO</target>
+        </segment>
+      </unit>
+      <unit id="Wing">
+        <segment state="translated">
+          <source>WING</source>
+          <target>ALA</target>
+        </segment>
+      </unit>
+      <unit id="Fuselage">
+        <segment state="translated">
+          <source>FUSELAGE</source>
+          <target>FUSELAJE</target>
+        </segment>
+      </unit>
+      <unit id="GunTurret">
+        <segment state="translated">
+          <source>LASR TUR</source>
+          <target>TORR LÁS</target>
+        </segment>
+      </unit>
+      <unit id="Smallgun">
+        <segment state="translated">
+          <source>LASR GUN</source>
+          <target>CAÑ LÁS</target>
+        </segment>
+      </unit>
+      <unit id="Engine">
+        <segment state="translated">
+          <source>ENGINE</source>
+          <target>MOTOR</target>
+        </segment>
+      </unit>
+      <unit id="Bridge">
+        <segment state="translated">
+          <source>BRIDGE</source>
+          <target>PUENTE</target>
+        </segment>
+      </unit>
+      <unit id="ShieldGen">
+        <segment state="translated">
+          <source>SHLD GEN</source>
+          <target>GEN ESC</target>
+        </segment>
+      </unit>
+      <unit id="EnergyGen">
+        <segment state="translated">
+          <source>ENRG GEN</source>
+          <target>GEN ENER</target>
+        </segment>
+      </unit>
+      <unit id="Launcher">
+        <segment state="translated">
+          <source>WHEAD LN</source>
+          <target>LANZ OJV</target>
+        </segment>
+      </unit>
+      <unit id="CommSys">
+        <segment state="translated">
+          <source>COMM SYS</source>
+          <target>SIS COM</target>
+        </segment>
+      </unit>
+      <unit id="BeamSys">
+        <segment state="translated">
+          <source>BEAM SYS</source>
+          <target>SIS HAZ</target>
+        </segment>
+      </unit>
+      <unit id="CommandBeam">
+        <segment state="translated">
+          <source>COMM SYS</source>
+          <target>SIS COM</target>
+        </segment>
+      </unit>
+      <unit id="DockingPlat">
+        <segment state="translated">
+          <source>DOCK PLT</source>
+          <target>PLAT ACOP</target>
+        </segment>
+      </unit>
+      <unit id="LandingPlat">
+        <segment state="translated">
+          <source>LAND PLT</source>
+          <target>PLAT ATERR</target>
+        </segment>
+      </unit>
+      <unit id="Hangar">
+        <segment>
+          <source>HANGAR</source>
+          <target>HANGAR</target>
+        </segment>
+      </unit>
+      <unit id="CargoPod">
+        <segment state="translated">
+          <source>CARGO</source>
+          <target>CARGA</target>
+        </segment>
+      </unit>
+      <unit id="MiscHull">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>CASCO</target>
+        </segment>
+      </unit>
+      <unit id="Antenna">
+        <segment state="translated">
+          <source>ANTENNA</source>
+          <target>ANTENA</target>
+        </segment>
+      </unit>
+      <unit id="RotWing">
+        <segment state="translated">
+          <source>WING</source>
+          <target>ALA</target>
+        </segment>
+      </unit>
+      <unit id="RotGunTurret">
+        <segment state="translated">
+          <source>LASR TUR</source>
+          <target>TORR LÁS</target>
+        </segment>
+      </unit>
+      <unit id="RotLauncher">
+        <segment state="translated">
+          <source>WHEAD LN</source>
+          <target>LANZ OJV</target>
+        </segment>
+      </unit>
+      <unit id="RotCommSys">
+        <segment state="translated">
+          <source>COMM SYS</source>
+          <target>SIS COMM</target>
+        </segment>
+      </unit>
+      <unit id="RotBeamSys">
+        <segment state="translated">
+          <source>BEAM SYS</source>
+          <target>SIS HAZ</target>
+        </segment>
+      </unit>
+      <unit id="RotCommandBeam">
+        <segment state="translated">
+          <source>COMM SYS</source>
+          <target>SIS COM</target>
+        </segment>
+      </unit>
+      <unit id="Custom1">
+        <segment state="translated">
+          <source>COCKPIT</source>
+          <target>CABINA</target>
+        </segment>
+      </unit>
+      <unit id="Custom2">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>CASCO</target>
+        </segment>
+      </unit>
+      <unit id="Custom3">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>CASCO</target>
+        </segment>
+      </unit>
+      <unit id="Custom4">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>CASCO</target>
+        </segment>
+      </unit>
+      <unit id="Custom5">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>CASCO</target>
+        </segment>
+      </unit>
+      <unit id="Custom6">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>CASCO</target>
+        </segment>
+      </unit>
+      <unit id="RotDummy">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>CASCO</target>
+        </segment>
+      </unit>
+      <unit id="None">
+        <segment>
+          <source/>
+        </segment>
+      </unit>
+    
+  </file>
+</xliff>

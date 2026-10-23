@@ -1,0 +1,261 @@
+{
+  "observed_date": "2026-10-22",
+  "access_status": {
+    "original_game": "readable",
+    "xwvm_application": "readable",
+    "xwvm_localization": "readable",
+    "permission_denials": [],
+    "uploads": "not attempted; destination confirmation pending",
+    "game_execution": "not performed"
+  },
+  "paths": {
+    "original_game": "<original X-Wing install folder>",
+    "xwvm_app": "/Applications/XWVM/xwvm.app",
+    "localization_source": "/Library/Application Support/XWVM Team/XWVM/StreamingAssets/Localization",
+    "output": "<this repository>/translation"
+  },
+  "versions": {
+    "xwvm_CFBundleShortVersionString": "1.0.20260923.2004",
+    "xwvm_CFBundleVersion": "190414",
+    "classic_XWING_EXE_static_version_marker": "1.1",
+    "classic_BWING_EXE_static_version_marker": "1.2",
+    "collectors_cd_BWING_EXE_static_version_marker": "1.5",
+    "original_edition_identification": "classic = DOS floppy-era with B-Wing expansion; collectors_cd = DOS Collector CD; 1998 Remastered not found here"
+  },
+  "original_game_summary": {
+    "files_including_excluded_private_files": 507,
+    "bytes_including_excluded_private_files": 121032250,
+    "classic_mission_xwi_files": 119,
+    "classic_briefing_brf_files": 112,
+    "game_fil_bytes": 89526528,
+    "game_fil_format": "game.ins declares MODE1/2352 binary CD track; no mounting or extraction performed"
+  },
+  "translation_summary": {
+    "native_source_files": 32,
+    "source_bytes": 1991873,
+    "xliff_units": 8677,
+    "xliff_nonempty_sources": 8654,
+    "xliff_empty_sources": 23,
+    "species_rows": 102,
+    "species_editable_columns": 7,
+    "species_editable_cells": 714,
+    "species_nonempty_sources": 286,
+    "all_entries": 9391,
+    "all_nonempty_sources": 8940,
+    "translated_entries": 0
+  },
+  "categories": {
+    "01_ui_and_xwing": {
+      "files": 8,
+      "source_bytes": 235203,
+      "entries": 864,
+      "nonempty_sources": 843
+    },
+    "02_common": {
+      "files": 5,
+      "source_bytes": 45735,
+      "entries": 208,
+      "nonempty_sources": 206
+    },
+    "03_original_game": {
+      "files": 14,
+      "source_bytes": 1616118,
+      "entries": 7166,
+      "nonempty_sources": 7166
+    },
+    "04_smart_strings": {
+      "files": 4,
+      "source_bytes": 89944,
+      "entries": 439,
+      "nonempty_sources": 439
+    },
+    "05_species": {
+      "files": 1,
+      "source_bytes": 4873,
+      "entries": 714,
+      "nonempty_sources": 286
+    }
+  },
+  "minimum_translation_input": {
+    "xliff": "31 XLIFF/es files excluding .tf. files; English <source> used, Spanish <target> not used as translation",
+    "species_csv": "CSV/XWVM.xwing.Species_en.csv (4873 bytes)",
+    "license": "LICENSE (1066 bytes); included in output"
+  },
+  "selected_original_metadata_only": [
+    {
+      "path": "classic/XWING.EXE",
+      "bytes": 270735,
+      "sha256": "8b05d53dd14e96ef21513652239f7c485d3a667bfa97a920caba5f463fdfecfc",
+      "copied": false
+    },
+    {
+      "path": "classic/BWING.EXE",
+      "bytes": 275053,
+      "sha256": "5c7d7cca76fa42641cd98d75271d4d5a357da713e57d7ea76bdc5f2ada34c51d",
+      "copied": false
+    },
+    {
+      "path": "collectors_cd/BWING.EXE",
+      "bytes": 291871,
+      "sha256": "698ffe66c41cab6dfbf1b6e316eb337754a8fa52bbe2f8a913a7a3f550a136ae",
+      "copied": false
+    },
+    {
+      "path": "classic/READ.ME",
+      "bytes": 13885,
+      "sha256": "02dc012daf3714dd0704b49ad1c99549a4b3d8e9ae3e05119f5d464fd2b80b3d",
+      "copied": false
+    },
+    {
+      "path": "classic/README.TXT",
+      "bytes": 13201,
+      "sha256": "fb6cb092ae016a292da41f762061c9f1d79e76055a675f946a84e9bd0bcc5a6a",
+      "copied": false
+    },
+    {
+      "path": "collectors_cd/READ.ME",
+      "bytes": 18741,
+      "sha256": "17e9e1b187e32ad93a8a78c0fdd9579014880321f3ebbf03104ffd5c49ec0feb",
+      "copied": false
+    },
+    {
+      "path": "classic/MICRO.FNT",
+      "bytes": 756,
+      "sha256": "81f2d237df37dda8e7cac99629687e7654db487970fa024850636bdd554daf73",
+      "copied": false
+    },
+    {
+      "path": "classic/SMALL.FNT",
+      "bytes": 1710,
+      "sha256": "be829b0c16ac653eb66572390eb2ae67f593892259f2a4e58f4b932548d3b410",
+      "copied": false
+    },
+    {
+      "path": "classic/TINY.FNT",
+      "bytes": 1025,
+      "sha256": "55b69f7698cef5f54bd264e4f97fc4b3fddea514724136494b396c7ced059a4e",
+      "copied": false
+    },
+    {
+      "path": "collectors_cd/MICRO.FNT",
+      "bytes": 748,
+      "sha256": "fcf0a01d9be2cdf9b78f71775d1edd8a23efcf126eeaaec0766ecc7cf708fafa",
+      "copied": false
+    },
+    {
+      "path": "collectors_cd/SMALL.FNT",
+      "bytes": 1710,
+      "sha256": "be829b0c16ac653eb66572390eb2ae67f593892259f2a4e58f4b932548d3b410",
+      "copied": false
+    },
+    {
+      "path": "collectors_cd/TINY.FNT",
+      "bytes": 1025,
+      "sha256": "55b69f7698cef5f54bd264e4f97fc4b3fddea514724136494b396c7ced059a4e",
+      "copied": false
+    },
+    {
+      "path": "classic/RESOURCE/BRIEF.LFD",
+      "bytes": 143615,
+      "sha256": "1aee84388f8ee2c77cdf0cc932bdb67d989a63f36a6a6bb07ab5ad38461aa998",
+      "copied": false
+    },
+    {
+      "path": "classic/RESOURCE/MISSIONS.LFD",
+      "bytes": 20831,
+      "sha256": "df2a03bfa1244df1b9a5cc06d9ea09e8722f227536b6e9e4edd29946d80916d6",
+      "copied": false
+    },
+    {
+      "path": "classic/RESOURCE/CREDITS.LFD",
+      "bytes": 1444,
+      "sha256": "a57754909c43fafff7736f2cb75601d5e0c2c0ef0d6d0f027d698b00a179119c",
+      "copied": false
+    },
+    {
+      "path": "collectors_cd/game.ins",
+      "bytes": 70,
+      "sha256": "e75a3b9d6e01cae3666ac3792d916028f8a95d77d41ab2777867c9d6f58f9c83",
+      "copied": false
+    }
+  ],
+  "not_copied": [
+    "game.fil",
+    "*.EXE",
+    "*.OVL",
+    "*.LFD",
+    "*.FNT",
+    "commercial graphics/audio",
+    "HD asset bundles",
+    "application binaries",
+    "pilot/save files",
+    "logs",
+    "user preferences",
+    "Localization/.git",
+    "installed PowerShell scripts",
+    "third-party zh-TW download"
+  ],
+  "source_interface_evidence": {
+    "csharp_source_files_found": 0,
+    "assembly_static_identifiers": [
+      "Xwvm.Localization.RuntimeLocalizationLoader",
+      "LoadAllXliffFilesAsync",
+      "DiscoverAndRegisterLocales",
+      "ParseXliff2",
+      "LocalizationManager",
+      "LoadLocalizedSpeciesCsvFileAsync"
+    ],
+    "qualification": "Identifiers observed as static ASCII metadata only; no disassembly execution, source API or ABI guarantee."
+  },
+  "encoding": {
+    "translation_files": "UTF-8, native CSV delimiter semicolon; JSON is an editing interchange format created for this workspace",
+    "legacy_game": "binary BRF/XWI/LFD and tiny bitmap FNT; legacy text codepage not conclusively identified; not rewritten as UTF-8"
+  },
+  "fonts": {
+    "loose_ttf_or_otf_found_in_inspected_xwvm_install": false,
+    "TextMeshPro_assembly_found": true,
+    "chinese_glyph_support_verified": false,
+    "custom_font_loader_verified": false,
+    "official_developer_comment": "https://www.moddb.com/mods/xwvm#9290785"
+  },
+  "settings": {
+    "native_ui_labels": "Settings > Audio and Language > Subtitles and Language > Language",
+    "native_original_string_export": "UI text describes export of registered original game strings to user-data XWVM/Localization; not invoked",
+    "active_user_locale": "not inspected",
+    "dosbox_language": "blank; keyboardlayout=auto; not XWVM localization settings"
+  },
+  "scope_limits": [
+    "Templates bundled with XWVM, not an export freshly generated from the currently registered classic/CD game",
+    "No original BRF/XWI/LFD/CD image content extracted",
+    "No TIE Fighter-specific tables",
+    "No optional in-flight dialogue mod or custom missions",
+    "No embedded image text or voice translation",
+    "No runtime game import, font rendering, line layout, SmartFormat or Chinese plural-rule testing"
+  ],
+  "sources": [
+    {
+      "url": "https://www.moddb.com/mods/xwvm/news/xwvm-alpha-20260923-download-links",
+      "kind": "official release"
+    },
+    {
+      "url": "https://www.moddb.com/mods/xwvm/news/xwvm-your-first-steps",
+      "kind": "official guide"
+    },
+    {
+      "url": "https://www.moddb.com/mods/xwvm#9290785",
+      "kind": "developer font/localization comment 2026-10-13"
+    },
+    {
+      "url": "https://www.moddb.com/mods/xwvm#9296084",
+      "kind": "third-party Traditional Chinese contribution 2026-10-20; not downloaded"
+    },
+    {
+      "url": "https://www.moddb.com/mods/xwvm#9296103",
+      "kind": "developer says CSV missing 2026-10-20"
+    },
+    {
+      "url": "https://www.moddb.com/mods/xwvm#9296639",
+      "kind": "third party says untranslated CSV included 2026-10-21; not downloaded"
+    }
+  ]
+}

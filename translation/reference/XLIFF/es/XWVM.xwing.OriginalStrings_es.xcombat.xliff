@@ -1,0 +1,1481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="es">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="MissionGroup.xcombat.Title">
+      <segment>
+        <source>X-Wing</source>
+        <target>Ala-X</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.Title">
+      <segment state="translated">
+        <source>Dev's Sidestep</source>
+        <target>El Traspié de Dev</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.Description">
+      <segment state="translated">
+        <source>In this mission you will
+learn to adjust your power
+configuration system, target
+the enemy and destroy 
+unarmed Imperial TIE Fighters
+and stationary Cargo ships.</source>
+        <target>En esta misión aprenderás a
+ajustar tu sistema de configuración
+de energía, fijar enemigos y destruir
+Cazas TIE imperiales desarmados y
+naves de carga estacionarias.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.1">
+      <segment state="translated">
+        <source>&gt;Dev's Sidestep</source>
+        <target>&gt;El Traspié de Dev</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.2">
+      <segment state="translated">
+        <source>  Using the same holographic technology as in the [[Pilot's]] [[Proving Ground Courses]], the [[Historical Combat Simulations]] were designed to quickly and efficiently train new starfighter pilot recruits in actual combat tactics.  They are also used by experienced pilots to hone their skills and develop new tactics.  One  incredible story is of what happened to a young recruit named [[Dev ]]during his first run through the[[ "Maze"]].</source>
+        <target>  Utilizando la misma tecnología holográfica que en los [[cursos de Piloto del Terreno de Pruebas]], las [[simulaciones de combate histórico]] fueron diseñadas para entrenar rápidamente y de manera eficiente a nuevos reclutas pilotos de cazas estelares en tácticas de combate reales.  También las utilizan pilotos experimentados para afinar sus habilidades y desarrollar nuevas tácticas.  Una historia increíble es lo que sucedió con un joven recluta llamado [[Dev]] durante su primera pasada a través del [["Laberinto"]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.3">
+      <segment state="translated">
+        <source>  Though it was Dev's first time on the course, he impressively cleared the first six gates with ease.  But then something unexpected happened.  As Dev banked his X-wing towards the next platform, he accidently jumped into hyperspace, emerging in the middle of an [[Imperial Training Ground]]!  Thinking it was part of the course, Dev started firing at the stationary Imperial starfighters.</source>
+        <target>  Aunque era la primera vez que Dev circulaba por el circuito, pasó con impresionante facilidad las primeras seis puertas.  Pero entonces algo inesperado sucedió.  Al hacer una maniobra de giro en su Ala-X hacia la siguiente plataforma, Dev accidentalmente saltó al hiperespacio, ¡emergiendo en medio de un [[Campo de Entrenamiento Imperial]]!  Pensando que era parte del curso, Dev empezó a disparar contra los cazas estelares imperiales inmóviles.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.4">
+      <segment state="translated">
+        <source>  Concentrating completely on destroying the Empire's hardware, it was some time before he noticed the message from his [[R2 unit]] indicating that he was in [[Imperial territory]] and should immediately hyperspace back to the Rebel Proving Ground.  Shocked and somewhat shaken, Dev managed to return safely home.$  Your mission is to destroy all of the Imperial craft in the area within [[15 minutes]].</source>
+        <target>  Concentrándose completamente en destruir el material del Imperio, le llevó algún tiempo darse cuenta del mensaje de su [[unidad R2]] que le indicaba que se encontraba en [[territorio Imperial]] y debía saltar al hiperespacio inmediatamente hacia la Base Rebelde de Pruebas.  Sorprendido y algo aturdido, Dev logró regresar a casa a salvo.$  Tu misión es destruir todas las naves del Imperio en el área en [[15 minutos]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.5">
+      <segment state="translated">
+        <source>recruits a taste of engaging Imperial fighter craft.$$Your mission is to destroy all Imperial starfighters within the given time limit.</source>
+        <target>reclutas una muestra de combatir de cazas imperiales.$$Tu misión es destruir todos los cazas del Imperio dentro del límite de tiempo dado.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.6">
+      <segment state="translated">
+        <source>[[Red One]] will drop into an Imperial Training Area in the [[Senex System]].</source>
+        <target>[[Rojo Uno]] entrará en un Área de Entrenamiento del Imperio en el [[Sistema Senex]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.7">
+      <segment state="translated">
+        <source>Use your forward and rear [[Sensors]] to quickly locate your enemy.</source>
+        <target>Utiliza tus sensores frontales y traseros para localizar rápidamente a tu enemigo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.8">
+      <segment state="translated">
+        <source>Use your [[Combat MultiView Display]] and [[Targeting System]] to track the enemy.</source>
+        <target>Utiliza tu [[Computador de Combate Multimodo]] y [[Sistema de Fijado]] para rastrear al enemigo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.9">
+      <segment state="translated">
+        <source>Vary your [[speed]] and configure your [[power system]] for highest impact.</source>
+        <target>Varía tu [[velocidad]] y configura tu [[sistema de energía]] para mayor impacto.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.10">
+      <segment state="translated">
+        <source>A variety of Imperial craft are in the area. Target the [[fighters]] first.</source>
+        <target>Una variedad de naves imperiales están en el área. Céntrate primero en los [[cazas]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.0">
+      <segment>
+        <source>X-W Red 1 (YOU)</source>
+        <target>A-X Rojo 1 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.1">
+      <segment>
+        <source>TIE Interceptors</source>
+        <target>Interceptores TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.2">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.3">
+      <segment>
+        <source>TIE Bombers</source>
+        <target>Bombarderos TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.4">
+      <segment state="translated">
+        <source>Training Freighter</source>
+        <target>Carguero de Entrenamiento</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.5">
+      <segment state="translated">
+        <source>Training Transports</source>
+        <target>Transportes de Entrenamiento</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.6">
+      <segment state="translated">
+        <source>Container (Eqpt. Shed)</source>
+        <target>Contenedor (Almacén de Equipamiento)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.7">
+      <segment>
+        <source>Senex</source>
+        <target>Senex</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.1.Designation">
+      <segment>
+        <source>ALPHA 1</source>
+        <target>ALFA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.2.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.3.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.4.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.5.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.6.Designation">
+      <segment>
+        <source>OMEGA</source>
+        <target>OMEGA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.7.Designation">
+      <segment>
+        <source>PHI</source>
+        <target>PHI</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.8.Designation">
+      <segment>
+        <source>ROUH</source>
+        <target>ROUH</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.9.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.10.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.11.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.12.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.1.Designation">
+      <segment>
+        <source>ALPHA 1</source>
+        <target>ALFA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.2.Designation">
+      <segment>
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.3.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.4.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.5.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.6.Designation">
+      <segment>
+        <source>OMEGA</source>
+        <target>OMEGA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.7.Designation">
+      <segment>
+        <source>PHI</source>
+        <target>PHI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.8.Designation">
+      <segment state="translated">
+        <source>ROUH</source>
+        <target>ROUH</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.9.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.10.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.11.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.FG.12.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.CompletionMessage.0">
+      <segment>
+        <source>Congratulations, Red One!</source>
+        <target>¡Enhorabuena, Rojo Uno!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.CompletionMessage.1">
+      <segment>
+        <source>You have successfully destroyed all enemy targets!</source>
+        <target>¡Has destruido con éxito a todos los objetivos enemigos!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waistem.CompletionMessage.2">
+      <segment state="translated">
+        <source>Keep it up and continue with the next mission!</source>
+        <target>¡Sigue así con la próxima misión!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max4.Title">
+      <segment state="translated">
+        <source>Wingmen Are Important</source>
+        <target>Los Compañeros son Importantes</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max4.Description">
+      <segment state="translated">
+        <source>In this mission you will
+engage Imperial forces
+for the first time. You
+will learn the value of
+a wingman and the 
+importance of working
+as a fighter team.</source>
+        <target>En esta misión, participarás
+en combates contra fuerzas
+imperiales por primera vez.
+Aprenderás el valor de un
+compañero y la importancia
+de trabajar en equipo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.Text.1">
+      <segment state="translated">
+        <source>&gt;Wingmen Are Important</source>
+        <target>&gt;Los Compañeros son Importantes</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.Text.2">
+      <segment state="translated">
+        <source>Stay close! You're responsible for his safety while he makes his attack.</source>
+        <target>¡Mantente cerca! Eres responsable de su seguridad mientras él hace su ataque.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.Text.3">
+      <segment state="translated">
+        <source>Watch and learn as [[Red Leader ]]takes out TIE Fighters on point defense.</source>
+        <target>Mira y aprende mientras [[Líder Rojo]] elimina Cazas TIE en defensa de zona.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.Text.4">
+      <segment state="translated">
+        <source>  No one starts as[[ ]]a[[ Flight Leader]]. It takes dedication, practice and patience to become a great starfighter pilot.  Put in your time, study hard and practice as much as you can.  Soon, you will earn your place as a combat leader.$This mission pits you and your flight leader against a group of TIE fighters.  As a [[wingman]], protect your flight leader's back, stay close and learn from his experience.</source>
+        <target>  Nadie empieza siendo [[líder de vuelo]]. Se requiere dedicación, práctica y paciencia para convertirse en un gran piloto de cazas.  Dedica tiempo, estudia mucho y practica tanto como puedas.  Pronto te ganarás tu lugar como líder de combate.$Esta misión te enfrenta a ti y a tu líder de vuelo contra un grupo de cazas TIE.  Como [[compañero de ala]], cubre la espalda de tu líder de vuelo, mantente cerca y aprende de su experiencia.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.Text.5">
+      <segment state="translated">
+        <source>  Learning to function as a member of a team is the most important thing you can do to strengthen the [[Rebellion]].  All our strategy and tactics are founded on [[teamwork]].  It is this principle that allows the precision timing needed to conduct operations against a superior force. $  As you grow more confident you may wish to take the lead position and experiment with the [[wingman commands]].</source>
+        <target>  Aprender a trabajar como miembro de un equipo es lo más importante que puedes hacer para fortalecer la [[Rebelión]].  Todas nuestras estrategias y tácticas se basan en el [[trabajo en equipo]].  Es este principio lo que permite la precisión y pertinencia necesaria para llevar a cabo operaciones contra una fuerza superior. $  A medida que aumente tu confianza, puedes querer asumir la posición de liderazgo y experimentar con las [[órdenes de compañeros de ala]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.Tag.0">
+      <segment state="translated">
+        <source>X-W Red Leader</source>
+        <target>A-X Líder Rojo</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.Tag.1">
+      <segment>
+        <source>X-W Red 2 (YOU)</source>
+        <target>A-X Rojo 2 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.Tag.2">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.Tag.3">
+      <segment>
+        <source>Tatooine</source>
+        <target>Tatooine</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.FG.1.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.FG.2.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max4.FG.3.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max4.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max4.FG.1.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max4.FG.2.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max4.FG.3.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max4.CompletionMessage.0">
+      <segment state="translated">
+        <source>Sector has been cleared</source>
+        <target>Se ha despejado el sector.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max4.CompletionMessage.1">
+      <segment state="translated">
+        <source>All enemy fighters destroyed</source>
+        <target>Todos los cazas enemigos destruidos.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.satlit1.Title">
+      <segment>
+        <source>Satellites Near Coruscant</source>
+        <target>Satélites cerca de Coruscant</target>
+      </segment>
+    </unit>
+    <unit id="Mission.satlit1.Description">
+      <segment>
+        <source>This mission teaches you
+to use your laser guns
+with precision by 
+targeting and destroying
+small objects, such as 
+satellites and mines.</source>
+        <target>Esta misión te enseña a utilizar tus cañones láser
+con precisión al apuntar y destruir
+pequeños objetos, como satélites y minas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.1">
+      <segment>
+        <source>&gt;Destruction of Surveillance Satellites</source>
+        <target>&gt;Destrucción de Satélites de Vigilancia</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.2">
+      <segment state="translated">
+        <source>Imperial Forces are setting up new Surveillance satellites near [[Coruscant]].</source>
+        <target>Las Fuerzas Imperiales están estableciendo nuevos satélites de vigilancia cerca de [[Coruscant]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.3">
+      <segment state="translated">
+        <source>They are surrounded and protected by Imperial Heat-Tracking Laser Mines.$</source>
+        <target>Están rodeados y protegidos por Minas Láser de Rastreo Térmico imperiales.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.4">
+      <segment state="translated">
+        <source>Eliminate the Transports and all Mines, then quickly destroy the Satellites.</source>
+        <target>Elimina los Transportes y todas las Minas. Luego destruye rápidamente los Satélites.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.5">
+      <segment state="translated">
+        <source>You only have a few minutes before an Imperial Frigate responds.</source>
+        <target>Tienes solo unos pocos minutos antes de que responda una Fragata imperial.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.6">
+      <segment state="translated">
+        <source>  The Empire has placed thousands of [[surveillance satellites]] throughout the Galaxy.  Each of them is linked to the [[Imperial Security Bureau]] in the Imperial City.  This vast network gives the Emperor's Security Forces the ability to monitor (and control) the [[Core Worlds]] and the Primary Territories of the Republic.  This network is now being expanded into the [[Outer Rim Territories]].</source>
+        <target>  El Imperio ha colocado miles de [[satélites de vigilancia]] a lo largo de la Galaxia.  Cada uno de ellos está enlazado con la [[Oficina de Seguridad Imperial]] en la Ciudad Imperial.  Esta vasta red da a las Fuerzas de Seguridad del Emperador la capacidad de monitorear (y controlar) los [[Mundos del Núcleo]] y los Territorios Primarios de la República.  Ahora esta red está siendo expandida hacia los [[Territorios del Borde Exterior]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.7">
+      <segment state="translated">
+        <source>  The satellites are often hidden in asteroid fields or near uninhabited planets and protected by complex arrays of [[mines]].  Destruction of these satellites is extremely disruptive to Imperial control and is therefore aggressively pursued.$  In this mission your goal is to destroy all Imperial [[Transports]], [[Mines]] and[[ Satellites]].  Keep your shield strength up and bear in mind that a single laser blast will blow up a mine.$</source>
+        <target>  Los satélites suelen estar ocultos en campos de asteroides o cerca de planetas deshabitados y están protegidos por complejas mallas de [[minas]].  La destrucción de estos satélites trastorna extremadamente el control imperial y, por lo tanto, está agresivamente perseguida.$  En esta misión, tu objetivo es destruir todos los [[Transportes]], [[Minas]] y [[Satélites]] imperiales.  Mantén la energía de tus escudos alta y ten en cuenta que un solo disparo láser hará estallar una mina.$</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.0">
+      <segment>
+        <source>X-W Red 1 (YOU)</source>
+        <target>A-X Rojo 1 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.1">
+      <segment>
+        <source>Surveillance Satellites</source>
+        <target>Satélites de Vigilancia</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.2">
+      <segment>
+        <source>Coruscant</source>
+        <target>Coruscant</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.3">
+      <segment state="translated">
+        <source>HT-Mines</source>
+        <target>Minas R-T</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.4">
+      <segment>
+        <source>TRNs</source>
+        <target>TRNs</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.FG.10.Designation">
+      <segment state="translated">
+        <source>SENTINEL</source>
+        <target>CENTINELA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.satlit1.FG.12.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Mission.satlit1.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.satlit1.FG.1.Designation">
+      <segment state="translated">
+        <source>SENTINEL</source>
+        <target>CENTINELA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.satlit1.FG.2.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Mission.satlit1.CompletionMessage.0">
+      <segment state="translated">
+        <source>Nice work, Red Two</source>
+        <target>Buen trabajo, Rojo Dos.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.satlit1.CompletionMessage.1">
+      <segment state="translated">
+        <source>The Surveillance satellites have been destroyed</source>
+        <target>Los satélites de vigilancia han sido destruidos.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max5.Title">
+      <segment state="translated">
+        <source>Beat The Odds</source>
+        <target>Contra Todo Pronóstico</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max5.Description">
+      <segment state="translated">
+        <source>Rebel starfighter pilots
+almost always fight
+outnumbered by the 
+Empire by at least 
+three to one.  This 
+mission will teach you
+to beat these odds.</source>
+        <target>Los pilotos de cazas rebeldes
+casi siempre luchan en desventaja
+numérica frente al Imperio, que los
+supera en número por lo menos
+tres a uno. Esta misión te enseñará
+a superar estas situaciones imposibles.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.Text.1">
+      <segment state="translated">
+        <source>&gt;Beat The Odds</source>
+        <target>&gt;Contra Todo Pronóstico</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.Text.2">
+      <segment state="translated">
+        <source>X-wings from [[Red Squadron]] will test Imperial defenses near [[Circarpous IV]].</source>
+        <target>Alas-X del [[Escuadrón Rojo]] probarán las defensas imperiales cerca de [[Circarpous IV]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.Text.3">
+      <segment state="translated">
+        <source>You may expect to encounter [[TIE Fighters]] performing barrier defense.</source>
+        <target>Puedes esperar encontrarte con [[Cazas TIE]] en tareas de cordón defensivo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.Text.4">
+      <segment state="translated">
+        <source>  An X-wing starfighter and a highly trained pilot make a deadly combination.  Using a variation of the venerable [[hit and fade]] tactic, Rebel pilots are often able to lure superior numbers of enemy fighters to their doom.$  Imperial Rules of Combat Engagement demand a [[three to one]] ratio in their favor before attacking.  Your training will prepare you to overcome these odds, however!</source>
+        <target>  Un caza Ala-X y un piloto altamente entrenado forman una combinación mortal.  Utilizando una variante de la venerable táctica del [[ataque relámpago]], los pilotos rebeldes suelen ser capaces de llevar a grandes cantidades de cazas enemigos a su perdición.$  Los Reglamentos Imperiales de Enfrentamiento en Combate exigen una relación de [[tres a uno]] a su favor antes de atacar.  Sin embargo, ¡tu entrenamiento te preparará para superar esta desventaja!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.Text.5">
+      <segment state="translated">
+        <source>[[Engage]] and [[destroy]] the TIEs and then return to base.</source>
+        <target>[[Enfréntate]] y [[destruye]] los TIEs y entonces regresa a la base.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.Text.6">
+      <segment state="translated">
+        <source>  This mission recreates a feint into the Circarpous System to gauge Imperial defenses there. Taking the bait, a group of TIE fighters tangled with the three X-wings from [[Red Squadron]].[[ ]] They should have stayed at their base. All the TIE's were destroyed with no Rebel losses! Needless to say this left quite an impression on the people of the [[Circarpous System]].  Move quickly to engage and get your share of kills.</source>
+        <target>  Esta misión recrea una finta en el Sistema Circarpous para evaluar las defensas imperiales de ese lugar. Tras picar el anzuelo, un grupo de cazas TIE se enzarzó con los tres Alas-X del [[Escuadrón Rojo]]. Debieron haberse quedado en su base. ¡Todos los TIE fueron destruidos sin bajas rebeldes! Como no cabía duda, esto dejó una impresión notable entre los habitantes del [[Sistema Circarpous]].  Avanza rápidamente para entrar en combate y anotarte derribos a tu lista.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.Tag.0">
+      <segment>
+        <source>X-W Red 2 (YOU)</source>
+        <target>A-X Rojo 2 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.Tag.1">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.Tag.2">
+      <segment>
+        <source>Circarpous IV</source>
+        <target>Circarpous IV</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.FG.1.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.FG.2.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max5.FG.3.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max5.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max5.FG.1.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max5.FG.2.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max5.FG.3.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max5.CompletionMessage.0">
+      <segment state="translated">
+        <source>You beat the odds</source>
+        <target>Has vencido "contra todo pronóstico".</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max5.CompletionMessage.1">
+      <segment state="translated">
+        <source>Keep up the good work</source>
+        <target>Buen trabajo. Sigue así.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.Title">
+      <segment state="translated">
+        <source>Rescue At Mon Calamari</source>
+        <target>Rescate en Mon Calamari</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.Description">
+      <segment state="translated">
+        <source>This mission recreates one
+of the most spectacular
+life or death rescue missions
+in history.  Especially from
+the view of a particularly 
+daring X-wing pilot: 
+Halley Kadorto.</source>
+        <target>Esta misión revive una de las misiones
+de rescate más espectaculares en la historia,
+especialmente desde la perspectiva de un piloto
+Ala-X muy audaz: Halley Kadorto.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.1">
+      <segment>
+        <source>&gt;Rescue at Mon Calamari</source>
+        <target>&gt; Rescate en Mon Calamari</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.2">
+      <segment state="translated">
+        <source>Freighters bearing [[war materiel]] and [[slaves]] await a Star Destroyer.</source>
+        <target>Varios cargueros transportando [[material de guerra]] y [[esclavos]] esperan a un Destructor Estelar.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.3">
+      <segment state="translated">
+        <source>[[Alliance Freighters]] will arrive when the Calamarians have been located.</source>
+        <target>Unos [[Cargueros de la Alianza]] llegarán cuando los Calamarianos hayan sido localizados.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.4">
+      <segment state="translated">
+        <source>Beware, the [[Imperial Star Destroyer]] [[Warrior]] could arrive at any moment!</source>
+        <target>Ten cuidado, ¡el [[Destructor Estelar Imperial]] [[Guerrero]] podría llegar en cualquier momento!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.5">
+      <segment state="translated">
+        <source>  This mission recreates an incredible rescue operation with you in the role of one of our most daring X-wing pilots, [[Halley Kadorto]].$  Rebel Intelligence had gathered information of a secret rendezvous location where the Empire would be transferring Mon Calamari slaves and various war materiel to an arriving Star Destroyer.  A combined force of X-wings, Y-wings and Freighters was assembled for the mission.</source>
+        <target>  Esta misión recrea una impresionante operación de rescate en la que tú desempeñas el papel de uno de nuestros pilotos más audaces de Ala-X, [[Halley Kadorto]].$  La Inteligencia Rebelde había recopilado información sobre un punto de encuentro secreto donde el Imperio transferiría esclavos de Mon Calamari y diversos materiales de guerra a un destructor estelar en tránsito.  Se reunió una fuerza combinada de Alas-X, Alas-Y y Cargueros para la misión.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.6">
+      <segment state="translated">
+        <source>  [[Red Squadron's]] X-wings would first engage the TIE Fighter escorts, as [[Gold Squadron's]] Y-wings hypered in behind them to disable the Freighters.  Halley identified which craft were carrying slaves and the  Rebel Freighters were brought in to receive the liberated Calamarians.  The entire operation was planned to be safely concluded before the [[Star Destroyer Warrior]] could arrive.</source>
+        <target>  Los Alas-X del [[Escuadrón Rojo]] se enfrentarían primero a la escolta de Cazas TIE, mientras que los Alas-Y del [[Escuadrón Oro]] emergerían del hiperespacio detrás de ellos para incapacitar los cargueros.  Halley identificó qué naves llevaban esclavos y los Cargueros Rebeldes llegaron para recibir a los Calamarianos liberados.  Se planeó la operación entera para que concluyera con seguridad antes de que llegara el [[Destructor Estelar Guerrero]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.7">
+      <segment state="translated">
+        <source>  Unfortunately the [[Warrior]] arrived early and immediately launched an attack of its own.  It was soon realized that the Imperials were attacking their own slave ships!  Typical for the Empire, they would rather massacre thousands of innocent beings than let them fall into the hands of the enemy!$  One pilot, [[Halley Kadorto, ]]thwarted the ruthless assault by taking on wave after wave of TIE fighters.</source>
+        <target>  Desafortunadamente el [[Guerrero]] llegó temprano y lanzó inmediatamente un ataque propio.  ¡Nos dimos cuenta pronto que los Imperiales estaban atacando a sus propias naves de esclavos!  Típico del Imperio, ¡preferirían masacrar a miles de seres inocentes antes de dejarlos caer en manos del enemigo!$  Un piloto, [[Halley Kadorto]], frustró el cruel ataque eliminando oleada tras oleada de cazas TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.8">
+      <segment state="translated">
+        <source>A number of [[TIE Fighters]] are watching over the transfer of cargo.</source>
+        <target>Varios [[Cazas TIE]] están vigilando el trasbordo de la carga.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.9">
+      <segment state="translated">
+        <source>X-wings from [[Red Squadron]] will drop in here and engage the TIE Fighters.</source>
+        <target>Los Alas-X del [[Escuadrón Rojo]] emergerán aquí y se enfrentarán a los Cazas TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.10">
+      <segment state="translated">
+        <source>[[Destroy]] all war materiel containers and freighters before leaving.</source>
+        <target>[[Destruye]] todos los contenedores de material de guerra y cargueros antes de marcharte.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.11">
+      <segment state="translated">
+        <source>Y-wings from [[Gold Squadron]] will follow shortly to disable the freighters.</source>
+        <target>Alas-Y del [[Escuadrón Oro]] vendrán poco después para incapacitar los cargueros.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Text.12">
+      <segment state="translated">
+        <source>  For bravely saving so many lives Halley Kadorto received the [[Kalidor Crescent]]!  Can you do as well?$  Eliminate the escorts first and try to locate the [[Calamarians]] as quickly as possible.  You will have to fly your X-wing within [[0.02]] kilometers of each ship whose contents you want to identify.  Protect the Freighters while the transfer takes place then destroy the remaining Imperial war materiel before leaving.</source>
+        <target>  ¡Por haber salvado con valor tantas vidas, Halley Kadorto recibió la [[Media Luna de Kalidor]]! ¿Puedes igualar su hazaña?$  Elimina la escolta primero y trata de localizar a los [[Calamarianos]] lo antes posible.  Tendrás que volar tu Ala-X a menos de [[0.02]] kilómetros de cada nave cuyos contenidos desees identificar.  Protege los Cargueros mientras tenga lugar el tarsbordo, y luego destruye el material bélico imperial restante antes de marcharte.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.0">
+      <segment>
+        <source>X-W Red 2 (YOU)</source>
+        <target>A-X Rojo 2 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.1">
+      <segment>
+        <source>Y-W Gold</source>
+        <target>Ala-Y Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.2">
+      <segment state="translated">
+        <source>TIE Fighter Escort</source>
+        <target>Escolta de Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.3">
+      <segment>
+        <source>Cargo Containers</source>
+        <target>Contenedores de Carga</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.4">
+      <segment state="translated">
+        <source>Bulk Freighters</source>
+        <target>Cargueros Pesados</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.5">
+      <segment state="translated">
+        <source>FRT Citadel</source>
+        <target>CRG Ciudadela</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.6">
+      <segment state="translated">
+        <source>Mon Calamari</source>
+        <target>Mon Calamari</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.7">
+      <segment>
+        <source>Red Squadron</source>
+        <target>Escuadrón Rojo</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>GOLD</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.2.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.3.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.4.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.5.Designation">
+      <segment>
+        <source>XI</source>
+        <target>XI</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.5.Cargo">
+      <segment state="translated">
+        <source>DROIDS</source>
+        <target>DROIDES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.6.Designation">
+      <segment>
+        <source>PSI</source>
+        <target>PSI</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.6.Cargo">
+      <segment>
+        <source>Weapons</source>
+        <target>Armas</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.7.Designation">
+      <segment>
+        <source>WIGGINS</source>
+        <target>WIGGINS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.7.Cargo">
+      <segment state="translated">
+        <source>Calamari</source>
+        <target>Calamari</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.8.Designation">
+      <segment>
+        <source>BETAR</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.8.Cargo">
+      <segment>
+        <source>Weapons</source>
+        <target>Armas</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.9.Designation">
+      <segment>
+        <source>T-87</source>
+        <target>T-87</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.10.Designation">
+      <segment>
+        <source>T-85</source>
+        <target>T-85</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.11.Designation">
+      <segment state="translated">
+        <source>CITADEL 2</source>
+        <target>CIUDADELA 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.12.Designation">
+      <segment state="translated">
+        <source>CITADEL 1</source>
+        <target>CIUDADELA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.13.Designation">
+      <segment>
+        <source>WARRIOR</source>
+        <target>GUERRERO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.14.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.15.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.halley.FG.16.Designation">
+      <segment state="translated">
+        <source>N</source>
+        <target>N</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.2.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.3.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.4.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.5.Designation">
+      <segment state="translated">
+        <source>XI</source>
+        <target>XI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.5.Cargo">
+      <segment>
+        <source>DROIDS</source>
+        <target>DROIDES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.5.SpecialCargo">
+      <segment>
+        <source>CALAMARI</source>
+        <target>CALAMARI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.6.Designation">
+      <segment>
+        <source>PSI</source>
+        <target>PSI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.6.Cargo">
+      <segment>
+        <source>Weapons</source>
+        <target>Armas</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.6.SpecialCargo">
+      <segment state="translated">
+        <source>Shield Gens</source>
+        <target>Gen. de Escudos</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.7.Designation">
+      <segment>
+        <source>WIGGINS</source>
+        <target>WIGGINS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.7.Cargo">
+      <segment state="translated">
+        <source>Calamari</source>
+        <target>Calamari</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.7.SpecialCargo">
+      <segment state="translated">
+        <source>Calamari</source>
+        <target>Calamari</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.8.Designation">
+      <segment>
+        <source>BETAR</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.8.Cargo">
+      <segment>
+        <source>Weapons</source>
+        <target>Armas</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.8.SpecialCargo">
+      <segment>
+        <source>Weapons</source>
+        <target>Armas</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.9.Designation">
+      <segment>
+        <source>T-87</source>
+        <target>T-87</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.10.Designation">
+      <segment>
+        <source>T-85</source>
+        <target>T-85</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.11.Designation">
+      <segment state="translated">
+        <source>CITADEL 2</source>
+        <target>CIUDADELA 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.12.Designation">
+      <segment state="translated">
+        <source>CITADEL 1</source>
+        <target>CIUDADELA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.13.Designation">
+      <segment>
+        <source>WARRIOR</source>
+        <target>GUERRERO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.14.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.FG.15.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.CompletionMessage.0">
+      <segment state="translated">
+        <source>Hooray! All Calamari prisoners have been rescued!</source>
+        <target>¡Hurra! ¡Todos los prisioneros Calamarianos han sido rescatados!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.CompletionMessage.1">
+      <segment state="translated">
+        <source>Well done, Red Two!</source>
+        <target>¡Bien hecho, Rojo Dos!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.halley.CompletionMessage.2">
+      <segment state="translated">
+        <source>Back to mothership and lets celebrate!</source>
+        <target>¡Volvamos a la nave nodriza y celebremos!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.Title">
+      <segment state="translated">
+        <source>Farlander's First Mission</source>
+        <target>La Primera Misión de Farlander</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.Description">
+      <segment state="translated">
+        <source>This mission will teach
+you the importance of
+teamwork in a complicated
+operation to capture secret
+Imperial documents.</source>
+        <target>Esta misión te enseñará la
+importancia del trabajo en equipo
+en una operación complicada para
+capturar documentos secretos imperiales.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.1">
+      <segment state="translated">
+        <source>&gt;Farlander's First Mission</source>
+        <target>&gt;La Primera Misión de Farlander</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.2">
+      <segment state="translated">
+        <source>An Imperial Corvette will be stopping near [[Turkana]] in the [[Hadar]] sector.</source>
+        <target>Una Corbeta Imperial se detendrá cerca de [[Turkana]] en el sector de [[Hadar]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.3">
+      <segment state="translated">
+        <source>The Alliance Frigate [[Liberator]] will pop up here to draw off its escorts.</source>
+        <target>La Fragata de la Alianza [[Libertadora]] emergerá aquí para atraer a sus escoltas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.4">
+      <segment state="translated">
+        <source>[[Blue Squadron]] will drop in behind the TIEs to make a surprise flank attack.</source>
+        <target>El [[Escuadrón Azul]] lanzará un ataque sorpresa por el flanco detrás de los TIEs.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.5">
+      <segment state="translated">
+        <source>  This mission recreates the famous first mission of [[Keyan Farlander]].  Though still in training, his natural skill earned him an invitation to volunteer for what turned out to be a very vital mission.$  In the event, he proved himself quite capable in combat.  In addition, he was personally responsible for recovering some extremely valuable Imperial documents.</source>
+        <target>  Esta misión recrea la famosa primera misión de [[Keyan Farlander]].  A pesar de estar aún en formación, su habilidad natural le valió una invitación para ir voluntario para lo que resultó ser una misión muy importante.$  Durante la misma demostró ser muy capaz en combate.  Además, fue personalmente responsable de recuperar algunos documentos imperiales extremadamente valiosos.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.6">
+      <segment state="translated">
+        <source>  Alliance Intelligence had discovered elaborate precautions being taken to make a particular Imperial Corvette seem unimportant.  At the risk of blowing their cover our agents determined that the ship would have extremely important contents, possibly [[Darth Vader]] himself!  Furthermore, it would have a skeleton crew and minimal escort.  It was scheduled to make one stop near lightly defended [[Turkana ]]in the[[ Hadar Sector]].</source>
+        <target>  La Inteligencia de la Alianza había descubierto precauciones elaboradas para hacer que una Corbeta Imperial pareciera insignificante.  Bajo el riesgo de desenmascararse, nuestros agentes determinaron que la nave tendría una carga extremadamente importante, ¡posiblemente incluso al mismo [[Darth Vader]]! Además, tendría una tripulación mínima y mínima escolta.  Estaba programado que hiciera una parada cerca del indefenso [[Turkana]] en el sector [[Hadar]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.7">
+      <segment state="translated">
+        <source>  In the position of Keyan in [[Red Squadron]], you will be protecting [[Gold Squadron's]] Y-wings while they disable the [[Imperial Corvette]].  Then you will help maintain security in the area while the [[Storm Unit Commandos]] conduct their boarding raid.$  Feel free to assist the Y-wings in bringing down the Corvette's shields. If all goes well and you have time, you may join up with [[Blue Squadron ]]to mop up the remaining escorts.</source>
+        <target>  En la piel de Keyan del [[Escuadrón Rojo]], protegerás a los Alas-Y del [[Escuadrón Oro]] mientras incapacitan la [[Corbeta imperial]].  Después, ayudarás a mantener la seguridad en la zona mientras que los [[Comandos]] de la [[Unidad de Asalto]] realizan su asalto de abordaje.$  No dudes en ayudar a los Alas-Y a reducir los escudos de la Corbeta. Si todo sale bien y tienes tiempo, puedes unirte al [[Escuadrón Azul]] para eliminar los restos de la escolta.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.8">
+      <segment state="translated">
+        <source>Y-wings from [[Gold Squadron]] will come in and disable the Corvette.</source>
+        <target>Alas-Y del [[Escuadrón Oro]] vendrán e incapacitarán la Corbeta.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.9">
+      <segment state="translated">
+        <source>Once disabled the [[Storm Unit's Commandos]] will conduct the boarding.</source>
+        <target>Una vez incapacitada, los [[comandos]] de la [[Unidad de Asalto]] realizarán el abordaje.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.10">
+      <segment state="translated">
+        <source>Throughout the attack [[Red Squadron]] will protect Gold and Storm Unit.</source>
+        <target>A lo largo del ataque el [[Escuadrón Rojo]] protegerá a Oro y a la Unidad de Asalto.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.0">
+      <segment>
+        <source>X-W Red 2 (YOU)</source>
+        <target>A-X Rojo 2 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.1">
+      <segment>
+        <source>X-W Blue</source>
+        <target>A-X Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.2">
+      <segment state="translated">
+        <source>FRG Liberator</source>
+        <target>FRA Libertadora</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.3">
+      <segment>
+        <source>Imperial Corvette</source>
+        <target>Corbeta Imperial</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.4">
+      <segment>
+        <source>Y-W Gold</source>
+        <target>A-Y Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.5">
+      <segment state="translated">
+        <source>TIE Escorts</source>
+        <target>Escolta de TIEs</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.6">
+      <segment state="translated">
+        <source>Storm Unit</source>
+        <target>Unidad de Asalto</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.7">
+      <segment>
+        <source>Turkana</source>
+        <target>Turkana</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.1.Designation">
+      <segment>
+        <source>RED 3</source>
+        <target>ROJO 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.2.Designation">
+      <segment>
+        <source>RED 4</source>
+        <target>ROJO 4</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.3.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.4.Designation">
+      <segment state="translated">
+        <source>LIBERATOR</source>
+        <target>LIBERTADORA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.5.Designation">
+      <segment state="translated">
+        <source>TALON</source>
+        <target>GARRA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.5.Cargo">
+      <segment>
+        <source>HOLOS</source>
+        <target>HOLOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.6.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.7.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.8.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.9.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.10.Designation">
+      <segment>
+        <source>GOLD 1</source>
+        <target>ORO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.11.Designation">
+      <segment>
+        <source>GOLD 2</source>
+        <target>ORO 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.12.Designation">
+      <segment state="translated">
+        <source>STORM UNIT</source>
+        <target>UNIDAD DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.12.Cargo">
+      <segment>
+        <source>COMMANDOS</source>
+        <target>COMANDOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.13.Designation">
+      <segment state="translated">
+        <source>TURKANA</source>
+        <target>TURKANA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.1.Designation">
+      <segment>
+        <source>RED 3</source>
+        <target>ROJO 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.2.Designation">
+      <segment>
+        <source>RED 4</source>
+        <target>ROJO 4</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.3.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.4.Designation">
+      <segment state="translated">
+        <source>LIBERATOR</source>
+        <target>LIBERTADORA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.5.Designation">
+      <segment state="translated">
+        <source>TALON</source>
+        <target>GARRA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.5.Cargo">
+      <segment>
+        <source>HOLOS</source>
+        <target>HOLOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.6.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.7.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.8.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.9.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.10.Designation">
+      <segment>
+        <source>GOLD 1</source>
+        <target>ORO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.11.Designation">
+      <segment>
+        <source>GOLD 2</source>
+        <target>ORO 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.12.Designation">
+      <segment state="translated">
+        <source>STORM UNIT</source>
+        <target>UNIDAD DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.FG.12.Cargo">
+      <segment>
+        <source>COMMANDOS</source>
+        <target>COMANDOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.CompletionMessage.0">
+      <segment state="translated">
+        <source>The Storm Units have confiscated all Imperial Holo discs</source>
+        <target>La Unidad de Asalto han confiscado todos los holodiscos imperiales.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.keyan.CompletionMessage.1">
+      <segment state="translated">
+        <source>Another victory for the Alliance</source>
+        <target>Otra victoria para la Alianza.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

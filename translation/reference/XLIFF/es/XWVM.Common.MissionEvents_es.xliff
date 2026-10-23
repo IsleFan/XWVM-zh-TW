@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en" trgLang="en">
+  <file id="XWVM.Common.MissionEvents">
+    <!-- Simple Events -->
+    <unit id="MissionStart">
+      <segment>
+        <source>[[Mission started]]</source>
+        <target>[[Mission iniciada]]</target>
+      </segment>
+    </unit>
+    <unit id="MissionComplete">
+      <segment>
+        <source>[[Mission complete]]</source>
+        <target>[[Mission completada]]</target>
+      </segment>
+    </unit>
+    <unit id="MissionFailed">
+      <segment>
+        <source>[[Mission failed]]</source>
+        <target>[[Mission fracasada]]</target>
+      </segment>
+    </unit>
+    <unit id="ReinforcementRequest">
+      <segment>
+        <source>[[Request for reinforcements acknowledged]]</source>
+        <target>[[Petición de refuerzos recibida]]</target>
+      </segment>
+    </unit>
+    
+    <!-- Ship Arrival Events -->
+    <unit id="Arrived_SameIff_Group">
+      <segment>
+        <source>[[{species.ABBR}]] group [[{designation}]] entered sector at [[{distance} km]]</source>
+        <target>Grupo [[{designation}]] de [[{species.ABBR}]] ha entrado al sector a [[{distance} km]]</target>
+      </segment>
+    </unit>
+    <unit id="Arrived_SameIff_Single">
+      <segment>
+        <source>[[{species.ABBR} {designation}]] entered sector at [[{distance} km]]</source>
+        <target>[[{species.ABBR} {designation}]] ha entrado al sector a [[{distance} km]]</target>
+      </segment>
+    </unit>
+    <unit id="Arrived_DifferentIff_Single">
+      <segment>
+        <source>A new [[{species.ONE}]] entered sector at [[{distance} km]]</source>
+        <target>{species.GENDER:choose(M|F):Un nuevo|Una nueva} [[{species.ONE}]] ha entrado al sector a [[{distance} km]]</target>
+      </segment>
+    </unit>
+    <unit id="Arrived_DifferentIff_Group">
+      <segment>
+        <source>[[{waveSize}]] new [[{species.OTHER}]] entered sector at [[{distance} km]]</source>
+        <target>[[{waveSize}]] {species.GENDER:choose(M|F):nuevos|nuevas} [[{species.OTHER}]] han entrado al sector a [[{distance} km]]</target>
+      </segment>
+    </unit>
+
+    <!-- Single Entity Events -->
+    <unit id="EnteredHangar">
+      <segment>
+        <source>[[{species.ABBR} {designation}]] entered hangar</source>
+        <target>[[{species.ABBR} {designation}]] ha entrado al hangar</target>
+      </segment>
+    </unit>
+    <unit id="EnteredHyperspace">
+      <segment>
+        <source>[[{species.ABBR} {designation}]] has entered hyperspace</source>
+        <target>[[{species.ABBR} {designation}]] ha entrado al hiperespacio</target>
+      </segment>
+    </unit>
+    <unit id="Destroyed">
+      <segment>
+        <source>[[{species.ABBR} {designation}]] has been [[destroyed]]</source>
+        <target>[[{species.ABBR} {designation}]] ha sido [[{species.GENDER:choose(M|F):destruido|destruida}]]</target>
+      </segment>
+    </unit>
+    <unit id="Disabled">
+      <segment>
+        <source>[[{species.ABBR} {designation}]] has been [[disabled]]</source>
+        <target>[[{species.ABBR} {designation}]] ha sido [[{species.GENDER:choose(M|F):incapacitado|incapacitada}]]</target>
+      </segment>
+    </unit>
+    <unit id="Identified">
+      <segment>
+        <source>[[{species.ABBR} {designation}]] has been [[identified]]</source>
+        <target>[[{species.ABBR} {designation}]] ha sido [[{species.GENDER:choose(M|F):identificado|identificada}]]</target>
+      </segment>
+    </unit>
+    <unit id="DockingComplete">
+      <segment>
+        <source>[[{species.ABBR} {designation}]] reports docking operation complete</source>
+        <target>[[{species.ABBR} {designation}]] reporta operación de acoplamiento completada</target>
+      </segment>
+    </unit>
+    <unit id="SurfaceObjectDestroyed">
+      <segment>
+        <source>Surface object has been [[destroyed]]</source>
+        <target>Objeto de superficie [[destruido]]</target>
+      </segment>
+    </unit>
+
+    <!-- Multi-Entity Events -->
+    <unit id="Docked">
+      <segment>
+        <source>[[{agent.species.ABBR} {agent.designation}]] has docked with [[{subject.species.ABBR} {subject.designation}]]</source>
+        <target>[[{agent.species.ABBR} {agent.designation}]] se ha acoplado con [[{subject.species.ABBR} {subject.designation}]]</target>
+      </segment>
+    </unit>
+    <unit id="Captured">
+      <segment>
+        <source>[[{subject.species.ABBR} {subject.designation}]] has been [[captured]] by [[{agent.species.ABBR} {agent.designation}]]</source>
+        <target>[[{subject.species.ABBR} {subject.designation}]] ha sido [[{subject.species.GENDER:choose(M|F):capturado|capturada}]] por [[{agent.species.ABBR} {agent.designation}]]</target>
+      </segment>
+    </unit>
+    <unit id="Repaired">
+      <segment>
+        <source>[[{subject.species.ABBR} {subject.designation}]] has been [[repaired]] by [[{agent.species.ABBR} {agent.designation}]]</source>
+        <target>[[{subject.species.ABBR} {subject.designation}]] ha sido [[{subject.species.GENDER:choose(M|F):reparado|reparada}]] por [[{agent.species.ABBR} {agent.designation}]]</target>
+      </segment>
+    </unit>
+    <unit id="ComponentDestruction">
+      <segment>
+        <source>[[{agent.designation}]] destroyed [[{subject.designation}]]'s component #[[{componentNo}]]</source>
+        <target>[[{agent.designation}]] ha destruido el componente num. [[{componentNo}]] de [[{subject.designation}]]</target>
+      </segment>
+    </unit>
+
+    <!-- System Events -->
+    <unit id="SystemDamaged">
+      <segment>
+        <source>[[{systemName}]]: damaged and [[inoperative]]!</source>
+        <target>¡[[{systemName}]]: dañado e [[inoperativo]]!</target>
+      </segment>
+    </unit>
+    <unit id="SystemRepaired">
+      <segment>
+        <source>[[{systemName}: repaired]]!</source>
+        <target>¡[[{systemName}: reparado]]!</target>
+      </segment>
+    </unit>
+
+    <!-- Sensor/Detection Events -->
+    <unit id="EntityPresenceDetected">
+      <segment>
+        <source>[[{detector.designation}]] detects [[{detected.designation}]] at sensor [[{sensorId}]]</source>
+        <target>[[{detector.designation}]] detecta a [[{detected.designation}]] en sensor [[{sensorId}]]</target>
+      </segment>
+    </unit>
+    <unit id="PPGGateVisited">
+      <segment>
+        <source>[[{runnerId}]] visits [[{platformId}]]'s gate [[{gateNo}]]</source>
+        <target>[[{runnerId}]] visita puerta [[{gateNo}]] de [[{platformId}]]</target>
+      </segment>
+    </unit>
+
+    <!-- Weapon Events -->
+    <unit id="WeaponFired">
+      <segment>
+        <source>Weapon firing event {agent.designation} {projectile}</source>
+        <target>Evento de disparo de arma {agent.designation} {projectile}</target>
+      </segment>
+    </unit>
+    <unit id="WeaponHit">
+      <segment>
+        <source>Weapon impact event {agent.designation} {projectile} {subject.designation}</source>
+        <target>Evento de impacto de arma {agent.designation} {projectile} {subject.designation}</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

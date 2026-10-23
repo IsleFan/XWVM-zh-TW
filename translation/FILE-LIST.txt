@@ -1,0 +1,39 @@
+XWVM zh-TW 可翻譯資源：最小來源檔清單
+來源根目錄: /Library/Application Support/XWVM Team/XWVM/StreamingAssets/Localization
+以下僅文字資源，未複製遊戲程式或完整商業素材。
+bytes	entries	nonempty_sources	source	editable_file
+18472	100	100	XLIFF/es/XWVM.Common.CombatVocab_es.xliff	translate/04_smart_strings/XWVM.Common.CombatVocab.xliff.json
+18160	94	94	XLIFF/es/XWVM.Common.Hangar_es.xliff	translate/04_smart_strings/XWVM.Common.Hangar.xliff.json
+7078	25	25	XLIFF/es/XWVM.Common.MissionEvents_es.xliff	translate/02_common/XWVM.Common.MissionEvents.xliff.json
+11647	38	38	XLIFF/es/XWVM.Common.PlayerActions_es.xliff	translate/04_smart_strings/XWVM.Common.PlayerActions.xliff.json
+11596	56	56	XLIFF/es/XWVM.Common.RanksAwards_es.xliff	translate/02_common/XWVM.Common.RanksAwards.xliff.json
+18778	80	80	XLIFF/es/XWVM.Common.Rooms_es.xliff	translate/02_common/XWVM.Common.Rooms.xliff.json
+2600	13	13	XLIFF/es/XWVM.Common.System.TacticalDisplay_es.xliff	translate/02_common/XWVM.Common.System.TacticalDisplay.xliff.json
+5683	34	32	XLIFF/es/XWVM.Common.System.TargetComponents_es.xliff	translate/02_common/XWVM.Common.System.TargetComponents.xliff.json
+41665	207	207	XLIFF/es/XWVM.Common.TriggersAndGoals_es.xliff	translate/04_smart_strings/XWVM.Common.TriggersAndGoals.xliff.json
+804	5	5	XLIFF/es/XWVM.Core.Games_es.xliff	translate/01_ui_and_xwing/XWVM.Core.Games.xliff.json
+139560	475	454	XLIFF/es/XWVM.UI.EscMenu_es.xliff	translate/01_ui_and_xwing/XWVM.UI.EscMenu.xliff.json
+9630	34	34	XLIFF/es/XWVM.UI.GameLibrary_es.xliff	translate/01_ui_and_xwing/XWVM.UI.GameLibrary.xliff.json
+19870	95	95	XLIFF/es/XWVM.xwing.ClipSubtitles_es.xliff	translate/01_ui_and_xwing/XWVM.xwing.ClipSubtitles.xliff.json
+43228	177	177	XLIFF/es/XWVM.xwing.Concourse_es.xliff	translate/01_ui_and_xwing/XWVM.xwing.Concourse.xliff.json
+68129	302	302	XLIFF/es/XWVM.xwing.OriginalStrings_es.acombat.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.acombat.xliff.json
+83963	352	352	XLIFF/es/XWVM.xwing.OriginalStrings_es.bcombat.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.bcombat.xliff.json
+104432	454	454	XLIFF/es/XWVM.xwing.OriginalStrings_es.bonus.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.bonus.xliff.json
+14570	78	78	XLIFF/es/XWVM.xwing.OriginalStrings_es.credits.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.credits.xliff.json
+34535	147	147	XLIFF/es/XWVM.xwing.OriginalStrings_es.cutscenes.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.cutscenes.xliff.json
+1613	2	2	XLIFF/es/XWVM.xwing.OriginalStrings_es.intro.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.intro.xliff.json
+6135	16	16	XLIFF/es/XWVM.xwing.OriginalStrings_es.ppg.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.ppg.xliff.json
+136918	627	627	XLIFF/es/XWVM.xwing.OriginalStrings_es.tour1.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.tour1.xliff.json
+130420	594	594	XLIFF/es/XWVM.xwing.OriginalStrings_es.tour2.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.tour2.xliff.json
+135957	634	634	XLIFF/es/XWVM.xwing.OriginalStrings_es.tour3.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.tour3.xliff.json
+389252	1728	1728	XLIFF/es/XWVM.xwing.OriginalStrings_es.tour4.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.tour4.xliff.json
+379972	1694	1694	XLIFF/es/XWVM.xwing.OriginalStrings_es.tour5.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.tour5.xliff.json
+60048	237	237	XLIFF/es/XWVM.xwing.OriginalStrings_es.xcombat.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.xcombat.xliff.json
+70174	301	301	XLIFF/es/XWVM.xwing.OriginalStrings_es.ycombat.xliff	translate/03_original_game/XWVM.xwing.OriginalStrings.ycombat.xliff.json
+9865	35	35	XLIFF/es/XWVM.xwing.PilotLogMerits_es.xliff	translate/01_ui_and_xwing/XWVM.xwing.PilotLogMerits.xliff.json
+9862	30	30	XLIFF/es/XWVM.xwing.Tips_es.xliff	translate/01_ui_and_xwing/XWVM.xwing.Tips.xliff.json
+2384	13	13	XLIFF/es/XWVM.xwing.TourNames_es.xliff	translate/01_ui_and_xwing/XWVM.xwing.TourNames.xliff.json
+4873	714	286	CSV/XWVM.xwing.Species_en.csv	translate/05_species/XWVM.xwing.Species.csv.json
+
+32 個來源檔共 1,991,873 bytes；另附授權文字 1,066 bytes。
+資料原文來自已安裝 XWVM。不是從本機已註冊版本即時匯出的逐字完整清單。

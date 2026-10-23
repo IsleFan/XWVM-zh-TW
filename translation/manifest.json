@@ -1,0 +1,265 @@
+{
+  "version": 1,
+  "source_install": "/Library/Application Support/XWVM Team/XWVM/StreamingAssets/Localization",
+  "app_version": "1.0.20260923.2004",
+  "scope": "Installed XWVM Spanish-template English sources, excluding TIE Fighter; English X-Wing species metadata.",
+  "native_import_verified": false,
+  "files": [
+    {
+      "source": "XLIFF/es/XWVM.Common.CombatVocab_es.xliff",
+      "bytes": 18472,
+      "sha256": "7a5512d7aa04fdd093a13020439b6f814b0b2c984fe17044a16713e83d1a8989",
+      "translation": "04_smart_strings/XWVM.Common.CombatVocab.xliff.json",
+      "entries": 100,
+      "nonempty_sources": 100
+    },
+    {
+      "source": "XLIFF/es/XWVM.Common.Hangar_es.xliff",
+      "bytes": 18160,
+      "sha256": "05b2a8183e42a448c90f35c611dc60f90e2bf8d4a18716c4d8e54fc38f5fd666",
+      "translation": "04_smart_strings/XWVM.Common.Hangar.xliff.json",
+      "entries": 94,
+      "nonempty_sources": 94
+    },
+    {
+      "source": "XLIFF/es/XWVM.Common.MissionEvents_es.xliff",
+      "bytes": 7078,
+      "sha256": "6e4d5dc60d81df6ab5edc056977d4786cd64c955b227748e816f937ed6f01880",
+      "translation": "02_common/XWVM.Common.MissionEvents.xliff.json",
+      "entries": 25,
+      "nonempty_sources": 25
+    },
+    {
+      "source": "XLIFF/es/XWVM.Common.PlayerActions_es.xliff",
+      "bytes": 11647,
+      "sha256": "b02f62e5596535ed82cca3043d6f9766509acb1554e2eb6f645bb7f3aeff8b4e",
+      "translation": "04_smart_strings/XWVM.Common.PlayerActions.xliff.json",
+      "entries": 38,
+      "nonempty_sources": 38
+    },
+    {
+      "source": "XLIFF/es/XWVM.Common.RanksAwards_es.xliff",
+      "bytes": 11596,
+      "sha256": "b4ce418e6d4faa774861f4c29ff10e46bae528665d5462a1f79019b714f4917a",
+      "translation": "02_common/XWVM.Common.RanksAwards.xliff.json",
+      "entries": 56,
+      "nonempty_sources": 56
+    },
+    {
+      "source": "XLIFF/es/XWVM.Common.Rooms_es.xliff",
+      "bytes": 18778,
+      "sha256": "9f7380e3dd657dd271d494576601bd3f0d96af32f0b0ec58c1651bb283bee714",
+      "translation": "02_common/XWVM.Common.Rooms.xliff.json",
+      "entries": 80,
+      "nonempty_sources": 80
+    },
+    {
+      "source": "XLIFF/es/XWVM.Common.System.TacticalDisplay_es.xliff",
+      "bytes": 2600,
+      "sha256": "0a1f1e66ab7b59021f55dfc6f19ae63fc35c4b683a98b5ce42bf0187ccff5930",
+      "translation": "02_common/XWVM.Common.System.TacticalDisplay.xliff.json",
+      "entries": 13,
+      "nonempty_sources": 13
+    },
+    {
+      "source": "XLIFF/es/XWVM.Common.System.TargetComponents_es.xliff",
+      "bytes": 5683,
+      "sha256": "1fdb96fe69f299ecf0522e6ee43902622f451b08b46ca5ff4a97c58b7a00458e",
+      "translation": "02_common/XWVM.Common.System.TargetComponents.xliff.json",
+      "entries": 34,
+      "nonempty_sources": 32
+    },
+    {
+      "source": "XLIFF/es/XWVM.Common.TriggersAndGoals_es.xliff",
+      "bytes": 41665,
+      "sha256": "36f92c0feb12785fc3288b1519a167eb7706d390ceb633d53a23478107aa33c8",
+      "translation": "04_smart_strings/XWVM.Common.TriggersAndGoals.xliff.json",
+      "entries": 207,
+      "nonempty_sources": 207
+    },
+    {
+      "source": "XLIFF/es/XWVM.Core.Games_es.xliff",
+      "bytes": 804,
+      "sha256": "8cc5faac70f7e6f70ef2cd1347ac19d159e5f98dd6a5f7e1c24abbc39cf70ce4",
+      "translation": "01_ui_and_xwing/XWVM.Core.Games.xliff.json",
+      "entries": 5,
+      "nonempty_sources": 5
+    },
+    {
+      "source": "XLIFF/es/XWVM.UI.EscMenu_es.xliff",
+      "bytes": 139560,
+      "sha256": "59c2709f78e65ff85208f3f46ecef2adf91eb37d32543c7a46f6d76591316b1f",
+      "translation": "01_ui_and_xwing/XWVM.UI.EscMenu.xliff.json",
+      "entries": 475,
+      "nonempty_sources": 454
+    },
+    {
+      "source": "XLIFF/es/XWVM.UI.GameLibrary_es.xliff",
+      "bytes": 9630,
+      "sha256": "1abe79b96a12005b41e69cd5bb78291e0a3eaf290dd28a8d33d691c3329f50bf",
+      "translation": "01_ui_and_xwing/XWVM.UI.GameLibrary.xliff.json",
+      "entries": 34,
+      "nonempty_sources": 34
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.ClipSubtitles_es.xliff",
+      "bytes": 19870,
+      "sha256": "19f9eae3ac593ea818eb9ea1e204d726c44c25ff63c48229033706b55a9f7262",
+      "translation": "01_ui_and_xwing/XWVM.xwing.ClipSubtitles.xliff.json",
+      "entries": 95,
+      "nonempty_sources": 95
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.Concourse_es.xliff",
+      "bytes": 43228,
+      "sha256": "1f2263e9e1cbe8724ad7d4b7bc165898e5aac7e13cf9ceb3df7c2e7bd03af37a",
+      "translation": "01_ui_and_xwing/XWVM.xwing.Concourse.xliff.json",
+      "entries": 177,
+      "nonempty_sources": 177
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.acombat.xliff",
+      "bytes": 68129,
+      "sha256": "51cdc6cb4101747a270b470d271425f8243f3f192cde40e8baf7cc5c7ced62b2",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.acombat.xliff.json",
+      "entries": 302,
+      "nonempty_sources": 302
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.bcombat.xliff",
+      "bytes": 83963,
+      "sha256": "abd172dbf69a7842aab9c6b715b796c13a04335779e2ae89916401783265488e",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.bcombat.xliff.json",
+      "entries": 352,
+      "nonempty_sources": 352
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.bonus.xliff",
+      "bytes": 104432,
+      "sha256": "2482c4da7e12d2d7a7aed265f44e29536f910cf6e707b3fc1900bed4253cc2ce",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.bonus.xliff.json",
+      "entries": 454,
+      "nonempty_sources": 454
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.credits.xliff",
+      "bytes": 14570,
+      "sha256": "4f8e512d42aaf9e87954680fcec43a7f271345d7b5e3bb1dd3ffda28f8f545af",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.credits.xliff.json",
+      "entries": 78,
+      "nonempty_sources": 78
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.cutscenes.xliff",
+      "bytes": 34535,
+      "sha256": "2af8c564071670094548b62ec245997d4263cd889b7e4e1899a2d6ac84f64954",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.cutscenes.xliff.json",
+      "entries": 147,
+      "nonempty_sources": 147
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.intro.xliff",
+      "bytes": 1613,
+      "sha256": "8c362d78cd2e74fc27ad31a11a00f9839d732da359badb8a985cfaf5186a83bc",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.intro.xliff.json",
+      "entries": 2,
+      "nonempty_sources": 2
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.ppg.xliff",
+      "bytes": 6135,
+      "sha256": "1222dc695fe487c39c47dd1ac2be47fc11ec1f282bf04edb056f3dfc0c422e86",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.ppg.xliff.json",
+      "entries": 16,
+      "nonempty_sources": 16
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.tour1.xliff",
+      "bytes": 136918,
+      "sha256": "502edb6d32a55ad734d57ade047b34d580ed9b6838ecfb688ee2618d9aea3ba9",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.tour1.xliff.json",
+      "entries": 627,
+      "nonempty_sources": 627
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.tour2.xliff",
+      "bytes": 130420,
+      "sha256": "fe7a931939407c801082eed1a36e417eefafc6dffe52d8a04c20af1779e3a521",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.tour2.xliff.json",
+      "entries": 594,
+      "nonempty_sources": 594
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.tour3.xliff",
+      "bytes": 135957,
+      "sha256": "a1d7dcbed5b099d7170c86d3ded2f140adcd859571430a8ca54db53745e38a32",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.tour3.xliff.json",
+      "entries": 634,
+      "nonempty_sources": 634
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.tour4.xliff",
+      "bytes": 389252,
+      "sha256": "e1dd12bf5f215b16e5818af8045419947986fa0f6d5cae238d2c32168cc662c6",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.tour4.xliff.json",
+      "entries": 1728,
+      "nonempty_sources": 1728
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.tour5.xliff",
+      "bytes": 379972,
+      "sha256": "eb57a79c64ef74b6d53db614fc0bdda261a074b093080e5574db3b6a7a8b4272",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.tour5.xliff.json",
+      "entries": 1694,
+      "nonempty_sources": 1694
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.xcombat.xliff",
+      "bytes": 60048,
+      "sha256": "2d5c13ca0793b3448ac5a9fd2d32b2ce730584ab4a0d9b0b2a544093dfc5f0f1",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.xcombat.xliff.json",
+      "entries": 237,
+      "nonempty_sources": 237
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.OriginalStrings_es.ycombat.xliff",
+      "bytes": 70174,
+      "sha256": "e78ee417492d476bbd66749caae37e4afa856b90e41deb8e385da67def3d461c",
+      "translation": "03_original_game/XWVM.xwing.OriginalStrings.ycombat.xliff.json",
+      "entries": 301,
+      "nonempty_sources": 301
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.PilotLogMerits_es.xliff",
+      "bytes": 9865,
+      "sha256": "ad2980f590f0ed336f79752a52693b0e40b2cc1a1095336efffb5b74d8488a2f",
+      "translation": "01_ui_and_xwing/XWVM.xwing.PilotLogMerits.xliff.json",
+      "entries": 35,
+      "nonempty_sources": 35
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.Tips_es.xliff",
+      "bytes": 9862,
+      "sha256": "29826a7b6a75b3f734ae31fa1e5defad2182ae2a4a464de5f11aa016dce6914a",
+      "translation": "01_ui_and_xwing/XWVM.xwing.Tips.xliff.json",
+      "entries": 30,
+      "nonempty_sources": 30
+    },
+    {
+      "source": "XLIFF/es/XWVM.xwing.TourNames_es.xliff",
+      "bytes": 2384,
+      "sha256": "777c1c06669820f11b4f17f7baa36af3714f9e51ba25d79a35d6462ff8c2f2b3",
+      "translation": "01_ui_and_xwing/XWVM.xwing.TourNames.xliff.json",
+      "entries": 13,
+      "nonempty_sources": 13
+    },
+    {
+      "source": "CSV/XWVM.xwing.Species_en.csv",
+      "bytes": 4873,
+      "sha256": "0edb59920cae9e4d15193d0dbb4f38d95ae8c784530c5c3041205332a7ad03e3",
+      "translation": "05_species/XWVM.xwing.Species.csv.json",
+      "entries": 714,
+      "nonempty_sources": 286
+    }
+  ]
+}

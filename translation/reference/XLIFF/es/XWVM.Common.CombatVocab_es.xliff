@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" trgLang="es">
+	<file id="XWVM.Common.CombatVocab" srcLang="en" trgLang="es">
+		<unit id="UnknownFg">
+			<notes>
+				<note>As in Unknown Flight group</note>
+			</notes>
+			<segment>
+				<source>Unknown</source>
+				<target>Desconocid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<!-- This one gets species metadata in case it needs gender or definite article variations -->
+		<unit id="UnknownCraft">
+			<notes>
+				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
+			</notes>
+			<segment>
+				<source>Unknown</source>
+				<target>Desconocid{GENDER:choose(M|F):o|a}</target>
+			</segment>
+		</unit>
+		<unit id="UnknownCargo">
+			<segment>
+				<source>Unknown</source>
+				<target>Desconocido</target>
+			</segment>
+		</unit>
+		<unit id="CMD_SPD">
+			<notes>
+				<note>As in Speed</note>
+			</notes>
+			<segment state="translated">
+				<source>SPD</source>
+				<target>VEL</target>
+			</segment>
+		</unit>
+		<unit id="CMD_DIS">
+			<notes>
+				<note>As in Distance</note>
+			</notes>
+			<segment>
+				<source>DIS</source>
+				<target>DIS</target>
+			</segment>
+		</unit>
+		<unit id="CMD_SYS">
+			<notes>
+				<note>As in Systems</note>
+			</notes>
+			<segment state="translated">
+				<source>SYS</source>
+				<target>SIS</target>
+			</segment>
+		</unit>
+		<unit id="CMD_HUL">
+			<notes>
+				<note>As in Hull</note>
+			</notes>
+			<segment state="translated">
+				<source>HUL</source>
+				<target>CAS</target>
+			</segment>
+		</unit>
+		<unit id="CMD_SHD">
+			<notes>
+				<note>As in Shields</note>
+			</notes>
+			<segment state="translated">
+				<source>SHD</source>
+				<target>ESC</target>
+			</segment>
+		</unit>
+		<unit id="CMD_C_P">
+			<notes>
+				<note>As in Cargo-Passengers</note>
+			</notes>
+			<segment>
+				<source>C-P:</source>
+				<target>C-P:</target>
+			</segment>
+		</unit>
+		<unit id="CMD_WAITING">
+			<notes>
+				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
+			</notes>
+			<segment state="translated">
+				<source>WAITING</source>
+				<target>ESPERANDO</target>
+			</segment>
+		</unit>
+		<unit id="CMD_CAPTURED">
+			<notes>
+				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
+			</notes>
+			<segment state="translated">
+				<source>CAPTURED</source>
+				<target>{GENDER:choose(M|F):CAPTURADO|CAPTURADA}</target>
+			</segment>
+		</unit>
+		<unit id="CMD_DISABLED">
+			<notes>
+				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
+			</notes>
+			<segment state="translated">
+				<source>DISABLED</source>
+				<target>{GENDER:choose(M|F):INCAPACITADO|INCAPACITADA}</target>
+			</segment>
+		</unit>
+		<unit id="CMD_HULL_DMG">
+			<notes>
+				<note>As in Hull Damaged</note>
+				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
+			</notes>
+			<segment state="translated">
+				<source>HULL DMG</source>
+				<target>CASCO DAÑ</target>
+			</segment>
+		</unit>
+		<unit id="CMD_SHLDS_DN">
+			<notes>
+				<note>As in Shields Down</note>
+				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
+			</notes>
+			<segment state="translated">
+				<source>SHLDS DN</source>
+				<target>SIN ESCUDOS</target>
+			</segment>
+		</unit>
+		<unit id="CMD_OK">
+			<notes>
+				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
+			</notes>
+			<segment state="translated">
+				<source>OK</source>
+				<target>NORMAL</target>
+			</segment>
+		</unit>
+		<unit id="CMD_NO_CARGO">
+			<notes>
+				<note>The columns in species metadata are available here as selectors (no need of writing species.ABBR, just ABBR)</note>
+			</notes>
+			<segment>
+				<source>NO CARGO</source>
+				<target>SIN CARGA</target>
+			</segment>
+		</unit>
+		<unit id="INST_EJECT">			
+			<notes>
+				<note>First 5 latin characters will be shown in physical cockpits. The entire text will be visible in virtual cockpits.</note>
+			</notes>
+			<segment>
+				<source>EJECT</source>
+				<target>EYECTAR</target>
+			</segment>
+		</unit>
+		<unit id="INST_SCORE">			
+			<notes>
+				<note>It will be followed like "Score: 12345", as in showing the amounts of points obtained during the mission.</note>
+			</notes>
+			<segment>
+				<source>Score:</source>
+				<target>Puntuación:</target>
+			</segment>
+		</unit>
+		<unit id="CMD_YOU">			
+			<notes>
+				<note>
+					YOU as in the direct or indirect object of an action. As in "Attacking YOU", "Homing in to YOU", "Boarding YOU", "Preparing to attack YOU".
+					The word will appear alone in a label, not as part of a sentence.
+				</note>
+			</notes>
+			<segment>
+				<source>YOU</source>
+				<target>TU NAVE</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Attacking">
+			<segment>
+				<source>Attacking</source>
+				<target>Atacando</target>
+			</segment>
+		</unit>
+		<unit id="TASK_PreparingToAttack">
+			<segment>
+				<source>Preparing to attack</source>
+				<target>Preparándose para atacar</target>
+			</segment>
+		</unit>
+		<unit id="TASK_AvoidingCollision">
+			<segment>
+				<source>Avoiding Collision</source>
+				<target>Evitando colisión</target>
+			</segment>
+		</unit>
+		<unit id="TASK_AwaitingBoarding">
+			<segment>
+				<source>Awaiting Boarding</source>
+				<target>Esperando abordaje</target>
+			</segment>
+		</unit>
+		<unit id="TASK_AwaitingOrders">
+			<segment>
+				<source>Awaiting Orders</source>
+				<target>Esperando órdenes</target>
+			</segment>
+		</unit>
+		<unit id="TASK_EvadingTarget">
+			<segment>
+				<source>Evading Target</source>
+				<target>Esquivando objetivo</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Disabled">
+			<segment>
+				<source>Disabled</source>
+				<target>Incapacitado</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Capturing">
+			<segment>
+				<source>Capturing</source>
+				<target>Capturando</target>
+			</segment>
+		</unit>
+		<unit id="TASK_DeliveringCargo">
+			<segment>
+				<source>Delivering Cargo</source>
+				<target>Entregando carga</target>
+			</segment>
+		</unit>
+		<unit id="TASK_ExchangingCargo">
+			<segment>
+				<source>Exchanging Cargo</source>
+				<target>Intercambiando carga</target>
+			</segment>
+		</unit>
+		<unit id="TASK_TakingCargo">
+			<segment>
+				<source>Taking Cargo</source>
+				<target>Tomando carga</target>
+			</segment>
+		</unit>
+		<unit id="TASK_DestroyingCargo">
+			<segment>
+				<source>Destroying Cargo</source>
+				<target>Destruyendo carga</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Repairing">
+			<segment>
+				<source>Repairing</source>
+				<target>Reparando</target>
+			</segment>
+		</unit>
+		<unit id="TASK_PerformingBoardingOperation">
+			<segment>
+				<source>Performing Boarding Operation</source>
+				<target>Realizando abordaje</target>
+			</segment>
+		</unit>
+		<unit id="TASK_ApproachingToBoard">
+			<segment>
+				<source>Approaching to Board</source>
+				<target>Aproximándose para abordar</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Docking">
+			<segment>
+				<source>Docking</source>
+				<target>Acoplándose</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Undocking">
+			<segment>
+				<source>Undocking</source>
+				<target>Desacoplándose</target>
+			</segment>
+		</unit>
+		<unit id="TASK_DroppingOff">
+			<segment>
+				<source>Dropping Off</source>
+				<target>Soltando</target>
+			</segment>
+		</unit>
+		<unit id="TASK_EnteringHangar">
+			<segment>
+				<source>Entering Hangar</source>
+				<target>Entrando al hangar</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Escorting">
+			<segment>
+				<source>Escorting</source>
+				<target>Escoltando</target>
+			</segment>
+		</unit>
+		<unit id="TASK_FlyingToWaypoint">
+			<segment>
+				<source>Flying</source>
+				<target>Volando</target>
+			</segment>
+		</unit>
+		<unit id="WP_StartPoint">
+			<segment>
+				<source>start point</source>
+				<target>punto inicial</target>
+			</segment>
+		</unit>
+		<unit id="WP_Waypoint1">
+			<segment>
+				<source>waypoint 1</source>
+				<target>vector 1</target>
+			</segment>
+		</unit>
+		<unit id="WP_Waypoint2">
+			<segment>
+				<source>waypoint 2</source>
+				<target>vector 2</target>
+			</segment>
+		</unit>
+		<unit id="WP_Waypoint3">
+			<segment>
+				<source>waypoint 3</source>
+				<target>vector 3</target>
+			</segment>
+		</unit>
+		<unit id="WP_Waypoint4">
+			<segment>
+				<source>waypoint 4</source>
+				<target>vector 4</target>
+			</segment>
+		</unit>
+		<unit id="WP_Waypoint5">
+			<segment>
+				<source>waypoint 5</source>
+				<target>vector 5</target>
+			</segment>
+		</unit>
+		<unit id="WP_Waypoint6">
+			<segment>
+				<source>waypoint 6</source>
+				<target>vector 6</target>
+			</segment>
+		</unit>
+		<unit id="WP_Waypoint7">
+			<segment>
+				<source>waypoint 7</source>
+				<target>vector 7</target>
+			</segment>
+		</unit>
+		<unit id="WP_Waypoint8">
+			<segment>
+				<source>waypoint 8</source>
+				<target>vector 8</target>
+			</segment>
+		</unit>
+		<unit id="WP_Rendezvous">
+			<segment>
+				<source>rendezvous point</source>
+				<target>punto de encuentro</target>
+			</segment>
+		</unit>
+		<unit id="WP_Hyperspace">
+			<segment>
+				<source>hyperspace point</source>
+				<target>punto de salto</target>
+			</segment>
+		</unit>
+		<unit id="WP_Unknown">
+			<segment>
+				<source>unknown waypoint</source>
+				<target>punto desconocido</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Following">
+			<segment>
+				<source>Following</source>
+				<target>Siguiendo</target>
+			</segment>
+		</unit>
+		<unit id="TASK_HoldSteady">
+			<segment>
+				<source>Holding Steady</source>
+				<target>Permaneciendo inmóvil</target>
+			</segment>
+		</unit>
+		<unit id="TASK_HyperIn">
+			<segment>
+				<source>Coming Out of Hyperspace</source>
+				<target>Saliendo del hiperespacio</target>
+			</segment>
+		</unit>
+		<unit id="TASK_HyperOut">
+			<segment>
+				<source>Entering Hyperspace</source>
+				<target>Entrando al hiperespacio</target>
+			</segment>
+		</unit>
+		<unit id="TASK_FlyingToHyperspacePoint">
+			<segment>
+				<source>Flying to Hyperspace Point</source>
+				<target>Volando al punto de salto</target>
+			</segment>
+		</unit>
+		<unit id="TASK_LaunchingFromHangar">
+			<segment>
+				<source>Launching from hangar</source>
+				<target>Despegando del hangar</target>
+			</segment>
+		</unit>
+		<unit id="TASK_DefendingPosition">
+			<segment>
+				<source>Defending position</source>
+				<target>Defendiendo posición</target>
+			</segment>
+		</unit>
+		<unit id="TASK_PatrolWaypoints">
+			<segment>
+				<source>Patrolling for Enemies</source>
+				<target>En busca de enemgios</target>
+			</segment>
+		</unit>
+		<unit id="TASK_ClosingIn">
+			<segment>
+				<source>Closing In</source>
+				<target>Aproximándose</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Waiting">
+			<segment>
+				<source>Waiting</source>
+				<target>Esperando</target>
+			</segment>
+		</unit>
+		<unit id="TASK_Unknown">
+			<segment>
+				<source>???</source>
+				<target>???</target>
+			</segment>
+		</unit>
+		<unit id="TASK_HomingIn">
+			<segment>
+				<source>Homing In</source>
+				<target>Rastreando</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_MissionStatus">
+			<notes>
+				status = Unresolved, Complete, Failed
+			</notes>
+			<segment>
+				<source>Mission {status}</source>
+				<target>Misión {status:choose(Unresolved|Complete|Failed):En Progreso|Completada|Fracasada}</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_PrimaryIncompleteHeader">
+			<segment>
+				<source>Primary Goals Incomplete</source>
+				<target>Objetivos Primarios Sin Completar</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_SecondaryIncompleteHeader">
+			<segment>
+				<source>Secondary Goals Incomplete</source>
+				<target>Objetivos Secundarios Sin Completar</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_BonusIncompleteHeader">
+			<segment>
+				<source>Bonus Goals Incomplete</source>
+				<target>Objetivos Extra Sin Completar</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_PrimaryFailedHeader">
+			<segment>
+				<source>Primary Goals Failed</source>
+				<target>Objetivos Primarios Fallados</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_SecondaryFailedHeader">
+			<segment>
+				<source>Secondary Goals Failed</source>
+				<target>Objetivos Secundarios Fallados</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_BonusFailedHeader">
+			<segment>
+				<source>Bonus Goals Failed</source>
+				<target>Objetivos Extra Fallados</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_PrimaryCompletedHeader">
+			<segment>
+				<source>Primary Goals Completed</source>
+				<target>Objetivos Primarios Completados</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_SecondaryCompletedHeader">
+			<segment>
+				<source>Secondary Goals Completed</source>
+				<target>Objetivos Secundarios Completados</target>
+			</segment>
+		</unit>
+		<unit id="GOALS_BonusCompletedHeader">
+			<segment>
+				<source>Bonus Goals Completed</source>
+				<target>Objetivos Extra Completados</target>
+			</segment>
+		</unit>
+		<unit id="MFD_PageOfPages">
+			<segment>
+				<source>Page {pIndex} / {pCount}</source>
+				<target>Página {pIndex} / {pCount}</target>
+			</segment>
+		</unit>
+		<unit id="MESSAGELOG_Header">
+			<segment>
+				<source>Message Log</source>
+				<target>Historial de Mensajes</target>
+			</segment>
+		</unit>
+		<unit id="MESSAGELOG_DisplayingMessages">
+			<segment>
+				<source>Displaying messages {from} - {to} of {total}</source>
+				<target>Mostrando mensajes {from} - {to} de {total}</target>
+			</segment>
+		</unit>
+		<unit id="MESSAGELOG_NoMessages">
+			<segment>
+				<source>No messages received.</source>
+				<target>No se han recibido mensajes.</target>
+			</segment>
+		</unit>		
+		<unit id="DAMAGEASSESSMENT_Header">
+			<segment>
+				<source>Damage Assessment</source>
+				<target>Evaluación de Daños</target>
+			</segment>
+		</unit>
+		<unit id="SYSTEM_AutoEjectionSystem">
+			<segment>
+				<source>Auto-Ejection system</source>
+				<target>Sistema de Eyección Automática</target>
+			</segment>
+		</unit>		
+		<unit id="SYSTEM_Cannons">
+			<segment>
+				<source>Cannons</source>
+				<target>Cañones</target>
+			</segment>
+		</unit>		
+		<unit id="SYSTEM_EnginePower">
+			<segment>
+				<source>Engine power</source>
+				<target>Energía de motores</target>
+			</segment>
+		</unit>		
+		<unit id="SYSTEM_FlightControlSystem">
+			<segment>
+				<source>Flight control system</source>
+				<target>Sistema de control de vuelo</target>
+			</segment>
+		</unit>		
+		<unit id="SYSTEM_Hyperdrive">
+			<segment>
+				<source>Hyperdrive</source>
+				<target>Hipermotor</target>
+			</segment>
+		</unit>		
+		<unit id="SYSTEM_MissileLaunchers">
+			<segment>
+				<source>Warhead launchers</source>
+				<target>Lanzadores de ojivas</target>
+			</segment>
+		</unit>		
+		<unit id="SYSTEM_Shields">
+			<segment>
+				<source>Shields</source>
+				<target>Escudos</target>
+			</segment>
+		</unit>		
+		<unit id="SYSTEM_TargetingSystem">
+			<segment>
+				<source>Targeting system</source>
+				<target>Sistema de adquisición de blancos</target>
+			</segment>
+		</unit>		
+		<unit id="SYSTEM_Beam">
+			<segment>
+				<source>Beam weapon</source>
+				<target>Arma de haz</target>
+			</segment>
+		</unit>		
+		<unit id="SYSTEM_Communications">
+			<segment>
+				<source>Comms system</source>
+				<target>Sistema de comunicaciones</target>
+			</segment>
+		</unit>				
+		<unit id="SYSTEM_Misc">
+			<segment>
+				<source>Miscellaneous system</source>
+				<target>Sistema misceláneo</target>
+			</segment>
+		</unit>		
+		<unit id="SCOPE_F">
+			<notes>
+				<note>
+				F as in Fore. One letter that will appear on the virtual cockpits on the Fore Radar Scope.
+				</note>
+			</notes>
+			<segment>
+				<source>F</source>
+				<target>F</target>
+			</segment>
+		</unit>		
+		<unit id="SCOPE_R">
+			<notes>
+				<note>
+				R as in Rear. One letter that will appear on the virtual cockpits on the Rear Radar Scope.
+				</note>
+			</notes>
+			<segment>
+				<source>R</source>
+				<target>T</target>
+			</segment>
+		</unit>		
+		<unit id="MAP_You">
+			<notes>
+				<note>
+				YOU as in the player ship in the map. Nominative form, an not part of a sentence. It should be a single short expression.
+				</note>
+			</notes>
+			<segment>
+				<source>YOU</source>
+				<target>TÚ</target>
+			</segment>
+		</unit>		
+		<unit id="BRIEFING_NoneAvailable">			
+			<segment>
+				<source>No briefing available.</source>
+				<target>No hay información táctica de la misión disponible.</target>
+			</segment>
+		</unit>		
+		<unit id="PPG_LEVEL">
+			<notes>
+				<note>
+				The level of the Pilot Proving Grounds at which the player is currently flying.
+				</note>
+			</notes>
+			<segment>
+				<source>LEVEL {level}</source>
+				<target>NIVEL {level}</target>
+			</segment>
+		</unit>		
+		<unit id="PPG_REMAINING">
+			<notes>
+				<note>
+				As in remaining number of PPG gates yet to be crossed by the player. The number will appear to the right of this label.
+				</note>
+			</notes>
+			<segment>
+				<source>REMAINING:</source>
+				<target>RESTANTES:</target>
+			</segment>
+		</unit>		
+		<unit id="PPG_MISSED">
+			<notes>
+				<note>
+				As in number of PPG gates wrongfully skipped by the player. The number will appear to the right of this label.
+				</note>
+			</notes>
+			<segment>
+				<source>MISSED:</source>
+				<target>OMITIDAS:</target>
+			</segment>
+		</unit>		
+		<unit id="PPG_PASSED">
+			<notes>
+				<note>
+				As in number of PPG gates successfully crossed by the player. The number will appear to the right of this label.
+				</note>
+			</notes>
+			<segment>
+				<source>PASSED:</source>
+				<target>CRUZADAS:</target>
+			</segment>
+		</unit>		
+		<unit id="PPG_TARGETS">
+			<notes>
+				<note>
+				As in number of PPG shooting targets that the player has succesfully shot down. The number will appear to the right of this label.
+				</note>
+			</notes>
+			<segment>
+				<source>TARGETS:</source>
+				<target>OBJETIVOS:</target>
+			</segment>
+		</unit>		
+		<unit id="PPG_SCORE">
+			<notes>
+				<note>
+				As in number of points scored during this PPG run. The number will appear to the right of this label.
+				</note>
+			</notes>
+			<segment>
+				<source>SCORE:</source>
+				<target>PUNTOS:</target>
+			</segment>
+		</unit>		
+	</file>
+</xliff>

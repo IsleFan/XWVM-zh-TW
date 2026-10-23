@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.Common.System.TargetComponents">    
+      <unit id="Default">
+        <segment state="initial">
+          <source />
+        <target />
+        </segment>
+      </unit>
+      <unit id="MainHull">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>船體</target></segment>
+      </unit>
+      <unit id="Wing">
+        <segment state="translated">
+          <source>WING</source>
+          <target>機翼</target></segment>
+      </unit>
+      <unit id="Fuselage">
+        <segment state="translated">
+          <source>FUSELAGE</source>
+          <target>機身</target></segment>
+      </unit>
+      <unit id="GunTurret">
+        <segment state="translated">
+          <source>LASR TUR</source>
+          <target>雷射砲塔</target></segment>
+      </unit>
+      <unit id="Smallgun">
+        <segment state="translated">
+          <source>LASR GUN</source>
+          <target>雷射砲</target></segment>
+      </unit>
+      <unit id="Engine">
+        <segment state="translated">
+          <source>ENGINE</source>
+          <target>引擎</target></segment>
+      </unit>
+      <unit id="Bridge">
+        <segment state="translated">
+          <source>BRIDGE</source>
+          <target>艦橋</target></segment>
+      </unit>
+      <unit id="ShieldGen">
+        <segment state="translated">
+          <source>SHLD GEN</source>
+          <target>護盾產生器</target></segment>
+      </unit>
+      <unit id="EnergyGen">
+        <segment state="translated">
+          <source>ENRG GEN</source>
+          <target>能源產生器</target></segment>
+      </unit>
+      <unit id="Launcher">
+        <segment state="translated">
+          <source>WHEAD LN</source>
+          <target>彈頭發射器</target></segment>
+      </unit>
+      <unit id="CommSys">
+        <segment state="translated">
+          <source>COMM SYS</source>
+          <target>通訊系統</target></segment>
+      </unit>
+      <unit id="BeamSys">
+        <segment state="translated">
+          <source>BEAM SYS</source>
+          <target>光束系統</target></segment>
+      </unit>
+      <unit id="CommandBeam">
+        <segment state="translated">
+          <source>COMM SYS</source>
+          <target>通訊系統</target></segment>
+      </unit>
+      <unit id="DockingPlat">
+        <segment state="translated">
+          <source>DOCK PLT</source>
+          <target>對接平台</target></segment>
+      </unit>
+      <unit id="LandingPlat">
+        <segment state="translated">
+          <source>LAND PLT</source>
+          <target>降落平台</target></segment>
+      </unit>
+      <unit id="Hangar">
+        <segment state="translated">
+          <source>HANGAR</source>
+          <target>機庫</target></segment>
+      </unit>
+      <unit id="CargoPod">
+        <segment state="translated">
+          <source>CARGO</source>
+          <target>貨艙</target></segment>
+      </unit>
+      <unit id="MiscHull">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>船體</target></segment>
+      </unit>
+      <unit id="Antenna">
+        <segment state="translated">
+          <source>ANTENNA</source>
+          <target>天線</target></segment>
+      </unit>
+      <unit id="RotWing">
+        <segment state="translated">
+          <source>WING</source>
+          <target>機翼</target></segment>
+      </unit>
+      <unit id="RotGunTurret">
+        <segment state="translated">
+          <source>LASR TUR</source>
+          <target>雷射砲塔</target></segment>
+      </unit>
+      <unit id="RotLauncher">
+        <segment state="translated">
+          <source>WHEAD LN</source>
+          <target>彈頭發射器</target></segment>
+      </unit>
+      <unit id="RotCommSys">
+        <segment state="translated">
+          <source>COMM SYS</source>
+          <target>通訊系統</target></segment>
+      </unit>
+      <unit id="RotBeamSys">
+        <segment state="translated">
+          <source>BEAM SYS</source>
+          <target>光束系統</target></segment>
+      </unit>
+      <unit id="RotCommandBeam">
+        <segment state="translated">
+          <source>COMM SYS</source>
+          <target>通訊系統</target></segment>
+      </unit>
+      <unit id="Custom1">
+        <segment state="translated">
+          <source>COCKPIT</source>
+          <target>駕駛艙</target></segment>
+      </unit>
+      <unit id="Custom2">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>船體</target></segment>
+      </unit>
+      <unit id="Custom3">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>船體</target></segment>
+      </unit>
+      <unit id="Custom4">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>船體</target></segment>
+      </unit>
+      <unit id="Custom5">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>船體</target></segment>
+      </unit>
+      <unit id="Custom6">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>船體</target></segment>
+      </unit>
+      <unit id="RotDummy">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>船體</target></segment>
+      </unit>
+      <unit id="None">
+        <segment state="initial">
+          <source />
+        <target />
+        </segment>
+      </unit>
+    
+  </file>
+</xliff>

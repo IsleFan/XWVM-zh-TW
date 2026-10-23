@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="es">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="Cutscene.Text.shuleacom">
+      <segment state="translated">
+        <source>Leaving the hidden Rebel Combat Training Facilities.</source>
+        <target>Saliendo de las instalaciones rebeldes ocultas de entrenamiento de combate.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.resc1a">
+      <segment state="translated">
+        <source>We've found him!</source>
+        <target>¡Le hemos encontrado!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.resc1b">
+      <segment>
+        <source>He's OK.</source>
+        <target>Está bien.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.resc2">
+      <segment state="translated">
+        <source>Arriving at Rebel Fleet Medical Ship, the Salvation.</source>
+        <target>Llegando a la Nave Médica de la Flota Rebelde, la Salvación.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.capt1a">
+      <segment state="translated">
+        <source>There's the rebel!</source>
+        <target>¡Allí está el rebelde!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.capt1b">
+      <segment state="translated">
+        <source>Bring him in.</source>
+        <target>Traedlo a bordo.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.capt2">
+      <segment state="translated">
+        <source>Arriving at the Executor.  Flagship of the Empire!</source>
+        <target>Llegando al Ejecutor. ¡Nave insignia del Imperio!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.capt3a">
+      <segment state="translated">
+        <source>Now we will discuss the position</source>
+        <target>¡Ahora discutiremos la posición</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.capt3b">
+      <segment state="translated">
+        <source>of the secret rebel base!</source>
+        <target>de la base secreta rebelde!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.retcom">
+      <segment state="translated">
+        <source>Returning to the hidden Rebel Combat Training Facilities.</source>
+        <target>Regresando a las instalaciones ocultas rebeldes de entrenamiento de combate.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.shuleatra">
+      <segment state="translated">
+        <source>Leaving the hidden Rebel Training Facilities.</source>
+        <target>Partiendo de las instalaciones ocultas rebeldes de entrenamiento.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.shuleadef">
+      <segment state="translated">
+        <source>Leaving the Defiance.</source>
+        <target>Partiendo del Desafío.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.retdef">
+      <segment state="translated">
+        <source>Returning to the Defiance.</source>
+        <target>Regresando al Desafío.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os1">
+      <segment state="translated">
+        <source>Star Destroyer patrol near the planet Turkana</source>
+        <target>Patrulla de Destructores Estelares cerca del planeta Turkana.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os2a">
+      <segment state="translated">
+        <source>Sir, our TIE Interceptors have located a</source>
+        <target>Señor, nuestros Interceptores TIE han ubicado una</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os2b">
+      <segment state="translated">
+        <source>Rebel Fleet orbiting the planet Turkana.</source>
+        <target>Flota Rebelde en órbita sobre el planeta Turkana.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os3">
+      <segment state="translated">
+        <source>Excellent!  Prepare the attack.</source>
+        <target>¡Excelente!  Preparen el ataque.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os4a">
+      <segment state="translated">
+        <source>Move our Star Destroyers within range</source>
+        <target>Muevan nuestros Destructores Estelares dentro de alcance</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os4b">
+      <segment state="translated">
+        <source>and launch all TIE Fighter Squadrons.</source>
+        <target>y lancen todos los escuadrones de Cazas TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os5">
+      <segment>
+        <source>At once, Sir!</source>
+        <target>¡De inmediato, señor!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os5x">
+      <segment state="translated">
+        <source>On board the Rebel Flagship Independence.</source>
+        <target>Abordo de la Nave Insignia rebelde, el Independencia.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os6a">
+      <segment state="translated">
+        <source>We are under attack by Imperial Star Destroyers!</source>
+        <target>¡Nos atacan Destructores Estelares Imperiales!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os6b">
+      <segment state="translated">
+        <source>Begin evasive maneuvers.  Launch the X-Wing fighters.</source>
+        <target>Comiencen maniobras evasivas.  Lancen los cazas Ala-X.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os7a">
+      <segment state="translated">
+        <source>This is Red Leader.  Stay close</source>
+        <target>Aquí Líder Rojo.  Permaneced cerca</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os7b">
+      <segment state="translated">
+        <source>and watch for enemy fighters.</source>
+        <target>y alerta por cazas enemigos.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os8">
+      <segment state="translated">
+        <source>I got him.</source>
+        <target>Le he dado.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os9">
+      <segment>
+        <source>Follow me.</source>
+        <target>Sígueme.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os10">
+      <segment state="translated">
+        <source>I can't shake him!</source>
+        <target>¡No me lo puedo quitar de encima!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os11">
+      <segment state="translated">
+        <source>I'm on him.</source>
+        <target>Yo me encargo de él.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.os12">
+      <segment state="translated">
+        <source>Nice shot, Red Two!</source>
+        <target>¡Buen tiro, Rojo Dos!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c1s1a">
+      <segment state="translated">
+        <source>Star Destroyer fleet orbiting a</source>
+        <target>Flota de Destructores Estelares orbitando una</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c1s1b">
+      <segment state="translated">
+        <source>Rebel base on the planet Orion IV.</source>
+        <target>base rebelde en el planeta Orion IV.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c1s2">
+      <segment state="translated">
+        <source>AT-AT Walkers advance on the Rebel base.</source>
+        <target>Caminantes AT-AT avanzan sobre la base rebelde.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c1s3">
+      <segment state="translated">
+        <source>Planet has been secured.</source>
+        <target>El planeta está bajo control.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s1">
+      <segment state="translated">
+        <source>Rebel agents on approach to Star Destroyer Invincible.</source>
+        <target>Agentes rebeldes se aproximan al Destructor Estelar Invencible.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s2">
+      <segment state="translated">
+        <source>Security codes approved.  Shuttle landing in Main Bay.</source>
+        <target>Códigos de seguridad aprobados.  Lanzadera aterrizando en Hangar Principal.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s3">
+      <segment>
+        <source>Is that it?</source>
+        <target>¿Eso es todo?</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s4">
+      <segment state="translated">
+        <source>Yes, that's the last crate.</source>
+        <target>Sí, ésa es la última caja.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s5">
+      <segment state="translated">
+        <source>Alright, lift off.</source>
+        <target>De acuerdo. Despega.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s6a">
+      <segment state="translated">
+        <source>Hidden among the crates, the Rebels have</source>
+        <target>Escondido entre las cajas, los rebeldes han</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s6b">
+      <segment state="translated">
+        <source>planted a powerful explosive device.</source>
+        <target>colocado un potente dispositivo explosivo.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s1a">
+      <segment state="translated">
+        <source>Rebel Corvette deploying captured</source>
+        <target>Corbeta rebelde desplegando satélites</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s1b">
+      <segment state="translated">
+        <source>Imperial Communication Satellites.</source>
+        <target>de comunicaciones imperiales capturados.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s2">
+      <segment state="translated">
+        <source>The modified CommSats scatter into deep space.</source>
+        <target>Los satélites de comunicaciones modificados se dispersan por el espacio profundo.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s3a">
+      <segment state="translated">
+        <source>A lone CommSat transmits near the Cron Drift,</source>
+        <target>Un satélite solitario transmite cerca del Río Cron,</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s3b">
+      <segment state="translated">
+        <source>sending Imperial data to a nearby Rebel outpost.</source>
+        <target>enviando datos imperiales a un puesto rebelde cercano.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s4a">
+      <segment state="translated">
+        <source>Rebel listening post Ax-235 in an</source>
+        <target>Puesto de Escucha Rebelde Ax-235 en un</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s4b">
+      <segment state="translated">
+        <source>asteroid field within the Cron Drift.</source>
+        <target>campo de asteroides dentro del Río Cron.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s5">
+      <segment>
+        <source>We just intercepted a transmission.</source>
+        <target>Acabamos de interceptar una transmisión.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s6">
+      <segment>
+        <source>Sounds like an Imperial code.</source>
+        <target>Suena como un código imperial.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s7">
+      <segment state="translated">
+        <source>That's right!  I'm decoding it now.</source>
+        <target>¡Correcto! Lo estoy decodificando.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s8">
+      <segment state="translated">
+        <source>Looks like plans for an Imperial Battle Station!</source>
+        <target>¡Parecen planos para una Estación de Combate Imperial!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s9">
+      <segment state="translated">
+        <source>Relay it with the next High Security transmissions.</source>
+        <target>Reenvíalo con las siguientes transmisiones de Alta Seguridad.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s1a">
+      <segment state="translated">
+        <source>Enroute to the planet Alderaan, the Corellian Corvette</source>
+        <target>En ruta hacia el planeta Alderaan, la Corbeta Corelliana</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s1b">
+      <segment state="translated">
+        <source>transporting Princess Leia receives a vital message.</source>
+        <target>que transporta a la Princesa Leia recibe un mensaje crítico.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s2">
+      <segment state="translated">
+        <source>Here are the secret plans, Princess Leia.</source>
+        <target>Aquí tiene los planos secretos, Princesa Leia.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s3">
+      <segment state="translated">
+        <source>I will bring them safely to Alderaan.</source>
+        <target>Los llevaré a salvo a Alderaan.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s4">
+      <segment state="translated">
+        <source>Imperial Fleet on course for Tatooine.</source>
+        <target>Flota Imperial de camino hacia Tatooine.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s5">
+      <segment state="translated">
+        <source>I have you now!</source>
+        <target>¡Ya te tengo!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s1">
+      <segment state="translated">
+        <source>Imperial Death Star in final stages of construction.</source>
+        <target>Estrella de la Muerte imperial en fases finales de construcción.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s2">
+      <segment state="translated">
+        <source>Arrival of Darth Vader, Envoy of the Emperor.</source>
+        <target>Llegada de Darth Vader, Enviado del Emperador.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s3a">
+      <segment state="translated">
+        <source>Congratulations, the Death Star is</source>
+        <target>Mi enhorabuena. La Estrella de la Muerte ha sido</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s3b">
+      <segment state="translated">
+        <source>complete.  The Emperor will be pleased.</source>
+        <target>finalizada. El Emperador estará complacido.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s4a">
+      <segment state="translated">
+        <source>I think it is time we demonstrated</source>
+        <target>Creo que es hora de demostrar</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s4b">
+      <segment state="translated">
+        <source>the full power of this station.</source>
+        <target>toda la potencia de esta estación.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s5a">
+      <segment state="translated">
+        <source>This station is insignificant compared</source>
+        <target>Esta estación es insignificante comparada</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s5b">
+      <segment state="translated">
+        <source>with the power of the force.</source>
+        <target>con el poder de la Fuerza.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s6">
+      <segment state="translated">
+        <source>You may fire when ready.</source>
+        <target>Fuego a discreción.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c2s1">
+      <segment state="translated">
+        <source>Imperial Death Star on approach to Alderaan.</source>
+        <target>Estrella de la Muerte imperial aproximándose a Alderaan.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c2s2">
+      <segment state="translated">
+        <source>You may fire when ready.</source>
+        <target>Fuego a discreción.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c3s1">
+      <segment state="translated">
+        <source>Approaching Yavin Moon Base.</source>
+        <target>Aproximándose a la base en la Luna de Yavin.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c3s2">
+      <segment>
+        <source>Yavin Rebel Base.  Headquarters of the Rebellion.</source>
+        <target>Base Rebelde de Yavin. Cuartel General de la Rebelión.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s1">
+      <segment state="translated">
+        <source>Darth Vader's shuttle arrives at Plooriod III.</source>
+        <target>La lanzadera de Darth Vader llega a Plooriod III.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s2a">
+      <segment state="translated">
+        <source>Lord Vader!  What a great privilege to have</source>
+        <target>¡Lord Vader! ¡Qué gran privilegio que nos</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s2b">
+      <segment state="translated">
+        <source>you unexpectedly grace my humble domain.</source>
+        <target>regale con su inesperada visita a nuestro humilde dominio.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s3">
+      <segment>
+        <source>How may I serve you?</source>
+        <target>¿En qué puedo servirle?</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s4">
+      <segment>
+        <source>We received your grain shipments, Ghorin...</source>
+        <target>Recibimos tus envíos de grano, Ghorin...</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s5a">
+      <segment>
+        <source>and the Emperor has sent me here to</source>
+        <target>y el Emperador me ha enviado aquí a</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s5b">
+      <segment state="translated">
+        <source>personally repay you for your treachery.</source>
+        <target>recompensarte personalmente por tu traición.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c3s1">
+      <segment state="translated">
+        <source>Imperial Drydock IV, Greater Plooriad Sector.</source>
+        <target>Astillero Imperial IV, Sector Plooriod Mayor.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c3s2">
+      <segment state="translated">
+        <source>Interdictor Cruisers respond to Fleet Summons.</source>
+        <target>Cruceros Interdictores responden a convocatoria de la flota.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c3s3a">
+      <segment state="translated">
+        <source>Outer Rim Imperial Fleet preparing for battle.</source>
+        <target>La Flota Imperial del Borde Exterior se prepara para la batalla.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c3s3b">
+      <segment state="translated">
+        <source>Interdictors join the fleet for attack on Rebels.</source>
+        <target>Los Interdictores se unen a la flota para atacar a los Rebeldes.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c4s1">
+      <segment state="translated">
+        <source>Ramming course locked in.</source>
+        <target>Trayectoria de colisión bloqueada.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c4s2">
+      <segment state="translated">
+        <source>Right!  Let's get out of here.</source>
+        <target>¡Bien!  Salgamos de aquí.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s1">
+      <segment state="translated">
+        <source>New B-wings arrive at Rebel Fleet.</source>
+        <target>Nuevos Alas-B llegan a la Flota Rebelde.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s2a">
+      <segment state="translated">
+        <source>Lt. Farlander, do you have</source>
+        <target>Teniente Farlander, ¿están</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s2b">
+      <segment state="translated">
+        <source>the B-wings combat-ready?</source>
+        <target>los Alas-B en condiciones de combate?</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s3a">
+      <segment state="translated">
+        <source>Yes Cmdr. Skywalker, they will be a</source>
+        <target>Sí, comandante Skywalker. Serán</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s3b">
+      <segment state="translated">
+        <source>powerful new weapon against the Empire.</source>
+        <target>poderosas nuevas armas contra el Imperio.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s4">
+      <segment>
+        <source>Good work, Lieutenant.</source>
+        <target>Buen trabajo, teniente.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s1a">
+      <segment state="translated">
+        <source>Two Rebel ships work in conjunction to replace</source>
+        <target>Dos naves rebeldes trabajan en equipo para reemplazar</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s1b">
+      <segment state="translated">
+        <source>Imperial probes with modified Rebel probes.</source>
+        <target>sondas Imperiales con sondas rebeldes modificadas.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s2a">
+      <segment state="translated">
+        <source>Inside the cargo ship, modified probes are</source>
+        <target>Dentro de la nave de transporte, las sondas modificadas se</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s2b">
+      <segment state="translated">
+        <source>readied for release.</source>
+        <target>preparan para su lanzamiento.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s3">
+      <segment>
+        <source>Each Imperial probe is replaced in a quick swap.</source>
+        <target>Cada sonda imperial es reemplazada en un rápido intercambio.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s1">
+      <segment state="translated">
+        <source>Rebel Fleet arrives at the planet Hoth.</source>
+        <target>La Flota Rebelde llega al planeta Hoth.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s2a">
+      <segment state="translated">
+        <source>General, what word is there of</source>
+        <target>General, ¿tenemos noticias de</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s2b">
+      <segment state="translated">
+        <source>our evacuation from Habassa?</source>
+        <target>nuestra evacuación desde Habassa?</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s3">
+      <segment state="translated">
+        <source>The fleet has arrived safely, Princess.</source>
+        <target>La flota ha llegado a salvo, Princesa.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s4">
+      <segment state="translated">
+        <source>Thank goodness.  Is our Hoth base operational?</source>
+        <target>Gracias al cielo. ¿Está operativa nuestra base en Hoth?</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s5a">
+      <segment state="translated">
+        <source>Yes, the Rebel Alliance has</source>
+        <target>Sí, la Alianza Rebelde ha</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s5b">
+      <segment state="translated">
+        <source>found a new home.</source>
+        <target>encontrado un nuevo hogar.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.medtext">
+      <segment>
+        <source>Congratulations on behalf of the Rebel Alliance.</source>
+        <target>Felicitaciones en nombre de la Alianza Rebelde.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.rettra">
+      <segment state="translated">
+        <source>Returning to the hidden Rebel Training Facilities.</source>
+        <target>Regresando a las instalaciones rebeldes ocultas de entrenamiento.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.shuleaind">
+      <segment state="translated">
+        <source>Leaving the Alliance Flagship Independence.</source>
+        <target>Partiendo de la Nave Insignia de la Alianza, el Independencia.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.shuhyp">
+      <segment>
+        <source>Preparing for the jump to hyperspace.</source>
+        <target>Preparándose para saltar al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.shuarrtra">
+      <segment state="translated">
+        <source>Arriving at the hidden Rebel Training Facilities.</source>
+        <target>Llegando a las instalaciones rebeldes ocultas de entrenamiento.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.shuarrcom">
+      <segment state="translated">
+        <source>Arriving at the hidden Rebel Combat Training Facilities.</source>
+        <target>Llegando a las instalaciones rebeldes ocultas de entrenamiento de combate.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.shuarrdef">
+      <segment state="translated">
+        <source>Arriving at the Calamari Cruiser Defiance.</source>
+        <target>Llegando al Crucero Calamari Desafío.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.retind">
+      <segment state="translated">
+        <source>Returning to Independence.</source>
+        <target>Regresando al Independencia.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.trafail1">
+      <segment>
+        <source>This is Red Leader.  Don't worry</source>
+        <target>Aquí Líder Rojo. No te preocupes.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.trafail2">
+      <segment>
+        <source>about it.  Try again.</source>
+        <target>Inténtalo de nuevo.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.traok1">
+      <segment>
+        <source>This is Red Leader.  Not bad.</source>
+        <target>Aquí Líder Rojo. No está mal.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.traok2">
+      <segment>
+        <source>But you still need training.</source>
+        <target>Pero necesitas más entrenamiento.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.traend1">
+      <segment>
+        <source>This is Red Leader.  Excellent!</source>
+        <target>Aquí Líder Rojo.  ¡Excelente!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Text.traend2">
+      <segment>
+        <source>You're ready for combat!</source>
+        <target>¡Estás listo para combatir!</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.0">
+      <segment state="translated">
+        <source>Tour I Scene 1</source>
+        <target>Campaña I Escena 1</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.1">
+      <segment state="translated">
+        <source>Tour I Scene 2</source>
+        <target>Campaña I Escena 2</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.2">
+      <segment state="translated">
+        <source>Tour II Scene 1</source>
+        <target>Campaña II Escena 1</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.3">
+      <segment state="translated">
+        <source>Tour II Scene 2</source>
+        <target>Campaña II Escena 2</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.4">
+      <segment state="translated">
+        <source>Tour III Scene 1</source>
+        <target>Campaña III Escena 1</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.5">
+      <segment state="translated">
+        <source>Tour III Scene 2</source>
+        <target>Campaña III Escena 2</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.6">
+      <segment state="translated">
+        <source>Tour III Scene 3</source>
+        <target>Campaña III Escena 3</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.7">
+      <segment state="translated">
+        <source>Tour IV Scene 1</source>
+        <target>Campaña IV Escena 1</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.8">
+      <segment state="translated">
+        <source>Tour IV Scene 2</source>
+        <target>Campaña IV Escena 2</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.9">
+      <segment state="translated">
+        <source>Tour IV Scene 3</source>
+        <target>Campaña IV Escena 3</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.10">
+      <segment state="translated">
+        <source>Tour IV Scene 4</source>
+        <target>Campaña IV Escena 4</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.11">
+      <segment state="translated">
+        <source>Tour V Scene 1</source>
+        <target>Campaña V Escena 1</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.12">
+      <segment state="translated">
+        <source>Tour V Scene 2</source>
+        <target>Campaña V Escena 2</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Title.13">
+      <segment state="translated">
+        <source>Tour V Scene 3</source>
+        <target>Campaña V Escena 3</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.7">
+      <segment state="translated">
+        <source>An Imperial fleet is heading for
+the Rebel Base at Ralltir.  You
+must try to delay the attack.</source>
+        <target>Una flota imperial se dirige a
+la base rebelde de Ralltir. Debes
+intentar retrasar el ataque.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.8">
+      <segment state="translated">
+        <source>An Imperial fleet is heading for
+the Rebel Base at Ralltir.  You
+must try to delay the attack.</source>
+        <target>Una flota imperial se dirige a
+la base rebelde de Ralltir. Debes
+intentar retrasar el ataque.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.9">
+      <segment state="translated">
+        <source>The Imperial Fleet is attacking
+a Rebel Base with AT-AT walkers
+and Assault Gunboats.</source>
+        <target>La Flota Imperial ataca una Base
+rebelde con caminantes AT-AT y
+Cañoneras de Asalto.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.10">
+      <segment state="translated">
+        <source>The Rebels sneak on board an
+Imperial Star Destroyer and
+plant a bomb.</source>
+        <target>Los rebeldes se infiltran en un
+Destructor Estelar Imperial y
+colocan una bomba.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.11">
+      <segment state="translated">
+        <source>The plans for the Death Star
+are intercepted by a Rebel
+outpost.</source>
+        <target>Los planos de la Estrella de
+la Muerte son interceptados
+por un puesto avanzado rebelde.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.12">
+      <segment state="translated">
+        <source>The plans for the Death Star
+are transmitted to the ship
+containing Princess Leia.</source>
+        <target>Los planos de la Estrella de
+la Muerte son transmitidos a
+la nave que lleva a la Princesa
+Leia.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.13">
+      <segment state="translated">
+        <source>The Death Star is completed
+and destroys the planet used
+for building resources.</source>
+        <target>La Estrella de la Muerte es
+finalizada y destruye el planeta
+empleado como fuente de recursos
+de construcción.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.14">
+      <segment state="translated">
+        <source>The Death Star destroys the
+planet Alderaan as a means of
+terrorizing the galaxy.</source>
+        <target>La Estrella de la Muerte destruye
+Alderaan con el propósito de
+aterrorizar la galaxia.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.15">
+      <segment state="translated">
+        <source>The Death Star is destroyed
+by a Rebel attack.  The rebels
+return to Yavin to celebrate.</source>
+        <target>La Estrella de la Muerte es
+destruida por un ataque rebelde.
+Los rebeldes regresan a Yavin a
+celebrarlo.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.16">
+      <segment state="translated">
+        <source>The Rebels flee from Yavin
+before the Imperial Fleet
+can retaliate.</source>
+        <target>Los rebeldes escapan de
+Yavin antes de que la Flota
+Imperial pueda represaliarlos.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.17">
+      <segment state="translated">
+        <source>Overlord Ghorin is killed
+by Darth Vader for giving
+poison grain to the empire.</source>
+        <target>El Señor Supremo Ghorin es
+ejecutado por Darth Vader
+por entregar grano envenenado
+al Imperio.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.18">
+      <segment state="translated">
+        <source>Imperial Interdictors are
+taken from a repair dock to
+join the main Imperial Fleet.</source>
+        <target>Interdictores imperiales son
+retirados de un astillero de
+reparaciones imperial para
+unirse a la Flota Imperial principal.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.19">
+      <segment state="translated">
+        <source>An unprotected Imperial
+repair dock is rammed by an
+unmanned Rebel Corvette.</source>
+        <target>Un astillero de reparaciones imperial
+indefenso es embestido por una
+Corbeta rebelde no tripulada.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.20">
+      <segment state="translated">
+        <source>The B-Wing Starfighter
+is brought on-line by Luke
+Skywalker and Lt. Farlander.</source>
+        <target>El caza Ala-B es puesto en servicio
+por parte de Luke Skywalker y
+el teniente Farlander.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.21">
+      <segment state="translated">
+        <source>The Rebel Alliance swaps
+Imperial Probes with Rebel
+Probes during an evacuation.</source>
+        <target>La Alianza Rebelde intercambia
+Sondas imperiales con Sondas
+rebeldes durante una evacuación.</target>
+      </segment>
+    </unit>
+    <unit id="Cutscene.Description.22">
+      <segment state="translated">
+        <source>The Rebellion arrives at
+Hoth, where a new base for the
+Rebel Alliance will be built.</source>
+        <target>La Rebelión llega a Hoth, donde
+se construirá una nueva base para
+la Alianza Rebelde.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

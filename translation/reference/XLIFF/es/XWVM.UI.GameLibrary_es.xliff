@@ -1,0 +1,243 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.UI.GameLibrary" srcLang="en" trgLang="es">
+      <unit id="MainMenu.Label.StartGame">
+        <segment >
+          <source>Start Game</source>
+          <target>Iniciar Juego</target>
+        </segment>
+      </unit>
+      <unit id="MainMenu.Label.AddGame">
+        <segment >
+          <source>Add Game</source>
+          <target>Añadir Juego</target>
+        </segment>
+      </unit>
+      <unit id="MainMenu.Label.RemoveGame">
+        <segment >
+          <source>Remove Game</source>
+          <target>Eliminar Juego</target>
+        </segment>
+      </unit>
+      <unit id="MainMenu.Label.GetXwing">
+        <segment >
+          <source>Game Content</source>
+          <target>Contenido del Juego</target>
+        </segment>
+      </unit>
+      <unit id="MainMenu.Label.Settings">
+        <segment >
+          <source>Settings</source>
+          <target>Ajustes</target>
+        </segment>
+      </unit>
+      <unit id="MainMenu.Label.Exit">
+        <segment >
+          <source>Exit</source>
+          <target>Salir</target>
+        </segment>
+      </unit>
+      <unit id="Library.Label.SelectedGame">
+        <segment >
+          <source>Selected Game:</source>
+          <target>Juego Elegido:</target>
+        </segment>
+      </unit>
+      <unit id="Library.Label.Library">
+        <segment >
+          <source>Library:</source>
+          <target>Biblioteca:</target>
+        </segment>
+      </unit>
+      <unit id="Library.Value.LibraryCount">
+        <segment >
+          <source>{gameCount:plural:1 game|{} games} installed</source>
+          <target>{gameCount:plural:1 juego|{} juegos} instalados</target>
+        </segment>
+      </unit>
+      <unit id="Library.Value.NoGameSelected">
+        <segment >
+          <source>None</source>
+          <target>Ninguno</target>
+        </segment>
+      </unit>
+      <unit id="Library.Value.SelectedGame">
+        <segment >
+          <source>{selectedGame:{selectedGame}|None}</source>
+          <target>{selectedGame:{selectedGame}|Ninguno}</target>
+        </segment>
+      </unit>
+      <unit id="Library.Empty">
+        <segment >
+          <source>&lt;b&gt;Welcome to XWVM!&lt;/b&gt;
+
+To get started, use &lt;b&gt;Add Game&lt;/b&gt; to locate games to play in XWVM.
+
+Once added, your games will appear in the Game Library here.
+
+Multiple variants of the same game can be added (e.g. X-Wing 1993 and X-Wing 1994 GoG edition can both be present in the library).</source>
+          <target>&lt;b&gt;¡Te damos la bienvenida a XWVM!&lt;/b&gt;
+
+Para comenzar, utiliza &lt;b&gt;Añadir Juego&lt;/b&gt; para localizar juegos a los que jugar en XWVM.
+
+Una vez añadidos, tus juegos aparecerán aquí en la Biblioteca de Juegos.
+
+Se pueden añadir múltiples variantes del mismo juego (por ejemplo, se puede añadir tanto X-Wing 1993 como X-Wing 1994 edición GoG a la biblioteca y ambos estarán presentes).</target>
+        </segment>
+      </unit>
+      <unit id="GameContent.Title.Label">
+        <segment >
+          <source>Manage Game Content</source>
+          <target>Gestionar Contenido del Juego</target>
+        </segment>
+      </unit>
+      <unit id="GameContent.OriginalGame.Header">
+        <segment >
+          <source>Base Game Content</source>
+          <target>Contenido del Juego Base</target>
+        </segment>
+      </unit>
+      <unit id="GameContent.OriginalGame.Label">
+        <segment >
+          <source>XWVM requires a legal copy of a compatible game to play.
+
+Don't have the games? You can purchase a copy at one of these stores:</source>
+          <target>Para jugar, XWVM requiere una copia legal de un juego compatible.
+
+¿No tienes los juegos? Puedes adquirirlos en una de estas tiendas:</target>
+        </segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Header">
+        <segment >
+          <source>Custom Content</source>
+          <target>Contenido Personalizado</target>
+        </segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Table.Header.Name">
+        <segment >
+          <source>Name</source>
+          <target>Nombre</target>
+        </segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Table.Header.Description">
+        <segment >
+          <source>Description</source>
+          <target>Descripción</target>
+        </segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Table.Header.Version">
+        <segment >
+          <source>Version</source>
+          <target>Versión</target>
+        </segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Table.Header.Status">
+        <segment >
+          <source>Status</source>
+          <target>Estado</target>
+        </segment>
+      </unit>
+      <unit id="GameInformation.Button.BackToLibrary">
+        <segment >
+          <source>Library</source>
+          <target>Biblioteca</target>
+        </segment>
+      </unit>
+      <unit id="Dialog.ControlsInvalidNotification.Text">
+        <segment >
+          <source>XWVM has detected invalid control bindings for:
+&lt;b&gt;{controls}&lt;/b&gt;
+The default keyboard and mouse bindings will now be applied and saved unless you cancel. Controller bindings will not be affected.
+
+&lt;b&gt;Continuing without applying default binding settings may affect critical game interactivity, and is not recommended.&lt;/b&gt;</source>
+          <target>XWVM ha detectado asignaciones de controles no válidas para:
+&lt;b&gt;{controls}&lt;/b&gt;
+Se van a aplicar las asignaciones por defecto para ratón y teclado y se guardarán a menos que canceles. Las asignaciones para dispositivos de control no serán afectadas.
+
+&lt;b&gt;Continuar sin aplicar ajustes de asignaciones por defecto puede afectar de forma severa la interactividad del juego, y no lo recomendamos.&lt;/b&gt;</target>
+        </segment>
+      </unit>
+      <unit id="Dialog.ControlsInvalidNotification.Button.Cancel">
+        <segment >
+          <source>Cancel</source>
+          <target>Cancelar</target>
+        </segment>
+      </unit>
+      <unit id="Dialog.ControlsInvalidNotification.Button.ApplyDefaults">
+        <segment >
+          <source>Apply Defaults &lt;b&gt;({time})&lt;/b&gt;</source>
+          <target>Aplicar Valores por Defecto &lt;b&gt;({time})&lt;/b&gt;</target>
+        </segment>
+      </unit>
+      <unit id="Library.Button.Label.GameInformation">
+        <segment >
+          <source>Game Information</source>
+          <target>Información del Juego</target>
+        </segment>
+      </unit>
+      <unit id="Library.Button.Label.GameSettings">
+        <segment >
+          <source>Game Settings</source>
+          <target>Ajustes del Juego</target>
+        </segment>
+      </unit>
+      <unit id="Library.GameInformation.Button.Label.Library">
+        <segment >
+          <source>Library</source>
+          <target>Biblioteca</target>
+        </segment>
+      </unit>
+      <unit id="FolderSetup.HeaderText">
+        <segment >
+          <source>XWVM requires that you have a compatible game installed on your computer, and that you select the folder where it is installed.
+When you select a folder with a valid installation of compatible game, it will be indicated at the right hand list.</source>
+          <target>XWVM requiere que tengas un juego compatible instalado en tu equipo, y que selecciones la carpeta en la que está instalado.
+Cuando selecciones una carpeta que contenga una instalación válida de un juego compatible, se te indicará a la derecha.</target>
+        </segment>
+      </unit>
+      <unit id="FolderSetup.CDROMText">
+        <segment >
+          <source>If you have a retail version of a compatible game on CD-ROM, either insert the disk, or copy its content to a folder on your PC.</source>
+          <target>Si tienes una versión física de un juego compatible en CD-ROM, o bien inserta el disco, o copia su contenido a una carpeta en tu equipo.</target>
+        </segment>
+      </unit>
+      <unit id="Dialog.ControlsUnusableNotification.Text">
+        <segment >
+          <source>XWVM has detected invalid control bindings for:
+&lt;b&gt;{controls}&lt;/b&gt;
+The bindings will now be cleared and saved unless you cancel.
+
+&lt;b&gt;Continuing without clearing these binding settings may affect critical game interactivity, and is not recommended.&lt;/b&gt;</source>
+          <target>XWVM ha detectado asignaciones de controles no válidas para:
+&lt;b&gt;{controls}&lt;/b&gt;
+Las asignaciones van a ser borradas y guardadas a menos que canceles.
+
+&lt;b&gt;Continuar sin aplicar ajustes de asignaciones por defecto puede afectar de forma severa la interactividad del juego, y no lo recomendamos.&lt;/b&gt;</target>
+        </segment>
+      </unit>
+      <unit id="Dialog.ControlsInvalidNotification.Button.ClearBindings">
+        <segment >
+          <source>Clear Bindings &lt;b&gt;({time})&lt;/b&gt;</source>
+          <target>Borrar Asignaciones &lt;b&gt;({time})&lt;/b&gt;</target>
+        </segment>
+      </unit>
+	 <unit id="BootstrapScene.InitMessage">
+      <segment>
+        <source>Loading...</source>
+        <target>Cargando...</target>
+      </segment>
+    </unit>
+    <unit id="MainMenu.Label.UpdateGame.CheckingUpdates">
+      <segment>
+        <source>Checking for Updates...</source>
+        <target>Comprobando Actualizaciones...</target>
+      </segment>
+    </unit>
+    <unit id="MainMenu.Label.UpdateGame.DownloadUpdate">
+      <segment>
+        <source>Download Update</source>
+        <target>Descargar Actualización</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

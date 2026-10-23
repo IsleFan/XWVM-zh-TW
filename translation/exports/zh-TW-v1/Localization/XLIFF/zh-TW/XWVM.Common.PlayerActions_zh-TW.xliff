@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en-US" trgLang="zh-TW">
+  <file id="Strings">
+    <unit id="QuitMissionConfirm">
+      <segment state="translated">
+        <source>Press [[{keyName}]] to [[confirm quitting]] the mission...</source>
+        <target>按下 [[{keyName}]] 以[[確認退出]]任務……</target></segment>
+    </unit>
+    <unit id="ChangedWeaponFireMode">
+      <segment state="translated">
+        <source>Fire mode changed to {fireMode:choose(SingleFire|DualFire|FireLinked|Crosslinked):[[Single]] fire|[[Dual]] fire|[[Linked]] fire|[[Cross-linked]] weapons}.</source>
+        <target>射擊模式已切換為{fireMode:choose(SingleFire|DualFire|FireLinked|Crosslinked):[[單發]]射擊|[[雙聯]]射擊|[[全連動]]射擊|[[交叉連動]]武器}。</target></segment>
+    </unit>
+    <unit id="LaserCannonsArmed">
+      <segment state="translated">
+        <source>Laser cannons armed.</source>
+        <target>雷射砲已啟用。</target></segment>
+    </unit>
+    <unit id="IonCannonsArmed">
+      <segment state="translated">
+        <source>Ion cannons armed.</source>
+        <target>離子砲已啟用。</target></segment>
+    </unit>
+    <unit id="WarheadLaunchersArmed">
+	  <notes>
+		<note>
+		The {type} variable indicates what type of warhead is the launcher equipped with.
+		</note>
+	  </notes>
+      <segment state="translated">
+        <source>[[{type:choose(Missile|Torpedo|AdvancedMissile|AdvancedTorpedo|Bomb|HeavyRocket|MagPulse):Missile|Torpedo|Advanced missile|Advanced torpedo|Space bomb|Heavy rocket|Mag pulse}]] launchers armed.</source>
+        <target>[[{type:choose(Missile|Torpedo|AdvancedMissile|AdvancedTorpedo|Bomb|HeavyRocket|MagPulse):飛彈|魚雷|先進飛彈|先進魚雷|太空炸彈|重型火箭|磁脈衝彈}]]發射器已啟用。</target></segment>
+    </unit>
+	<unit id="CraftNotEquippedWith">
+		<segment state="translated">
+			<source>This craft is not equipped with {system:choose(cannon|shield|beam|hyperdrive|slam|warhead|autoturret):[[Cannons]]|a [[Shield]]|a [[Beam Weapon]] system|a [[Hyperdrive]]|a [[SLAM]] system|a [[Warhead Launcher]]|any [[Autoturret]]}.</source>
+			<target>本機未配備{system:choose(cannon|shield|beam|hyperdrive|slam|warhead|autoturret):[[火砲]]|[[護盾]]|[[光束武器]]系統|[[超空間引擎]]|[[SLAM]] 系統|[[彈頭發射器]]|任何[[自動砲塔]]}。</target></segment>
+	</unit>
+    <unit id="CannonSystemDamaged">
+      <segment state="translated">
+        <source>[[Cannons]] system is damaged and inoperative.</source>
+        <target>[[火砲]]系統受損，無法運作。</target></segment>
+    </unit>
+    <unit id="ShieldSystemDamaged">
+      <segment state="translated">
+        <source>[[Deflector shield]] system is damaged and inoperative.</source>
+        <target>[[偏導護盾]]系統受損，無法運作。</target></segment>
+    </unit>
+    <unit id="WarheadLauncherSystemDamaged">
+      <segment state="translated">
+        <source>[[Warhead launcher]] system is damaged and inoperative.</source>
+        <target>[[彈頭發射器]]系統受損，無法運作。</target></segment>
+    </unit>
+    <unit id="HyperdriveDamaged">
+      <segment state="translated">
+        <source>[[Hyperdrive]] system is damaged and inoperative.</source>
+        <target>[[超空間引擎]]系統受損，無法運作。</target></segment>
+    </unit>
+    <unit id="HyperspaceSequenceAborted">
+      <segment state="translated">
+        <source>[[Hyperspace]] sequence [[aborted]].</source>
+        <target>[[超空間]]跳躍程序[[已中止]]。</target></segment>
+    </unit>
+    <unit id="AbortProvingGroundsRun">
+      <segment state="translated">
+        <source>[[Press again]] to [[confirm]] abort of proving grounds run.</source>
+        <target>[[再按一次]]以[[確認]]中止試煉場挑戰。</target></segment>
+    </unit>
+    <unit id="ConfirmHyperspaceSequence">
+      <segment state="translated">
+        <source>[[Press again]] to [[confirm]] hyperspace sequence.</source>
+        <target>[[再按一次]]以[[確認]]啟動超空間跳躍程序。</target></segment>
+    </unit>
+    <unit id="HyperspaceSequenceInitiated">
+      <segment state="translated">
+        <source>[[Hyperspace]] sequence [[initiated]]. Press again to abort.</source>
+        <target>[[超空間]]跳躍程序[[已啟動]]。再按一次可中止。</target></segment>
+    </unit>
+    <unit id="MaintainHyperspaceThrottle">
+      <segment state="translated">
+        <source>Maintain hyperspace throttle at [[20%]] or less while the jump is calculated.</source>
+        <target>計算跳躍期間，請將超空間油門維持在 [[20%]] 以下。</target></segment>
+    </unit>
+    <unit id="WeaponConvergenceModeSetTo">
+      <segment state="translated">
+        <source>Weapon convergence mode set to {convergenceMode}.</source>
+        <target>武器匯聚模式設為{convergenceMode}。</target></segment>
+    </unit>
+    <unit id="CannonFirerateSetTo">
+      <segment state="translated">
+        <source>Cannon firerate set to ×{firerate}.</source>
+        <target>火砲射速設為 ×{firerate}。</target></segment>
+    </unit>
+    <unit id="AutoturretsActivation">
+      <segment state="translated">
+        <source>Autoturrets [[{active:choose(on|off):activated|deactivated}]].</source>
+        <target>自動砲塔[[{active:choose(on|off):已啟動|已關閉}]]。</target></segment>
+    </unit>    
+    <unit id="AutoturretsTargetSetTo">
+      <segment state="translated">
+        <source>[[Autoturrets]] {target:choose(null):target cleared|set to target [[{}]]}.</source>
+        <target>[[自動砲塔]]{target:choose(null):已清除目標|目標設為 [[{}]]}。</target></segment>
+    </unit>
+    <unit id="BeamWeaponActivation">
+      <segment state="translated">
+        <source>Beam weapon [[{active:choose(on|off):activated|deactivated}]].</source>
+        <target>光束武器[[{active:choose(on|off):已啟動|已關閉}]]。</target></segment>
+    </unit>
+	<unit id="SlamActivation">
+		<segment state="translated">
+			<source>Engine overdrive boosters [[{active:choose(on|off|nopower):engaged|disengaged|cannot be engaged)}]].</source>
+			<target>引擎超載推進器[[{active:choose(on|off|nopower):已啟動|已關閉|無法啟動}]]。</target></segment>
+	</unit>
+    <unit id="ElsRechargeModeSetTo">
+      <segment state="translated">
+        <source>{system:choose(cannon|shield|beam):[[Cannon]] system|[[Shields]]|[[Beam]] weapon} recharge {rechargeMode:choose(0|1|2|3|4):[[fully]] redirected to engines|[[partially]] redirected to engines|at [[maintenance]] level|at [[increased]] rate|at [[maximum]] rate}.</source>
+        <target>{system:choose(cannon|shield|beam):[[火砲]]系統|[[護盾]]|[[光束]]武器}充能{rechargeMode:choose(0|1|2|3|4):已[[全數]]轉移至引擎|已[[部分]]轉移至引擎|維持在[[基本]]水準|以[[加快]]速率進行|以[[最大]]速率進行}。</target></segment>
+    </unit>
+    <unit id="ToggledShieldsTo">
+      <segment state="translated">
+        <source>Shields orientation set to [[{dir:choose(front|rear|balanced):front|rear|balanced}]].</source>
+        <target>護盾配置設為[[{dir:choose(front|rear|balanced):前方|後方|平衡}]]。</target></segment>
+    </unit>
+    <unit id="TransferredLaserToShields">
+      <segment state="translated">
+        <source>Energy transferred to shields.</source>
+        <target>能量已轉移至護盾。</target></segment>
+    </unit>
+    <unit id="TransferredShieldsToLaser">
+      <segment state="translated">
+        <source>Energy transferred to lasers.</source>
+        <target>能量已轉移至雷射砲。</target></segment>
+    </unit>
+    <unit id="MatchedTargetSpeed">
+      <segment state="translated">
+        <source>Speed matched to target.</source>
+        <target>已與目標同速。</target></segment>
+    </unit>
+    <unit id="MatchedTargetSpeedTooFast">
+      <segment state="translated">
+        <source>Target is too fast to match speed. Setting throttle to maximum.</source>
+        <target>目標速度過快，無法同速。油門設為最大。</target></segment>
+    </unit>
+    <unit id="ToggledSFoils">
+      <segment state="translated">
+        <source>S-foils toggled.</source>
+        <target>S翼已切換。</target></segment>
+    </unit>
+	<unit id="SFoilsStateChanged">
+      <segment state="translated">
+        <source>S-foils {state:choose(Opening|Opened|Closing|Closed):opening|have reached open position|closing|have reached closed position}.</source>
+        <target>S翼{state:choose(Opening|Opened|Closing|Closed):展開中|已完全展開|收合中|已完全收合}。</target></segment>
+    </unit>
+    <unit id="EjectedFromCraft">
+      <segment state="translated">
+        <source>Ejecting!</source>
+        <target>彈射！</target></segment>
+    </unit>
+    <unit id="SetThrottle">
+      <segment state="translated">
+        <source>Throttle set to [[{percent}%]].</source>
+        <target>油門設為 [[{percent}%]]。</target></segment>
+    </unit>
+    <unit id="ReinforcementsNotAvailable">
+      <segment state="translated">
+        <source>[[No reinforcements available]].</source>
+        <target>[[無可用增援]]。</target></segment>
+    </unit>
+    <unit id="ReinforcementsAlreadySent">
+      <segment state="translated">
+        <source>[[Reinforcements already sent, no more available]].</source>
+        <target>[[增援已派出，無更多可用]]。</target></segment>
+    </unit>
+    <unit id="ConfirmReinforcementRequest">
+      <segment state="translated">
+        <source>[[Press again]] to [[confirm reinforcement request]].</source>
+        <target>[[再按一次]]以[[確認請求增援]]。</target></segment>
+    </unit>
+    <unit id="ReinforcementRequestAcknowledged">
+      <segment state="translated">
+        <source>Request for [[reinforcements]] [[acknowledged]].</source>
+        <target>[[增援]]請求[[已確認]]。</target></segment>
+    </unit>
+    <unit id="CannotFireWithSFoilsClosed">
+      <segment state="translated">
+        <source>Cannot fire with S-foils closed.</source>
+        <target>S翼收合時無法開火。</target></segment>
+    </unit>
+    <unit id="EnterHangarRequest">
+      <segment state="translated">
+        <source>Press [[{keyName}]] to request entering the [[hangar]].</source>
+        <target>按下 [[{keyName}]] 請求進入[[機庫]]。</target></segment>
+    </unit>
+    <unit id="EnterHangarGranted">
+      <segment state="translated">
+        <source>[[Permission]] to enter hangar [[granted]]. Press [[{keyName}]] to enter hangar.</source>
+        <target>進入機庫的[[許可]][[已核准]]。按下 [[{keyName}]] 進入機庫。</target></segment>
+    </unit>
+  </file>
+</xliff>

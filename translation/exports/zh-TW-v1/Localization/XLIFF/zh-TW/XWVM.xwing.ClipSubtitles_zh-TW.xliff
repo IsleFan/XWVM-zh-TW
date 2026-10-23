@@ -1,0 +1,480 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en-US" trgLang="zh-TW">
+  <file id="XWVM.xwing.ClipSubtitles">
+    <unit id="acknowledged, ignoring target">
+      <segment state="translated">
+        <source>Acknowledged, ignoring target.</source>
+        <target>收到，忽略目標。</target></segment>
+    </unit>
+    <unit id="acknowledged, ignoring target2">
+      <segment state="translated">
+        <source>Acknowledged, ignoring target.</source>
+        <target>收到，忽略目標。</target></segment>
+    </unit>
+    <unit id="acknowledged, preparing for hyperspace jump">
+      <segment state="translated">
+        <source>Acknowledged, preparing for hyperspace jump.</source>
+        <target>收到，準備超空間跳躍。</target></segment>
+    </unit>
+    <unit id="acknowledged, preparing for hyperspace jump2">
+      <segment state="translated">
+        <source>Acknowledged, preparing for hyperspace jump.</source>
+        <target>收到，準備超空間跳躍。</target></segment>
+    </unit>
+    <unit id="acknowledged, setting up for attack run">
+      <segment state="translated">
+        <source>Acknowledged, setting up for attack run.</source>
+        <target>收到，準備進入攻擊航線。</target></segment>
+    </unit>
+    <unit id="acknowledged, setting up for attack run2">
+      <segment state="translated">
+        <source>Acknowledged, setting up for attack run.</source>
+        <target>收到，準備進入攻擊航線。</target></segment>
+    </unit>
+    <unit id="awaiting">
+      <segment state="translated">
+        <source>Awaiting further orders.</source>
+        <target>待命，等候進一步命令。</target></segment>
+    </unit>
+    <unit id="beginatk">
+      <segment state="translated">
+        <source>Beginning attack.</source>
+        <target>開始攻擊。</target></segment>
+    </unit>
+    <unit id="breakof2">
+      <segment state="translated">
+        <source>Break off!</source>
+        <target>脫離！</target></segment>
+    </unit>
+    <unit id="breakofg">
+      <segment state="translated">
+        <source>Break off!</source>
+        <target>脫離！</target></segment>
+    </unit>
+    <unit id="could use a hand over here">
+      <segment state="translated">
+        <source>I could use a hand over here!</source>
+        <target>我這邊需要幫手！</target></segment>
+    </unit>
+    <unit id="coverme2">
+      <segment state="translated">
+        <source>Cover me!</source>
+        <target>掩護我！</target></segment>
+    </unit>
+    <unit id="docking">
+      <segment state="translated">
+        <source>Docking operation complete.</source>
+        <target>對接作業完成。</target></segment>
+    </unit>
+    <unit id="followa">
+      <segment state="translated">
+        <source>Follow me.</source>
+        <target>跟我來。</target></segment>
+    </unit>
+    <unit id="formup">
+      <segment state="translated">
+        <source>Form up.</source>
+        <target>編隊集合。</target></segment>
+    </unit>
+    <unit id="gate-1">
+      <segment state="translated">
+        <source>[Gate Visited Beep]</source>
+        <target>［通過閘門提示音］</target></segment>
+    </unit>
+    <unit id="gothim">
+      <segment state="translated">
+        <source>Got 'em!</source>
+        <target>打中了！</target></segment>
+    </unit>
+    <unit id="heading your way, keep it togheter">
+      <segment state="translated">
+        <source>Heading your way, keep it together!</source>
+        <target>正往你那邊去，撐住！</target></segment>
+    </unit>
+    <unit id="heading your way, keep it togheter2">
+      <segment state="translated">
+        <source>Heading your way, keep it together!</source>
+        <target>正往你那邊去，撐住！</target></segment>
+    </unit>
+    <unit id="helpme">
+      <segment state="translated">
+        <source>Help me!</source>
+        <target>救我！</target></segment>
+    </unit>
+    <unit id="I could do with a hand over here">
+      <segment state="translated">
+        <source>I could do with a hand over here!</source>
+        <target>我這邊需要人幫忙！</target></segment>
+    </unit>
+    <unit id="I could do with a hand over here2">
+      <segment state="translated">
+        <source>I could do with a hand over here!</source>
+        <target>我這邊需要人幫忙！</target></segment>
+    </unit>
+    <unit id="I know just a maneuver to get out of this one">
+      <segment state="translated">
+        <source>I know just the manoeuvre to get out of this one!</source>
+        <target>我知道有一招能擺脫這個困境！</target></segment>
+    </unit>
+    <unit id="I know just a maneuver to get out of this one2">
+      <segment state="translated">
+        <source>I know just the manoeuvre to get out of this one!</source>
+        <target>我知道有一招能擺脫這個困境！</target></segment>
+    </unit>
+    <unit id="I need some help">
+      <segment state="translated">
+        <source>I need some help!</source>
+        <target>我需要支援！</target></segment>
+    </unit>
+    <unit id="I need some help--">
+      <segment state="translated">
+        <source>I need some help--!</source>
+        <target>我需要支援——！</target></segment>
+    </unit>
+    <unit id="I need some help here">
+      <segment state="translated">
+        <source>I need some help here!</source>
+        <target>這裡需要支援！</target></segment>
+    </unit>
+    <unit id="I need some help here2">
+      <segment state="translated">
+        <source>I need some help here!</source>
+        <target>這裡需要支援！</target></segment>
+    </unit>
+    <unit id="I need some help2">
+      <segment state="translated">
+        <source>I need some help!</source>
+        <target>我需要支援！</target></segment>
+    </unit>
+    <unit id="ignoring">
+      <segment state="translated">
+        <source>Ignoring target.</source>
+        <target>忽略目標。</target></segment>
+    </unit>
+    <unit id="I'm hit">
+      <segment state="translated">
+        <source>I'm hit!</source>
+        <target>我中彈了！</target></segment>
+    </unit>
+    <unit id="I'm on 'em">
+      <segment state="translated">
+        <source>I'm on 'em!</source>
+        <target>我咬住他們了！</target></segment>
+    </unit>
+    <unit id="incomina">
+      <segment state="translated">
+        <source>Incoming missile!</source>
+        <target>飛彈來襲！</target></segment>
+    </unit>
+    <unit id="lookouta">
+      <segment state="translated">
+        <source>Look out!</source>
+        <target>小心！</target></segment>
+    </unit>
+    <unit id="lookoutg">
+      <segment state="translated">
+        <source>Look out!</source>
+        <target>小心！</target></segment>
+    </unit>
+    <unit id="mission critical craft destroyed">
+      <segment state="translated">
+        <source>Mission critical craft: Destroyed.</source>
+        <target>任務關鍵艦艇：已被摧毀。</target></segment>
+    </unit>
+    <unit id="mission critical craft destroyed2">
+      <segment state="translated">
+        <source>Mission critical craft: Destroyed.</source>
+        <target>任務關鍵艦艇：已被摧毀。</target></segment>
+    </unit>
+    <unit id="mission critical craft hull condition critical">
+      <segment state="translated">
+        <source>Mission critical craft: Hull condition critical.</source>
+        <target>任務關鍵艦艇：船體狀況危急。</target></segment>
+    </unit>
+    <unit id="mission critical craft hull condition critical2">
+      <segment state="translated">
+        <source>Mission critical craft: Hull condition critical.</source>
+        <target>任務關鍵艦艇：船體狀況危急。</target></segment>
+    </unit>
+    <unit id="mission critical craft shields down">
+      <segment state="translated">
+        <source>Mission critical craft: Shields down.</source>
+        <target>任務關鍵艦艇：護盾失效。</target></segment>
+    </unit>
+    <unit id="mission critical craft shields down2">
+      <segment state="translated">
+        <source>Mission critical craft: Shields down.</source>
+        <target>任務關鍵艦艇：護盾失效。</target></segment>
+    </unit>
+    <unit id="mission critical craft they've started their boarding operation">
+      <segment state="translated">
+        <source>Mission critical craft: Boarding operation started.</source>
+        <target>任務關鍵艦艇：登艦作業已開始。</target></segment>
+    </unit>
+    <unit id="mission critical craft they've started their boarding operation2">
+      <segment state="translated">
+        <source>Mission critical craft: Boarding operation started.</source>
+        <target>任務關鍵艦艇：登艦作業已開始。</target></segment>
+    </unit>
+    <unit id="mission critical craft under attack">
+      <segment state="translated">
+        <source>Mission critical craft: Under attack.</source>
+        <target>任務關鍵艦艇：遭受攻擊。</target></segment>
+    </unit>
+    <unit id="mission critical craft under attack2">
+      <segment state="translated">
+        <source>Mission critical craft: Under attack.</source>
+        <target>任務關鍵艦艇：遭受攻擊。</target></segment>
+    </unit>
+    <unit id="mission critical it's aborting their mission">
+      <segment state="translated">
+        <source>Mission critical craft: Aborting mission.</source>
+        <target>任務關鍵艦艇：中止任務。</target></segment>
+    </unit>
+    <unit id="mission critical it's completed its boarding operation">
+      <segment state="translated">
+        <source>Mission critical craft: Boarding operation completed.</source>
+        <target>任務關鍵艦艇：登艦作業已完成。</target></segment>
+    </unit>
+    <unit id="niceshtg">
+      <segment state="translated">
+        <source>Nice shot!</source>
+        <target>打得好！</target></segment>
+    </unit>
+    <unit id="onhima">
+      <segment state="translated">
+        <source>I'm on him!</source>
+        <target>我咬住他了！</target></segment>
+    </unit>
+    <unit id="ontargt">
+      <segment state="translated">
+        <source>Stay on target!</source>
+        <target>盯住目標！</target></segment>
+    </unit>
+    <unit id="preparing for hyperspace jump">
+      <segment state="translated">
+        <source>Preparing for hyperspace jump.</source>
+        <target>準備超空間跳躍。</target></segment>
+    </unit>
+    <unit id="preparing for hyperspace jump2">
+      <segment state="translated">
+        <source>Preparing for hyperspace jump.</source>
+        <target>準備超空間跳躍。</target></segment>
+    </unit>
+    <unit id="preparing to accelerate to attack speed">
+      <segment state="translated">
+        <source>Prepare to accelerate to attack speed.</source>
+        <target>準備加速至攻擊速度。</target></segment>
+    </unit>
+    <unit id="proceedn">
+      <segment state="translated">
+        <source>Proceeding with mission.</source>
+        <target>繼續執行任務。</target></segment>
+    </unit>
+    <unit id="r2a">
+      <segment state="translated">
+        <source>[Negative Beep]</source>
+        <target>［否定嗶聲］</target></segment>
+    </unit>
+    <unit id="r2b">
+      <segment state="translated">
+        <source>[Report Beep]</source>
+        <target>［回報嗶聲］</target></segment>
+    </unit>
+    <unit id="r2c">
+      <segment state="translated">
+        <source>[Negative Beep]</source>
+        <target>［否定嗶聲］</target></segment>
+    </unit>
+    <unit id="r2d">
+      <segment state="translated">
+        <source>[Report Beep]</source>
+        <target>［回報嗶聲］</target></segment>
+    </unit>
+    <unit id="r2dangr2">
+      <segment state="translated">
+        <source>[Danger Beep]</source>
+        <target>［危險嗶聲］</target></segment>
+    </unit>
+    <unit id="r2happy1">
+      <segment state="translated">
+        <source>[Happy Beep]</source>
+        <target>［開心嗶聲］</target></segment>
+    </unit>
+    <unit id="r2hit">
+      <segment state="translated">
+        <source>[Damage Beep]</source>
+        <target>［受損嗶聲］</target></segment>
+    </unit>
+    <unit id="r2warn">
+      <segment state="translated">
+        <source>[Warning Beep]</source>
+        <target>［警告嗶聲］</target></segment>
+    </unit>
+    <unit id="r2whistl">
+      <segment state="translated">
+        <source>[Positive Beep]</source>
+        <target>［肯定嗶聲］</target></segment>
+    </unit>
+    <unit id="red2e">
+      <segment state="translated">
+        <source>Red Two:</source>
+        <target>紅色二號：</target></segment>
+    </unit>
+    <unit id="red2e1">
+      <segment state="translated">
+        <source>Red Two:</source>
+        <target>紅色二號：</target></segment>
+    </unit>
+    <unit id="redlead3">
+      <segment state="translated">
+        <source>Red Leader:</source>
+        <target>紅色隊長：</target></segment>
+    </unit>
+    <unit id="redlede">
+      <segment state="translated">
+        <source>Red Leader:</source>
+        <target>紅色隊長：</target></segment>
+    </unit>
+    <unit id="right, let's see them try to match this">
+      <segment state="translated">
+        <source>Right, let's see them try to match this!</source>
+        <target>好，看他們跟不跟得上這招！</target></segment>
+    </unit>
+    <unit id="roger that, I got your back">
+      <segment state="translated">
+        <source>Roger that, I've got your back.</source>
+        <target>收到，我掩護你。</target></segment>
+    </unit>
+    <unit id="roger that, returning to base">
+      <segment state="translated">
+        <source>Roger that, returning to base.</source>
+        <target>收到，返回基地。</target></segment>
+    </unit>
+    <unit id="roger that, returning to base2">
+      <segment state="translated">
+        <source>Roger that, returning to base.</source>
+        <target>收到，返回基地。</target></segment>
+    </unit>
+    <unit id="roger that, time for some fancy flying">
+      <segment state="translated">
+        <source>Roger that, time for some fancy flying!</source>
+        <target>收到，該來點花式飛行了！</target></segment>
+    </unit>
+    <unit id="roger that, time for some fancy flying2">
+      <segment state="translated">
+        <source>Roger that, time for some fancy flying!</source>
+        <target>收到，該來點花式飛行了！</target></segment>
+    </unit>
+    <unit id="roger that, using designated target">
+      <segment state="translated">
+        <source>Roger that, using designated target.</source>
+        <target>收到，鎖定指定目標。</target></segment>
+    </unit>
+    <unit id="roger that, using designated target2">
+      <segment state="translated">
+        <source>Roger that, using designated target.</source>
+        <target>收到，鎖定指定目標。</target></segment>
+    </unit>
+    <unit id="roger, attacking target">
+      <segment state="translated">
+        <source>Roger, attacking target.</source>
+        <target>收到，攻擊目標。</target></segment>
+    </unit>
+    <unit id="roger, I'm on 'em">
+      <segment state="translated">
+        <source>Roger, I'm on 'em.</source>
+        <target>收到，我咬住他們了。</target></segment>
+    </unit>
+    <unit id="roger2">
+      <segment state="translated">
+        <source>Roger.</source>
+        <target>收到。</target></segment>
+    </unit>
+    <unit id="setting up for attack run">
+      <segment state="translated">
+        <source>Setting up for attack run.</source>
+        <target>準備進入攻擊航線。</target></segment>
+    </unit>
+    <unit id="setting up for attack run2">
+      <segment state="translated">
+        <source>Setting up for attack run.</source>
+        <target>準備進入攻擊航線。</target></segment>
+    </unit>
+    <unit id="shakem">
+      <segment state="translated">
+        <source>I can't shake 'em!</source>
+        <target>我甩不掉他們！</target></segment>
+    </unit>
+    <unit id="sit tight, I'm on my way">
+      <segment state="translated">
+        <source>Sit tight, I'm on my way.</source>
+        <target>撐住，我馬上到。</target></segment>
+    </unit>
+    <unit id="sit tight, I'm on my way2">
+      <segment state="translated">
+        <source>Sit tight, I'm on my way.</source>
+        <target>撐住，我馬上到。</target></segment>
+    </unit>
+    <unit id="staclosg">
+      <segment state="translated">
+        <source>Stay close.</source>
+        <target>跟緊。</target></segment>
+    </unit>
+    <unit id="stay calm, I'm planning an intercept course">
+      <segment state="translated">
+        <source>Stay calm, I'm plotting an intercept course.</source>
+        <target>冷靜，我正在規劃攔截航線。</target></segment>
+    </unit>
+    <unit id="stay calm, I'm planning an intercept course2">
+      <segment state="translated">
+        <source>Stay calm, I'm plotting an intercept course.</source>
+        <target>冷靜，我正在規劃攔截航線。</target></segment>
+    </unit>
+    <unit id="stayclos">
+      <segment state="translated">
+        <source>Stay close.</source>
+        <target>跟緊。</target></segment>
+    </unit>
+    <unit id="tail1">
+      <segment state="translated">
+        <source>You've got one on your tail.</source>
+        <target>有一架咬住你的尾巴了。</target></segment>
+    </unit>
+    <unit id="tailg">
+      <segment state="translated">
+        <source>You've got one on your tail.</source>
+        <target>有一架咬住你的尾巴了。</target></segment>
+    </unit>
+    <unit id="tgtcaptr">
+      <segment state="translated">
+        <source>Target captured.</source>
+        <target>目標已俘獲。</target></segment>
+    </unit>
+    <unit id="tgtdestr">
+      <segment state="translated">
+        <source>Target destroyed.</source>
+        <target>目標已摧毀。</target></segment>
+    </unit>
+    <unit id="tgtdisab">
+      <segment state="translated">
+        <source>Target disabled.</source>
+        <target>目標已癱瘓。</target></segment>
+    </unit>
+    <unit id="tgtreprd">
+      <segment state="translated">
+        <source>Target repaired.</source>
+        <target>目標已修復。</target></segment>
+    </unit>
+    <unit id="usingtgt">
+      <segment state="translated">
+        <source>Using designated target.</source>
+        <target>鎖定指定目標。</target></segment>
+    </unit>
+    <unit id="watchout">
+      <segment state="translated">
+        <source>Watch out!</source>
+        <target>小心！</target></segment>
+    </unit>
+  </file>
+</xliff>

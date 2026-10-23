@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="es">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="MissionGroup.acombat.Title">
+      <segment>
+        <source>A-Wing</source>
+        <target>Ala-A</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.Title">
+      <segment state="translated">
+        <source>Repair Depot Raid</source>
+        <target>Incursión al Complejo de Reparaciones</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.Description">
+      <segment state="translated">
+        <source>This mission will 
+familiarize you with the
+A-wing fighter.  You will
+learn to configure your 
+power system, use your 
+targeting system and 
+fire your lasers.</source>
+        <target>Esta misión te familiarizará con el Ala-A.
+Aprenderás a configurar tu sistema de
+energía, utilizar tu sistema de fijado de blancos
+y disparar tus láseres.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Text.1">
+      <segment state="translated">
+        <source>&gt;Raid on an Imperial Repair Dock</source>
+        <target>&gt;Incursión sobre un Muelle de Reparaciones imperial</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Text.2">
+      <segment state="translated">
+        <source>Eliminate the targets as quickly as possible before help can arrive.</source>
+        <target>Elimina los objetivos lo antes posible antes de que pueda llegar ayuda.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Text.3">
+      <segment state="translated">
+        <source>Destroy the [[Repair Docks]] to disrupt Imperial operations.</source>
+        <target>Destruye los [[Muelles de Reparaciones]] para perturbar las operaciones imperiales.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Text.4">
+      <segment state="translated">
+        <source>Repaired ships may be circling the area, but are unarmed.</source>
+        <target>Las naves reparadas pueden estar en circulación por la zona, pero están desarmadas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Text.5">
+      <segment state="translated">
+        <source>[[Starfighters]], [[Transports]] and [[Shuttles]] are staged and waiting for repairs.</source>
+        <target>Hay [[Cazas]], [[Transportes]] y [[Lanzaderas]] estacionados y esperando reparaciones.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Text.6">
+      <segment state="translated">
+        <source>  Since it was designed for long range armed reconnaissance, one of the first operational test missions for the new [[A-Wing]] fighter was a sneak attack on a surprise target: an [[Imperial Repair Dock]].  Believing the Rebellion would not waste time on such an out of the way target, the Empire had left the depot completely unprotected.  To the contrary, the Alliance was willing to hit the Imperial fleet anywhere it could!</source>
+        <target>  Dado que estaba diseñado para reconocimiento armado de largo alcance, una de las primeras misiones de prueba operativas para el nuevo [[Ala-A]] fue un ataque sorpresa a un objetivo inesperado: un [[Muelle de Reparaciones imperial]].  Convencidos de que la Rebelión no desperdiciaría el tiempo en un objetivo tan lejano, el Imperio había dejado el complejo completamente sin protección.  ¡Todo lo contrario, la Alianza estaba dispuesta a golpear la flota imperial en cualquier lugar donde pudiera!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Text.7">
+      <segment state="translated">
+        <source>  A single ship was sent in to destroy as many craft as possible and hyperspace out when finished or endangered.  "[[Red Leader]]" successfully destroyed the dock and twenty-two Imperial craft before narrowly escaping the fire of an Imperial Frigate!$  Use your [[sensors]] and [[targeting system]] to locate your targets and plan your attack.  Concentrate on the repair dock first.</source>
+        <target>  Una única nave fue enviada para destruir la mayor cantidad de naves posibles y salir al hiperespacio cuando estuviera lista o en peligro.  "[[Líder Rojo]]" logró destruir con éxito el muelle y veintidós naves imperiales ¡antes de escapar por poco del fuego de una Fragata Imperial!$  Utiliza tus [[sensores]] y [[sistema de fijado de objetivos]] para localizar a tus blancos y planificar tu ataque.  Concentra tus esfuerzos en el muelle de reparaciones primero.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Text.8">
+      <segment state="translated">
+        <source>[[Red Leader]] will pop up near an [[Imperial Repair Dock]].</source>
+        <target>[[Líder Rojo]] emergerá cerca de un [[Muelle de Reparación Imperial]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Text.9">
+      <segment state="translated">
+        <source>Though designed for dogfighting, your [[concussion]] [[missiles]] offer the quickest means to accomplish this.$  Adjust your [[power levels]] to keep your lasers fully charged.  Remember the "[[boosted]]" laser blasts are more destructive and will destroy the targets more quickly.$  Eliminate all [[Transports]],[[ Shuttles]] and [[Imperial starfighters]] as quickly as you can before the Imperial Frigate can reach you.</source>
+        <target>Aunque diseñados para combate cercano, tus [[misiles de impacto]] ofrecen la forma más rápida de lograr esto.$  Ajusta tus [[niveles de energía]] para mantener tus láseres completamente cargados.  Recuerda que los disparos láser "[[sobrecargados]]" son más destructivos y destruirán a los objetivos más rápidamente.$  Elimina todos los [[Transportes]], [[Lanzaderas]] y [[cazas imperiales]] tan rápido como puedas antes de que la Fragata Imperial pueda alcanzarte.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Tag.0">
+      <segment state="translated">
+        <source>A-W Red Leader (YOU)</source>
+        <target>A-A Líder Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Tag.1">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Tag.2">
+      <segment>
+        <source>TIE Bombers</source>
+        <target>Bombarderos TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Tag.3">
+      <segment state="translated">
+        <source>TIE Interceptors</source>
+        <target>Interceptores TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Tag.4">
+      <segment>
+        <source>Tugs</source>
+        <target>Remolcadores</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Tag.5">
+      <segment>
+        <source>Freighter</source>
+        <target>Carguero</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Tag.6">
+      <segment>
+        <source>Transports</source>
+        <target>Transportes</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Tag.7">
+      <segment>
+        <source>Shuttles</source>
+        <target>Lanzaderas</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.Tag.8">
+      <segment>
+        <source>Repair Docks</source>
+        <target>Astilleros de Reparación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.0.Designation">
+      <segment state="translated">
+        <source>RED LEADER</source>
+        <target>LÍDER ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.1.Designation">
+      <segment>
+        <source>OMEGA</source>
+        <target>OMEGA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.2.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.3.Designation">
+      <segment>
+        <source>T-34</source>
+        <target>T-34</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.4.Designation">
+      <segment>
+        <source>T-35</source>
+        <target>T-35</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.5.Designation">
+      <segment state="translated">
+        <source>REPAIR DOCK</source>
+        <target>MUELLE DE REPARACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.6.Designation">
+      <segment state="translated">
+        <source>REPAIR DOCK</source>
+        <target>MUELLE DE REPARACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.7.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.8.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.9.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.10.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.11.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.12.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.13.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.14.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.awaistem.FG.15.Designation">
+      <segment state="translated">
+        <source>VIRULENCE</source>
+        <target>VIRULENCIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.0.Designation">
+      <segment state="translated">
+        <source>RED LEADER</source>
+        <target>LÍDER ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.1.Designation">
+      <segment state="translated">
+        <source>OMEGA</source>
+        <target>OMEGA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.2.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.3.Designation">
+      <segment state="translated">
+        <source>T-34</source>
+        <target>T-34</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.4.Designation">
+      <segment>
+        <source>T-35</source>
+        <target>T-35</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.5.Designation">
+      <segment state="translated">
+        <source>REPAIR DOCK</source>
+        <target>MUELLE DE REPARACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.6.Designation">
+      <segment state="translated">
+        <source>REPAIR DOCK</source>
+        <target>MUELLE DE REPARACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.7.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.8.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.9.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.10.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.11.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.12.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.13.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.14.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.FG.15.Designation">
+      <segment>
+        <source>VIRULENCE</source>
+        <target>VIRULENCIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.CompletionMessage.0">
+      <segment state="translated">
+        <source>Excellent work, Red One!</source>
+        <target>¡Excelente trabajo, Rojo Uno!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.awaistem.CompletionMessage.1">
+      <segment state="translated">
+        <source>You've destroyed the Imperial Repair Depot</source>
+        <target>Has destruido el Complejo de Reparación Imperial.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.Title">
+      <segment state="translated">
+        <source>Aggressor Squadron Training</source>
+        <target>Entrenamiento del Escuadrón Agresor</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.Description">
+      <segment state="translated">
+        <source>In this mission you will
+learn respect for the 
+speed and maneuverability
+of the A-wing fighter by
+flying against Rebel
+Starfighters!</source>
+        <target>En esta misión aprenderás a respetar
+la velocidad y la maniobrabilidad del
+Ala-A volando contra ¡cazas rebeldes!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.Text.1">
+      <segment state="translated">
+        <source>&gt;Aggressor Squadron Training</source>
+        <target>&gt;Entrenamiento del Escuadrón Agresor</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.Text.2">
+      <segment state="translated">
+        <source>You will fly in mock combat against other [[Rebel Starfighters]].</source>
+        <target>Volarás en combate simulado contra otros [[Cazas Rebeldes]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.Text.3">
+      <segment state="translated">
+        <source>Each new attacker will be [[more]] aggressive than the first!</source>
+        <target>¡Cada nuevo atacante será más agresivo que el anterior!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.Text.4">
+      <segment state="translated">
+        <source>  Part of advanced combat training includes simulated engagements with other [[Rebel starfighters]].  In this mission you will learn the strengths and weaknesses of our fighters. Each wave is flown by an increasingly skilled pilot.  Pay close attention to their defensive tactics.  Be aware that the A-wings are armed with[[ concussion missiles]], so keep your shields up in case you fail to dodge them!$</source>
+        <target>  Parte de la formación avanzada en combate incluye enfrentamientos simulados con otros [[caza rebeldes]].  En esta misión aprenderás las fortalezas y debilidades de nuestros cazas. Cada oleada es pilotada por un piloto cada vez más experimentado.  Presta atención a sus tácticas defensivas.  Ten en cuenta que los Alas-A están armados con [[misiles de impacto]], ¡así que mantén tus escudos activos en caso de que no logres evadirlos!$</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.Tag.0">
+      <segment>
+        <source>A-W Red 1 (YOU)</source>
+        <target>A-A Rojo 1 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.Tag.1">
+      <segment state="translated">
+        <source>Aggressor X-wing</source>
+        <target>Ala-X Agresor</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.Tag.2">
+      <segment state="translated">
+        <source>Aggressor Y-wing</source>
+        <target>Ala-Y Agresor</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.Tag.3">
+      <segment state="translated">
+        <source>Aggressor A-wing</source>
+        <target>Ala-A Agresor</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.1.Designation">
+      <segment state="translated">
+        <source>NOVICE</source>
+        <target>NOVATO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.2.Designation">
+      <segment>
+        <source>OFFICER</source>
+        <target>OFICIAL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.3.Designation">
+      <segment>
+        <source>VETERAN</source>
+        <target>VETERANO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.4.Designation">
+      <segment state="translated">
+        <source>ACE</source>
+        <target>AS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.5.Designation">
+      <segment state="translated">
+        <source>TOP ACE</source>
+        <target>AS DE ÉLITE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.6.Designation">
+      <segment state="translated">
+        <source>NOVICE</source>
+        <target>NOVATO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.7.Designation">
+      <segment>
+        <source>OFFICER</source>
+        <target>OFICIAL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.8.Designation">
+      <segment>
+        <source>VETERAN</source>
+        <target>VETERANO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.9.Designation">
+      <segment state="translated">
+        <source>ACE</source>
+        <target>AS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.10.Designation">
+      <segment state="translated">
+        <source>TOP ACE</source>
+        <target>AS DE ÉLITE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.11.Designation">
+      <segment state="translated">
+        <source>NOVICE</source>
+        <target>NOVATO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.12.Designation">
+      <segment>
+        <source>OFFICER</source>
+        <target>OFICIAL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.13.Designation">
+      <segment>
+        <source>VETERAN</source>
+        <target>VETERANO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.14.Designation">
+      <segment state="translated">
+        <source>ACE</source>
+        <target>AS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.waaggr1.FG.15.Designation">
+      <segment state="translated">
+        <source>TOP ACE</source>
+        <target>AS DE ÉLITE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.1.Designation">
+      <segment state="translated">
+        <source>NOVICE</source>
+        <target>NOVATO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.2.Designation">
+      <segment>
+        <source>OFFICER</source>
+        <target>OFICIAL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.3.Designation">
+      <segment>
+        <source>VETERAN</source>
+        <target>VETERANO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.4.Designation">
+      <segment state="translated">
+        <source>ACE</source>
+        <target>AS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.5.Designation">
+      <segment state="translated">
+        <source>TOP ACE</source>
+        <target>AS DE ÉLITE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.6.Designation">
+      <segment state="translated">
+        <source>NOVICE</source>
+        <target>NOVATO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.7.Designation">
+      <segment>
+        <source>OFFICER</source>
+        <target>OFICIAL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.8.Designation">
+      <segment>
+        <source>VETERAN</source>
+        <target>VETERANO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.9.Designation">
+      <segment state="translated">
+        <source>ACE</source>
+        <target>AS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.10.Designation">
+      <segment state="translated">
+        <source>TOP ACE</source>
+        <target>AS DE ÉLITE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.11.Designation">
+      <segment state="translated">
+        <source>NOVICE</source>
+        <target>NOVATO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.12.Designation">
+      <segment>
+        <source>OFFICER</source>
+        <target>OFICIAL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.13.Designation">
+      <segment>
+        <source>VETERAN</source>
+        <target>VETERANO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.14.Designation">
+      <segment state="translated">
+        <source>ACE</source>
+        <target>AS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.FG.15.Designation">
+      <segment state="translated">
+        <source>TOP ACE</source>
+        <target>AS DE ÉLITE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.CompletionMessage.0">
+      <segment state="translated">
+        <source>Well done, Red One!</source>
+        <target>¡Bien hecho, Rojo Uno!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.waaggr1.CompletionMessage.1">
+      <segment state="translated">
+        <source>All aggressor craft have been destroyed</source>
+        <target>Todas las naves hostiles han sido destruidas.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.Title">
+      <segment state="translated">
+        <source>Intercept TIE Bomber Run</source>
+        <target>Intercepta Pasada de Bombarderos TIE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.Description">
+      <segment state="translated">
+        <source>This mission highlights the
+A-wing's superior 
+interception capabilities.
+You will learn to employ
+concussion missiles against
+incoming TIE Bombers.</source>
+        <target>Esta misión destaca las capacidades
+de interceptación superiores del Ala-A.
+Aprenderás a emplear misiles de impacto
+contra los Bombarderos TIE aproximándose.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.1">
+      <segment state="translated">
+        <source>&gt;Intercept TIE Bomber Run</source>
+        <target>&gt;Intercepta Pasada de  Bombarderos TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.2">
+      <segment>
+        <source>A senior officer's shuttle is undergoing repairs to its hyperdrive.</source>
+        <target>Un lanzadera del oficial superior está sometiéndose a reparaciones en su hipermotor.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.3">
+      <segment state="translated">
+        <source>  A Shuttle bearing a high ranking Alliance officer was undergoing emergency mid-space repairs to a failed hyperdrive system when it was detected by Imperial forces.  A nearby [[Star Destroyer]] was diverted to deploy a single attack wave of [[TIE Fighters and Bombers]] before re-embarking on its previous mission. The single squadron was considered more than adequate to wipe out the tiny force of Rebels.</source>
+        <target>  Una Lanzadera transportando un alto oficial de la Alianza estaba llevando a cabo reparaciones de emergencia en medio del espacio, debido a una falla del sistema hipermotor, cuando fue detectada por las fuerzas imperiales.  Un [[destructor estelar]] cercano se desvió para desplegar una única oleada de ataque compuesta por [[cazas y bombarderos TIE]], antes de retomar su misión previa. La pequeña escuadra se consideraba más que suficiente para aniquilar las diminutas fuerzas rebeldes.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.4">
+      <segment state="translated">
+        <source>  As the fastest Alliance starfighter, the [[A-wing]] makes an outstanding interceptor.  In this simulation you will take the role of [[Red Two]].  Your task will be to fight through the initial wave of TIE Fighters to get at the TIE Bombers.  Because of the Bomber's [[concussion missiles]] you must stop them before they can get close enough to launch at the Shuttle. Use your own concussion missiles to halt the Bombers attack!</source>
+        <target>  Como el caza más veloz de la Alianza, el [[Ala-A]] es un interceptor sobresaliente.  En esta simulación, tomarás el rol de [[Rojo Dos]].  Tu misión será enfrentarte a la primera oleada de cazas TIE para llegar a los bombarderos TIE.  Debido a que los Bombarderos tienen [[misiles de impacto]], debes detenerlos antes de que puedan acercarse lo suficiente como para lanzar un ataque contra la Lanzadera.  ¡Utiliza tus propios misiles de impacto para detener el ataque de los bombarderos!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.5">
+      <segment state="translated">
+        <source>The shuttle is [[protected]] by an escort of three Rebel fighters.</source>
+        <target>La lanzadera está [[protegida]] por una escolta de tres cazas rebeldes.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.6">
+      <segment>
+        <source>A Star Destroyer has entered the area and launched a fighter attack.</source>
+        <target>Un Destructor Estelar ha entrado en la zona y lanzado un ataque con cazas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.7">
+      <segment state="translated">
+        <source>The attack consists of TIE Fighters and TIE Bombers.</source>
+        <target>El ataque consta de Cazas TIE y Bombarderos TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.8">
+      <segment state="translated">
+        <source>A-wing [[Red Two]] will move to intercept the TIE Bombers.</source>
+        <target>Ala-A [[Rojo Dos]] avanzará para interceptar los Bombarderos TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.9">
+      <segment>
+        <source>[[Red One]] and [[Red Three]] will stay back and guard the shuttle.</source>
+        <target>[[Rojo Uno]] y [[Rojo Tres]] se quedarán atrás y defenderán la lanzadera.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Text.10">
+      <segment state="translated">
+        <source>  Then turn back to engage the remaining TIE Fighters as they will have continued past you on their attack run.  The X-wing and Y-wing will remain close to the [[Shuttle Maria]] to defend it against any enemies that get past you, but that might not save the Shuttle!$  Remember that you can get more speed by redirecting laser energy to the engines, but first transfer the stored laser energy to the shields.</source>
+        <target>  Luego regresa a enfrentarte a los Cazas TIE restantes ya que habrán seguido adelante en su ataque. El Ala-X y el Ala-Y permanecerán cerca de la [[Lanzadera Maria]] para defenderla contra cualquier enemigo que se te escabulla, ¡pero tal vez no puedan salvar la Lanzadera!$  Recuerda que puedes obtener más velocidad redireccionando la energía de los láseres a los motores, pero primero transfiere la energía láser almacenada a los escudos.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Tag.0">
+      <segment>
+        <source>A-W Red 2 (YOU)</source>
+        <target>A-A Rojo 2 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Tag.1">
+      <segment>
+        <source>X-W Red 1</source>
+        <target>A-X Rojo 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Tag.2">
+      <segment>
+        <source>Y-W Red 3</source>
+        <target>A-Y Rojo 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Tag.3">
+      <segment state="translated">
+        <source>SHU Maria</source>
+        <target>LAN Maria</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Tag.4">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Tag.5">
+      <segment>
+        <source>TIE Bombers</source>
+        <target>Bombarderos TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.Tag.6">
+      <segment state="translated">
+        <source>STD Malice</source>
+        <target>DES Malicia</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.0.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.1.Designation">
+      <segment>
+        <source>ALPHA 3</source>
+        <target>ALFA 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.2.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.3.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.4.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.5.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.6.Designation">
+      <segment>
+        <source>RED 3</source>
+        <target>ROJO 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.7.Designation">
+      <segment>
+        <source>RED 2</source>
+        <target>ROJO 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.8.Designation">
+      <segment state="translated">
+        <source>MARIA</source>
+        <target>MARIA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.8.Cargo">
+      <segment>
+        <source>ADMIRAL</source>
+        <target>ALMIRANTE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max2.FG.9.Designation">
+      <segment state="translated">
+        <source>MALICE</source>
+        <target>MALICIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.0.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.1.Designation">
+      <segment>
+        <source>ALPHA 3</source>
+        <target>ALFA 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.2.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.3.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.4.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.5.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.6.Designation">
+      <segment>
+        <source>RED 3</source>
+        <target>ROJO 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.7.Designation">
+      <segment>
+        <source>RED 2</source>
+        <target>ROJO 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.8.Designation">
+      <segment state="translated">
+        <source>MARIA</source>
+        <target>MARIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.8.Cargo">
+      <segment>
+        <source>ADMIRAL</source>
+        <target>ALMIRANTE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.FG.9.Designation">
+      <segment>
+        <source>MALICE</source>
+        <target>MALICIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.CompletionMessage.0">
+      <segment state="translated">
+        <source>Tie Bombers are all destroyed</source>
+        <target>Todos los Bombarderos TIE han sido destruidos.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max2.CompletionMessage.1">
+      <segment state="translated">
+        <source>Stick around and help or head home</source>
+        <target>Quédate y ayuda o vuelve a la base.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.Title">
+      <segment state="translated">
+        <source>Attack Run On Freighters</source>
+        <target>Pasada de Ataque sobre Cargueros</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.Description">
+      <segment state="translated">
+        <source>In this mission you will
+learn to escort and 
+support Y-wings while
+on a Torpedo Attack 
+Run against a convoy of
+Imperial Supply Freighters.</source>
+        <target>En esta misión aprenderás a
+escoltar y apoyar a Alas-Y
+mientras realizan un  Ataque
+con Torpedos contra un convoy
+de cargueros de abastecimiento
+del Imperio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Text.1">
+      <segment state="translated">
+        <source>  This mission teaches you the effectiveness of composite strike teams.  The [[A-wing's]] speed and agility make it a perfect complement to the strength and firepower of the [[Y-wing]].$  This mission recreates an attack on an Imperial supply convoy en route to the Empire's base in the [[Ghorman]] system.  The Empire was expanding the base and the freighters were on their way with necessary supplies.</source>
+        <target>  Esta misión te enseña la efectividad de equipos de ataque compuestos.  La velocidad y agilidad del [[Ala-A]] hacen que sea un complemento perfecto a la fuerza y potencia de fuego del Ala-Y.$  Esta misión recrea un ataque contra un convoy imperial de suministros en ruta hacia la base del Imperio en el sistema [[Ghorman]].  El Imperio estaba ampliando la base y los cargueros estaban en camino con suministros necesarios.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Text.2">
+      <segment state="translated">
+        <source>&gt;Attack Run on Supply Freighters$</source>
+        <target>&gt;Pasada de Ataque sobre Cargueros de Suministros</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Text.3">
+      <segment state="translated">
+        <source>A convoy of Imperial Freighters is on its way to the [[Ghorman]] system.</source>
+        <target>Un convoy de Cargueros Imperiales se dirige hacia el sistema [[Ghorman]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Text.4">
+      <segment state="translated">
+        <source>[[TIE Fighters]] from the [[Ghorman]] [[base]] have already rendezvoused with them.</source>
+        <target>[[Cazas TIE]] de la [[base de Ghorman]] ya se han reunido con ellos.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Text.5">
+      <segment state="translated">
+        <source>[[Red Two]] will engage the escorts, while[[ Red One]] attacks the freighters.</source>
+        <target>[[Rojo Dos]] se enfrentará a la escolta, mientras que [[Rojo Uno]] ataca los cargueros.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Text.6">
+      <segment state="translated">
+        <source>  Due to the success of [[Red Team's]] attack the expansion of the Ghorman base was delayed for a full year!$  As you fly this mission stay aware of [[Red One's]] position and protect him from the convoy's TIE Fighter escorts while he takes out the Freighters.  Once the Freighters have been eliminated, mop up any remaining TIEs.</source>
+        <target>  ¡Debido al éxito del ataque del [[Equipo Rojo]], la expansión de la base de Ghorman se retrasó durante un año completo!$  Mientras vuelas esta misión, mantén presente la posición de [[Rojo Uno]] y protégele de los Cazas TIE escoltas del convoy mientras que él elimina los Cargueros.  Una vez que los Cargueros hayan sido eliminados, limpia cualquier TIE restante.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Tag.0">
+      <segment>
+        <source>Y-W Red 1</source>
+        <target>A-Y Rojo 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Tag.1">
+      <segment state="translated">
+        <source>T/F Escorts</source>
+        <target>Escoltas T/C</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Tag.2">
+      <segment>
+        <source>Ghorman</source>
+        <target>Ghorman</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Tag.3">
+      <segment>
+        <source>A-W Red 2 (YOU)</source>
+        <target>A-A Rojo 2 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.Tag.4">
+      <segment>
+        <source>Supply Convoy</source>
+        <target>Convoy de Suministros</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.0.Designation">
+      <segment>
+        <source>RED 2</source>
+        <target>ROJO 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.1.Designation">
+      <segment state="translated">
+        <source>CENTURY 1</source>
+        <target>SIGLO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.1.Cargo">
+      <segment state="translated">
+        <source>CONSTR. EQPT.</source>
+        <target>EQUIP. CONSTRUCCIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.2.Designation">
+      <segment state="translated">
+        <source>CENTURY 2</source>
+        <target>SIGLO 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.2.Cargo">
+      <segment>
+        <source>GENERATORS</source>
+        <target>GENERADORES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.3.Designation">
+      <segment state="translated">
+        <source>CENTURY 3</source>
+        <target>SIGLO 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.3.Cargo">
+      <segment>
+        <source>BLDG MATERIALS</source>
+        <target>MATERIALES DE CONSTRUCCIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.4.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.5.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.6.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.7.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.convoy2.FG.8.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.0.Designation">
+      <segment>
+        <source>RED 2</source>
+        <target>ROJO 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.1.Designation">
+      <segment state="translated">
+        <source>CENTURY 1</source>
+        <target>SIGLO I</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.1.Cargo">
+      <segment>
+        <source>CONSTR. EQPT.</source>
+        <target>MATERIAL DE CONSTRUCCIÓN.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.2.Designation">
+      <segment state="translated">
+        <source>CENTURY 2</source>
+        <target>SIGLO 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.2.Cargo">
+      <segment>
+        <source>GENERATORS</source>
+        <target>GENERADORES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.3.Designation">
+      <segment state="translated">
+        <source>CENTURY 3</source>
+        <target>SIGLO 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.3.Cargo">
+      <segment>
+        <source>BLDG MATERIALS</source>
+        <target>MATERIALES DE CONSTRUCCIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.4.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.5.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.6.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.7.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.FG.8.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.CompletionMessage.0">
+      <segment state="translated">
+        <source>All freighters destroyed!</source>
+        <target>¡Todos los cargueros destruidos!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.convoy2.CompletionMessage.1">
+      <segment state="translated">
+        <source>Hyperspace Home!</source>
+        <target>¡Salta a la base!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.Title">
+      <segment state="translated">
+        <source>Protect Rebel Starfighters</source>
+        <target>Protege Cazas Rebeldes</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.Description">
+      <segment state="translated">
+        <source>This mission emphasizes 
+the importance of 
+protecting vulnerable
+Rebel fighters as they
+return from a combat 
+mission.</source>
+        <target>Esta misión destaca la importancia
+de proteger a los pilotos rebeldes
+vulnerables mientras regresan
+de una misión de combate.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Text.1">
+      <segment state="translated">
+        <source>&gt;Protect Returning Starfighters</source>
+        <target>&gt;Protege Cazas de Regreso</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Text.2">
+      <segment state="translated">
+        <source>  The [[Calamari Cruiser Cathleen]] was recovering its starfighters after an attack on Imperial shipping in the[[ Corporate Sector]].  Though the raid was a success, the pilots and ships were battle weary and damaged.$  [[Red Squadron]] was assigned to protect the recovery operation by maintaining a combat patrol around the [[Cathleen]].  X-wings maintained point defense of the Cathleen, while the A-wings watched the perimeter.</source>
+        <target>  El [[Crucero Calamari Cathleen]] estaba recuperando sus cazas estelares después de un ataque contra líneas de transporte imperiales en el [[Sector Corporativo]].  Aunque la incursión fue un éxito, los pilotos y las naves estaban exhaustos y dañados por la batalla.$  El [[Escuadrón Rojo]] fue asignado para proteger la operación de recuperación manteniendo una patrulla de combate alrededor del [[Cathleen]].  Los Alas-X mantenían defensa del área del Cathleen, mientras que los Alas-A vigilaban el perímetro.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Text.3">
+      <segment state="translated">
+        <source>The [[Calamari Cruiser Cathleen's ]]starfighters are returning to base.</source>
+        <target>Los cazas del [[Crucero Calamari Cathleen]] están regresando a su base.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Text.4">
+      <segment state="translated">
+        <source>[[Red Squadron]] will maintain security during the recovery operation.</source>
+        <target>El [[Escuadrón Rojo]] mantendrá la seguridad durante la operación de recuperación.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Text.5">
+      <segment state="translated">
+        <source>If attacked, the [[A-wings]] will intercept the Imperials.</source>
+        <target>Si son atacados, los [[Ala-A]] interceptarán a los Imperiales.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Text.6">
+      <segment state="translated">
+        <source>Meanwhile, the X-wings will maintain a point defense around the [[Cathleen]].</source>
+        <target>Mientras tanto, los Alas-X mantendrán una defensa de zona alrededor del [[Cathleen]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Text.7">
+      <segment state="translated">
+        <source>  Your mission is to protect the battle weary ships as they return to base.  Stay extremely alert for any Imperial counterattack as the [[Cathleen]] will be especially vulnerable during the recovery operation.  This should take less than [[15 minutes]]. Move to intercept at the first sign of danger.$  Use any time you have to build up your shields and lasers to fully boosted strength levels.</source>
+        <target>  Tu misión es proteger las naves exhaustas del combate mientras regresan a la base.  Mantente extremadamente alerta por cualquier contraataque imperial, ya que el [[Cathleen]] será especialmente vulnerable durante la operación de recuperación.  Esto debería tomar menos de [[15 minutos]].  Avanza e intercepta al primer signo de peligro.$  Utiliza todo el tiempo del que dispongas para recargar tus escudos y láseres a niveles de potencia completa.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Text.8">
+      <segment state="translated">
+        <source>[[Shuttles]] from Gold Squadron will hyper in soon after.</source>
+        <target>[[Lanzaderas]] del Escuadrón Oro llegarán del hiperespacio pronto después.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Tag.0">
+      <segment>
+        <source>CRS Cathleen</source>
+        <target>CRU Cathleen</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Tag.1">
+      <segment>
+        <source>X-W Gold</source>
+        <target>A-X Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Tag.2">
+      <segment>
+        <source>A-W Blue</source>
+        <target>A-A Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Tag.3">
+      <segment>
+        <source>X-W Red</source>
+        <target>A-X Rojo</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Tag.4">
+      <segment>
+        <source>A-W Red (YOU)</source>
+        <target>A-A Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.Tag.6">
+      <segment state="translated">
+        <source>STD Enforcer</source>
+        <target>DES Impositor</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.1.Designation">
+      <segment>
+        <source>GOLD 4</source>
+        <target>ORO 4</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.2.Designation">
+      <segment>
+        <source>GOLD 2</source>
+        <target>ORO 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.3.Designation">
+      <segment>
+        <source>GOLD 1</source>
+        <target>ORO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.4.Designation">
+      <segment>
+        <source>GOLD 3</source>
+        <target>ORO 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.5.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.6.Designation">
+      <segment>
+        <source>BLUE 5</source>
+        <target>AZUL 5</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.7.Designation">
+      <segment>
+        <source>BLUE 9</source>
+        <target>AZUL 9</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.8.Designation">
+      <segment>
+        <source>BLUE 8</source>
+        <target>AZUL 8</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.9.Designation">
+      <segment>
+        <source>CATHLEEN</source>
+        <target>CATHLEEN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.10.Designation">
+      <segment state="translated">
+        <source>TERMINATOR</source>
+        <target>EXTERMINADOR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.11.Designation">
+      <segment>
+        <source>BLUE 1</source>
+        <target>AZUL 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.11.Cargo">
+      <segment>
+        <source>PRISONERS</source>
+        <target>PRISIONEROS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.12.Designation">
+      <segment>
+        <source>BLUE 2</source>
+        <target>AZUL 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.12.Cargo">
+      <segment>
+        <source>HOLOS</source>
+        <target>HOLOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.13.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.14.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max15.FG.15.Designation">
+      <segment state="translated">
+        <source>TERMINATOR</source>
+        <target>EXTERMINADOR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.1.Designation">
+      <segment>
+        <source>GOLD 4</source>
+        <target>ORO 4</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.2.Designation">
+      <segment>
+        <source>GOLD 2</source>
+        <target>ORO 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.3.Designation">
+      <segment>
+        <source>GOLD 1</source>
+        <target>ORO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.4.Designation">
+      <segment>
+        <source>GOLD 3</source>
+        <target>ORO 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.5.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.6.Designation">
+      <segment>
+        <source>BLUE 5</source>
+        <target>AZUL 5</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.7.Designation">
+      <segment>
+        <source>BLUE 9</source>
+        <target>AZUL 9</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.8.Designation">
+      <segment>
+        <source>BLUE 8</source>
+        <target>AZUL 8</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.9.Designation">
+      <segment>
+        <source>CATHLEEN</source>
+        <target>CATHLEEN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.10.Designation">
+      <segment state="translated">
+        <source>TERMINATOR</source>
+        <target>EXTERMINADOR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.11.Designation">
+      <segment>
+        <source>BLUE 1</source>
+        <target>AZUL 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.11.Cargo">
+      <segment>
+        <source>PRISONERS</source>
+        <target>PRISIONEROS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.11.SpecialCargo">
+      <segment>
+        <source>COMMANDOS</source>
+        <target>COMANDOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.12.Designation">
+      <segment>
+        <source>BLUE 2</source>
+        <target>AZUL 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.12.Cargo">
+      <segment>
+        <source>HOLOS</source>
+        <target>HOLOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.12.SpecialCargo">
+      <segment>
+        <source>COMMANDOS</source>
+        <target>COMANDOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.13.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.14.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.FG.15.Designation">
+      <segment state="translated">
+        <source>TERMINATOR</source>
+        <target>EXTERMINADOR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max15.CompletionMessage.0">
+      <segment state="translated">
+        <source>All starfighters have safely returned to the Calamari</source>
+        <target>Todas los cazas han regresado con seguridad al Calamari.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.Title">
+      <segment state="translated">
+        <source>Deep Space Reconnaissance</source>
+        <target>Reconocimiento en Espacio Profundo</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.Description">
+      <segment state="translated">
+        <source>In this mission you will 
+learn the value of the 
+A-wing's speed and special 
+sensors for deep space 
+reconnaissance missions.
+
+</source>
+        <target>En esta misión aprenderás a apreciar
+la velocidad y los sensores especiales
+del Ala-A para misiones de reconocimiento
+en el espacio profundo.
+</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Text.1">
+      <segment state="translated">
+        <source>  A deep space probe detected several seemingly abandoned Imperial [[cargo containers]].  A lone [[A-wing]] was sent out to take a closer look to determine their contents.  If they proved valuable a recovery operation would be planned.$  While this was indeed a trap, the A-wing pilot was still able to identify the container's contents, while being engaged by [[TIE Fighters]] that had been hidden among the containers.</source>
+        <target> Una sonda espacial en el espacio profundo detectó varios [[contenedores de carga]] imperiales que parecían abandonados.  Se envió un único [[ Ala-A]] para inspeccionar de cerca y determinar su contenido.  Si resultaban valiosos, se planearía una operación de recuperación.$  Aunque esto era efectivamente una trampa, el piloto del Ala-A aún así fue capaz de identificar el contenido del contenedor, mientras estaba siendo atacado por [[Cazas TIE]] ocultos entre los contenedores.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Text.2">
+      <segment state="translated">
+        <source>&gt;Deep Space Reconnaissance</source>
+        <target>&gt;Reconocimiento en Espacio Profundo</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Text.3">
+      <segment state="translated">
+        <source>A probe has detected [[cargo containers]] in a quiet sector.</source>
+        <target>Una sonda ha detectado [[contenedores de mercancías]] en un sector tranquilo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Text.4">
+      <segment state="translated">
+        <source>Take your A-wing in for a closer look and [[identify]] their contents.</source>
+        <target>Acerca tu Ala-A para un inspección cercana e [[identifica]] su contenido.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Text.5">
+      <segment state="translated">
+        <source>Stay alert for trouble.  Although this is a quiet sector, it may be a trap.</source>
+        <target>Estate alerta en caso de problemas.  Aunque éste es un sector tranquilo, puede tratarse de una trampa.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Text.6">
+      <segment state="translated">
+        <source>  In the ensuing battle this pilot destroyed all of the TIEs only to be confronted by the arrival of an Imperial Frigate!  Fighting through additional waves of TIEs he was able to make his escape.$  That the trap was sprung on a single starfighter indicated poor preparation or bad training among the Imperials.  Imagine the damage that could have been done if they'd waited for a Rebel recovery operation!</source>
+        <target>  En la batalla subsiguiente este piloto destruyó todos los TIE, ¡sólo para enfrentarse a la llegada de una Fragata Imperial!  Combatiendo a través de oleadas adicionales de TIEs logró escapar.$  Que la trampa saltara por un único caza indicaba mala preparación o mal entrenamiento entre los Imperiales.  ¡Imagina el daño que podría haberse hecho si hubieran esperado a una operación de recuperación rebelde!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Text.7">
+      <segment state="translated">
+        <source>  Use your [[Sensors]] and the [[CMD]] in [[ID mode]] to locate each container and determine its contents.  You will have to fly fairly close to the containers as you do this so be careful.  Remember to fully charge your shields so you will be prepared when the TIEs attack you.$  You must ID the contents of [[every]] container and destroy [[all]] the TIEs hidden among them.</source>
+        <target>  Usa tus [[Sensores]] y el [[ordenador de objetivos]] en [[modo de identificación]] para localizar cada contenedor y determinar su contenido.  Tendrás que volar bastante cerca a los contenedores para hacerlo, así que ten cuidado.  Recuerda cargar completamente tus escudos para estar preparado cuando los cazas TIE te ataquen.$  Debes identificar el contenido de [[cada]] contenedor y destruir [[todos]] los TIEs escondidos entre ellos.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Tag.0">
+      <segment>
+        <source>A-W Red 1 (YOU)</source>
+        <target>A-A Rojo 1 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Tag.1">
+      <segment>
+        <source>Squadron</source>
+        <target>Escuadrón</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.Tag.2">
+      <segment state="translated">
+        <source>Cargo Containers</source>
+        <target>Contenedores de Mercancías</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.1.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.2.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.3.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.4.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.5.Designation">
+      <segment>
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.5.Cargo">
+      <segment state="translated">
+        <source>Mineral Ores</source>
+        <target>Minerales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.6.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.6.Cargo">
+      <segment>
+        <source>Purifiers</source>
+        <target>Purificadores</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.7.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.7.Cargo">
+      <segment state="translated">
+        <source>FT Reactant</source>
+        <target>Reactante FT</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.8.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.8.Cargo">
+      <segment state="translated">
+        <source>Machinery</source>
+        <target>Maquinaria</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.9.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.9.Cargo">
+      <segment>
+        <source>Engine Spares</source>
+        <target>Repuestos de Motor</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.10.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.10.Cargo">
+      <segment>
+        <source>Chemicals</source>
+        <target>Químicos</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.11.Designation">
+      <segment>
+        <source>DODEK</source>
+        <target>DODEK</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.11.Cargo">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.12.Designation">
+      <segment>
+        <source>PENTA</source>
+        <target>PENTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.12.Cargo">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.13.Designation">
+      <segment state="translated">
+        <source>MERCILESS</source>
+        <target>INMISERICORDE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.14.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.warecon1.FG.15.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.1.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.2.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.3.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.4.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.5.Designation">
+      <segment>
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.5.Cargo">
+      <segment state="translated">
+        <source>Mineral Ores</source>
+        <target>Minerales</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.5.SpecialCargo">
+      <segment>
+        <source>Ore Extractor</source>
+        <target>Extractora de Minerales</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.6.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.6.Cargo">
+      <segment>
+        <source>Purifiers</source>
+        <target>Purificadores</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.7.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.7.Cargo">
+      <segment state="translated">
+        <source>FT Reactant</source>
+        <target>Reactante de Cazas</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.7.SpecialCargo">
+      <segment state="translated">
+        <source>FT Thrusters</source>
+        <target>Impulsores de Cazas</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.8.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.8.Cargo">
+      <segment state="translated">
+        <source>Machinery</source>
+        <target>Maquinaria</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.8.SpecialCargo">
+      <segment state="translated">
+        <source>Robo-haulers</source>
+        <target>Transportadores Automáticos</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.9.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.9.Cargo">
+      <segment>
+        <source>Engine Spares</source>
+        <target>Repuestos de motor</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.10.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.10.Cargo">
+      <segment>
+        <source>Chemicals</source>
+        <target>Químicos</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.10.SpecialCargo">
+      <segment>
+        <source>Chromatograph</source>
+        <target>Cromatógrafo</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.11.Designation">
+      <segment>
+        <source>DODEK</source>
+        <target>DODEK</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.11.Cargo">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.12.Designation">
+      <segment>
+        <source>PENTA</source>
+        <target>PENTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.12.Cargo">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.13.Designation">
+      <segment state="translated">
+        <source>MERCILESS</source>
+        <target>INMISERICORDE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.14.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.FG.15.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.CompletionMessage.0">
+      <segment>
+        <source>All Containers have been identified</source>
+        <target>Todos los Contenedores han sido identificados.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.warecon1.CompletionMessage.1">
+      <segment state="translated">
+        <source>Reconnaissance mission successful</source>
+        <target>Misión de reconocimiento exitosa.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

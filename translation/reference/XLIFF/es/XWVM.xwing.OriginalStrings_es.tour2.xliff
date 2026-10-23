@@ -1,0 +1,3714 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="es">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="Tour.tour2.Title">
+      <segment>
+        <source>Tour II</source>
+        <target>Campaña II</target>
+      </segment>
+    </unit>
+    <unit id="Tour.tour2.Description">
+      <segment state="translated">
+        <source>THE GREAT SEARCH
+The Rebellion must uncover the
+new Imperial threat.</source>
+        <target>LA GRAN BÚSQUEDA
+La Rebelión debe descubrir la
+nueva amenaza imperial.</target>
+      </segment>
+    </unit>
+    <unit id="Tour.tour2.CrawlTitle">
+      <segment state="translated">
+        <source>Tour of Duty II
+THE GREAT SEARCH
+
+</source>
+        <target>Campaña de Servicio II
+LA GRAN BÚSQUEDA
+
+</target>
+      </segment>
+    </unit>
+    <unit id="Tour.tour2.CrawlText">
+      <segment state="translated">
+        <source>Fresh from their stunning success against Operation Strike Fear, the Alliance has found renewed hope in their struggle against the Empire.
+
+Now word comes of an even greater threat, a vast secret Imperial military project of such awesome destructive power that it could crush the Alliance!
+
+Alarmed by these rumors, Rebel scouts are desperately seeking any news of this project.</source>
+        <target>Tras la impresionante victoria contra la Operación Infundir Miedo, la Alianza ha recuperado la esperanza en su lucha contra el Imperio.
+
+Ahora llegan noticias de una amenaza aún mayor: ¡un gigantesco y secreto proyecto militar Imperial con un poder destructivo tan abrumador que podría aplastar a la Alianza!
+
+Alertados por estos rumores, los exploradores rebeldes están desesperadamente buscando cualquier información sobre este proyecto.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.Title">
+      <segment state="translated">
+        <source>Rescue from Star's End</source>
+        <target>Rescate en Confín Estelar</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.Description">
+      <segment state="translated">
+        <source>Rescue our escaped pilots
+who have hidden aboard a
+Freighter.  Destroy the
+Imperial Transport and
+secure the area for a 
+Rebel Rescue Shuttle.</source>
+        <target>Rescata a nuestros pilotos que escaparon
+y se han ocultado a bordo de un
+Carguero. Destruye el
+Transporte Imperial y
+asegura la zona para una
+Lanzadera de Rescate Rebelde.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Text.1">
+      <segment state="translated">
+        <source>&gt;OP 1: Rescue From Star's End</source>
+        <target>&gt;OP 1: Rescate en Confín Estelar</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Text.2">
+      <segment state="translated">
+        <source>You and your Wingman will enter near the planet [[Kashyyyk]], and proceed along the preset intercept course...</source>
+        <target>Tú y tu compañero saltareis cerca del planeta [[Kashyyyk]], y seguirán el curso de intercepción preestablecido...</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Text.3">
+      <segment state="translated">
+        <source>...where a [[Freighter]] hiding escaped Rebel prisoners is being boarded by a [[Stormtrooper Transport]].</source>
+        <target>...donde un [[Carguero]] que esconde prisioneros rebeldes fugitivos está siendo abordado por un [[Transporte de Tropas de Asalto]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Text.4">
+      <segment state="translated">
+        <source>Quickly destroy the[[ Transport ]]before it discovers the rebels. Be careful: [[Do]] [[not harm]] [[the]] [[Freighter]].</source>
+        <target>Destruye rápidamente el [[Transporte]] antes de que descubra a los rebeldes. Ten cuidado: [[no dañes el Carguero]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Text.5">
+      <segment state="translated">
+        <source>Protect the[[ Shuttle Drago]] from all enemy craft until it captures the [[Freighter]] and it jumps out.</source>
+        <target>Protege a la [[Lanzadera Drago]] de todas las naves enemigas hasta que capture el [[Carguero]] y salte al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Text.6">
+      <segment state="translated">
+        <source>  [[Mytus VII]], also known as[[ Star's End]], is[[ ]]one of the most dreaded prison worlds in the galaxy.$  After a daring escape, two of our pilots hid aboard a [[Freighter ]]headed for [[Kashyyyk]].  The Empire has just begun to board and search all spacecraft in the surrounding systems.$  You must enable a rescue team to hyperspace in and take the [[Freighter]] to safety.</source>
+        <target>  [[Mytus VII]], también conocido como [[Confín Estelar]], es[[ ]]uno de los mundos prisión más temidos de la galaxia.$  Después de una audaz fuga, dos de nuestros pilotos se ocultaron a bordo de un [[Carguero ]]dirigido hacia [[Kashyyyk]].  El Imperio ha empezado a abordar y registrar todas las naves en los sistemas circundantes.$  Debes ayudar a que un equipo de rescate emerja del hiperespacio y se lleve el [[Carguero]] a un lugar seguro.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Text.7">
+      <segment state="translated">
+        <source>  You'll have[[ ]]about [[2 minutes ]]to destroy the[[ Transport ]]docked with the Freighter before its [[Stormtroopers]] can board and discover the escaped pilots. If you fail, the pilots will be captured and returned back to Star's End.$  Secure the area for our[[ Shuttle]] to jump in and dock with the [[Freighter]].  The Alliance crew will capture it and hyperspace to safety. </source>
+        <target>  Tendréis aproximadamente [[dos minutos ]] para destruir el [[Transporte]] acoplado con el Carguero antes de que sus [[Tropas de Asalto]] puedan abordar y descubrir a los pilotos fugados. Si falláis, los pilotos serán capturados y devueltos a Confín Estelar.$  Mantén la zona bajo control para que nuestra [[Lanzadera]] pueda salir del hiperespacio y se acople con el [[Carguero]].  El equipo de la Alianza lo capturará y saltará hacia seguridad del hiperespacio. </target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Text.8">
+      <segment state="translated">
+        <source>Be prepared for a counter-attack from the nearby Star Destroyer[[ Intrepid]].</source>
+        <target>Preparaos para un contraataque del Destructor Estelar [[Intrépido]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Tag.0">
+      <segment state="translated">
+        <source>A-W Red (YOU)</source>
+        <target>A-A Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Tag.1">
+      <segment state="translated">
+        <source>Ore FRT</source>
+        <target>CRG Mineral</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Tag.2">
+      <segment state="translated">
+        <source>Imperial TRN</source>
+        <target>TRN Imperial</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Tag.3">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Tag.4">
+      <segment state="translated">
+        <source>SHU Drago</source>
+        <target>LAN Drago</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Tag.5">
+      <segment state="translated">
+        <source>TIE Interceptors</source>
+        <target>Interceptores TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.Tag.6">
+      <segment state="translated">
+        <source>STD Intrepid</source>
+        <target>DES Intrépido</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.0.Designation">
+      <segment state="translated">
+        <source>Red</source>
+        <target>Rojo</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.1.Designation">
+      <segment state="translated">
+        <source>GENUE</source>
+        <target>GENUE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.1.Cargo">
+      <segment>
+        <source>rebels</source>
+        <target>rebeldes</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.2.Designation">
+      <segment>
+        <source>Lambda</source>
+        <target>Lambda</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.2.Cargo">
+      <segment state="translated">
+        <source>Troopers</source>
+        <target>Soldados</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.3.Designation">
+      <segment state="translated">
+        <source>Intrepid</source>
+        <target>Intrépido</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.4.Designation">
+      <segment>
+        <source>Gamma</source>
+        <target>Gamma</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.5.Designation">
+      <segment state="translated">
+        <source>beta</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.6.Designation">
+      <segment>
+        <source>delta</source>
+        <target>delta</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.7.Designation">
+      <segment>
+        <source>DRAGO</source>
+        <target>DRAGO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.7.Cargo">
+      <segment>
+        <source>Rescue Team</source>
+        <target>Equipo de Rescate</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.8.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.9.Designation">
+      <segment>
+        <source>alpha</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.10.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.starsndb.FG.11.Designation">
+      <segment>
+        <source>theta</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.1.Designation">
+      <segment>
+        <source>GENUE</source>
+        <target>GENUE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.1.Cargo">
+      <segment>
+        <source>rebels</source>
+        <target>rebeldes</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.2.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.2.Cargo">
+      <segment state="translated">
+        <source>Troopers</source>
+        <target>Tropas de Asalto</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.3.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.4.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.5.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.6.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.7.Designation">
+      <segment>
+        <source>DRAGO</source>
+        <target>DRAGO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.7.Cargo">
+      <segment>
+        <source>Rescue Team</source>
+        <target>Equipo de Rescate</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.8.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.9.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.10.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.FG.11.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.starsndb.CompletionMessage.0">
+      <segment>
+        <source>The pilots have been rescued</source>
+        <target>Los pilotos han sido rescatados</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.Title">
+      <segment state="translated">
+        <source>Rescue Wookie Slaves</source>
+        <target>Rescata Esclavos Wookiees</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.Description">
+      <segment state="translated">
+        <source>You must capture a
+Freighter containing
+Wookie slaves.  Look out
+for the new Imperial
+Starfighter, the Assault
+Gunboat, which is now
+operational in this sector.</source>
+        <target>Debes capturar un
+Carguero que transporta
+esclavos Wookiee. Ten cuidado
+con el nuevo caza estelar imperial,
+la Cañonera de Asalto, la cual ya está
+en servicio en este sector.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Text.1">
+      <segment state="translated">
+        <source>  The recently rescued Alliance pilots from Star's End have alerted us that a [[Freighter ]]carrying a large group of [[Wookiee]] slaves is departing [[Kashyyyk ]]and is headed for a secret military construction project.$  Your mission is doubly important.  You must save the Wookiees who are our trusted allies.  We hope they will provide us with more information on this [[secret military project]].[[ ]]</source>
+        <target>  Los pilotos de la Alianza recientemente rescatados desde Confín Estelar nos han alertado de un [[Carguero]] que transporta a una gran cantidad de esclavos Wookiees está partiendo desde [[Kashyyyk]] y se dirige hacia un proyecto secreto de construcción militar.$  Tu misión es crucial.  Debes salvar a los Wookies, nuestros fiables aliados.  Esperamos que nos brinden más información sobre este [[proyecto militar secreto]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Text.2">
+      <segment state="translated">
+        <source>Evade the Empire's latest fighter, the [[Assault Gunboat]] built by Cygnus.</source>
+        <target>Evade al más reciente caza del Imperio, la [[Cañonera de Asalto]] construida por Cygnus.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Text.3">
+      <segment state="translated">
+        <source>[[Eliminate]] the TIE Fighter escorts and quickly [[identify]] the Freighter.</source>
+        <target>[[Elimina]] los Cazas TIE de escolta e [[identifica]] rápidamente el Carguero.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Text.4">
+      <segment state="translated">
+        <source>Support the [[Y-wings]] in disabling the Freighter with the [[Wookiees ]]on board.</source>
+        <target>Apoya a los [[Ala-Y]] para incapacitar el Carguero con los [[Wookiees]] a bordo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Text.5">
+      <segment state="translated">
+        <source>[[Protect]] the Rescue Transports from any attacking Imperial starfighters.</source>
+        <target>[[Protege]] los Transportes de Rescate contra cualquier ataque de cazas estelares imperiales.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Text.6">
+      <segment state="translated">
+        <source>&gt;OP 2: Rescue Wookiee Slaves</source>
+        <target>&gt;OP 2: Rescata Esclavos Wookiee</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Text.7">
+      <segment state="translated">
+        <source>Beware of reinforcements coming from the Star Destroyer[[ Intrepid]].</source>
+        <target>Cuidado con las fuerzas de refuerzo que provienen del Destructor Estelar [[Intrépido]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Text.8">
+      <segment state="translated">
+        <source>  There are also rumors that the Empire has a new starfighter in its inventory called the [[StarWing]] [[Assault]] [[Gunboat]].  Built by the Cygnus Corporation, it was briefly seen during our attack on their demonstration trials for the Empire and is now considered operational.$  It is known that this new starfighter has [[hyperdrive]] capability and comes equipped with [[concussion]] [[missiles]].</source>
+        <target>  Hay también rumores de que el Imperio cuenta con un nuevo caza estelar en su inventario llamado  [[Cañonera de Asalto]] o [[Ala Estelar]].  Construida por la Corporación Cygnus, se la vio brevemente durante nuestro ataque a sus pruebas de demostración para el Imperio y ahora se considera operativa.$  Se sabe que este nuevo caza estelar cuenta con [[hipermotor]] y viene equipado con [[misiles de impacto]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Tag.0">
+      <segment state="translated">
+        <source>X-W Red (YOU)</source>
+        <target>A-X Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Tag.1">
+      <segment>
+        <source>Assault Gunboats</source>
+        <target>Cañoneras de Asalto</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Tag.2">
+      <segment state="translated">
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Tag.3">
+      <segment state="translated">
+        <source>Cargo FRT</source>
+        <target>CRG de Mercancías</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Tag.4">
+      <segment state="translated">
+        <source>Y-W Blue</source>
+        <target>A-Y Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Tag.5">
+      <segment state="translated">
+        <source>Rescue TRNs</source>
+        <target>TRNs de Rescate</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.Tag.6">
+      <segment state="translated">
+        <source>STD Intrepid</source>
+        <target>DES Intrépido</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.1.Designation">
+      <segment>
+        <source>RESCUE 1</source>
+        <target>RESCATE 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.1.Cargo">
+      <segment state="translated">
+        <source>RESCUE TEAM</source>
+        <target>EQUIPO DE RESCATE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.2.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.3.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.4.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.5.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.6.Designation">
+      <segment>
+        <source>TORAL</source>
+        <target>TORAL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.6.Cargo">
+      <segment state="translated">
+        <source>WOOKIES</source>
+        <target>WOOKIEES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.7.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.8.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.9.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.10.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.11.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.12.Designation">
+      <segment state="translated">
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.13.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.14.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.rescue1.FG.15.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.1.Designation">
+      <segment>
+        <source>RESCUE 1</source>
+        <target>RESCATE 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.1.Cargo">
+      <segment state="translated">
+        <source>RESCUE TEAM</source>
+        <target>EQUIPO DE RESCATE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.2.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.3.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.4.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.5.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.6.Designation">
+      <segment>
+        <source>TORAL</source>
+        <target>TORAL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.6.Cargo">
+      <segment state="translated">
+        <source>WOOKIES</source>
+        <target>WOOKIEES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.7.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.8.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.9.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.10.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.11.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.12.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.13.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.14.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.FG.15.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.rescue1.CompletionMessage.0">
+      <segment state="translated">
+        <source>THE WOOKIES ARE SAFE</source>
+        <target>LOS WOOKIEES ESTÁN A SALVO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.Title">
+      <segment state="translated">
+        <source>Attack Weapons Convoy</source>
+        <target>Ataca el Convoy de Armamento</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.Description">
+      <segment state="translated">
+        <source>A vital Imperial convoy
+is expected to hyperspace
+into the area around our
+Comm Sat near Orron III.
+Assist your Wing Leader
+in destroying the convoy.</source>
+        <target>Se espera que un convoy
+imperial vital salte al hiperespacio
+en la zona cercana a nuestro
+Satélite de Comunicaciones cerca
+de Orron III. Ayuda a tu Líder
+de Ala a destruir el convoy.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Text.1">
+      <segment state="translated">
+        <source>&gt;OP 3: Attack Weapons Convoy</source>
+        <target>&gt;OP 3: Ataca Convoy de Armamento</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Text.2">
+      <segment state="translated">
+        <source>Follow your wing leader to the [[Comm]] [[Sat]] rendezvous point.</source>
+        <target>Sigue a tu líder de ala hasta el punto de reunión con el [[Satélite de Comunicaciones]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Text.3">
+      <segment state="translated">
+        <source>An[[ Imperial]] [[convoy]] is expected to jump in from hyperspace.</source>
+        <target>Un [[convoy imperial]] se espera que entre desde el hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Text.4">
+      <segment state="translated">
+        <source>First attack the [[Corvettes]], [[Shuttles]], and [[Transports]].</source>
+        <target>Ataca primero las [[Corbetas]], [[Lanzaderas]], y [[Transportes]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Text.5">
+      <segment state="translated">
+        <source>Then, destroy the[[ Supply Freighters]] and hyperspace home.</source>
+        <target>Destruye luego los [[Cargueros de Suministros]] y regresa al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Text.6">
+      <segment state="translated">
+        <source>  Documents recovered from the [[Freighter]] carrying the Wookie slaves revealed that it was to rendezvous with a larger convoy near [[Orron III]]. These documents also hinted that the final destination of the convoy is a [[huge military construction]] [[project ]]whose location is a mystery.$  Your mission is to follow your[[ Wing Leader]] as he homes in on the signal from our [[Comm Sat]] positioned near Orron III.</source>
+        <target>  Documentos recuperados del [[Carguero]] que transportaba esclavos wookiees revelaron que iba a reunirse con un convoy más grande cerca de [[Orron III]]. Estos documentos también sugerían que el destino final del convoy es un [[enorme proyecto de construcción militar]] cuya ubicación sigue siendo un misterio.$  Tu misión es seguir a tu [[Líder de Ala]] mientras se dirige hacia la señal de nuestro [[Satélite de Comunicaciones]] posicionado cerca de Orron III.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Text.7">
+      <segment state="translated">
+        <source>Attack and destroy the convoy as it drops out of hyperspace there.$  Our intelligence feels strongly that this[[ military construction]] [[project]] is of great importance and any damage we can do to the Imperial supply lines that are supporting this project will greatly help our cause.$  Our intelligence staff has made it the highest priority to discover more about this project.</source>
+        <target>Ataca y destruye allí el convoy conforme emerja del hiperespacio.$  Nuestros servicios de inteligencia están convencidos de que este [[proyecto de construcción militar]] es un asunto de gran importancia y cualquier daño que podamos causar a las líneas de suministro imperiales que apoyan este proyecto ayudará mucho a nuestra causa.$  Nuestra inteligencia ha establecido como prioridad máxima descubrir más sobre este proyecto.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Tag.0">
+      <segment state="translated">
+        <source>Y-W Red (YOU)</source>
+        <target>A-Y Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Tag.1">
+      <segment state="translated">
+        <source>Y-W Gold</source>
+        <target>A-Y Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Tag.2">
+      <segment state="translated">
+        <source>X-W Blue</source>
+        <target>A-X Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Tag.3">
+      <segment state="translated">
+        <source>Imperial TRNs</source>
+        <target>TRN Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Tag.4">
+      <segment state="translated">
+        <source>Imperial SHU</source>
+        <target>LAN Imperial</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Tag.5">
+      <segment>
+        <source>Assault Gunboats</source>
+        <target>Cañoneras de Asalto</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Tag.6">
+      <segment state="translated">
+        <source>Imperial FRTs</source>
+        <target>CRGs imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Tag.7">
+      <segment state="translated">
+        <source>Imperial CRVs</source>
+        <target>CRBs Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.Tag.8">
+      <segment>
+        <source>Comm Sat</source>
+        <target>Satélite de Comunicaciones</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.2.Designation">
+      <segment state="translated">
+        <source>Gold</source>
+        <target>Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.3.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.4.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.5.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.5.Cargo">
+      <segment>
+        <source>OFFICERS</source>
+        <target>OFICIALES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.6.Designation">
+      <segment>
+        <source>HYKO</source>
+        <target>HYKO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.7.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.7.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.8.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.8.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.9.Designation">
+      <segment>
+        <source>UHURU</source>
+        <target>UHURU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.9.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.10.Designation">
+      <segment state="translated">
+        <source>THE TONE</source>
+        <target>EL TONO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.10.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.11.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.12.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.ystrike5.FG.13.Designation">
+      <segment state="translated">
+        <source>ORRON III</source>
+        <target>ORRON III</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.2.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.3.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.4.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.4.Cargo">
+      <segment>
+        <source>OFFICERS</source>
+        <target>OFICIALES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.5.Designation">
+      <segment>
+        <source>HYKO</source>
+        <target>HYKO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.6.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.6.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.7.Designation">
+      <segment>
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.7.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.8.Designation">
+      <segment>
+        <source>UHURU</source>
+        <target>UHURU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.8.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.9.Designation">
+      <segment>
+        <source>THE TONE</source>
+        <target>EL TONO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.9.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.10.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.11.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.FG.12.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.CompletionMessage.0">
+      <segment state="translated">
+        <source>The Imperial Supply Convoy has been destroyed</source>
+        <target>El Convoy de Suministros Imperiales ha sido destruido</target>
+      </segment>
+    </unit>
+    <unit id="Mission.ystrike5.CompletionMessage.1">
+      <segment>
+        <source>Congratulations on a great attack mission</source>
+        <target>Felicitaciones por una misión de ataque excelente</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.Title">
+      <segment state="translated">
+        <source>Capture Stolen Freighter</source>
+        <target>Captura el Carguero Robado</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.Description">
+      <segment state="translated">
+        <source>Fly cover for Rebel
+Shuttles while they
+attempt to capture
+an Imperial Freighter.
+The Star Destroyer
+Intrepid is known to
+be in this area.</source>
+        <target>Cubre al Transporte
+Rebelde mientras intenta
+capturar un Carguero Imperial.
+El Destructor Estelar Intrépido
+ha sido avistado en esta zona.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Text.1">
+      <segment>
+        <source>&gt;OP 4: Capture a Stolen Freighter</source>
+        <target>&gt;OP 4: Captura un Carguero Robado</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Text.2">
+      <segment state="translated">
+        <source>A [[stolen freighter]] full of the Empire's latest model of [[Comm Sats]] is the target.</source>
+        <target>El objetivo es un [[carguero robado]] lleno de los últimos modelos de [[Satélites de Comunicaciones]] del Imperio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Text.3">
+      <segment state="translated">
+        <source>It is being pursued by [[Stormtrooper Transports]] escorted by armed [[Shuttles]].</source>
+        <target>Está siendo perseguido por [[Transportes de Tropas de Asalto]] escoltados por [[Lanzaderas]] armadas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Text.4">
+      <segment state="translated">
+        <source>Your [[Y-wing ]]will engage and destroy the pursuit forces and disable the freighter, if necessary.</source>
+        <target>Tu [[Ala-Y]] se enfrentará y destruirá las fuerzas de persecución e incapacitará el carguero, si es necesario.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Text.5">
+      <segment state="translated">
+        <source>When the freighter is disabled the[[ Shuttle Wilsey]] will arrive to board and capture it.</source>
+        <target>Cuando el carguero esté incapacitado, llegará la [[Lanzadera Wilsey]] para abordarlo y capturarlo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Text.6">
+      <segment state="translated">
+        <source>  Intelligence has discovered that a load of these new Comm Sats[[ ]]has been stolen from an Imperial base in the [[Orron III]] system.$[[  ]]Your mission is to protect the [[Shuttle Wilsey]] while it captures the Freighter.  This area is filled with Imperial craft on patrol so be prepared for heavy opposition.  The Star Destroyer [[Intrepid]] is patrolling this area as well.</source>
+        <target>  Inteligencia ha descubierto que un cargamento de estos nuevos satélites de comunicaciones ha sido robado de una base imperial en el sistema de [[Orron III]].$  Tu misión es proteger la [[Lanzadera Wilsey]] mientras captura el Carguero.  Esta área está llena de naves imperiales en patrulla, así que prepárate para una oposición intensa.  El Destructor Estelar [[Intrépido]] también está patrullando esta zona.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Text.7">
+      <segment state="translated">
+        <source>  Be aware that once your attack begins reinforcements will be called for.  The Imperial Star Destroyer [[Intrepid ]]is patrolling this sector and could arrive within [[ten minutes. ]] Move quickly to secure the area and ensure the capture of the stolen ship. If necessary, block any additional pursuit forces from the [[Intrepid]] long enough for our shuttle and the freighter to escape.</source>
+        <target>  Ten en cuenta que una vez comience tu ataque se solicitarán refuerzos. El Destructor Estelar Imperial [[Intrépido ]] patrulla este sector y podría llegar en [[diez minutos. ]] Actúa rápidamente para controlar el área y garantizar la captura de la nave robada. Si es necesario, bloquea a cualquier fuerza de persecución adicional desde el [[Intrépido]] lo suficiente como para que nuestra lanzadera y el carguero puedan escapar.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Text.8">
+      <segment state="translated">
+        <source>  Our Intelligence Command has become very worried about the [[mysterious military project]] that is utilizing such a large portion of the Empire's resources.  Our usually reliable spy network has so far come up empty.$  [[High Command ]]has devised a clever plan to tap into the Empire's most secure communication network.  The first step in this plan is to capture some the Empire's latest [[Comm Sats]].</source>
+        <target>  Nuestra Comandancia de Inteligencia está comenzando a preocuparse en gran medida por el [[misterioso proyecto militar]] que está utilizando una parte de los recursos del Imperio de tal magnitud.  Nuestra red de espías, normalmente fiable, aún no ha obtenido nada.$  El [[Alto Mando]] ha concebido un plan astuto para acceder a la red de comunicaciones más segura del Imperio.  El primer paso en este plan es capturar algunos de los últimos modelos de [[Satélites de Comunicaciones]] del Imperio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Tag.0">
+      <segment state="translated">
+        <source>Stolen FRT</source>
+        <target>CRG Robado</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Tag.1">
+      <segment state="translated">
+        <source>Imperial SHUs</source>
+        <target>LANs Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Tag.2">
+      <segment state="translated">
+        <source>Imperial TRNs</source>
+        <target>TRNs Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Tag.3">
+      <segment state="translated">
+        <source>Y-W Red 1 (YOU)</source>
+        <target>Ala-Y Rojo 1 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.Tag.4">
+      <segment>
+        <source>SHU Wilsey</source>
+        <target>LAN Wilsey</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.1.Designation">
+      <segment>
+        <source>WILSEY</source>
+        <target>WILSEY</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.1.Cargo">
+      <segment state="translated">
+        <source>BOARD PTY</source>
+        <target>PRTDA DE ABORDAJE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.2.Designation">
+      <segment>
+        <source>PHOENIX</source>
+        <target>FÉNIX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.2.Cargo">
+      <segment>
+        <source>COMM SATS</source>
+        <target>SATÉLITES DE COMUNICACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.3.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.3.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.4.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.4.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.5.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.6.Designation">
+      <segment state="translated">
+        <source>OMICRON</source>
+        <target>OMICRÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.7.Designation">
+      <segment>
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.8.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.9.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.10.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.11.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.12.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wycapt2.FG.13.Designation">
+      <segment state="translated">
+        <source>ORRON III</source>
+        <target>ORRON III</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.1.Designation">
+      <segment>
+        <source>WILSEY</source>
+        <target>WILSEY</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.1.Cargo">
+      <segment state="translated">
+        <source>BOARD PTY</source>
+        <target>PRTDA DE ABORDAJE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.2.Designation">
+      <segment state="translated">
+        <source>PHOENIX</source>
+        <target>FÉNIX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.2.Cargo">
+      <segment>
+        <source>COMM SATS</source>
+        <target>SATÉLITES DE COMUNICACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.3.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.3.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.4.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.4.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.5.Designation">
+      <segment>
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.6.Designation">
+      <segment>
+        <source>OMICRON</source>
+        <target>OMICRÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.7.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.8.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.9.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.10.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.11.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.FG.12.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.CompletionMessage.0">
+      <segment state="translated">
+        <source>The freighter with the Comm Sats has been captured</source>
+        <target>El carguero con las satélites de comunicaciones ha sido capturado</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wycapt2.CompletionMessage.1">
+      <segment state="translated">
+        <source>Great work on this difficult operation</source>
+        <target>Excelente labor con esta compleja operación</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.Title">
+      <segment state="translated">
+        <source>Protect Captured Satellites</source>
+        <target>Protege los Satélites Capturados</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.Description">
+      <segment state="translated">
+        <source>A Freighter carrying
+important satellites is
+waiting for the Cruiser
+Maximus.  You have been
+assigned to protect the 
+Freighter until the Cruiser 
+arrives.</source>
+        <target>Un Carguero transportando
+importantes satélites espera al
+Crucero Maximus.  Has sido
+asignado para proteger el
+Carguero hasta que llegue el
+Crucero.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.Text.1">
+      <segment state="translated">
+        <source>&gt;OP 5: Protect Captured Satellites</source>
+        <target>&gt;OP 5: Protege Satélites Capturados</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.Text.2">
+      <segment state="translated">
+        <source>  A Freighter carrying vitally important Comm Sats is awaiting a rendezvous with the Cruiser[[ Maximus ]]and the Freighter[[ Ojai]].  The Cruiser has been delayed but will arrive shortly.  In the mean time you are being sent to watch over the Freighter [[Phoenix ]]that was captured last week in our daring raid near [[Orron III]].  The rendezvous point is in a quiet sector far from Imperial interests so you will be flying solo.</source>
+        <target>Un Carguero que transporta satélites de comunicaciones vitales espera reunirse con el Crucero[[ Maximus ]]y el Carguero[[ Ojai]]. El Crucero se ha retrasado pero llegará pronto.  Mientras tanto, se te envía para vigilar al Carguero [[Fénix]], que fue capturado la semana pasada en nuestra audaz incursión cerca de [[Orron III]]. El punto de reunión está en un sector tranquilo lejos de los intereses imperiales, por lo que volarás en solitario.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.Text.3">
+      <segment state="translated">
+        <source>A [[Freighter ]]carrying satellites is waiting for the [[Cruiser Maximus]].</source>
+        <target>Un [[Carguero]] que transporta satélites espera al [[Crucero Maximus]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.Text.4">
+      <segment state="translated">
+        <source>The [[Maximus]] has been delayed so[[ ]]you are to watch over the [[Freighter]].</source>
+        <target>El [[Maximus]] se ha retrasado por lo que debes vigilar el [[Carguero]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.Tag.0">
+      <segment>
+        <source>FRT Phoenix</source>
+        <target>CRG Fénix</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.Tag.1">
+      <segment state="translated">
+        <source>A-W Red 1 (YOU)</source>
+        <target>A-A Rojo 1 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.Tag.8">
+      <segment>
+        <source>YOUR A-WING</source>
+        <target>TU ALA-A</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.0.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.1.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.2.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.3.Designation">
+      <segment>
+        <source>ALPHA 3</source>
+        <target>ALFA 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.4.Designation">
+      <segment>
+        <source>ALPHA 4</source>
+        <target>ALFA 4</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.5.Designation">
+      <segment>
+        <source>GAMMA 1</source>
+        <target>GAMMA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.6.Designation">
+      <segment>
+        <source>GAMMA 2</source>
+        <target>GAMMA 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.7.Designation">
+      <segment>
+        <source>BETA 2</source>
+        <target>BETA 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.8.Designation">
+      <segment>
+        <source>BETA 3</source>
+        <target>BETA 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.9.Designation">
+      <segment>
+        <source>ALPHA 5</source>
+        <target>ALFA 5</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.10.Designation">
+      <segment>
+        <source>GAMMA 3</source>
+        <target>GAMMA 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.11.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.12.Designation">
+      <segment>
+        <source>PHOENIX</source>
+        <target>FÉNIX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.12.Cargo">
+      <segment>
+        <source>COMM SATS</source>
+        <target>SATÉLITES DE COMUNICACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.13.Designation">
+      <segment state="translated">
+        <source>OJAI</source>
+        <target>OJAI</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.14.Designation">
+      <segment>
+        <source>MAXIMUS</source>
+        <target>MAXIMUS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max9.FG.15.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.0.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.1.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.2.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.3.Designation">
+      <segment>
+        <source>ALPHA 3</source>
+        <target>ALFA 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.4.Designation">
+      <segment>
+        <source>ALPHA 4</source>
+        <target>ALFA 4</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.5.Designation">
+      <segment>
+        <source>GAMMA 1</source>
+        <target>GAMMA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.6.Designation">
+      <segment>
+        <source>GAMMA 2</source>
+        <target>GAMMA 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.7.Designation">
+      <segment>
+        <source>BETA 2</source>
+        <target>BETA 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.8.Designation">
+      <segment state="translated">
+        <source>BETA 3</source>
+        <target>BETA 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.9.Designation">
+      <segment>
+        <source>ALPHA 5</source>
+        <target>ALFA 5</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.10.Designation">
+      <segment>
+        <source>GAMMA 3</source>
+        <target>GAMMA 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.11.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.12.Designation">
+      <segment state="translated">
+        <source>PHOENIX</source>
+        <target>FÉNIX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.12.Cargo">
+      <segment>
+        <source>COMM SATS</source>
+        <target>SATÉLITES DE COMUNICACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.13.Designation">
+      <segment state="translated">
+        <source>OJAI</source>
+        <target>OJAI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.14.Designation">
+      <segment>
+        <source>MAXIMUS</source>
+        <target>MAXIMUS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.FG.15.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.CompletionMessage.0">
+      <segment state="translated">
+        <source>The freighter carrying the satellites has been saved</source>
+        <target>El carguero con los satélites se ha salvado</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max9.CompletionMessage.1">
+      <segment>
+        <source>Transfer of cargo complete</source>
+        <target>Transferencia de carga completa</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.Title">
+      <segment state="translated">
+        <source>Ambush in the Cron Drift</source>
+        <target>Emboscada en el Río Cron</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.Description">
+      <segment state="translated">
+        <source>Fly escort for the
+Rebel Freighter Ojai and
+a transport.  They are
+to rendezvous with the
+Corvette Jeffrey.  Make
+sure that this convoy
+delivers its cargo.</source>
+        <target>Escolta al Carguero Rebelde
+Ojai y a un transporte. Deben
+reunirse con la Corbeta Jeffrey.
+Asegúrate de que este convoy
+entregue su carga.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Text.1">
+      <segment state="translated">
+        <source>&gt;OP 6: Rendezvous in the Cron Drift</source>
+        <target>&gt;OP 6: Encuentro en el Río Cron</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Text.2">
+      <segment state="translated">
+        <source>Fly escort for the [[Freighter ]]and[[ Transports ]]as they navigate the outer rim of the asteroid field.</source>
+        <target>Escolta el [[Carguero]] y los [[Transportes]] mientras navegan el cerco exterior del campo de asteroides.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Text.3">
+      <segment state="translated">
+        <source>transmissions.  A listening post has been established nearby in the asteroid field called the [[Cron Drift]].$  You and your wingman will fly escort for a Transport and the Alliance Freighter [[Ojai]] to a rendezvous with the Corvette [[Jeffrey]].  It is vital that this transfer take place so that the listening post may discover what the Empire is planning.</source>
+        <target>transmisiones.  Se ha establecido una estación de escucha cerca en el campo de asteroides llamado el [[Río Cron]].$  Tú y tu compañero de ala escoltareis un Transporte y el Carguero de la Alianza [[Ojai]] a un encuentro con la Corbeta [[Jeffrey]].  Es vital que este intercambio tenga lugar para que la estación de escucha pueda descubrir qué planea el Imperio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Text.4">
+      <segment state="translated">
+        <source>  Now that the Alliance has captured several of the Empire's most sophisticated [[Comm Sats]], we can proceed with our plan to eavesdrop on the Empire's most secure data transmission lines.  We hope to intercept information about the[[ secret military project]] that we suspect is located in this Sector.$  Our plan is to replace several of the Empire's Comm Sats with our own, so that we may monitor their</source>
+        <target>  Ahora que la Alianza ha capturado varios de los [[satélites de comunicaciones]] más sofisticados del Imperio, podemos proceder con nuestro plan para interceptar las líneas de transmisión de datos más seguras del Imperio.  Esperamos interceptar información sobre el [[proyecto militar secreto]] que sospechamos está ubicado en este sector.$  Nuestro plan consiste en reemplazar varios de los satélites de comunicaciones del Imperio con los nuestros, para poder monitorear sus</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Text.5">
+      <segment state="translated">
+        <source>Protect this small convoy as it navigates the [[Cron Drift ]]toward a hidden listening post. </source>
+        <target>Protege este pequeño convoy mientras navega por la zona del Río Cron hacia una estación de escucha oculta. </target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Text.6">
+      <segment state="translated">
+        <source>Be on alert for [[Imperial patrols]].  This area of space is very close to Imperial starship traffic lanes.</source>
+        <target>Mantente en alerta por si aparecen [[patrullas imperiales]].  Esta zona del espacio está muy cerca de las rutas de tráfico de naves imperiales.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Text.7">
+      <segment state="translated">
+        <source>Escort the [[Freighter Ojai]] and a [[Transport ]]to their rendezvous with the [[Alliance Corvette Jeffrey]].</source>
+        <target>Escolta al [[Carguero Ojai]] y a un [[Transporte]] hasta su encuentro con la [[Corbeta Jeffrey de la Alianza]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Text.8">
+      <segment state="translated">
+        <source>The [[Jeffrey]] will distribute the [[Comm Sats]] through the [[Cron Drift]] where a[[ secret outpost]] will monitor them.</source>
+        <target>La [[Jeffrey]] distribuirá los [[Satélites de Comunicaciones]] a través del [[Río Cron]] donde una [[puesto de avanzada secreta]] los supervisará.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Tag.0">
+      <segment state="translated">
+        <source>X-W Red (YOU)</source>
+        <target>A-X Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Tag.1">
+      <segment state="translated">
+        <source>Cron Drift</source>
+        <target>Río Cron</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Tag.2">
+      <segment>
+        <source>FRT Ojai</source>
+        <target>CRG Ojai</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Tag.3">
+      <segment>
+        <source>TRN Magnus</source>
+        <target>TRN Magnus</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.Tag.4">
+      <segment state="translated">
+        <source>CRV Jeffrey</source>
+        <target>CRB Jeffrey</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.1.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.2.Designation">
+      <segment>
+        <source>OJAI</source>
+        <target>OJAI</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.2.Cargo">
+      <segment>
+        <source>COMM SATS</source>
+        <target>SATÉLITES DE COMUNICACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.3.Designation">
+      <segment>
+        <source>JEFFREY</source>
+        <target>JEFFREY</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.4.Designation">
+      <segment>
+        <source>MAGNUS</source>
+        <target>MAGNUS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.4.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.14.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.15.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.16.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.17.Designation">
+      <segment>
+        <source>OMICRON</source>
+        <target>OMICRÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.18.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.crndrft1.FG.19.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.1.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.2.Designation">
+      <segment>
+        <source>OJAI</source>
+        <target>OJAI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.2.Cargo">
+      <segment>
+        <source>COMM SATS</source>
+        <target>SATÉLITES DE COMUNICACIONES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.3.Designation">
+      <segment state="translated">
+        <source>JEFFREY</source>
+        <target>JEFFREY</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.4.Designation">
+      <segment>
+        <source>MAGNUS</source>
+        <target>MAGNUS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.4.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.5.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.6.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.7.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.8.Designation">
+      <segment>
+        <source>OMICRON</source>
+        <target>OMICRÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.9.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.FG.10.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.CompletionMessage.0">
+      <segment state="translated">
+        <source>The rendezvous is complete, the Comm sats have been delivered</source>
+        <target>Encuentro finalizado. Satélites de comunicaciones entregados</target>
+      </segment>
+    </unit>
+    <unit id="Mission.crndrft1.CompletionMessage.1">
+      <segment state="translated">
+        <source>The Jeffrey will now distribute them near the Cron Drift</source>
+        <target>La Jeffrey los distribuirá ahora por el Río Cron</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.Title">
+      <segment state="translated">
+        <source>Protect a Disabled X-wing</source>
+        <target>Protege un Ala-X Incapacitado</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.Description">
+      <segment state="translated">
+        <source>An X-wing carrying vital
+intelligence data has
+broken down near the Cron
+Drift.  Assist in the rescue
+operation by flying cover.</source>
+        <target>Un Ala-X con datos de
+inteligencia críticos se ha
+averiado cerca del Río Cron.
+Ayuda en la operación de
+rescate proporcionando
+cobertura.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.Text.1">
+      <segment state="translated">
+        <source>&gt;OP 7: Protect A Disabled X-wing</source>
+        <target>&gt;OP 7: Protege un Ala-X Incapacitado</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.Text.2">
+      <segment state="translated">
+        <source>[[X-wing Blue]] is stranded in space.    Watch over him until help arrives.</source>
+        <target>El [[Ala-X Azul]] está varado en el espacio.   Protégelo hasta que llegue ayuda.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.Text.3">
+      <segment state="translated">
+        <source>  A lone [[X-wing]], carrying the most vital intelligence data the Rebel Alliance has ever discovered, is disabled near the [[Cron Drift]].  This craft carries with it a detailed readout of the technical specifications of their military construction project.  All we know right now is that this project is code-named [[Death Star]] and is a mighty weapon of frightening power.$  This information was intercepted </source>
+        <target>  Un Ala-X solitario, con los datos de inteligencia más críticos jamás descubiertos por la Alianza Rebelde, está incapacitado cerca del [[Río Cron]].  Esta nave lleva consigo una lectura detallada de las especificaciones técnicas del proyecto de construcción militar.  Hasta ahora solo sabemos que este proyecto se conoce como [[Estrella de la Muerte]] y es un arma formidable de poder aterrador.$  Esta información fue interceptada </target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.Text.4">
+      <segment state="translated">
+        <source>by our listening post that had been set up to eavesdrop on Imperial communications.  This information was considered so valuable that it could not be transmitted, but had to be delivered by courier.$  Unfortunately, the [[X-wing]] has broken down and it needs to be rescued before the Empire learns that we have stolen this information.  Your mission[[ ]]is to assist in the rescue operation.</source>
+        <target>por nuestra estación de escucha que había sido establecida para interceptar las comunicaciones imperiales.$  Esta información era tan valiosa que no podía ser transmitida, sino que tenía que ser entregada en mano mediante un mensajero.$  Desafortunadamente, el [[Ala-X]] se ha averiado y necesita ser rescatado antes de que el Imperio se entere de que hemos robado esta información.  Tu misión es ayudar en la operación de rescate.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.Tag.0">
+      <segment state="translated">
+        <source>X-W Blue</source>
+        <target>A-X Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.Tag.1">
+      <segment state="translated">
+        <source>A-W Red (YOU)</source>
+        <target>A-A Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.0.Designation">
+      <segment>
+        <source>BLUE 1</source>
+        <target>AZUL 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.1.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.2.Designation">
+      <segment>
+        <source>ATK 253</source>
+        <target>ATK 253</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.2.Cargo">
+      <segment state="translated">
+        <source>TROOPERS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.3.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.4.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.5.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.6.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.7.Designation">
+      <segment>
+        <source>ATK 592</source>
+        <target>ATK 592</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.7.Cargo">
+      <segment state="translated">
+        <source>TROOPERS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.8.Designation">
+      <segment>
+        <source>ATK 664</source>
+        <target>ATK 664</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.8.Cargo">
+      <segment state="translated">
+        <source>TROOPERS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.9.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.10.Designation">
+      <segment>
+        <source>TANTIVE II</source>
+        <target>TANTIVE II</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.11.Designation">
+      <segment>
+        <source>TANTIVE III</source>
+        <target>TANTIVE III</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.12.Designation">
+      <segment state="translated">
+        <source>TANTIVE I</source>
+        <target>TANTIVE I</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.13.Designation">
+      <segment>
+        <source>RESCUE 1</source>
+        <target>RESCATE 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.13.Cargo">
+      <segment state="translated">
+        <source>POWER GEN</source>
+        <target>GENERADOR DE ENERGÍA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.14.Designation">
+      <segment>
+        <source>RESCUE 2</source>
+        <target>RESCATE 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.14.Cargo">
+      <segment>
+        <source>POWER GEN</source>
+        <target>GENERADOR DE ENERGÍA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max18.FG.15.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.0.Designation">
+      <segment>
+        <source>BLUE 1</source>
+        <target>AZUL 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.1.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.2.Designation">
+      <segment>
+        <source>ATK 253</source>
+        <target>ATK 253</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.2.Cargo">
+      <segment state="translated">
+        <source>TROOPERS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.3.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.4.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.5.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.6.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.7.Designation">
+      <segment>
+        <source>ATK 592</source>
+        <target>ATK 592</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.7.Cargo">
+      <segment state="translated">
+        <source>TROOPERS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.8.Designation">
+      <segment>
+        <source>ATK 664</source>
+        <target>ATK 664</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.8.Cargo">
+      <segment state="translated">
+        <source>TROOPERS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.9.Designation">
+      <segment>
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.10.Designation">
+      <segment>
+        <source>TANTIVE II</source>
+        <target>TANTIVE II</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.11.Designation">
+      <segment>
+        <source>TANTIVE III</source>
+        <target>TANTIVE III</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.12.Designation">
+      <segment state="translated">
+        <source>TANTIVE I</source>
+        <target>TANTIVE I</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.13.Designation">
+      <segment>
+        <source>RESCUE 1</source>
+        <target>RESCATE 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.13.Cargo">
+      <segment>
+        <source>POWER GEN</source>
+        <target>GENERADOR DE ENERGÍA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.14.Designation">
+      <segment>
+        <source>RESCUE 2</source>
+        <target>RESCATE 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.14.Cargo">
+      <segment state="translated">
+        <source>POWER GEN</source>
+        <target>GENERADOR DE ENERGÍA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.FG.15.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.CompletionMessage.0">
+      <segment state="translated">
+        <source>X-Wing Blue has been rescued</source>
+        <target>El Ala-X Azul ha sido rescatado</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max18.CompletionMessage.1">
+      <segment state="translated">
+        <source>The vitally important intelligence data is safely in our hands</source>
+        <target>La información de inteligencia crítica está a salvo en nuestras manos</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.Title">
+      <segment state="translated">
+        <source>Stop Hyperdrive Replacement</source>
+        <target>Detén Repuesto de Hipermotor</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.Description">
+      <segment state="translated">
+        <source>Several Freighters are
+unloading cargo onto the
+damaged Star Destroyer
+Intrepid.  You must locate
+and destroy the Freighters
+containing the hyperdrive
+replacement.</source>
+        <target>Varios Cargueros están
+descargando material para el
+Destructor Estelar Intrépido,
+que está dañado. Debes localizar
+y destruir los Cargueros que
+contienen repuestos del hipermotor.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Text.1">
+      <segment state="translated">
+        <source>&gt;OP 8: Stop Hyperdrive Replacement</source>
+        <target>&gt;OP 8: Detén Repuesto de Hipermotor</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Text.2">
+      <segment state="translated">
+        <source>Find the [[Freighters]] with the [[hyperdrive]] cargo then destroy them!</source>
+        <target>¡Encuentra los [[Cargueros]] con repuestos de [[hipermotor]] y destrúyelos!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Text.3">
+      <segment state="translated">
+        <source>  [[Circarpous]] Sector Command is working on a plan to get the [[Death Star]] plans to Alliance High Command. Meanwhile, the Imperial fleet continues to search for our forces. Luckily, the Star Destroyer [[Intrepid]] was damaged by a collision with a Frigate and is awaiting repairs. Several [[Freighters]] are unloading cargo onto the damaged Star Destroyer.$</source>
+        <target>La Comandancia del Sector [[Circarpous]] está elaborando un plan para llevar los planes de la [[Estrella de la Muerte]] al Alto Mando de la Alianza. Mientras tanto, la flota imperial continúa buscando a nuestras fuerzas. Afortunadamente, el Destructor Estelar [[Intrépido]] sufrió daños debido a una colisión con una Fragata y espera reparaciones. Varios [[Cargueros]] están descargando repuestos en el Destructor Estelar dañado.$</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Text.4">
+      <segment state="translated">
+        <source>Get through the [[TIE Fighters]] and any other [[defense]] encountered. </source>
+        <target>Ábrete camino a través de los [[Cazas TIE]] y cualquier otra [[defensa]] que encuentres.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Text.5">
+      <segment state="translated">
+        <source>  Your mission is to identify the Freighters carrying the hyperdrive engine replacements.  Destroying this cargo will leave the Star Destroyer [[Intrepid]] stranded.</source>
+        <target>  Tu misión es identificar los Cargueros que transporten los repuestos de hipermotor. Destruir este cargamento dejará al Destructor Estelar [[Intrépido]] varado.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Tag.0">
+      <segment state="translated">
+        <source>X-W Red 1 (YOU)</source>
+        <target>A-X Rojo 1 (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Tag.1">
+      <segment>
+        <source>A-W Blue</source>
+        <target>A-A Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Tag.2">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Tag.3">
+      <segment state="translated">
+        <source>Imperial FRTs</source>
+        <target>CRGs Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.Tag.4">
+      <segment state="translated">
+        <source>STD Intrepid</source>
+        <target>DES Intrépido</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.0.Designation">
+      <segment state="translated">
+        <source>KIAM I</source>
+        <target>KIAM I</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.0.Cargo">
+      <segment state="translated">
+        <source>SENSORS</source>
+        <target>SENSORES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.1.Designation">
+      <segment>
+        <source>KIAM II</source>
+        <target>KIAM II</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.1.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.2.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.3.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.4.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.5.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.6.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.7.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.8.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.9.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.10.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.11.Designation">
+      <segment>
+        <source>KIAM III</source>
+        <target>KIAM III</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.11.Cargo">
+      <segment state="translated">
+        <source>HYPERDRIVE</source>
+        <target>HIPERMOTOR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.12.Designation">
+      <segment>
+        <source>KIAM IV</source>
+        <target>KIAM IV</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.12.Cargo">
+      <segment state="translated">
+        <source>MACHINERY</source>
+        <target>MAQUINARIA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.13.Designation">
+      <segment>
+        <source>KIAM V</source>
+        <target>KIAM V</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.13.Cargo">
+      <segment state="translated">
+        <source>HYPERDRIVE</source>
+        <target>HIPERMOTOR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.14.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max1.FG.15.Cargo">
+      <segment state="translated">
+        <source>Hyperdrive</source>
+        <target>Hipermotor</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.0.Designation">
+      <segment>
+        <source>KIAM I</source>
+        <target>KIAM I</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.0.Cargo">
+      <segment state="translated">
+        <source>SENSORS</source>
+        <target>SENSORES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.1.Designation">
+      <segment>
+        <source>KIAM II</source>
+        <target>KIAM II</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.1.Cargo">
+      <segment state="translated">
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.2.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.3.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.4.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.5.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.6.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.7.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.8.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.9.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.10.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.11.Designation">
+      <segment>
+        <source>KIAM III</source>
+        <target>KIAM III</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.11.Cargo">
+      <segment state="translated">
+        <source>HYPERDRIVE</source>
+        <target>HIPERMOTOR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.12.Designation">
+      <segment>
+        <source>KIAM IV</source>
+        <target>KIAM IV</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.12.Cargo">
+      <segment>
+        <source>MACHINERY</source>
+        <target>MAQUINARIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.13.Designation">
+      <segment>
+        <source>KIAM V</source>
+        <target>KIAM V</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.13.Cargo">
+      <segment state="translated">
+        <source>HYPERDRIVE</source>
+        <target>HIPERMOTOR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.FG.14.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.CompletionMessage.0">
+      <segment state="translated">
+        <source>Hyperdrive Freighter has been destroyed</source>
+        <target>El carguero con el hipermotor ha sido destruido</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max1.CompletionMessage.1">
+      <segment state="translated">
+        <source>The Star Destroyer Intrepid is now stranded in this sector</source>
+        <target>El Destructor Estelar Intrépido se encuentra ahora varado en este sector</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.Title">
+      <segment state="translated">
+        <source>Take Out Intrepid's Escort</source>
+        <target>Elimina la Escolta del Intrépido</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.Description">
+      <segment state="translated">
+        <source>A group of Corvettes
+and several Assault
+Gunboats are on their
+way to protect the Star
+Destroyer Intrepid.
+Your mission is to
+destroy them!</source>
+        <target>Un grupo de Corbetas
+y varias Cañoneras de
+Asalto están en camino
+para proteger al Destructor
+Estelar Intrépido.
+¡Tu misión es destruirlas!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.Text.1">
+      <segment state="translated">
+        <source>&gt;OP 9: Take out Intrepid's Escort</source>
+        <target>&gt;OP 9: Elimina la Escolta del Intrépido</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.Text.2">
+      <segment state="translated">
+        <source>Lead your [[Y-wing]] Squadron in an attack on the Intrepid's escort.</source>
+        <target>Lidera tu Escuadrón de [[Alas-Y]] en un ataque contra la escolta del Intrépido.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.Text.3">
+      <segment state="translated">
+        <source>An [[X-wing]] will help by providing close escort for your squadron.</source>
+        <target>Un [[Ala-X]] proporcionará escolta cercana para tu escuadrón.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.Text.4">
+      <segment state="translated">
+        <source>  The Star Destroyer [[Intrepid]] is stranded in the [[Circarpous]] [[System]].  Its hyperdrive engines are damaged and replacement engines were destroyed by Alliance forces in our last operation.$  The Alliance has decided to undertake a bold plan to destroy the Intrepid and thereby erase any trace of the Alliance's success in stealing the [[Death Star ]]plans.$  </source>
+        <target>  El Destructor Estelar [[Intrépido]] está varado en el [[Sistema Circarpous]]. Sus hipermotores están dañados y los repuestos fueron destruidos por fuerzas de la Alianza en nuestra anterior operación.$  La Alianza ha decidido emprender un plan audaz para destruir al Intrépido y eliminar así cualquier rastro de que la Alianza hubiera logrado robar los planes de la [[Estrella de la Muerte]].$  </target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.Text.5">
+      <segment state="translated">
+        <source>  The first part of the attack plan is to isolate the[[ Intrepid]] from her protective escort by destroying any reinforcements sent to guard her.  Once this screening force is neutralized, a direct assault on the Intrepid has a much better chance of succeeding.$  A group of [[Corvettes]] and several [[Assault Gunboats]] are on their way to protect the Intrepid.  Your mission is to destroy them!  </source>
+        <target>  La primera parte del plan de ataque es aislar al [[Intrépido]] de su escolta protectora destruyendo cualquier refuerzo enviado para protegerlo.  Una vez que esta fuerza de protección esté neutralizada, un asalto directo al [[Intrépido]] tendrá muchas más probabilidades de tener éxito.$  Un grupo de [[Corbetas]] y varias [[Cañoneras de Asalto]] están en camino para proteger al Intrépido. ¡Tu misión es destruirlas!  </target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.Tag.0">
+      <segment state="translated">
+        <source>Imperial CRVs</source>
+        <target>CRBs Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.Tag.1">
+      <segment>
+        <source>Assault Gunboats</source>
+        <target>Cañoneras de Asalto</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.Tag.2">
+      <segment state="translated">
+        <source>Y-W Red (YOU)</source>
+        <target>Ala-Y Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.Tag.3">
+      <segment state="translated">
+        <source>X-W Blue</source>
+        <target>A-X Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.2.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.3.Designation">
+      <segment state="translated">
+        <source>VIPER 1</source>
+        <target>VÍBORA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.3.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.4.Designation">
+      <segment state="translated">
+        <source>VIPER 2</source>
+        <target>VÍBORA 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.4.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.5.Designation">
+      <segment state="translated">
+        <source>VIPER 3</source>
+        <target>VÍBORA 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.5.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.6.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.7.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.8.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.9.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std1.FG.10.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.2.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.3.Designation">
+      <segment state="translated">
+        <source>VIPER 1</source>
+        <target>VÍBORA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.3.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.4.Designation">
+      <segment state="translated">
+        <source>VIPER 2</source>
+        <target>VÍBORA 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.4.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.5.Designation">
+      <segment state="translated">
+        <source>VIPER 3</source>
+        <target>VÍBORA 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.5.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.6.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.7.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.8.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.9.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.FG.10.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.CompletionMessage.0">
+      <segment state="translated">
+        <source>ALL CORVETTES ESCORTING THE INTREPID HAVE BEEN DESTROYED</source>
+        <target>TODAS LAS CORBETAS QUE ESCORTABAN AL INTRÉPIDO HAN SIDO DESTRUIDAS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std1.CompletionMessage.1">
+      <segment state="translated">
+        <source>ALL IMPERIAL GUNBOATS HAVE BEEN DESTROYED</source>
+        <target>TODAS LAS CAÑONERAS IMPERIALES HAN SIDO DESTRUIDAS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.Title">
+      <segment state="translated">
+        <source>Destroy the Intrepid</source>
+        <target>Destruye el Intrépido</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.Description">
+      <segment state="translated">
+        <source>Take out the Shield
+Generator towers on the
+Star Destroyer Intrepid.
+Once the shields are
+down, the Intrepid will
+be vulnerable to proton
+torpedo attack.</source>
+        <target>Derriba las torres de
+Generadores de Escudos
+del Destructor Estelar Intrépido.
+Con los escudos caídos, el
+Intrépido será vulnerable a un
+ataque con torpedos de protones.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Text.1">
+      <segment state="translated">
+        <source>&gt;OP 10: Destroy the Intrepid</source>
+        <target>&gt;OP 10: Destruye el Intrépido</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Text.2">
+      <segment state="translated">
+        <source>Make your way through the STD [[Intrepid's]] TIE Fighter defenses.</source>
+        <target>Ábrete camino a través de las defensas de Cazas TIE del DES [[Intrépido]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Text.3">
+      <segment state="translated">
+        <source>Then destroy both of the Intrepid's [[Shield Generator Towers]].</source>
+        <target>Destruye ambas [[Torres de Generadores de Escudos]] del Intrépido.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Text.4">
+      <segment state="translated">
+        <source>[[A-wings]] will escort you in, while the [[Y-wings]] make a frontal assault.</source>
+        <target>[[Alas-A]] te acompañarán, mientras que las [[Alas-Y]] lanzan un ataque frontal.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Text.5">
+      <segment state="translated">
+        <source>  The Star Destroyer [[Intrepid]] is stranded in the [[Circarpous System]].  Its defensive escort shield was destroyed during previous Alliance attacks.$  The High Command feels the time is perfect for our [[first direct]] [[starfighter assault]] on an Imperial capital ship.  Our technical staff has discovered a weak spot in the Intrepid's defenses...its [[shield generators]].</source>
+        <target>  El Destructor Estelar [[Intrépido]] se ha quedado varado en el [[Sistema Circarpous]].  Su pantalla defensiva de escolta fue destruida durante ataques previos de la Alianza.$  El Alto Mando considera que es el momento perfecto para nuestro [[primer asalto directo con cazas]] contra una nave capital del Imperio.  Nuestro personal técnico ha descubierto un punto débil en las defensas del Intrépido... sus [[generadores de escudo]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Text.6">
+      <segment state="translated">
+        <source>  The shield generators are at the top of the bridge superstructure.  Taking out these two towers will leave the [[Intrepid]] defenseless against a barrage of proton torpedoes.$  As one of our best pilots it will be your responsibility to destroy these towers.  The entire attack depends on this.$  Good luck and may the force be with you! </source>
+        <target>  Los generadores de escudos están en la parte superior de la superestructura del puente.  Eliminar estas dos torres dejará al [[Intrépido]] sin defensa contra una andanada de torpedos de protones.$  Como uno de nuestros mejores pilotos, será tu responsabilidad destruir estas torres.  El ataque entero depende de ello.$  ¡Buena suerte y que la Fuerza te acompañe!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Tag.0">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Tag.1">
+      <segment>
+        <source>TIE Bombers</source>
+        <target>Bombarderos TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Tag.2">
+      <segment state="translated">
+        <source>STD Intrepid</source>
+        <target>DES Intrépido</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Tag.3">
+      <segment state="translated">
+        <source>X-W Red (YOU)</source>
+        <target>A-X Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Tag.4">
+      <segment state="translated">
+        <source>A-W Gold</source>
+        <target>A-A Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.Tag.5">
+      <segment state="translated">
+        <source>Y-W Blue</source>
+        <target>A-Y Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.FG.2.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.FG.3.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.FG.4.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.FG.5.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.FG.6.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.FG.7.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.std2.FG.8.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.FG.2.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.FG.3.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.FG.4.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.FG.5.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.FG.6.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.FG.7.Designation">
+      <segment state="translated">
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.FG.8.Designation">
+      <segment state="translated">
+        <source>INTREPID</source>
+        <target>INTRÉPIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.CompletionMessage.0">
+      <segment state="translated">
+        <source>STD INTREPID HAS BEEN DESTROYED</source>
+        <target>EL DES INTRÉPIDO HA SIDO DESTRUIDO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.std2.CompletionMessage.1">
+      <segment state="translated">
+        <source>THIS IS A MAJOR TRIUMPH IN THE HISTORY OF THE ALLIANCE</source>
+        <target>ESTO ES UN GRAN TRIUNFO EN LA HISTORIA DE LA ALIANZA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.Title">
+      <segment state="translated">
+        <source>Deliver Plans to Princess Leia</source>
+        <target>Entrega los Planos a la Princesa Leia</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.Description">
+      <segment state="translated">
+        <source>Identify Princess
+Leia's Corvette, the
+Tantive IV.  Protect our
+Shuttle as it delivers
+the secret plans to the
+Princess.</source>
+        <target>Identifica la Corbeta
+de la Princesa Leia,
+la Tantive IV.  Protege
+nuestra Lanzadera mientras
+entrega los planos secretos
+a la Princesa.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.Text.1">
+      <segment state="translated">
+        <source>&gt;OP 11: Deliver Plans to Princess Leia</source>
+        <target>&gt;OP 11: Entrega Planos a la Princesa Leia</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.Text.2">
+      <segment state="translated">
+        <source>Locate [[Princess Leia's Corvette]] so a Shuttle can deliver the DS Plans.</source>
+        <target>Localiza la [[Corbeta de la Princesa Leía]] para que una Lanzadera pueda entregar los Planos de la Estrella de la Muerte.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.Text.3">
+      <segment state="translated">
+        <source>Then see that her[[ Corvette]] makes it [[safely out]] of this sector.</source>
+        <target>Seguidamente, asegura que su [[Corbeta]] consigue [[salir a salvo]] de este sector.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.Text.5">
+      <segment state="translated">
+        <source>  [[Princess Leia]], the young senator from [[Alderaan]], has been chosen to carry the [[Death Star's ]]technical plans to High Command. $   Her ship, the [[Tantive IV]], is hidden amongst other Corvettes of a supply convoy headed for [[Alderaan]].  To avoid arousing Imperial curiousity her ship will not identify itself by radio.  Therefore, you must locate her using your sensors so the Shuttle [[Maria]] can deliver the plans. </source>
+        <target>  [[La Princesa Leia]], la joven senadora de [[Alderaan]], ha sido elegida para transportar los planos técnicos de la [[Estrella de la Muerte]] al Alto Mando. $   Su nave, la [[Tantive IV]], está escondida entre otras Corbetas de un convoy de suministros dirigido a [[Alderaan]].  Para evitar despertar la curiosidad imperial su nave no se identificará por radio.  Por lo tanto, debes localizarla usando tus sensores para que la Lanzadera [[Maria]] pueda entregar los planos. </target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.Tag.0">
+      <segment state="translated">
+        <source>CRV Task Force</source>
+        <target>Destacamento de CRB</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.Tag.1">
+      <segment>
+        <source>CRV Tantive IV</source>
+        <target>CRB Tantive IV</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.Tag.2">
+      <segment state="translated">
+        <source>X-W Gold</source>
+        <target>A-X Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.Tag.3">
+      <segment state="translated">
+        <source>X-W Red (YOU)</source>
+        <target>A-X Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.Tag.4">
+      <segment state="translated">
+        <source>Leia's CRV</source>
+        <target>CRB de Leia</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.0.Designation">
+      <segment>
+        <source>RED 2</source>
+        <target>ROJO 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.2.Designation">
+      <segment state="translated">
+        <source>IMMORTAL</source>
+        <target>INMORTAL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.2.Cargo">
+      <segment>
+        <source>DARTH VADER</source>
+        <target>DARTH VADER</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.3.Designation">
+      <segment state="translated">
+        <source>T-FORCE 1</source>
+        <target>DESTACAMENTO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.3.Cargo">
+      <segment state="translated">
+        <source>PWR GEN</source>
+        <target>GENERADOR DE ENERGÍA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.4.Designation">
+      <segment state="translated">
+        <source>T-FORCE 2</source>
+        <target>DESTACAMENTO 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.4.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.5.Designation">
+      <segment state="translated">
+        <source>T-FORCE 3</source>
+        <target>DESTACAMENTO 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.5.Cargo">
+      <segment state="translated">
+        <source>BASE EQPT</source>
+        <target>EQUIPAMIENTO DE BASE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.6.Designation">
+      <segment>
+        <source>TANTIVE IV</source>
+        <target>TANTIVE IV</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.6.Cargo">
+      <segment>
+        <source>PRINCESS LEIA</source>
+        <target>PRINCESA LEIA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.7.Designation">
+      <segment state="translated">
+        <source>T-FORCE 4</source>
+        <target>DESTACAMENTO 4</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.7.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.8.Designation">
+      <segment state="translated">
+        <source>MARIA</source>
+        <target>MARIA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.8.Cargo">
+      <segment state="translated">
+        <source>DS PLANS</source>
+        <target>PLANOS EDLM</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.9.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.9.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.10.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.11.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.12.Designation">
+      <segment state="translated">
+        <source>IMMORTAL</source>
+        <target>INMORTAL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.12.Cargo">
+      <segment>
+        <source>DARTH VADER</source>
+        <target>DARTH VADER</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.13.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.14.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.leia.FG.15.Designation">
+      <segment state="translated">
+        <source>FATE</source>
+        <target>DESTINO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.0.Designation">
+      <segment>
+        <source>RED 2</source>
+        <target>ROJO 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.2.Designation">
+      <segment>
+        <source>IMMORTAL</source>
+        <target>INMORTAL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.2.Cargo">
+      <segment>
+        <source>DARTH VADER</source>
+        <target>DARTH VADER</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.3.Designation">
+      <segment state="translated">
+        <source>T-FORCE 1</source>
+        <target>DESTACAMENTO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.3.Cargo">
+      <segment>
+        <source>PWR GEN</source>
+        <target>GENERADOR DE ENERGÍA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.4.Designation">
+      <segment state="translated">
+        <source>T-FORCE 2</source>
+        <target>DESTACAMENTO 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.4.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.5.Designation">
+      <segment state="translated">
+        <source>T-FORCE 3</source>
+        <target>DESTACAMENTO 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.5.Cargo">
+      <segment state="translated">
+        <source>BASE EQPT</source>
+        <target>EQUIPAMIENTO DE BASE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.6.Designation">
+      <segment>
+        <source>TANTIVE IV</source>
+        <target>TANTIVE IV</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.6.Cargo">
+      <segment>
+        <source>PRINCESS LEIA</source>
+        <target>PRINCESA LEIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.7.Designation">
+      <segment state="translated">
+        <source>T-FORCE 4</source>
+        <target>DESTACAMENTO 4</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.7.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.8.Designation">
+      <segment state="translated">
+        <source>MARIA</source>
+        <target>MARIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.8.Cargo">
+      <segment state="translated">
+        <source>DS PLANS</source>
+        <target>PLANOS EdlM</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.9.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.9.Cargo">
+      <segment state="translated">
+        <source>STORMTRPS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.10.Designation">
+      <segment state="translated">
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.11.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.12.Designation">
+      <segment>
+        <source>IMMORTAL</source>
+        <target>INMORTAL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.12.Cargo">
+      <segment>
+        <source>DARTH VADER</source>
+        <target>DARTH VADER</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.13.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.14.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.FG.15.Designation">
+      <segment state="translated">
+        <source>FATE</source>
+        <target>DESTINO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.CompletionMessage.0">
+      <segment state="translated">
+        <source>THE PLANS HAVE BEEN SUCCESSFULLY DELIVERED TO LEIA</source>
+        <target>LOS PLANOS SE HAN ENTREGADO CON ÉXITO A LEIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.leia.CompletionMessage.1">
+      <segment state="translated">
+        <source>LEIA'S CRV HAS JUMPED TO SAFETY</source>
+        <target>LA CRB DE LEIA HA SALTADO A UN LUGAR SEGURO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.Title">
+      <segment state="translated">
+        <source>Protect Princess Leia</source>
+        <target>Protege a la Princesa Leia</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.Description">
+      <segment state="translated">
+        <source>The Star Destroyer
+Immortal has launched an
+all out assault on the
+Tantive IV.  Intercept
+the attacking TIE
+Squadrons and secure the
+hyperspace jump point.</source>
+        <target>El Destructor Estelar
+Inmortal ha lanzado un
+intenso ataque contra la
+Tantive IV.  Intercepta
+los escuadrones de TIEs
+atacantes y asegura el
+punto de salto
+al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Text.1">
+      <segment state="translated">
+        <source>  Princess Leia's Corvette, the [[Tantive IV]], is carrying technical data on the Death Star that is vital to the survival of the Rebel Alliance.$  The information is stored in her Corvette's computer system and must reach the Chief of State, [[Mon Mothma]], safely. $  Princess Leia had planned to transfer to the Cruiser[[ Liberty]], but the arrival of the Star Destroyer [[Immortal ]]has forced her to flee.</source>
+        <target>  La corbeta de la Princesa Leia, la [[Tantive IV]], lleva datos técnicos sobre la Estrella de la Muerte que son críticos para la supervivencia de la Alianza Rebelde.$  La información se almacena en el sistema informático de su corbeta y debe llegar a salvo a la Jefa de Estado, [[Mon Mothma]].  La Princesa Leia había planeado transbordarse al Crucero [[Libertad]], pero la llegada del Destructor Estelar [[Inmortal]] le obliga a escapar.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Text.2">
+      <segment state="translated">
+        <source>  Imperial Forces have launched an all out assault on the Corvette as  they have discovered what important secrets Princess Leia is carrying.$  Your mission is to protect her at all costs by intercepting the attacking TIE squadrons and securing the hyperspace jump point.</source>
+        <target>  Las Fuerzas Imperiales han lanzado un asalto a gran escala contra la Corbeta ya que han descubierto cuán importantes son los secretos que porta la Princesa Leia.$  Tu misión es protegerla a cualquier precio interceptando los escuadrones de cazas TIE atacantes y asegurando el punto de salto al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Text.3">
+      <segment state="translated">
+        <source>Intercept and attack approaching TIE Squadrons with your [[A-wing]].</source>
+        <target>Intercepta y ataca con tu [[Ala-A]] los escuadrones de cazas TIE que se acercan.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Text.4">
+      <segment state="translated">
+        <source>Protect [[Princess Leia's Corvette]] until it reaches hyperspace.</source>
+        <target>Protege la [[Corbeta de la Princesa Leia]] hasta que entre al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Text.5">
+      <segment state="translated">
+        <source>&gt;OP 12: Protect Princess Leia</source>
+        <target>&gt;OP 12: Protege a la Princesa Leia</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Text.6">
+      <segment state="translated">
+        <source>Princess Leia's rendezvous with the Cruiser [[Liberty]] has been aborted.  </source>
+        <target>El encuentro de la Princesa Leia con el Crucero [[Libertad]] ha sido cancelado. </target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Text.7">
+      <segment state="translated">
+        <source>The Star Destroyer[[ Immortal]] is out to capture Princess Leia's Corvette.</source>
+        <target>El Destructor Estelar [[Inmortal]] está determinado a capturar la Corbeta de la Princesa Leia.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.0">
+      <segment state="translated">
+        <source>Leia's Ship</source>
+        <target>Nave de Leia</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.1">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.2">
+      <segment>
+        <source>CRS Liberty</source>
+        <target>CRU Libertad</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.3">
+      <segment state="translated">
+        <source>A-W Red (YOU)</source>
+        <target>A-A Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.4">
+      <segment state="translated">
+        <source>X-W Gold</source>
+        <target>A-X Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.5">
+      <segment>
+        <source>TIE Interceptors</source>
+        <target>Interceptores TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.6">
+      <segment>
+        <source>TIE Bombers</source>
+        <target>Bombarderos TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.7">
+      <segment state="translated">
+        <source>STD Immortal</source>
+        <target>DES Inmortal</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.8">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.9">
+      <segment state="translated">
+        <source>Hyperspace Jump Point</source>
+        <target>Punto de Salto al Hiperespacio</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.Tag.10">
+      <segment state="translated">
+        <source>CRV Tantive IV</source>
+        <target>CRB Tantive IV</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.0.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.1.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.2.Designation">
+      <segment>
+        <source>LIBERTY</source>
+        <target>LIBERTAD</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.3.Designation">
+      <segment>
+        <source>TANTIVE IV</source>
+        <target>TANTIVE IV</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.3.Cargo">
+      <segment>
+        <source>PRINCESS LEIA</source>
+        <target>PRINCESA LEIA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.4.Designation">
+      <segment state="translated">
+        <source>IMMORTAL</source>
+        <target>INMORTAL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.5.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.6.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.7.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.8.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.9.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.intcep1.FG.10.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.0.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.1.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.2.Designation">
+      <segment state="translated">
+        <source>LIBERTY</source>
+        <target>LIBERTAD</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.3.Designation">
+      <segment>
+        <source>TANTIVE IV</source>
+        <target>TANTIVE IV</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.3.Cargo">
+      <segment state="translated">
+        <source>PRINCESS LEIA</source>
+        <target>PRINCESA LEIA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.4.Designation">
+      <segment>
+        <source>IMMORTAL</source>
+        <target>INMORTAL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.5.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.6.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.7.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.8.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.9.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.FG.10.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.CompletionMessage.0">
+      <segment state="translated">
+        <source>PRINCESS LEIA IS SAFE THANKS TO YOU</source>
+        <target>LA PRINCESA LEIA ESTÁ A SALVO GRACIAS A TI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.intcep1.CompletionMessage.1">
+      <segment state="translated">
+        <source>JOB WELL DONE, red 2</source>
+        <target>UN TRABAJO BIEN HECHO, ROJO 2</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

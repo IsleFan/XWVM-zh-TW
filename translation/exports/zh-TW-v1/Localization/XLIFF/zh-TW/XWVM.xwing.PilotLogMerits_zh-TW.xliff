@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.xwing.PilotLogMerits">
+    
+      <unit id="PilotLog.ExitButton.Label">
+        <segment state="translated">
+          <source>Exit Pilot Log</source>
+          <target>離開飛行員日誌</target></segment>
+      </unit>
+      <unit id="PilotUniform.ExitButton.Label">
+        <segment state="translated">
+          <source>Exit Uniform and Medals</source>
+          <target>離開制服與勳章</target></segment>
+      </unit>
+      <unit id="PilotLog.Stats.CompletedTrainingTitle">
+        <segment state="translated">
+          <source>Completed Training Levels</source>
+          <target>已完成的訓練關卡</target></segment>
+      </unit>
+      <unit id="PilotLog.Stats.Generic.ContinuedBrackets">
+        <segment state="translated">
+          <source>(Continued)</source>
+          <target>（續）</target></segment>
+      </unit>
+      <unit id="Scores.MissionHighScoreRecordRow">
+		<notes>
+			<note>[[, ]], ((, and )) denote color highlights. | denote a separation.</note>
+		</notes>
+        <segment state="translated">
+          <source>[[{pilotName}]]|((Score [[{score}]]|Kills [[{kills}]]))</source>
+          <target>[[{pilotName}]]|((分數 [[{score}]]|擊殺 [[{kills}]]))</target></segment>
+      </unit>
+      <unit id="Scores.HighScoreTitle">
+        <segment state="translated">
+          <source>High Scores</source>
+          <target>最高分</target></segment>
+      </unit>
+      <unit id="Scores.NoHighScoresAvailable">
+        <segment state="translated">
+          <source>No High Scores</source>
+          <target>尚無最高分紀錄</target></segment>
+      </unit>
+      <unit id="Scores.TrainingHighScoreRecordRow">
+		<notes>
+			<note>[[, ]], ((, and )) denote color highlights. | denote a separation.</note>
+		</notes>
+        <segment state="translated">
+          <source>[[{pilotName}]]|((Score [[{score}]]|Level [[{level}]]))</source>
+          <target>[[{pilotName}]]|((分數 [[{score}]]|關卡 [[{level}]]))</target></segment>
+      </unit>
+      <unit id="AwardType.TourMedal">
+        <segment state="translated">
+          <source>Tour Medal</source>
+          <target>服役期勳章</target></segment>
+      </unit>
+      <unit id="AwardType.HistoricalFlightPatch">
+        <segment state="translated">
+          <source>Historical Flight Patch</source>
+          <target>歷史飛行臂章</target></segment>
+      </unit>
+      <unit id="AwardType.TourRibbon">
+        <segment state="translated">
+          <source>Tour Ribbon</source>
+          <target>服役期綬帶</target></segment>
+      </unit>
+      <unit id="AwardType.Kalidor">
+        <segment state="translated">
+          <source>Kalidor Crescent</source>
+          <target>卡利多新月勳章</target></segment>
+      </unit>
+      <unit id="AwardType.FlightBadge">
+        <segment state="translated">
+          <source>Flight Badge</source>
+          <target>飛行徽章</target></segment>
+      </unit>    
+	
+	<unit id="PilotLog.Stats.TitleLine1">
+		<notes>
+			<note>The (* and *) represent highlight in bold.</note>
+		</notes>
+        <segment state="translated">
+          <source>(*{pilotRank}*) {pilotName}</source>
+          <target>{pilotName} (*{pilotRank}*)</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.TitleLine2">
+		<notes>
+			<note>The (* and *) represent highlight in bold. [[ and ]] represent highlight in white.</note>
+		</notes>
+        <segment state="translated">
+          <source>(*{pilotStatus}*) with (*[[{score}]]*) Tour of Duty points</source>
+          <target>(*{pilotStatus}*)，服役期積分 (*[[{score}]]*) 分</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.PpgNoLevelsCompleted">		
+        <segment state="translated">
+          <source>{species.ONE} has not completed any levels</source>
+          <target>{species.ONE}尚未完成任何關卡</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.PpgLevelsCompleted">		
+		<notes>
+			<note>(( and )) represent highlight in white.</note>
+		</notes>
+        <segment state="translated">
+          <source>{species.ONE} has completed level (({level}))</source>
+          <target>{species.ONE}已完成第 (({level})) 關</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.PpgNoTrainingCompleted">				
+        <segment state="translated">
+          <source>No training levels completed.</source>
+          <target>尚未完成任何訓練關卡。</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.TrainingBestScoresTitle">				
+        <segment state="translated">
+          <source>Training Best Scores</source>
+          <target>訓練最佳分數</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.TrainingBestScoreEntry">				
+        <segment state="translated">
+          <source>{species.ONE} has a best score of (({score}))</source>
+          <target>{species.ONE}的最佳分數為 (({score}))</target></segment>
+	</unit>
+	<unit id="PilotLog.PageOfPages">				
+        <segment state="translated">
+          <source>Page {page} of {total}</source>
+          <target>第 {page} 頁，共 {total} 頁</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.HistoricBestScoresTitle">				
+        <segment state="translated">
+          <source>Best Scores for Historic Combat Mission:</source>
+          <target>歷史戰役任務最佳分數：</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.HistoricBestScoresEntry">				
+        <segment state="translated">
+          <source>Mission (({mission})) with (({score})) points</source>
+          <target>任務 (({mission}))：(({score})) 分</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.CompletionRange">				
+		<notes>
+			<note>
+				The {collection} variable contains the name of the mission collection, such as "Y-wing Historical Missions"
+				The {range} variable will look like "1, 3, 5-10" and indicates which missions in the collection have been completed.
+				If no mission has been completed, then the {range} variable will contain the text in the PilotLog.Stats.NoCompletion string below.
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>{collection} (Completed {range})</source>
+          <target>{collection}（已完成：{range}）</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.NoCompletion">				
+		<notes>
+			<note>
+				This makes reference to no mission in a collection having being completed. 
+				It will appear as the {range} variable in the PilotLog.Stats.CompletionRange string above.
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>none</source>
+          <target>無</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodSpaceVictoriesTitle">				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>TOD Space Victories (Captured): [[{kills} ({captures})]]</source>
+          <target>服役期太空擊毀數（俘獲）：[[{kills} ({captures})]]</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodSurfaceVictories">				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>TOD Surface Victories: [[{kills}]]</source>
+          <target>服役期地面擊毀數：[[{kills}]]</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodLasersFired">				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>TOD Lasers Fired: [[{fired}]]</source>
+          <target>服役期雷射發射數：[[{fired}]]</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.CraftHits">				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>Craft Hits: [[{hits} ({percent}%)]]</source>
+          <target>命中艦艇：[[{hits} ({percent}%)]]</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.GroundHits">				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>Ground Hits: [[{hits} ({percent}%)]]</source>
+          <target>命中地面：[[{hits} ({percent}%)]]</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodProjectilesFired">				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>TOD Homing Projectiles Fired: [[{fired}]]</source>
+          <target>服役期導引彈頭發射數：[[{fired}]]</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodCraftLost">				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>TOD Craft Lost: [[{lost}]]</source>
+          <target>服役期艦艇損失：[[{lost}]]</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodTourDetails">				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>Tour [[{tour}]] is {finished:cond:Complete|In Progress}</source>
+          <target>第 [[{tour}]] 服役期{finished:cond:已完成|進行中}</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.OperationScoresTitle">				
+        <segment state="translated">
+          <source>Scores for each Operation:</source>
+          <target>各作戰分數：</target></segment>
+	</unit>
+	<unit id="PilotLog.Stats.OperationScoresEntry">				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment state="translated">
+          <source>Operation [[{mission}]] with [[{score}]] Points</source>
+          <target>作戰 [[{mission}]]：[[{score}]] 分</target></segment>
+	</unit>
+
+  </file>
+</xliff>

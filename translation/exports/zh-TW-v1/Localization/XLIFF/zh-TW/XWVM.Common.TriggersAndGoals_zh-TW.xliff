@@ -1,0 +1,1097 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" trgLang="zh-TW">
+	<file id="XWVM.Common.TriggersAndGoals" srcLang="en" trgLang="zh-TW">
+
+		<!-- ==================== TRIGGER CONDITIONS (Neutral/Description) ==================== -->
+		<!-- Available selectors: count: totals ship count; species: usual species columns -->
+		<unit id="Condition_Always">
+			<segment state="translated">
+				<source>Always</source>
+				<target>總是</target></segment>
+		</unit>
+		<unit id="Condition_None">
+			<segment state="translated">
+				<source>None</source>
+				<target>無</target></segment>
+		</unit>
+		<unit id="Condition_Arrived">
+			<segment state="translated">
+				<source>Arrived</source>
+				<target>已抵達</target></segment>
+		</unit>
+		<unit id="Condition_Attacked">
+			<segment state="translated">
+				<source>Attacked</source>
+				<target>遭攻擊</target></segment>
+		</unit>
+		<unit id="Condition_Boarded">
+			<segment state="translated">
+				<source>Boarded</source>
+				<target>已被登艦</target></segment>
+		</unit>
+		<unit id="Condition_CannonSysDisabled">
+			<segment state="translated">
+				<source>Cannons Disabled</source>
+				<target>砲火失效</target></segment>
+		</unit>
+		<unit id="Condition_Captured">
+			<segment state="translated">
+				<source>Captured</source>
+				<target>已被俘獲</target></segment>
+		</unit>
+		<unit id="Condition_CompletedBonusGoals">
+			<segment state="translated">
+				<source>Completed Bonus Goals</source>
+				<target>完成額外目標</target></segment>
+		</unit>
+		<unit id="Condition_CompletedMission">
+			<segment state="translated">
+				<source>Completed Mission</source>
+				<target>完成任務</target></segment>
+		</unit>
+		<unit id="Condition_CompletedPrimaryGoals">
+			<segment state="translated">
+				<source>Completed Primary Goals</source>
+				<target>完成主要目標</target></segment>
+		</unit>
+		<unit id="Condition_CompletedSecondaryGoals">
+			<segment state="translated">
+				<source>Completed Secondary Goals</source>
+				<target>完成次要目標</target></segment>
+		</unit>
+		<unit id="Condition_Destroyed">
+			<segment state="translated">
+				<source>Destroyed</source>
+				<target>已摧毀</target></segment>
+		</unit>
+		<unit id="Condition_Disabled">
+			<segment state="translated">
+				<source>Disabled</source>
+				<target>已癱瘓</target></segment>
+		</unit>
+		<unit id="Condition_Docked">
+			<segment state="translated">
+				<source>Docked</source>
+				<target>已對接</target></segment>
+		</unit>
+		<unit id="Condition_DroppedOff">
+			<segment state="translated">
+				<source>Dropped Off</source>
+				<target>已投放</target></segment>
+		</unit>
+		<unit id="Condition_FailedBonusGoals">
+			<segment state="translated">
+				<source>Failed Bonus Goals</source>
+				<target>未達成額外目標</target></segment>
+		</unit>
+		<unit id="Condition_FailedPrimaryGoals">
+			<segment state="translated">
+				<source>Failed Primary Goals</source>
+				<target>未達成主要目標</target></segment>
+		</unit>
+		<unit id="Condition_FailedSecondaryGoals">
+			<segment state="translated">
+				<source>Failed Secondary Goals</source>
+				<target>未達成次要目標</target></segment>
+		</unit>
+		<unit id="Condition_FiftyHull">
+			<segment state="translated">
+				<source>Fifty Hull</source>
+				<target>船體剩一半</target></segment>
+		</unit>
+		<unit id="Condition_Inspected">
+			<segment state="translated">
+				<source>Inspected</source>
+				<target>已識別</target></segment>
+		</unit>
+		<unit id="Condition_OutOfWarheads">
+			<segment state="translated">
+				<source>Out of Warheads</source>
+				<target>彈頭耗盡</target></segment>
+		</unit>
+		<unit id="Condition_Reinforced">
+			<segment state="translated">
+				<source>Reinforced</source>
+				<target>已增援</target></segment>
+		</unit>
+		<unit id="Condition_Survived">
+			<segment state="translated">
+				<source>Survived</source>
+				<target>存活</target></segment>
+		</unit>
+		<unit id="Condition_Threatened">
+			<segment state="translated">
+				<source>Threatened</source>
+				<target>受威脅</target></segment>
+		</unit>
+		<unit id="Condition_ZeroShields">
+			<segment state="translated">
+				<source>Zero Shields</source>
+				<target>護盾歸零</target></segment>
+		</unit>
+		<unit id="Condition_Recovered">
+			<segment state="translated">
+				<source>Recovered</source>
+				<target>已回收</target></segment>
+		</unit>
+		<unit id="Condition_Unknown">
+			<segment state="translated">
+				<source>Unknown</source>
+				<target>未知</target></segment>
+		</unit>
+
+		<!-- ==================== TRIGGER AMOUNTS ==================== -->
+		<unit id="Amount_AllButOne">
+			<segment state="translated">
+				<source>All But One</source>
+				<target>除一架外全部</target></segment>
+		</unit>
+		<unit id="Amount_AllButOneOfFirstWave">
+			<segment state="translated">
+				<source>All But One of First Wave</source>
+				<target>第一波除一架外全部</target></segment>
+		</unit>
+		<unit id="Amount_AllNonPlayerCraft">
+			<segment state="translated">
+				<source>All Non-Player Craft</source>
+				<target>所有非玩家艦艇</target></segment>
+		</unit>
+		<unit id="Amount_AllNonSpecialCraft">
+			<segment state="translated">
+				<source>All Non-Special Craft</source>
+				<target>所有非特殊艦艇</target></segment>
+		</unit>
+		<unit id="Amount_AtLeastOne">
+			<segment state="translated">
+				<source>Any</source>
+				<target>任一</target></segment>
+		</unit>
+		<unit id="Amount_AtLeastOneOfFirstWave">
+			<segment state="translated">
+				<source>Any of First Wave</source>
+				<target>第一波任一</target></segment>
+		</unit>
+		<unit id="Amount_FiftyPercent">
+			<segment state="translated">
+				<source>50%</source>
+				<target>50%</target></segment>
+		</unit>
+		<unit id="Amount_FiftyPercentFirstWave">
+			<segment state="translated">
+				<source>50% of First Wave</source>
+				<target>第一波 50%</target></segment>
+		</unit>
+		<unit id="Amount_HundredPercent">
+			<segment state="translated">
+				<source>100%</source>
+				<target>100%</target></segment>
+		</unit>
+		<unit id="Amount_HundredPercentFirstWave">
+			<segment state="translated">
+				<source>100% of First Wave</source>
+				<target>第一波 100%</target></segment>
+		</unit>
+		<unit id="Amount_PlayerCraft">
+			<segment state="translated">
+				<source>Player Craft</source>
+				<target>玩家艦艇</target></segment>
+		</unit>
+		<unit id="Amount_SeventyFivePercent">
+			<segment state="translated">
+				<source>75%</source>
+				<target>75%</target></segment>
+		</unit>
+		<unit id="Amount_SeventyFivePercentFirstWave">
+			<segment state="translated">
+				<source>75% of First Wave</source>
+				<target>第一波 75%</target></segment>
+		</unit>
+		<unit id="Amount_SpecialCraft">
+			<segment state="translated">
+				<source>Special Craft</source>
+				<target>特殊艦艇</target></segment>
+		</unit>
+		<unit id="Amount_TwentyFivePercent">
+			<segment state="translated">
+				<source>25%</source>
+				<target>25%</target></segment>
+		</unit>
+		<unit id="Amount_TwentyFivePercentFirstWave">
+			<segment state="translated">
+				<source>25% of First Wave</source>
+				<target>第一波 25%</target></segment>
+		</unit>
+
+		<!-- ==================== FLIGHT GROUP GOAL CONDITIONS (State-dependent) ==================== -->
+		<!-- Unresolved state -->
+		<unit id="Goal_Arrived_Unresolved">
+			<segment state="translated">
+				<source>must arrive</source>
+				<target>必須抵達</target></segment>
+		</unit>
+		<unit id="Goal_Attacked_Unresolved">
+			<segment state="translated">
+				<source>must be attacked</source>
+				<target>必須遭到攻擊</target></segment>
+		</unit>
+		<unit id="Goal_Boarded_Unresolved">
+			<segment state="translated">
+				<source>must be boarded</source>
+				<target>必須被登艦</target></segment>
+		</unit>
+		<unit id="Goal_CannonSysDisabled_Unresolved">
+			<segment state="translated">
+				<source>must have cannons disabled</source>
+				<target>砲火必須失效</target></segment>
+		</unit>
+		<unit id="Goal_Captured_Unresolved">
+			<segment state="translated">
+				<source>must be captured</source>
+				<target>必須俘獲</target></segment>
+		</unit>
+		<unit id="Goal_CompletedMission_Unresolved">
+			<segment state="translated">
+				<source>must complete mission</source>
+				<target>必須完成任務</target></segment>
+		</unit>
+		<unit id="Goal_Destroyed_Unresolved">
+			<segment state="translated">
+				<source>must be destroyed</source>
+				<target>必須摧毀</target></segment>
+		</unit>
+		<unit id="Goal_Disabled_Unresolved">
+			<segment state="translated">
+				<source>must be disabled</source>
+				<target>必須癱瘓</target></segment>
+		</unit>
+		<unit id="Goal_Docked_Unresolved">
+			<segment state="translated">
+				<source>must have docked</source>
+				<target>必須完成對接</target></segment>
+		</unit>
+		<unit id="Goal_DroppedOff_Unresolved">
+			<segment state="translated">
+				<source>must have dropped off</source>
+				<target>必須完成投放</target></segment>
+		</unit>
+		<unit id="Goal_FiftyHull_Unresolved">
+			<segment state="translated">
+				<source>must have half hull</source>
+				<target>船體必須降至一半</target></segment>
+		</unit>
+		<unit id="Goal_Inspected_Unresolved">
+			<segment state="translated">
+				<source>must be inspected</source>
+				<target>必須識別</target></segment>
+		</unit>
+		<unit id="Goal_OutOfWarheads_Unresolved">
+			<segment state="translated">
+				<source>must be out of warheads</source>
+				<target>彈頭必須耗盡</target></segment>
+		</unit>
+		<unit id="Goal_Survived_Unresolved">
+			<segment state="translated">
+				<source>must survive</source>
+				<target>必須存活</target></segment>
+		</unit>
+		<unit id="Goal_Threatened_Unresolved">
+			<segment state="translated">
+				<source>must be threatened</source>
+				<target>必須受到威脅</target></segment>
+		</unit>
+		<unit id="Goal_ZeroShields_Unresolved">
+			<segment state="translated">
+				<source>must have zero shields</source>
+				<target>護盾必須歸零</target></segment>
+		</unit>
+		<unit id="Goal_Recovered_Unresolved">
+			<segment state="translated">
+				<source>must be recovered</source>
+				<target>必須回收</target></segment>
+		</unit>
+		<unit id="Goal_Unknown_Unresolved">
+			<segment state="translated">
+				<source>Unknown</source>
+				<target>未知</target></segment>
+		</unit>
+
+		<!-- Passed state -->
+		<unit id="Goal_Arrived_Passed">
+			<segment state="translated">
+				<source>arrived</source>
+				<target>已抵達</target></segment>
+		</unit>
+		<unit id="Goal_Attacked_Passed">
+			<segment state="translated">
+				<source>attacked</source>
+				<target>已遭攻擊</target></segment>
+		</unit>
+		<unit id="Goal_Boarded_Passed">
+			<segment state="translated">
+				<source>boarded</source>
+				<target>已被登艦</target></segment>
+		</unit>
+		<unit id="Goal_CannonSysDisabled_Passed">
+			<segment state="translated">
+				<source>cannons disabled</source>
+				<target>砲火已失效</target></segment>
+		</unit>
+		<unit id="Goal_Captured_Passed">
+			<segment state="translated">
+				<source>captured</source>
+				<target>已俘獲</target></segment>
+		</unit>
+		<unit id="Goal_CompletedMission_Passed">
+			<segment state="translated">
+				<source>completed mission</source>
+				<target>已完成任務</target></segment>
+		</unit>
+		<unit id="Goal_Destroyed_Passed">
+			<segment state="translated">
+				<source>destroyed</source>
+				<target>已摧毀</target></segment>
+		</unit>
+		<unit id="Goal_Disabled_Passed">
+			<segment state="translated">
+				<source>disabled</source>
+				<target>已癱瘓</target></segment>
+		</unit>
+		<unit id="Goal_Docked_Passed">
+			<segment state="translated">
+				<source>docked</source>
+				<target>已對接</target></segment>
+		</unit>
+		<unit id="Goal_DroppedOff_Passed">
+			<segment state="translated">
+				<source>dropped off</source>
+				<target>已投放</target></segment>
+		</unit>
+		<unit id="Goal_FiftyHull_Passed">
+			<segment state="translated">
+				<source>half hull</source>
+				<target>船體剩一半</target></segment>
+		</unit>
+		<unit id="Goal_Inspected_Passed">
+			<segment state="translated">
+				<source>inspected</source>
+				<target>已識別</target></segment>
+		</unit>
+		<unit id="Goal_OutOfWarheads_Passed">
+			<segment state="translated">
+				<source>out of warheads</source>
+				<target>彈頭已耗盡</target></segment>
+		</unit>
+		<unit id="Goal_Survived_Passed">
+			<segment state="translated">
+				<source>survived</source>
+				<target>已存活</target></segment>
+		</unit>
+		<unit id="Goal_Threatened_Passed">
+			<segment state="translated">
+				<source>threatened</source>
+				<target>已受威脅</target></segment>
+		</unit>
+		<unit id="Goal_ZeroShields_Passed">
+			<segment state="translated">
+				<source>zero shields</source>
+				<target>護盾已歸零</target></segment>
+		</unit>
+		<unit id="Goal_Recovered_Passed">
+			<segment state="translated">
+				<source>recovered</source>
+				<target>已回收</target></segment>
+		</unit>
+		<unit id="Goal_Unknown_Passed">
+			<segment state="translated">
+				<source>Unknown</source>
+				<target>未知</target></segment>
+		</unit>
+
+		<!-- Failed state -->
+		<unit id="Goal_Arrived_Failed">
+			<segment state="translated">
+				<source>didn't arrive</source>
+				<target>未抵達</target></segment>
+		</unit>
+		<unit id="Goal_Attacked_Failed">
+			<segment state="translated">
+				<source>was not attacked</source>
+				<target>未遭攻擊</target></segment>
+		</unit>
+		<unit id="Goal_Boarded_Failed">
+			<segment state="translated">
+				<source>not boarded</source>
+				<target>未被登艦</target></segment>
+		</unit>
+		<unit id="Goal_CannonSysDisabled_Failed">
+			<segment state="translated">
+				<source>didn't have cannons disabled</source>
+				<target>砲火未失效</target></segment>
+		</unit>
+		<unit id="Goal_Captured_Failed">
+			<segment state="translated">
+				<source>not captured</source>
+				<target>未俘獲</target></segment>
+		</unit>
+		<unit id="Goal_CompletedMission_Failed">
+			<segment state="translated">
+				<source>didn't complete mission</source>
+				<target>未完成任務</target></segment>
+		</unit>
+		<unit id="Goal_Destroyed_Failed">
+			<segment state="translated">
+				<source>not destroyed</source>
+				<target>未摧毀</target></segment>
+		</unit>
+		<unit id="Goal_Disabled_Failed">
+			<segment state="translated">
+				<source>not disabled</source>
+				<target>未癱瘓</target></segment>
+		</unit>
+		<unit id="Goal_Docked_Failed">
+			<segment state="translated">
+				<source>not docked</source>
+				<target>未對接</target></segment>
+		</unit>
+		<unit id="Goal_DroppedOff_Failed">
+			<segment state="translated">
+				<source>didn't drop off</source>
+				<target>未投放</target></segment>
+		</unit>
+		<unit id="Goal_FiftyHull_Failed">
+			<segment state="translated">
+				<source>not half hull</source>
+				<target>船體未降至一半</target></segment>
+		</unit>
+		<unit id="Goal_Inspected_Failed">
+			<segment state="translated">
+				<source>not inspected</source>
+				<target>未識別</target></segment>
+		</unit>
+		<unit id="Goal_OutOfWarheads_Failed">
+			<segment state="translated">
+				<source>not out of warheads</source>
+				<target>彈頭未耗盡</target></segment>
+		</unit>
+		<unit id="Goal_Survived_Failed">
+			<segment state="translated">
+				<source>didn't survive</source>
+				<target>未能存活</target></segment>
+		</unit>
+		<unit id="Goal_Threatened_Failed">
+			<segment state="translated">
+				<source>not threatened</source>
+				<target>未受威脅</target></segment>
+		</unit>
+		<unit id="Goal_ZeroShields_Failed">
+			<segment state="translated">
+				<source>not zero shields</source>
+				<target>護盾未歸零</target></segment>
+		</unit>
+		<unit id="Goal_Recovered_Failed">
+			<segment state="translated">
+				<source>not recovered</source>
+				<target>未回收</target></segment>
+		</unit>
+		<unit id="Goal_Unknown_Failed">
+			<segment state="translated">
+				<source>Unknown</source>
+				<target>未知</target></segment>
+		</unit>
+
+		<!-- ==================== TRIGGER FORMAT STRINGS ==================== -->
+		<unit id="Trigger_FgCondition_Format">
+			<notes>
+				<note>{amount} = amount text, {condition} = condition text. Don't alter the \{0\} placeholder.</note>
+			</notes>
+			<segment state="translated">
+				<source>{amount} of \{0\}: {condition}</source>
+				<target>\{0\} {amount}：{condition}</target></segment>
+		</unit>
+		<unit id="Trigger_OrWentHome">
+			<segment state="translated">
+				<source> or Went Home</source>
+				<target> 或已返航</target></segment>
+		</unit>
+		<unit id="Trigger_Or">
+			<segment state="translated">
+				<source> or </source>
+				<target> 或 </target></segment>
+		</unit>
+		<unit id="Trigger_And">
+			<segment state="translated">
+				<source> and </source>
+				<target> 且 </target></segment>
+		</unit>
+
+		<!-- ==================== GOAL FORMAT STRINGS ==================== -->
+		<!-- For single ship: just condition. For multiple: amount + condition -->
+		<unit id="Goal_SingleShip_Format">
+			<segment state="translated">
+				<source>{condition}</source>
+				<target>{condition}</target></segment>
+		</unit>
+		<unit id="Goal_MultipleShips_Format">
+			<segment state="translated">
+				<source>{amount} {condition}</source>
+				<target>{amount} {condition}</target></segment>
+		</unit>
+		<unit id="Goal_MissingCondition">
+			<segment state="translated">
+				<source>Missing Goal Condition Lookup!!!</source>
+				<target>缺少目標條件對照！！！</target></segment>
+		</unit>
+		<unit id="Goal_InvalidCondition">
+			<segment state="translated">
+				<source>Invalid Goal Condition!!!</source>
+				<target>無效的目標條件！！！</target></segment>
+		</unit>
+
+		<!-- ==================== VARIABLE TYPE DESCRIPTIONS ==================== -->
+		<!-- Craft Categories -->
+		<unit id="CraftCategory_Fighter">
+			<segment state="translated">
+				<source>Fighters</source>
+				<target>戰機</target></segment>
+		</unit>
+		<unit id="CraftCategory_Transport">
+			<segment state="translated">
+				<source>Transports</source>
+				<target>運輸艦</target></segment>
+		</unit>
+		<unit id="CraftCategory_FreighterContainer">
+			<segment state="translated">
+				<source>Freighters/Containers</source>
+				<target>貨船／貨櫃</target></segment>
+		</unit>
+		<unit id="CraftCategory_Capital">
+			<segment state="translated">
+				<source>Starships</source>
+				<target>星艦</target></segment>
+		</unit>
+		<unit id="CraftCategory_Utility">
+			<segment state="translated">
+				<source>Utility</source>
+				<target>勤務艇</target></segment>
+		</unit>
+		<unit id="CraftCategory_Platform">
+			<segment state="translated">
+				<source>Platforms</source>
+				<target>平台</target></segment>
+		</unit>
+		<unit id="CraftCategory_Mine">
+			<segment state="translated">
+				<source>Mines</source>
+				<target>太空水雷</target></segment>
+		</unit>
+		<unit id="CraftCategory_Object">
+			<segment state="translated">
+				<source>Probes/Sats/Navs</source>
+				<target>探測器／衛星／浮標</target></segment>
+		</unit>
+
+		<!-- Object Categories -->
+		<unit id="ObjectCategory_Craft">
+			<segment state="translated">
+				<source>Craft</source>
+				<target>艦艇</target></segment>
+		</unit>
+		<unit id="ObjectCategory_Weapon">
+			<segment state="translated">
+				<source>Mines</source>
+				<target>太空水雷</target></segment>
+		</unit>
+		<unit id="ObjectCategory_Satellite">
+			<segment state="translated">
+				<source>Probes/Sats/Navs</source>
+				<target>探測器／衛星／浮標</target></segment>
+		</unit>
+
+		<!-- Status descriptions -->
+		<unit id="Status_Normal">
+			<segment state="translated">
+				<source>craft with no special initial status</source>
+				<target>無特殊初始狀態的艦艇</target></segment>
+		</unit>
+		<unit id="Status_HalfShields">
+			<segment state="translated">
+				<source>craft starting with half shields</source>
+				<target>初始護盾減半的艦艇</target></segment>
+		</unit>
+		<unit id="Status_NoShields">
+			<segment state="translated">
+				<source>craft starting with no shields</source>
+				<target>初始無護盾的艦艇</target></segment>
+		</unit>
+		<unit id="Status_DoubleMissiles">
+			<segment state="translated">
+				<source>craft starting with double payload</source>
+				<target>初始彈藥加倍的艦艇</target></segment>
+		</unit>
+		<unit id="Status_HalfMissiles">
+			<segment state="translated">
+				<source>craft starting with half payload</source>
+				<target>初始彈藥減半的艦艇</target></segment>
+		</unit>
+		<unit id="Status_HalfShieldsNoCharging">
+			<segment state="translated">
+				<source>craft starting with half, non-charging shields</source>
+				<target>初始護盾減半且不充能的艦艇</target></segment>
+		</unit>
+		<unit id="Status_HyperdriveAdded">
+			<segment state="translated">
+				<source>craft with added hyperdrive</source>
+				<target>加裝超空間引擎的艦艇</target></segment>
+		</unit>
+		<unit id="Status_NoHyperdrive">
+			<segment state="translated">
+				<source>craft starting with no hyperdrive</source>
+				<target>初始無超空間引擎的艦艇</target></segment>
+		</unit>
+		<unit id="Status_NoMissiles">
+			<segment state="translated">
+				<source>craft starting with no payload</source>
+				<target>初始無彈藥的艦艇</target></segment>
+		</unit>
+		<unit id="Status_NoTurrets">
+			<segment state="translated">
+				<source>craft starting with no turrets</source>
+				<target>初始無砲塔的艦艇</target></segment>
+		</unit>
+		<unit id="Status_ShieldAdded">
+			<segment state="translated">
+				<source>craft with added shields</source>
+				<target>加裝護盾的艦艇</target></segment>
+		</unit>
+		<unit id="Status_ShieldToZero">
+			<segment state="translated">
+				<source>craft starting with depleted shields</source>
+				<target>初始護盾耗盡的艦艇</target></segment>
+		</unit>
+		<unit id="Status_Fallback">
+			<notes>
+				<note>{status} = the status enum name</note>
+			</notes>
+			<segment state="translated">
+				<source>craft with status '{status}'</source>
+				<target>狀態為「{status}」的艦艇</target></segment>
+		</unit>
+
+		<!-- CraftWhen descriptions -->
+		<unit id="CraftWhen_CAPTURED">
+			<segment state="translated">
+				<source>craft that have been captured</source>
+				<target>已被俘獲的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_PLAYER_CRAFT">
+			<segment state="translated">
+				<source>player craft</source>
+				<target>玩家艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_SPECIAL_CRAFT">
+			<segment state="translated">
+				<source>special craft</source>
+				<target>特殊艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_NONPLAYER_CRAFT">
+			<segment state="translated">
+				<source>non-player craft</source>
+				<target>非玩家艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_ANY_HULL_DAMAGE">
+			<segment state="translated">
+				<source>craft that have taken hull damage</source>
+				<target>船體受損的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_ATTACKED">
+			<segment state="translated">
+				<source>craft that have been attacked</source>
+				<target>遭到攻擊的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_INSPECTED">
+			<segment state="translated">
+				<source>craft that have been inspected</source>
+				<target>已被識別的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_DISABLED">
+			<segment state="translated">
+				<source>craft that have been disabled</source>
+				<target>已被癱瘓的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_FINISHED_BEING_BOARDED">
+			<segment state="translated">
+				<source>craft that have finished being boarded</source>
+				<target>登艦作業已完成的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_FINISHED_DOCKING">
+			<segment state="translated">
+				<source>craft that have finished docking</source>
+				<target>已完成對接的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_HULL_25PERCENT">
+			<segment state="translated">
+				<source>craft that have 25% hull remaining</source>
+				<target>船體剩 25% 的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_HULL_50PERCENT">
+			<segment state="translated">
+				<source>craft that have 50% hull remaining</source>
+				<target>船體剩 50% 的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_HULL_75PERCENT">
+			<segment state="translated">
+				<source>craft that have 75% hull remaining</source>
+				<target>船體剩 75% 的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_OUT_OF_WARHEADS">
+			<segment state="translated">
+				<source>craft that have run out of warheads</source>
+				<target>彈頭已耗盡的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_NOT_ATTACKED">
+			<segment state="translated">
+				<source>craft that have not been attacked</source>
+				<target>未遭攻擊的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_NOT_INSPECTED">
+			<segment state="translated">
+				<source>craft that have not been inspected</source>
+				<target>未被識別的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_NOT_DISABLED">
+			<segment state="translated">
+				<source>craft that have not been disabled</source>
+				<target>未被癱瘓的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_NOT_FINISHED_BEING_BOARDED">
+			<segment state="translated">
+				<source>craft that have not finished being boarded</source>
+				<target>登艦作業未完成的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_NOT_FINISHED_DOCKING">
+			<segment state="translated">
+				<source>craft that have not finished docking</source>
+				<target>尚未完成對接的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_NONSPECIAL_CRAFT">
+			<segment state="translated">
+				<source>craft that are not special</source>
+				<target>非特殊艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_NOT_CAPTURED">
+			<segment state="translated">
+				<source>craft that are not captured</source>
+				<target>未被俘獲的艦艇</target></segment>
+		</unit>
+		<unit id="CraftWhen_Fallback">
+			<notes>
+				<note>{situation} = the enum name</note>
+			</notes>
+			<segment state="translated">
+				<source>craft that are '{situation}'</source>
+				<target>處於「{situation}」狀態的艦艇</target></segment>
+		</unit>
+
+		<!-- Order descriptions -->
+		<unit id="Order_AttackAll">
+			<segment state="translated">
+				<source>attacking craft</source>
+				<target>攻擊中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_AttackPrimaryAndSecondaryTargets">
+			<segment state="translated">
+				<source>attacking craft</source>
+				<target>攻擊中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_AttackEscorts">
+			<segment state="translated">
+				<source>escort-attacking craft</source>
+				<target>攻擊護航機的艦艇</target></segment>
+		</unit>
+		<unit id="Order_AttackFreightersAndCorvettes">
+			<segment state="translated">
+				<source>freighter/corvette-attacking craft</source>
+				<target>攻擊貨船／護衛艦的艦艇</target></segment>
+		</unit>
+		<unit id="Order_AttackStarships">
+			<segment state="translated">
+				<source>starship-attacking craft</source>
+				<target>攻擊星艦的艦艇</target></segment>
+		</unit>
+		<unit id="Order_AttackTransports">
+			<segment state="translated">
+				<source>transport-attacking craft</source>
+				<target>攻擊運輸艦的艦艇</target></segment>
+		</unit>
+		<unit id="Order_AwaitBoarding">
+			<segment state="translated">
+				<source>craft awaiting boarding</source>
+				<target>等待登艦的艦艇</target></segment>
+		</unit>
+		<unit id="Order_BoardToCapture">
+			<segment state="translated">
+				<source>capturing craft</source>
+				<target>執行俘獲的艦艇</target></segment>
+		</unit>
+		<unit id="Order_BoardToDeliver">
+			<segment state="translated">
+				<source>cargo-delivering craft</source>
+				<target>運送貨物的艦艇</target></segment>
+		</unit>
+		<unit id="Order_BoardToDestroy">
+			<segment state="translated">
+				<source>cargo-destroying craft</source>
+				<target>摧毀貨物的艦艇</target></segment>
+		</unit>
+		<unit id="Order_BoardToExchange">
+			<segment state="translated">
+				<source>cargo-exchanging craft</source>
+				<target>交換貨物的艦艇</target></segment>
+		</unit>
+		<unit id="Order_BoardToPickup">
+			<segment state="translated">
+				<source>picking-up craft</source>
+				<target>執行接運的艦艇</target></segment>
+		</unit>
+		<unit id="Order_BoardToRepair">
+			<segment state="translated">
+				<source>repairing craft</source>
+				<target>執行維修的艦艇</target></segment>
+		</unit>
+		<unit id="Order_BoardToTake">
+			<segment state="translated">
+				<source>cargo-taking craft</source>
+				<target>奪取貨物的艦艇</target></segment>
+		</unit>
+		<unit id="Order_CircleAndEvade">
+			<segment state="translated">
+				<source>patrolling craft</source>
+				<target>巡邏中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_CircleAndIgnore">
+			<segment state="translated">
+				<source>patrolling craft</source>
+				<target>巡邏中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_CloseEscort">
+			<segment state="translated">
+				<source>escorting craft</source>
+				<target>護航中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_LooseEscort">
+			<segment state="translated">
+				<source>escorting craft</source>
+				<target>護航中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_DisableAll">
+			<segment state="translated">
+				<source>disabling craft</source>
+				<target>執行癱瘓的艦艇</target></segment>
+		</unit>
+		<unit id="Order_DisablePrimaryAndSecondaryTargets">
+			<segment state="translated">
+				<source>disabling craft</source>
+				<target>執行癱瘓的艦艇</target></segment>
+		</unit>
+		<unit id="Order_DisableFreightersAndCorvettes">
+			<segment state="translated">
+				<source>craft disabling freighters/corvettes</source>
+				<target>癱瘓貨船／護衛艦的艦艇</target></segment>
+		</unit>
+		<unit id="Order_DisableTransports">
+			<segment state="translated">
+				<source>craft disabling transports</source>
+				<target>癱瘓運輸艦的艦艇</target></segment>
+		</unit>
+		<unit id="Order_DisableStarships">
+			<segment state="translated">
+				<source>craft disabling starships</source>
+				<target>癱瘓星艦的艦艇</target></segment>
+		</unit>
+		<unit id="Order_DropOffCraft">
+			<segment state="translated">
+				<source>dropping craft</source>
+				<target>執行投放的艦艇</target></segment>
+		</unit>
+		<unit id="Order_FlyHome">
+			<segment state="translated">
+				<source>craft flying home</source>
+				<target>返航中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_FlyOnceAndEvade">
+			<segment state="translated">
+				<source>craft en route</source>
+				<target>航行中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_FlyOnceAndIgnore">
+			<segment state="translated">
+				<source>craft en route</source>
+				<target>航行中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_HoldSteady">
+			<segment state="translated">
+				<source>craft holding steady</source>
+				<target>原地待命的艦艇</target></segment>
+		</unit>
+		<unit id="Order_ProtectTargets">
+			<segment state="translated">
+				<source>protecting craft</source>
+				<target>執行保護的艦艇</target></segment>
+		</unit>
+		<unit id="Order_Rendezvous">
+			<segment state="translated">
+				<source>craft rendezvousing</source>
+				<target>前往會合的艦艇</target></segment>
+		</unit>
+		<unit id="Order_StarshipAwaitArrival">
+			<segment state="translated">
+				<source>starships awaiting arrivals</source>
+				<target>等待艦艇抵達的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipAwaitBoarding">
+			<segment state="translated">
+				<source>starships awaiting boardings</source>
+				<target>等待登艦的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipAwaitLaunch">
+			<segment state="translated">
+				<source>starships awaiting launches</source>
+				<target>等待艦艇出擊的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipAwaitReturn">
+			<segment state="translated">
+				<source>starships awaiting returns</source>
+				<target>等待艦艇返回的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipCircle">
+			<segment state="translated">
+				<source>patrolling starships</source>
+				<target>巡邏中的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipFlyHome">
+			<segment state="translated">
+				<source>starships flying home</source>
+				<target>返航中的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipFlyOnce">
+			<segment state="translated">
+				<source>starships en route</source>
+				<target>航行中的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipLookingToBoard">
+			<segment state="translated">
+				<source>starships looking to board</source>
+				<target>準備登艦的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipPatrolAttack">
+			<segment state="translated">
+				<source>starships patrolling for attack</source>
+				<target>執行攻擊巡邏的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipPatrolDisable">
+			<segment state="translated">
+				<source>starships patrolling for disable</source>
+				<target>執行癱瘓巡邏的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipProtect">
+			<segment state="translated">
+				<source>starships protecting</source>
+				<target>執行保護的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipSitAndFire">
+			<segment state="translated">
+				<source>starships holding station</source>
+				<target>固守陣位的星艦</target></segment>
+		</unit>
+		<unit id="Order_StarshipWaitProtect">
+			<segment state="translated">
+				<source>starships waiting to protect</source>
+				<target>待命保護的星艦</target></segment>
+		</unit>
+		<unit id="Order_TimedWait">
+			<segment state="translated">
+				<source>craft waiting</source>
+				<target>等待中的艦艇</target></segment>
+		</unit>
+		<unit id="Order_Fallback">
+			<notes>
+				<note>{order} = the order enum name</note>
+			</notes>
+			<segment state="translated">
+				<source>craft with '{order}' orders</source>
+				<target>執行「{order}」命令的艦艇</target></segment>
+		</unit>
+
+		<!-- AI Skill -->
+		<unit id="AiSkill_Format">
+			<notes>
+				<note>{skill} = the AI skill enum name</note>
+			</notes>
+			<segment state="translated">
+				<source>{skill} craft</source>
+				<target>{skill} 艦艇</target></segment>
+		</unit>
+
+		<!-- Global Group fallback -->
+		<unit id="GlobalGroup_Nothing">
+			<segment state="translated">
+				<source>nothing</source>
+				<target>無</target></segment>
+		</unit>
+
+		<!-- Not yet implemented -->
+		<unit id="NotYetImplemented">
+			<segment state="translated">
+				<source>!!Not Yet Implemented!!</source>
+				<target>!!尚未實作!!</target></segment>
+		</unit>
+
+		<!-- ==================== SPECIAL MISSION GOALS ==================== -->
+		<unit id="PpgGoal_CrossGates">
+			<notes>
+				<note>{gatesLeft} = number of gates remaining</note>
+			</notes>
+			<segment state="translated">
+				<source>Cross {gatesLeft} more gates.</source>
+				<target>再通過 {gatesLeft} 道閘門。</target></segment>
+		</unit>
+		<unit id="PpgGoal_Failed">
+			<segment state="translated">
+				<source>Failed!</source>
+				<target>失敗！</target></segment>
+		</unit>
+		<unit id="DsGoal_DestroyExhaustPort_Unresolved">
+			<segment state="translated">
+				<source>You must Destroy the Exhaust Port.</source>
+				<target>你必須摧毀排氣口。</target></segment>
+		</unit>
+		<unit id="DsGoal_DestroyExhaustPort_Passed">
+			<segment state="translated">
+				<source>You did Destroy the Exhaust Port.</source>
+				<target>你已摧毀排氣口。</target></segment>
+		</unit>
+		<unit id="DsGoal_DestroyLaserTowers_Unresolved">
+			<segment state="translated">
+				<source>You must destroy the Laser Towers.</source>
+				<target>你必須摧毀雷射塔。</target></segment>
+		</unit>
+		<unit id="DsGoal_DestroyLaserTowers_Passed">
+			<segment state="translated">
+				<source>You did Destroy the Laser Towers.</source>
+				<target>你已摧毀雷射塔。</target></segment>
+		</unit>
+		<unit id="TimeLimitGoal_Remaining">
+			<notes>
+				<note>{minutes} and {seconds} are formatted time</note>
+			</notes>
+			<segment state="translated">
+				<source>Time remaining: {minutes}:{seconds}</source>
+				<target>剩餘時間：{minutes}:{seconds}</target></segment>
+		</unit>
+		<unit id="TimeLimitGoal_Expired">
+			<segment state="translated">
+				<source>Mission time expired</source>
+				<target>任務時間已到</target></segment>
+		</unit>
+	</file>
+</xliff>

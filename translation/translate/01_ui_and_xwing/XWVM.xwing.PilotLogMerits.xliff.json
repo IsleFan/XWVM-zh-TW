@@ -1,0 +1,531 @@
+{
+  "format": "xwvm-translation-workspace-v1",
+  "native_format": "xliff2",
+  "source_file": "XLIFF/es/XWVM.xwing.PilotLogMerits_es.xliff",
+  "target_locale": "zh-TW",
+  "instructions": "只編輯 target_zh_TW 與 translator_note。空白 target 匯出時保留英文；這份 JSON 不是遊戲原生格式。",
+  "entries": [
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.ExitButton.Label::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.ExitButton.Label",
+      "segment_index": 0,
+      "source": "Exit Pilot Log",
+      "target_zh_TW": "離開飛行員日誌",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.ExitButton.Label",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotUniform.ExitButton.Label::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotUniform.ExitButton.Label",
+      "segment_index": 0,
+      "source": "Exit Uniform and Medals",
+      "target_zh_TW": "離開制服與勳章",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotUniform.ExitButton.Label",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.CompletedTrainingTitle::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.CompletedTrainingTitle",
+      "segment_index": 0,
+      "source": "Completed Training Levels",
+      "target_zh_TW": "已完成的訓練關卡",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.CompletedTrainingTitle",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.Generic.ContinuedBrackets::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.Generic.ContinuedBrackets",
+      "segment_index": 0,
+      "source": "(Continued)",
+      "target_zh_TW": "（續）",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.Generic.ContinuedBrackets",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::Scores.MissionHighScoreRecordRow::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "Scores.MissionHighScoreRecordRow",
+      "segment_index": 0,
+      "source": "[[{pilotName}]]|((Score [[{score}]]|Kills [[{kills}]]))",
+      "target_zh_TW": "[[{pilotName}]]|((分數 [[{score}]]|擊殺 [[{kills}]]))",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / Scores.MissionHighScoreRecordRow",
+      "notes": [
+        "[[, ]], ((, and )) denote color highlights. | denote a separation."
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::Scores.HighScoreTitle::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "Scores.HighScoreTitle",
+      "segment_index": 0,
+      "source": "High Scores",
+      "target_zh_TW": "最高分",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / Scores.HighScoreTitle",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::Scores.NoHighScoresAvailable::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "Scores.NoHighScoresAvailable",
+      "segment_index": 0,
+      "source": "No High Scores",
+      "target_zh_TW": "尚無最高分紀錄",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / Scores.NoHighScoresAvailable",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::Scores.TrainingHighScoreRecordRow::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "Scores.TrainingHighScoreRecordRow",
+      "segment_index": 0,
+      "source": "[[{pilotName}]]|((Score [[{score}]]|Level [[{level}]]))",
+      "target_zh_TW": "[[{pilotName}]]|((分數 [[{score}]]|關卡 [[{level}]]))",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / Scores.TrainingHighScoreRecordRow",
+      "notes": [
+        "[[, ]], ((, and )) denote color highlights. | denote a separation."
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::AwardType.TourMedal::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "AwardType.TourMedal",
+      "segment_index": 0,
+      "source": "Tour Medal",
+      "target_zh_TW": "服役期勳章",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / AwardType.TourMedal",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::AwardType.HistoricalFlightPatch::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "AwardType.HistoricalFlightPatch",
+      "segment_index": 0,
+      "source": "Historical Flight Patch",
+      "target_zh_TW": "歷史飛行臂章",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / AwardType.HistoricalFlightPatch",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::AwardType.TourRibbon::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "AwardType.TourRibbon",
+      "segment_index": 0,
+      "source": "Tour Ribbon",
+      "target_zh_TW": "服役期綬帶",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / AwardType.TourRibbon",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::AwardType.Kalidor::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "AwardType.Kalidor",
+      "segment_index": 0,
+      "source": "Kalidor Crescent",
+      "target_zh_TW": "卡利多新月勳章",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / AwardType.Kalidor",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::AwardType.FlightBadge::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "AwardType.FlightBadge",
+      "segment_index": 0,
+      "source": "Flight Badge",
+      "target_zh_TW": "飛行徽章",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / AwardType.FlightBadge",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TitleLine1::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TitleLine1",
+      "segment_index": 0,
+      "source": "(*{pilotRank}*) {pilotName}",
+      "target_zh_TW": "{pilotName} (*{pilotRank}*)",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TitleLine1",
+      "notes": [
+        "The (* and *) represent highlight in bold."
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TitleLine2::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TitleLine2",
+      "segment_index": 0,
+      "source": "(*{pilotStatus}*) with (*[[{score}]]*) Tour of Duty points",
+      "target_zh_TW": "(*{pilotStatus}*)，服役期積分 (*[[{score}]]*) 分",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TitleLine2",
+      "notes": [
+        "The (* and *) represent highlight in bold. [[ and ]] represent highlight in white."
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.PpgNoLevelsCompleted::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.PpgNoLevelsCompleted",
+      "segment_index": 0,
+      "source": "{species.ONE} has not completed any levels",
+      "target_zh_TW": "{species.ONE}尚未完成任何關卡",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.PpgNoLevelsCompleted",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.PpgLevelsCompleted::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.PpgLevelsCompleted",
+      "segment_index": 0,
+      "source": "{species.ONE} has completed level (({level}))",
+      "target_zh_TW": "{species.ONE}已完成第 (({level})) 關",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.PpgLevelsCompleted",
+      "notes": [
+        "(( and )) represent highlight in white."
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.PpgNoTrainingCompleted::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.PpgNoTrainingCompleted",
+      "segment_index": 0,
+      "source": "No training levels completed.",
+      "target_zh_TW": "尚未完成任何訓練關卡。",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.PpgNoTrainingCompleted",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TrainingBestScoresTitle::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TrainingBestScoresTitle",
+      "segment_index": 0,
+      "source": "Training Best Scores",
+      "target_zh_TW": "訓練最佳分數",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TrainingBestScoresTitle",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TrainingBestScoreEntry::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TrainingBestScoreEntry",
+      "segment_index": 0,
+      "source": "{species.ONE} has a best score of (({score}))",
+      "target_zh_TW": "{species.ONE}的最佳分數為 (({score}))",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TrainingBestScoreEntry",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.PageOfPages::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.PageOfPages",
+      "segment_index": 0,
+      "source": "Page {page} of {total}",
+      "target_zh_TW": "第 {page} 頁，共 {total} 頁",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.PageOfPages",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.HistoricBestScoresTitle::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.HistoricBestScoresTitle",
+      "segment_index": 0,
+      "source": "Best Scores for Historic Combat Mission:",
+      "target_zh_TW": "歷史戰役任務最佳分數：",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.HistoricBestScoresTitle",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.HistoricBestScoresEntry::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.HistoricBestScoresEntry",
+      "segment_index": 0,
+      "source": "Mission (({mission})) with (({score})) points",
+      "target_zh_TW": "任務 (({mission}))：(({score})) 分",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.HistoricBestScoresEntry",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.CompletionRange::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.CompletionRange",
+      "segment_index": 0,
+      "source": "{collection} (Completed {range})",
+      "target_zh_TW": "{collection}（已完成：{range}）",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.CompletionRange",
+      "notes": [
+        "\n\t\t\t\tThe {collection} variable contains the name of the mission collection, such as \"Y-wing Historical Missions\"\n\t\t\t\tThe {range} variable will look like \"1, 3, 5-10\" and indicates which missions in the collection have been completed.\n\t\t\t\tIf no mission has been completed, then the {range} variable will contain the text in the PilotLog.Stats.NoCompletion string below.\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.NoCompletion::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.NoCompletion",
+      "segment_index": 0,
+      "source": "none",
+      "target_zh_TW": "無",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.NoCompletion",
+      "notes": [
+        "\n\t\t\t\tThis makes reference to no mission in a collection having being completed. \n\t\t\t\tIt will appear as the {range} variable in the PilotLog.Stats.CompletionRange string above.\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TodSpaceVictoriesTitle::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TodSpaceVictoriesTitle",
+      "segment_index": 0,
+      "source": "TOD Space Victories (Captured): [[{kills} ({captures})]]",
+      "target_zh_TW": "服役期太空擊毀數（俘獲）：[[{kills} ({captures})]]",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TodSpaceVictoriesTitle",
+      "notes": [
+        "\n\t\t\t\t[[ and ]] is color highlight\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TodSurfaceVictories::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TodSurfaceVictories",
+      "segment_index": 0,
+      "source": "TOD Surface Victories: [[{kills}]]",
+      "target_zh_TW": "服役期地面擊毀數：[[{kills}]]",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TodSurfaceVictories",
+      "notes": [
+        "\n\t\t\t\t[[ and ]] is color highlight\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TodLasersFired::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TodLasersFired",
+      "segment_index": 0,
+      "source": "TOD Lasers Fired: [[{fired}]]",
+      "target_zh_TW": "服役期雷射發射數：[[{fired}]]",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TodLasersFired",
+      "notes": [
+        "\n\t\t\t\t[[ and ]] is color highlight\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.CraftHits::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.CraftHits",
+      "segment_index": 0,
+      "source": "Craft Hits: [[{hits} ({percent}%)]]",
+      "target_zh_TW": "命中艦艇：[[{hits} ({percent}%)]]",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.CraftHits",
+      "notes": [
+        "\n\t\t\t\t[[ and ]] is color highlight\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.GroundHits::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.GroundHits",
+      "segment_index": 0,
+      "source": "Ground Hits: [[{hits} ({percent}%)]]",
+      "target_zh_TW": "命中地面：[[{hits} ({percent}%)]]",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.GroundHits",
+      "notes": [
+        "\n\t\t\t\t[[ and ]] is color highlight\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TodProjectilesFired::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TodProjectilesFired",
+      "segment_index": 0,
+      "source": "TOD Homing Projectiles Fired: [[{fired}]]",
+      "target_zh_TW": "服役期導引彈頭發射數：[[{fired}]]",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TodProjectilesFired",
+      "notes": [
+        "\n\t\t\t\t[[ and ]] is color highlight\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TodCraftLost::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TodCraftLost",
+      "segment_index": 0,
+      "source": "TOD Craft Lost: [[{lost}]]",
+      "target_zh_TW": "服役期艦艇損失：[[{lost}]]",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TodCraftLost",
+      "notes": [
+        "\n\t\t\t\t[[ and ]] is color highlight\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.TodTourDetails::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.TodTourDetails",
+      "segment_index": 0,
+      "source": "Tour [[{tour}]] is {finished:cond:Complete|In Progress}",
+      "target_zh_TW": "第 [[{tour}]] 服役期{finished:cond:已完成|進行中}",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.TodTourDetails",
+      "notes": [
+        "\n\t\t\t\t[[ and ]] is color highlight\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.OperationScoresTitle::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.OperationScoresTitle",
+      "segment_index": 0,
+      "source": "Scores for each Operation:",
+      "target_zh_TW": "各作戰分數：",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.OperationScoresTitle",
+      "notes": [],
+      "requires_translation": true,
+      "translator_note": ""
+    },
+    {
+      "id": "XWVM.xwing.PilotLogMerits.xliff::XWVM.xwing.PilotLogMerits::PilotLog.Stats.OperationScoresEntry::segment-1",
+      "file_index": 0,
+      "file_id": "XWVM.xwing.PilotLogMerits",
+      "unit_id": "PilotLog.Stats.OperationScoresEntry",
+      "segment_index": 0,
+      "source": "Operation [[{mission}]] with [[{score}]] Points",
+      "target_zh_TW": "作戰 [[{mission}]]：[[{score}]] 分",
+      "source_format": "text",
+      "context": "XWVM.xwing.PilotLogMerits / PilotLog.Stats.OperationScoresEntry",
+      "notes": [
+        "\n\t\t\t\t[[ and ]] is color highlight\n\t\t\t"
+      ],
+      "requires_translation": true,
+      "translator_note": ""
+    }
+  ]
+}

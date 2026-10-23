@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" trgLang="es">
+  <file id="XWVM.xwing.Tips" srcLang="en" trgLang="es">
+    <unit id="pressToContinue">
+      <segment state="translated">
+        <source>Press Fire to continue.</source>
+        <target>Pulsa Disparo para continuar.</target>
+      </segment>
+    </unit>
+      <unit id="tip_sfoils">
+      <segment state="translated">
+        <source>If your craft has s-foils, you won't be able to fire when they are closed.</source>
+        <target>Si tu nave tiene alas-s, no podrá disparar mientras estén cerradas.</target>
+      </segment>
+    </unit>
+      <unit id="tip_capitalShipDistance">
+      <segment state="translated">
+        <source>Keep your distance from enemy capital ships - their turrets can pack a punch.</source>
+        <target>Mantén las distancias con las naves capitales enemigas: sus torretas pueden hacer bastante daño.</target>
+      </segment>
+    </unit>
+      <unit id="tip_powerLevels">
+      <segment state="translated">
+        <source>Maintain your power levels to maximise damage done by your lasers.</source>
+        <target>Mantén tus niveles de energía para maximizar el daño que hacen tus láseres.</target>
+      </segment>
+    </unit>
+      <unit id="tip_rotateShields">
+      <segment state="translated">
+        <source>Rotate your shields to face the enemy for maximum protection.</source>
+        <target>Orienta tus escudos en la dirección del enemigo para mayor protección.</target>
+      </segment>
+    </unit>
+      <unit id="tip_prioritiseObjectives">
+      <segment state="translated">
+        <source>Prioritise your mission objectives carefully - sometimes, blowing stuff up &lt;b&gt;isn't&lt;/b&gt; the answer.</source>
+        <target>Prioriza los objetivos de la misión cuidadosamente: a veces destruir cosas &lt;b&gt;no es&lt;/b&gt; la respuesta.</target>
+      </segment>
+    </unit>
+      <unit id="tip_wingmenOrders">
+      <segment state="translated">
+        <source>Issue orders to your wingmen to maximise their effectiveness.</source>
+        <target>Transmite órdenes a tus compañeros de ala para maximizar su eficacia.</target>
+      </segment>
+    </unit>
+      <unit id="tip_linkWeapons">
+      <segment state="translated">
+        <source>Try linking your weapons together to increase your firepower.</source>
+        <target>Prueba a vincular tus armas entre sí para aumentar tu potencia de fuego.</target>
+      </segment>
+    </unit>
+      <unit id="tip_tieSpeeds">
+      <segment state="translated">
+        <source>Most TIEs are fast, but unshielded - use this to your advantage.</source>
+        <target>La mayoría de los TIEs son veloces pero no tienen escudos: saca ventaja de ello.</target>
+      </segment>
+    </unit>
+      <unit id="tip_inflightMap">
+      <segment state="translated">
+        <source>The inflight map can provide vital information about your mission objectives.</source>
+        <target>El mapa de vuelo puede proporcionar información vital acerca de los objetivos de la misión.</target>
+      </segment>
+    </unit>
+      <unit id="tip_pilotProvingGround">
+      <segment state="translated">
+        <source>The &lt;b&gt;Pilot Proving Ground&lt;/b&gt; provides an opportunity to hone flying skills for new and experienced pilots alike.</source>
+        <target>El &lt;b&gt;Campo de Pruebas de Pilotos&lt;/b&gt; da la oportunidad de mejorar las habilidades de vuelo a pilotos nuevos y experimentados por igual.</target>
+      </segment>
+    </unit>
+      <unit id="tip_repairPriority">
+      <segment state="translated">
+        <source>Only one system on your craft can be repaired at any one time, so prioritise your systems carefully.</source>
+        <target>Tan sólo un sistema de tu nave puede repararse a la vez, así que prioriza con cuidado los sistemas.</target>
+      </segment>
+    </unit>
+      <unit id="tip_wreckageCollision">
+      <segment state="translated">
+        <source>Be careful not to collide with the wreckage of any destroyed ships - you can still take damage.</source>
+        <target>Cuidado con colisionar con los restos de naves destruidas. Pueden hacer daño.</target>
+      </segment>
+    </unit>
+      <unit id="tip_historicalMissions">
+      <segment state="translated">
+        <source>Hone your combat skills by flying &lt;b&gt;Historical Missions&lt;/b&gt;.</source>
+        <target>Perfecciona tus habilidades de combate volando &lt;b&gt;Misiones Históricas&lt;/b&gt;.</target>
+      </segment>
+    </unit>
+      <unit id="tip_scopes">
+      <segment state="translated">
+        <source>Use your scopes to maintain awareness of other craft on the battlefield.</source>
+        <target>Utiliza tus radares para tener presente dónde hay otras naves en la zona de combate.</target>
+      </segment>
+    </unit>
+      <unit id="tip_wotanWeave">
+      <segment state="translated">
+        <source>The &lt;b&gt;Wotan Weave&lt;/b&gt; is favoured by many pilots to escape from a tricky situation.</source>
+        <target>El &lt;b&gt;Zigzag Wotan&lt;/b&gt; es la opción predilecta de muchos pilotos para escapar de situaciones comprometidas.</target>
+      </segment>
+    </unit>
+      <unit id="tip_ejection">
+      <segment state="translated">
+        <source>Ejecting near some types of enemy ship is likely to result in your capture.</source>
+        <target>Eyectarse cerca de ciertos tipos de naves enemigas es una invitación directa a que te capturen.</target>
+      </segment>
+    </unit>
+      <unit id="tip_hyperspace">
+      <segment state="translated">
+        <source>Plotting a hyperspace course takes a few seconds - don't leave yourself vulnerable during the jump.</source>
+        <target>Calcular una ruta hiperespacial lleva unos segundos; no te quedes vendido mientras preparas el salto.</target>
+      </segment>
+    </unit>
+      <unit id="tip_moveLeft">
+      <segment state="translated">
+        <source>Despite what some pilots claim, moving slightly to the left is not a good evasive manoeuvre.</source>
+        <target>Pese a lo que digan algunos novatos, 'moverse un poquito a la izquierda' no cuenta como maniobra de evasión.</target>
+      </segment>
+    </unit>
+      <unit id="tip_stayFast">
+      <segment state="translated">
+        <source>Staying fast is key to staying alive. Manage your power settings carefully to ensure you have enough engine power.</source>
+        <target>Mantener la velocidad es la clave para seguir vivo. Gestiona bien la energía para no quedarte sin empuje en los motores.</target>
+      </segment>
+    </unit>
+      <unit id="tip_powerEngines">
+      <segment state="translated">
+        <source>At increased laser and shield power levels, less power is available for your engines.</source>
+        <target>Si subes la potencia a los láseres y escudos, recuerda que tus motores se quedarán cortos.</target>
+      </segment>
+    </unit>
+      <unit id="tip_starDestroyers">
+      <segment state="translated">
+        <source>Star Destroyers are formidable in battle, but have weak spots that can be exploited.</source>
+        <target>Los Destructores Estelares son auténticas bestias en combate, pero todos tienen puntos flacos si sabes dónde buscar.</target>
+      </segment>
+    </unit>
+      <unit id="tip_anticipateMovement">
+      <segment state="translated">
+        <source>Anticipate your enemies' movement and aim accordingly for maximum accuracy.</source>
+        <target>Anticípate al movimiento del enemigo y apunta &lt;b&gt;donde va a estar&lt;/b&gt;; solo así tendrás precisión máxima.</target>
+      </segment>
+    </unit>
+      <unit id="tip_transferLaserToShields">
+      <segment state="translated">
+        <source>Transfer laser energy to your shields for extra protection during a fight.</source>
+        <target>Pasa energía de los láseres a los escudos si necesitas un extra de protección en mitad de la refriega.</target>
+      </segment>
+    </unit>
+      <unit id="tip_transferShieldsToLaser">
+      <segment state="translated">
+        <source>Shield energy can be used to recharge your lasers during a battle.</source>
+        <target>También puedes usar la energía de los escudos para recargar tus láseres si te quedas seco en pleno combate.</target>
+      </segment>
+    </unit>
+      <unit id="tip_orderCoverMe">
+      <segment state="translated">
+        <source>If you get into trouble, order your wingmen to help you out.</source>
+        <target>Si te ves en un aprieto, ordena a tus compañeros de ala que te echen una mano.</target>
+      </segment>
+    </unit>
+      <unit id="tip_damageControl">
+      <segment state="translated">
+        <source>Check the repair order of your systems in the damage control screen.</source>
+        <target>Echa un ojo al orden de reparación de tus sistemas en la pantalla de control de daños.</target>
+      </segment>
+    </unit>
+      <unit id="tip_orderIgnore">
+      <segment state="translated">
+        <source>You can order your wingmen to ignore a target if needed.</source>
+        <target>Puedes ordenar a tus compañeros de ala que ignoren a un objetivo si la situación lo requiere.</target>
+      </segment>
+    </unit>
+      <unit id="tip_timeMultiplier">
+      <segment state="translated">
+        <source>Mission taking too long? You can accelerate time, but use it wisely.</source>
+        <target>¿Se alarga la misión? Puedes acelerar el tiempo, pero úsalo con cabeza.</target>
+      </segment>
+    </unit>
+      <unit id="tip_reinforcements">
+      <segment state="translated">
+        <source>If a mission is too difficult, call for reinforcements if available.</source>
+        <target>Si la cosa se pone demasiado fea, pide refuerzos si tienes apoyo disponible.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

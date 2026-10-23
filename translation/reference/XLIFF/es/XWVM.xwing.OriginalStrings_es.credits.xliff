@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="2.0" srcLang="en" trgLang="en" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="Credits.Block.0.Line.0">
+      <segment>
+        <source>Design and Project Management</source>
+        <target>Diseño y Gestión de Proyecto</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.0.Line.1">
+      <segment>
+        <source>Lawrence Holland and Edward Kilham</source>
+        <target>Lawrence Holland y Edward Kilham</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.1.Line.0">
+      <segment>
+        <source>3D Engine Programming</source>
+        <target>Programación del Motor 3D</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.1.Line.1">
+      <segment>
+        <source>Peter Lincroft</source>
+        <target>Peter Lincroft</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.2.Line.0">
+      <segment>
+        <source>Cinematic Engine Programming</source>
+        <target>Programación del Motor Cinematográfico</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.2.Line.1">
+      <segment>
+        <source>Edward Kilham</source>
+        <target>Edward Kilham</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.3.Line.0">
+      <segment>
+        <source>Mission AI Programming</source>
+        <target>Programación del Motor de Misiones/Inteligencia Artificial</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.3.Line.1">
+      <segment>
+        <source>Lawrence Holland</source>
+        <target>Lawrence Holland</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.4.Line.0">
+      <segment>
+        <source>Background Artwork</source>
+        <target>Ilustraciones de Fondos</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.4.Line.1">
+      <segment>
+        <source>Jon Knoles and Jim McLeod</source>
+        <target>Jon Knoles y Jim McLeod</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.5.Line.0">
+      <segment>
+        <source>3D Animation and Rendering</source>
+        <target>Animación y Renderizado en 3D</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.5.Line.1">
+      <segment>
+        <source>Martin Cameron</source>
+        <target>Martin Cameron</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.6.Line.0">
+      <segment>
+        <source>3D Flight Engine Models</source>
+        <target>Modelos del Motor de Vuelo en 3D</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.6.Line.1">
+      <segment>
+        <source>Wade Lady and Peter Lincroft</source>
+        <target>Wade Lady y Peter Lincroft</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.7.Line.0">
+      <segment>
+        <source>Additional 3D Models</source>
+        <target>Modelos 3D Adicionales</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.7.Line.1">
+      <segment>
+        <source>Jon Bell and Dan Colon</source>
+        <target>Jon Bell y Dan Colon</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.0">
+      <segment>
+        <source>Mission and Story Design</source>
+        <target>Diseño de Misiones e Historia</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.1">
+      <segment>
+        <source>David Maxwell, David Wessman,</source>
+        <target>David Maxwell, David Wessman,</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.2">
+      <segment>
+        <source>Kalani Streicher, Lawrence Holland,</source>
+        <target>Kalani Streicher, Lawrence Holland,</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.3">
+      <segment>
+        <source>Jon Knoles, Wayne Cline and</source>
+        <target>Jon Knoles, Wayne Cline y</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.4">
+      <segment>
+        <source>Peter Lincroft</source>
+        <target>Peter Lincroft</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.9.Line.0">
+      <segment>
+        <source>Theme Music</source>
+        <target>Música de Tema Principal</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.9.Line.1">
+      <segment>
+        <source>John Williams</source>
+        <target>John Williams</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.10.Line.0">
+      <segment>
+        <source>Additional Music and Orchestration</source>
+        <target>Música Adicional y Arreglos Orquestales</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.10.Line.1">
+      <segment>
+        <source>Peter McConnell, Michael Z. Land</source>
+        <target>Peter McConnell, Michael Z. Land</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.10.Line.2">
+      <segment>
+        <source>and Clint Bajakian</source>
+        <target>y Clint Bajakian</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.11.Line.0">
+      <segment>
+        <source>Sound Effects</source>
+        <target>Efectos de Sonido</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.11.Line.1">
+      <segment>
+        <source>Clint Bajakian, Robin Goldstein and</source>
+        <target>Clint Bajakian, Robin Goldstein y</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.11.Line.2">
+      <segment>
+        <source>Albert Mack</source>
+        <target>Albert Mack</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.12.Line.0">
+      <segment>
+        <source>Dialog Editing</source>
+        <target>Edición de Diálogo</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.12.Line.1">
+      <segment>
+        <source>Robin Goldstein</source>
+        <target>Robin Goldstein</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.13.Line.0">
+      <segment>
+        <source>CD Voice Production</source>
+        <target>Producción de Voz CD</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.13.Line.1">
+      <segment>
+        <source>Tamlynn Barra and Khris Brown</source>
+        <target>Tamlynn Barra y Khris Brown</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.14.Line.0">
+      <segment>
+        <source>CD Voice Actors</source>
+        <target>Actores de Voz del CD</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.14.Line.1">
+      <segment>
+        <source>Clive Revill as Dodonna</source>
+        <target>Clive Revill como Dodonna</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.14.Line.2">
+      <segment>
+        <source>Erik Bauersfeld as Ackbar</source>
+        <target>Erik Bauersfeld como Ackbar</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.14.Line.3">
+      <segment>
+        <source>Nick Jamison as Moff Tarkin</source>
+        <target>Nick Jamison como Moff Tarkin</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.15.Line.0">
+      <segment>
+        <source>iMUSE(tm) Electronic Music System</source>
+        <target>Sistema de Música Electrónica iMUSE(tm)</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.15.Line.1">
+      <segment>
+        <source>Michael Z. Land and Peter McConnell</source>
+        <target>Michael Z. Land y Peter McConnell</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.16.Line.0">
+      <segment>
+        <source>Producers</source>
+        <target>Productores</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.16.Line.1">
+      <segment>
+        <source>Kalani Streicher and Lawrence Holland</source>
+        <target>Kalani Streicher y Lawrence Holland</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.17.Line.0">
+      <segment>
+        <source>CD Producer</source>
+        <target>Productor del CD</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.17.Line.1">
+      <segment>
+        <source>Wayne Cline</source>
+        <target>Wayne Cline</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.18.Line.0">
+      <segment>
+        <source>Lead Testers</source>
+        <target>Directores de Pruebas</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.18.Line.1">
+      <segment>
+        <source>Dan Connors and Brian Kemp</source>
+        <target>Dan Connors y Brian Kemp</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.19.Line.0">
+      <segment>
+        <source>LucasArts QA Supervisor</source>
+        <target>Supervisor de Calidad de LucasArts</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.19.Line.1">
+      <segment>
+        <source>Mark Cartwright</source>
+        <target>Mark Cartwright</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.20.Line.0">
+      <segment>
+        <source>Compatibility Testing</source>
+        <target>Pruebas de Compatibilidad</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.20.Line.1">
+      <segment>
+        <source>Chip Hinnenberg and Doyle Gilstrap</source>
+        <target>Chip Hinnenberg y Doyle Gilstrap</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.21.Line.0">
+      <segment>
+        <source>Testers</source>
+        <target>Pruebas</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.21.Line.1">
+      <segment>
+        <source>Reed Derleth, Al Chen, Sean Matheis,</source>
+        <target>Reed Derleth, Al Chen, Sean Matheis,</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.21.Line.2">
+      <segment>
+        <source>William W. Burns, Leyton Chew and</source>
+        <target>William W. Burns, Leyton Chew y</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.21.Line.3">
+      <segment>
+        <source>Darren Johnson</source>
+        <target>Darren Johnson</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.22.Line.0">
+      <segment>
+        <source>Invaluable Support</source>
+        <target>Apoyo Inestimable</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.22.Line.1">
+      <segment>
+        <source>Heidi Gebhard, Yali Lin,</source>
+        <target>Heidi Gebhard, Yali Lin,</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.22.Line.2">
+      <segment>
+        <source>Robin Parker, Laurie Canfield,</source>
+        <target>Robin Parker, Laurie Canfield,</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.22.Line.3">
+      <segment>
+        <source>Debby McLeod and Heather Barclay</source>
+        <target>Debby McLeod y Heather Barclay</target>
+      </segment>
+    </unit>
+    <unit id="Credits.Block.23.Line.0">
+      <segment>
+        <source>Special Thanks to George Lucas</source>
+        <target>Agradecimientos Especiales a George Lucas</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.0.Line.0">
+      <segment>
+        <source>XWVM Programming</source>
+        <target>XWVM - Programación</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.0.Line.1">
+      <segment>
+        <source>Azrapse, DeZmond, Foonix,</source>
+        <target>Azrapse, DeZmond, Foonix,</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.0.Line.2">
+      <segment>
+        <source>Lardo, MajorParts, Rob</source>
+        <target>Lardo, MajorParts, Rob</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.0.Line.3">
+      <segment>
+        <source>and Zeratul</source>
+        <target>y Zeratul</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.1.Line.0">
+      <segment>
+        <source>XWVM Art and Music</source>
+        <target>XWVM - Arte y Música</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.1.Line.1">
+      <segment>
+        <source>Colin J, FekLeyrTarg, Ignat,</source>
+        <target>Colin J, FekLeyrTarg, Ignat,</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.1.Line.2">
+      <segment>
+        <source>Laserschwert, Jewskibot, Lardo,</source>
+        <target>Laserschwert, Jewskibot, Lardo,</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.1.Line.3">
+      <segment>
+        <source>Paul Weaver and TerryB</source>
+        <target>Paul Weaver y TerryB</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.2.Line.0">
+      <segment>
+        <source>XWVM Researchers and Testers</source>
+        <target>XWVM - Investigadores y Pruebas</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.2.Line.1">
+      <segment>
+        <source>Blazingfirestorm, Det. Bullock,</source>
+        <target>Blazingfirestorm, Det. Bullock,</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.2.Line.2">
+      <segment>
+        <source>J. King, Justagai, RandomStarfighter</source>
+        <target>J. King, Justagai, RandomStarfighter</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.2.Line.3">
+      <segment>
+        <source>and Rasi Talon</source>
+        <target>y Rasi Talon</target>
+      </segment>
+    </unit>    
+	<unit id="Credits.XWVM.3.Line.0">
+      <segment>
+        <source>XWVM Italian Translation</source>
+        <target>XWVM - Traducción al Italiano</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.3.Line.1">
+      <segment>
+        <source>Translation: Emanuele Granatello</source>
+        <target>Traducción: Emanuele Granatello</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.3.Line.2">
+      <segment>
+        <source>Proofreading: Fiorenzo Delle Rupi</source>
+        <target>Revisión: Fiorenzo Delle Rupi</target>
+      </segment>
+    </unit>
+	<unit id="Credits.XWVM.4.Line.0">
+      <segment>
+        <source>XWVM German Additional Translation</source>
+        <target>XWVM - Traducción Adicional al Alemán</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.4.Line.1">
+      <segment>
+        <source>FekLeyrTarg</source>
+        <target>FekLeyrTarg</target>
+      </segment>
+    </unit>
+	<unit id="Credits.XWVM.5.Line.0">
+      <segment>
+        <source>XWVM Spanish Translation</source>
+        <target>XWVM - Traducción al Castellano</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.5.Line.1">
+      <segment>
+        <source>Translation: Azrapse</source>
+        <target>Traducción: Azrapse</target>
+      </segment>
+    </unit>
+    <unit id="Credits.XWVM.5.Line.2">
+      <segment>
+        <source>Proofreading: Alkaryn Varyatar</source>
+        <target>Revisión: Alkaryn Varyatar</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

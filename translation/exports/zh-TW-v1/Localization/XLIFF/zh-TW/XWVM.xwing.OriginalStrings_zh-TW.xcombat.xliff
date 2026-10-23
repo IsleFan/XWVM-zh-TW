@@ -1,0 +1,1254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="MissionGroup.xcombat.Title">
+      <segment state="translated">
+        <source>X-Wing</source>
+        <target>X翼戰機</target></segment>
+    </unit>
+    <unit id="Mission.waistem.Title">
+      <segment state="translated">
+        <source>Dev's Sidestep</source>
+        <target>戴夫的側步閃避</target></segment>
+    </unit>
+    <unit id="Mission.waistem.Description">
+      <segment state="translated">
+        <source>In this mission you will
+learn to adjust your power
+configuration system, target
+the enemy and destroy 
+unarmed Imperial TIE Fighters
+and stationary Cargo ships.</source>
+        <target>在這次任務中，你將
+學會調整能量配置系統、
+鎖定敵人，並摧毀
+沒有武裝的
+帝國鈦戰機
+與靜止的貨船。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.1">
+      <segment state="translated">
+        <source>&gt;Dev's Sidestep</source>
+        <target>&gt;戴夫的側步閃避</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.2">
+      <segment state="translated">
+        <source>  Using the same holographic technology as in the [[Pilot's]] [[Proving Ground Courses]], the [[Historical Combat Simulations]] were designed to quickly and efficiently train new starfighter pilot recruits in actual combat tactics.  They are also used by experienced pilots to hone their skills and develop new tactics.  One  incredible story is of what happened to a young recruit named [[Dev ]]during his first run through the[[ "Maze"]].</source>
+        <target>  [[歷史戰役模擬]]採用與[[飛行員]][[試煉場賽道]]相同的全像技術，目的在於以實戰戰術快速而有效地訓練新招募的星際戰機飛行員。資深飛行員也會用它來磨練技術、研發新戰術。其中有一則不可思議的故事，主角是一位名叫[[戴夫]]的年輕新兵，事情發生在他第一次飛越[[「迷宮」]]的時候。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.3">
+      <segment state="translated">
+        <source>  Though it was Dev's first time on the course, he impressively cleared the first six gates with ease.  But then something unexpected happened.  As Dev banked his X-wing towards the next platform, he accidently jumped into hyperspace, emerging in the middle of an [[Imperial Training Ground]]!  Thinking it was part of the course, Dev started firing at the stationary Imperial starfighters.</source>
+        <target>  雖然這是戴夫第一次挑戰這條賽道，他卻輕鬆通過了前六道閘門，表現令人刮目相看。但接著意外發生了。戴夫駕駛X翼戰機轉向下一座平台時，不小心躍入了超空間，結果出現在一座[[帝國訓練場]]的正中央！他以為這也是賽道的一部分，便開始朝那些靜止不動的帝國星際戰機開火。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.4">
+      <segment state="translated">
+        <source>  Concentrating completely on destroying the Empire's hardware, it was some time before he noticed the message from his [[R2 unit]] indicating that he was in [[Imperial territory]] and should immediately hyperspace back to the Rebel Proving Ground.  Shocked and somewhat shaken, Dev managed to return safely home.$  Your mission is to destroy all of the Imperial craft in the area within [[15 minutes]].</source>
+        <target>  戴夫全神貫注地摧毀帝國的裝備，過了好一陣子才注意到[[R2 機器人]]傳來的訊息：他已身處[[帝國領域]]，應立即躍遷返回反抗軍試煉場。戴夫又驚又怕，最後總算平安回到家。$  你的任務是在 [[15 分鐘]]內摧毀該區域所有帝國艦艇。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.5">
+      <segment state="translated">
+        <source>recruits a taste of engaging Imperial fighter craft.$$Your mission is to destroy all Imperial starfighters within the given time limit.</source>
+        <target>讓新兵初嘗與帝國戰機交戰的滋味。$$你的任務是在時限內摧毀所有帝國星際戰機。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.6">
+      <segment state="translated">
+        <source>[[Red One]] will drop into an Imperial Training Area in the [[Senex System]].</source>
+        <target>[[紅色一號]]將躍入[[塞內克斯星系]]的一處帝國訓練區。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.7">
+      <segment state="translated">
+        <source>Use your forward and rear [[Sensors]] to quickly locate your enemy.</source>
+        <target>使用前方與後方[[感測器]]迅速找出敵人位置。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.8">
+      <segment state="translated">
+        <source>Use your [[Combat MultiView Display]] and [[Targeting System]] to track the enemy.</source>
+        <target>使用[[戰鬥多重顯示器]]與[[瞄準系統]]追蹤敵人。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.9">
+      <segment state="translated">
+        <source>Vary your [[speed]] and configure your [[power system]] for highest impact.</source>
+        <target>調整你的[[速度]]，並配置[[能量系統]]以發揮最大效果。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Text.10">
+      <segment state="translated">
+        <source>A variety of Imperial craft are in the area. Target the [[fighters]] first.</source>
+        <target>該區域有各式帝國艦艇。先鎖定[[戰機]]。</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.0">
+      <segment state="translated">
+        <source>X-W Red 1 (YOU)</source>
+        <target>X-W 紅色 1（你）</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.1">
+      <segment state="translated">
+        <source>TIE Interceptors</source>
+        <target>鈦攔截機</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.2">
+      <segment state="translated">
+        <source>TIE Fighters</source>
+        <target>鈦戰機</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.3">
+      <segment state="translated">
+        <source>TIE Bombers</source>
+        <target>鈦轟炸機</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.4">
+      <segment state="translated">
+        <source>Training Freighter</source>
+        <target>訓練用貨船</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.5">
+      <segment state="translated">
+        <source>Training Transports</source>
+        <target>訓練用運輸艦</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.6">
+      <segment state="translated">
+        <source>Container (Eqpt. Shed)</source>
+        <target>貨櫃（裝備棚）</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.Tag.7">
+      <segment state="translated">
+        <source>Senex</source>
+        <target>塞內克斯</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.0.Designation">
+      <segment state="translated">
+        <source>RED 1</source>
+        <target>紅色 1</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.1.Designation">
+      <segment state="translated">
+        <source>ALPHA 1</source>
+        <target>ALPHA 1</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.2.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.3.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.4.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.5.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.6.Designation">
+      <segment state="translated">
+        <source>OMEGA</source>
+        <target>OMEGA</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.7.Designation">
+      <segment state="translated">
+        <source>PHI</source>
+        <target>PHI</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.8.Designation">
+      <segment state="translated">
+        <source>ROUH</source>
+        <target>魯赫</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.9.Designation">
+      <segment state="translated">
+        <source>THETA</source>
+        <target>THETA</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.10.Designation">
+      <segment state="translated">
+        <source>ETA</source>
+        <target>ETA</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.11.Designation">
+      <segment state="translated">
+        <source>IOTA</source>
+        <target>IOTA</target></segment>
+    </unit>
+    <unit id="Briefing.waistem.FG.12.Designation">
+      <segment state="translated">
+        <source>ZETA</source>
+        <target>ZETA</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.0.Designation">
+      <segment state="translated">
+        <source>RED 1</source>
+        <target>紅色 1</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.1.Designation">
+      <segment state="translated">
+        <source>ALPHA 1</source>
+        <target>ALPHA 1</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.2.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.3.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.4.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.5.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.6.Designation">
+      <segment state="translated">
+        <source>OMEGA</source>
+        <target>OMEGA</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.7.Designation">
+      <segment state="translated">
+        <source>PHI</source>
+        <target>PHI</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.8.Designation">
+      <segment state="translated">
+        <source>ROUH</source>
+        <target>魯赫</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.9.Designation">
+      <segment state="translated">
+        <source>THETA</source>
+        <target>THETA</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.10.Designation">
+      <segment state="translated">
+        <source>ETA</source>
+        <target>ETA</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.11.Designation">
+      <segment state="translated">
+        <source>IOTA</source>
+        <target>IOTA</target></segment>
+    </unit>
+    <unit id="Mission.waistem.FG.12.Designation">
+      <segment state="translated">
+        <source>ZETA</source>
+        <target>ZETA</target></segment>
+    </unit>
+    <unit id="Mission.waistem.CompletionMessage.0">
+      <segment state="translated">
+        <source>Congratulations, Red One!</source>
+        <target>恭喜你，紅色一號！</target></segment>
+    </unit>
+    <unit id="Mission.waistem.CompletionMessage.1">
+      <segment state="translated">
+        <source>You have successfully destroyed all enemy targets!</source>
+        <target>你已成功摧毀所有敵方目標！</target></segment>
+    </unit>
+    <unit id="Mission.waistem.CompletionMessage.2">
+      <segment state="translated">
+        <source>Keep it up and continue with the next mission!</source>
+        <target>保持下去，繼續挑戰下一個任務！</target></segment>
+    </unit>
+    <unit id="Mission.max4.Title">
+      <segment state="translated">
+        <source>Wingmen Are Important</source>
+        <target>僚機很重要</target></segment>
+    </unit>
+    <unit id="Mission.max4.Description">
+      <segment state="translated">
+        <source>In this mission you will
+engage Imperial forces
+for the first time. You
+will learn the value of
+a wingman and the 
+importance of working
+as a fighter team.</source>
+        <target>在這次任務中，你將
+首次與帝國部隊交戰。
+你將學到
+僚機的價值，
+以及身為
+戰機小隊一員
+協同作戰的重要性。</target></segment>
+    </unit>
+    <unit id="Briefing.max4.Text.1">
+      <segment state="translated">
+        <source>&gt;Wingmen Are Important</source>
+        <target>&gt;僚機很重要</target></segment>
+    </unit>
+    <unit id="Briefing.max4.Text.2">
+      <segment state="translated">
+        <source>Stay close! You're responsible for his safety while he makes his attack.</source>
+        <target>跟緊！他發動攻擊時，你要負責保護他的安全。</target></segment>
+    </unit>
+    <unit id="Briefing.max4.Text.3">
+      <segment state="translated">
+        <source>Watch and learn as [[Red Leader ]]takes out TIE Fighters on point defense.</source>
+        <target>仔細觀察[[紅色隊長]]如何解決執行定點防禦的鈦戰機，從中學習。</target></segment>
+    </unit>
+    <unit id="Briefing.max4.Text.4">
+      <segment state="translated">
+        <source>  No one starts as[[ ]]a[[ Flight Leader]]. It takes dedication, practice and patience to become a great starfighter pilot.  Put in your time, study hard and practice as much as you can.  Soon, you will earn your place as a combat leader.$This mission pits you and your flight leader against a group of TIE fighters.  As a [[wingman]], protect your flight leader's back, stay close and learn from his experience.</source>
+        <target>  沒有人一開始[[ ]]就是[[長機]]。要成為一名出色的星際戰機飛行員，需要投入、練習與耐心。多花時間、用功學習，盡可能多加練習。很快地，你就能贏得戰鬥領隊的地位。$這次任務中，你和你的長機將對抗一群鈦戰機。身為[[僚機]]，你要掩護長機的背後、跟緊他，並從他的經驗中學習。</target></segment>
+    </unit>
+    <unit id="Briefing.max4.Text.5">
+      <segment state="translated">
+        <source>  Learning to function as a member of a team is the most important thing you can do to strengthen the [[Rebellion]].  All our strategy and tactics are founded on [[teamwork]].  It is this principle that allows the precision timing needed to conduct operations against a superior force. $  As you grow more confident you may wish to take the lead position and experiment with the [[wingman commands]].</source>
+        <target>  學會作為團隊的一員發揮作用，是你為壯大[[反抗軍]]所能做的最重要的事。我們所有的戰略與戰術都建立在[[團隊合作]]之上。正是這項原則，讓我們得以精準掌握時機，對抗實力更強的敵軍。 $  隨著信心增長，你或許會想擔任長機，試著運用[[僚機指令]]。</target></segment>
+    </unit>
+    <unit id="Briefing.max4.Tag.0">
+      <segment state="translated">
+        <source>X-W Red Leader</source>
+        <target>X-W 紅色隊長</target></segment>
+    </unit>
+    <unit id="Briefing.max4.Tag.1">
+      <segment state="translated">
+        <source>X-W Red 2 (YOU)</source>
+        <target>X-W 紅色 2（你）</target></segment>
+    </unit>
+    <unit id="Briefing.max4.Tag.2">
+      <segment state="translated">
+        <source>TIE Fighters</source>
+        <target>鈦戰機</target></segment>
+    </unit>
+    <unit id="Briefing.max4.Tag.3">
+      <segment state="translated">
+        <source>Tatooine</source>
+        <target>塔圖因星</target></segment>
+    </unit>
+    <unit id="Briefing.max4.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Briefing.max4.FG.1.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.max4.FG.2.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Briefing.max4.FG.3.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.max4.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Mission.max4.FG.1.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.max4.FG.2.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Mission.max4.FG.3.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.max4.CompletionMessage.0">
+      <segment state="translated">
+        <source>Sector has been cleared</source>
+        <target>星區已經肅清</target></segment>
+    </unit>
+    <unit id="Mission.max4.CompletionMessage.1">
+      <segment state="translated">
+        <source>All enemy fighters destroyed</source>
+        <target>所有敵方戰機均已摧毀</target></segment>
+    </unit>
+    <unit id="Mission.satlit1.Title">
+      <segment state="translated">
+        <source>Satellites Near Coruscant</source>
+        <target>科羅森附近的衛星</target></segment>
+    </unit>
+    <unit id="Mission.satlit1.Description">
+      <segment state="translated">
+        <source>This mission teaches you
+to use your laser guns
+with precision by 
+targeting and destroying
+small objects, such as 
+satellites and mines.</source>
+        <target>這次任務將教你
+精準運用雷射砲，
+方法是
+鎖定並摧毀
+小型目標，例如
+衛星與水雷。</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.1">
+      <segment state="translated">
+        <source>&gt;Destruction of Surveillance Satellites</source>
+        <target>&gt;摧毀監視衛星</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.2">
+      <segment state="translated">
+        <source>Imperial Forces are setting up new Surveillance satellites near [[Coruscant]].</source>
+        <target>帝國軍正在[[科羅森]]附近設置新的監視衛星。</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.3">
+      <segment state="translated">
+        <source>They are surrounded and protected by Imperial Heat-Tracking Laser Mines.$</source>
+        <target>它們周圍布滿帝國熱追蹤雷射水雷加以保護。$</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.4">
+      <segment state="translated">
+        <source>Eliminate the Transports and all Mines, then quickly destroy the Satellites.</source>
+        <target>消滅運輸艦與所有水雷，然後迅速摧毀衛星。</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.5">
+      <segment state="translated">
+        <source>You only have a few minutes before an Imperial Frigate responds.</source>
+        <target>你只有幾分鐘時間，之後帝國巡防艦就會趕到。</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.6">
+      <segment state="translated">
+        <source>  The Empire has placed thousands of [[surveillance satellites]] throughout the Galaxy.  Each of them is linked to the [[Imperial Security Bureau]] in the Imperial City.  This vast network gives the Emperor's Security Forces the ability to monitor (and control) the [[Core Worlds]] and the Primary Territories of the Republic.  This network is now being expanded into the [[Outer Rim Territories]].</source>
+        <target>  帝國在銀河各地部署了數以千計的[[監視衛星]]。每一顆都與帝國之城的[[帝防局]]連線。這個龐大的網路讓皇帝安全部隊得以監視（並控制）[[核心世界]]與共和國的主要領域。如今這個網路正擴展至[[外環領域]]。</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Text.7">
+      <segment state="translated">
+        <source>  The satellites are often hidden in asteroid fields or near uninhabited planets and protected by complex arrays of [[mines]].  Destruction of these satellites is extremely disruptive to Imperial control and is therefore aggressively pursued.$  In this mission your goal is to destroy all Imperial [[Transports]], [[Mines]] and[[ Satellites]].  Keep your shield strength up and bear in mind that a single laser blast will blow up a mine.$</source>
+        <target>  這些衛星往往藏在小行星帶中或無人居住的行星附近，並由複雜的[[水雷]]陣列保護。摧毀這些衛星能嚴重干擾帝國的控制，因此我們積極執行這類任務。$  這次任務的目標是摧毀所有帝國[[運輸艦]]、[[水雷]]與[[衛星]]。保持護盾強度，並記住只要一發雷射就能炸毀一枚水雷。$</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.0">
+      <segment state="translated">
+        <source>X-W Red 1 (YOU)</source>
+        <target>X-W 紅色 1（你）</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.1">
+      <segment state="translated">
+        <source>Surveillance Satellites</source>
+        <target>監視衛星</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.2">
+      <segment state="translated">
+        <source>Coruscant</source>
+        <target>科羅森</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.3">
+      <segment state="translated">
+        <source>HT-Mines</source>
+        <target>HT 水雷</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.Tag.4">
+      <segment state="translated">
+        <source>TRNs</source>
+        <target>TRN</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.FG.0.Designation">
+      <segment state="translated">
+        <source>RED 1</source>
+        <target>紅色 1</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.FG.10.Designation">
+      <segment state="translated">
+        <source>SENTINEL</source>
+        <target>哨兵</target></segment>
+    </unit>
+    <unit id="Briefing.satlit1.FG.12.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>EPSILON</target></segment>
+    </unit>
+    <unit id="Mission.satlit1.FG.0.Designation">
+      <segment state="translated">
+        <source>RED 1</source>
+        <target>紅色 1</target></segment>
+    </unit>
+    <unit id="Mission.satlit1.FG.1.Designation">
+      <segment state="translated">
+        <source>SENTINEL</source>
+        <target>哨兵</target></segment>
+    </unit>
+    <unit id="Mission.satlit1.FG.2.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>EPSILON</target></segment>
+    </unit>
+    <unit id="Mission.satlit1.CompletionMessage.0">
+      <segment state="translated">
+        <source>Nice work, Red Two</source>
+        <target>幹得好，紅色二號</target></segment>
+    </unit>
+    <unit id="Mission.satlit1.CompletionMessage.1">
+      <segment state="translated">
+        <source>The Surveillance satellites have been destroyed</source>
+        <target>監視衛星已被摧毀</target></segment>
+    </unit>
+    <unit id="Mission.max5.Title">
+      <segment state="translated">
+        <source>Beat The Odds</source>
+        <target>以寡擊眾</target></segment>
+    </unit>
+    <unit id="Mission.max5.Description">
+      <segment state="translated">
+        <source>Rebel starfighter pilots
+almost always fight
+outnumbered by the 
+Empire by at least 
+three to one.  This 
+mission will teach you
+to beat these odds.</source>
+        <target>反抗軍星際戰機飛行員
+幾乎總是
+以寡敵眾，
+帝國的兵力至少是
+我們的三倍。
+這次任務將教你
+如何突破劣勢。</target></segment>
+    </unit>
+    <unit id="Briefing.max5.Text.1">
+      <segment state="translated">
+        <source>&gt;Beat The Odds</source>
+        <target>&gt;以寡擊眾</target></segment>
+    </unit>
+    <unit id="Briefing.max5.Text.2">
+      <segment state="translated">
+        <source>X-wings from [[Red Squadron]] will test Imperial defenses near [[Circarpous IV]].</source>
+        <target>[[紅色中隊]]的X翼戰機將在[[瑟卡帕斯四號星]]附近試探帝國的防禦。</target></segment>
+    </unit>
+    <unit id="Briefing.max5.Text.3">
+      <segment state="translated">
+        <source>You may expect to encounter [[TIE Fighters]] performing barrier defense.</source>
+        <target>預計會遭遇執行屏障防禦的[[鈦戰機]]。</target></segment>
+    </unit>
+    <unit id="Briefing.max5.Text.4">
+      <segment state="translated">
+        <source>  An X-wing starfighter and a highly trained pilot make a deadly combination.  Using a variation of the venerable [[hit and fade]] tactic, Rebel pilots are often able to lure superior numbers of enemy fighters to their doom.$  Imperial Rules of Combat Engagement demand a [[three to one]] ratio in their favor before attacking.  Your training will prepare you to overcome these odds, however!</source>
+        <target>  X翼星際戰機搭配訓練有素的飛行員，是致命的組合。反抗軍飛行員運用經典[[打帶跑]]戰術的變化版本，常能將數量占優的敵機引向毀滅。$  帝國的交戰規則要求己方兵力達到[[三比一]]的優勢才能發動攻擊。不過，你所受的訓練將讓你克服這樣的劣勢！</target></segment>
+    </unit>
+    <unit id="Briefing.max5.Text.5">
+      <segment state="translated">
+        <source>[[Engage]] and [[destroy]] the TIEs and then return to base.</source>
+        <target>與鈦戰機[[交戰]]並將其[[摧毀]]，然後返回基地。</target></segment>
+    </unit>
+    <unit id="Briefing.max5.Text.6">
+      <segment state="translated">
+        <source>  This mission recreates a feint into the Circarpous System to gauge Imperial defenses there. Taking the bait, a group of TIE fighters tangled with the three X-wings from [[Red Squadron]].[[ ]] They should have stayed at their base. All the TIE's were destroyed with no Rebel losses! Needless to say this left quite an impression on the people of the [[Circarpous System]].  Move quickly to engage and get your share of kills.</source>
+        <target>  這次任務重現了一次佯攻瑟卡帕斯星系、以探測當地帝國防禦的行動。一群鈦戰機上鉤，與[[紅色中隊]]的三架X翼戰機纏鬥。[[ ]]它們真該待在基地裡。所有鈦戰機全數被擊毀，反抗軍毫無損失！不用說，這讓[[瑟卡帕斯星系]]的居民印象深刻。迅速行動投入戰鬥，拿下你的那份擊墜吧。</target></segment>
+    </unit>
+    <unit id="Briefing.max5.Tag.0">
+      <segment state="translated">
+        <source>X-W Red 2 (YOU)</source>
+        <target>X-W 紅色 2（你）</target></segment>
+    </unit>
+    <unit id="Briefing.max5.Tag.1">
+      <segment state="translated">
+        <source>TIE Fighters</source>
+        <target>鈦戰機</target></segment>
+    </unit>
+    <unit id="Briefing.max5.Tag.2">
+      <segment state="translated">
+        <source>Circarpous IV</source>
+        <target>瑟卡帕斯四號星</target></segment>
+    </unit>
+    <unit id="Briefing.max5.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Briefing.max5.FG.1.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.max5.FG.2.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Briefing.max5.FG.3.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.max5.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Mission.max5.FG.1.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.max5.FG.2.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Mission.max5.FG.3.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.max5.CompletionMessage.0">
+      <segment state="translated">
+        <source>You beat the odds</source>
+        <target>你突破了重重劣勢</target></segment>
+    </unit>
+    <unit id="Mission.max5.CompletionMessage.1">
+      <segment state="translated">
+        <source>Keep up the good work</source>
+        <target>繼續保持</target></segment>
+    </unit>
+    <unit id="Mission.halley.Title">
+      <segment state="translated">
+        <source>Rescue At Mon Calamari</source>
+        <target>蒙卡拉馬里救援</target></segment>
+    </unit>
+    <unit id="Mission.halley.Description">
+      <segment state="translated">
+        <source>This mission recreates one
+of the most spectacular
+life or death rescue missions
+in history.  Especially from
+the view of a particularly 
+daring X-wing pilot: 
+Halley Kadorto.</source>
+        <target>這次任務重現了
+史上最驚心動魄的
+生死救援行動之一，
+而且是從一位
+格外大膽的
+X翼戰機飛行員的視角：
+哈雷·卡多托。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.1">
+      <segment state="translated">
+        <source>&gt;Rescue at Mon Calamari</source>
+        <target>&gt;蒙卡拉馬里救援</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.2">
+      <segment state="translated">
+        <source>Freighters bearing [[war materiel]] and [[slaves]] await a Star Destroyer.</source>
+        <target>載有[[戰爭物資]]與[[奴隸]]的貨船正等待一艘滅星者到來。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.3">
+      <segment state="translated">
+        <source>[[Alliance Freighters]] will arrive when the Calamarians have been located.</source>
+        <target>找到卡拉馬里人後，[[聯盟貨船]]就會抵達。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.4">
+      <segment state="translated">
+        <source>Beware, the [[Imperial Star Destroyer]] [[Warrior]] could arrive at any moment!</source>
+        <target>當心，[[帝國級滅星者]][[戰士號]]隨時可能抵達！</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.5">
+      <segment state="translated">
+        <source>  This mission recreates an incredible rescue operation with you in the role of one of our most daring X-wing pilots, [[Halley Kadorto]].$  Rebel Intelligence had gathered information of a secret rendezvous location where the Empire would be transferring Mon Calamari slaves and various war materiel to an arriving Star Destroyer.  A combined force of X-wings, Y-wings and Freighters was assembled for the mission.</source>
+        <target>  這次任務重現了一場不可思議的救援行動，由你扮演我方最大膽的X翼戰機飛行員之一——[[哈雷·卡多托]]。$  反抗軍情報部取得了一處秘密會合地點的情報，帝國將在那裡把蒙卡拉馬里奴隸與各種戰爭物資移交給一艘即將抵達的滅星者。為此，我們集結了一支由X翼戰機、Y翼戰機與貨船組成的聯合部隊執行任務。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.6">
+      <segment state="translated">
+        <source>  [[Red Squadron's]] X-wings would first engage the TIE Fighter escorts, as [[Gold Squadron's]] Y-wings hypered in behind them to disable the Freighters.  Halley identified which craft were carrying slaves and the  Rebel Freighters were brought in to receive the liberated Calamarians.  The entire operation was planned to be safely concluded before the [[Star Destroyer Warrior]] could arrive.</source>
+        <target>  [[紅色中隊]]的X翼戰機負責先與護航的鈦戰機交戰，同時[[金色中隊]]的Y翼戰機從後方躍遷進場，癱瘓那些貨船。哈雷識別出哪些艦艇載有奴隸，接著反抗軍貨船進場接收獲救的卡拉馬里人。整個行動原計畫在[[滅星者戰士號]]抵達前安全完成。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.7">
+      <segment state="translated">
+        <source>  Unfortunately the [[Warrior]] arrived early and immediately launched an attack of its own.  It was soon realized that the Imperials were attacking their own slave ships!  Typical for the Empire, they would rather massacre thousands of innocent beings than let them fall into the hands of the enemy!$  One pilot, [[Halley Kadorto, ]]thwarted the ruthless assault by taking on wave after wave of TIE fighters.</source>
+        <target>  不幸的是，[[戰士號]]提早抵達，並立即展開自己的攻擊。大家很快就發現，帝國軍竟然在攻擊自己的奴隸船！這正是帝國的作風，他們寧可屠殺數以千計的無辜生命，也不願讓他們落入敵人手中！$  一位飛行員——[[哈雷·卡多托]]——迎戰一波又一波的鈦戰機，挫敗了這場殘暴的攻擊。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.8">
+      <segment state="translated">
+        <source>A number of [[TIE Fighters]] are watching over the transfer of cargo.</source>
+        <target>數架[[鈦戰機]]正在監視貨物的轉運。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.9">
+      <segment state="translated">
+        <source>X-wings from [[Red Squadron]] will drop in here and engage the TIE Fighters.</source>
+        <target>[[紅色中隊]]的X翼戰機將在此躍入，與鈦戰機交戰。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.10">
+      <segment state="translated">
+        <source>[[Destroy]] all war materiel containers and freighters before leaving.</source>
+        <target>離開前，[[摧毀]]所有戰爭物資貨櫃與貨船。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.11">
+      <segment state="translated">
+        <source>Y-wings from [[Gold Squadron]] will follow shortly to disable the freighters.</source>
+        <target>[[金色中隊]]的Y翼戰機很快會跟進，負責癱瘓貨船。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Text.12">
+      <segment state="translated">
+        <source>  For bravely saving so many lives Halley Kadorto received the [[Kalidor Crescent]]!  Can you do as well?$  Eliminate the escorts first and try to locate the [[Calamarians]] as quickly as possible.  You will have to fly your X-wing within [[0.02]] kilometers of each ship whose contents you want to identify.  Protect the Freighters while the transfer takes place then destroy the remaining Imperial war materiel before leaving.</source>
+        <target>  哈雷·卡多托因英勇拯救眾多生命而獲頒[[卡利多新月勳章]]！你能做得一樣好嗎？$  先消滅護航機，並盡快找出載有[[卡拉馬里人]]的艦艇。你必須駕駛X翼戰機飛到每艘船的 [[0.02]] 公里範圍內，才能識別其載運內容。轉運進行期間保護好貨船，離開前再摧毀剩餘的帝國戰爭物資。</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.0">
+      <segment state="translated">
+        <source>X-W Red 2 (YOU)</source>
+        <target>X-W 紅色 2（你）</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.1">
+      <segment state="translated">
+        <source>Y-W Gold</source>
+        <target>Y-W 金色</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.2">
+      <segment state="translated">
+        <source>TIE Fighter Escort</source>
+        <target>鈦戰機護航隊</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.3">
+      <segment state="translated">
+        <source>Cargo Containers</source>
+        <target>貨櫃</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.4">
+      <segment state="translated">
+        <source>Bulk Freighters</source>
+        <target>大型貨船</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.5">
+      <segment state="translated">
+        <source>FRT Citadel</source>
+        <target>FRT 堡壘</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.6">
+      <segment state="translated">
+        <source>Mon Calamari</source>
+        <target>蒙卡拉馬里</target></segment>
+    </unit>
+    <unit id="Briefing.halley.Tag.7">
+      <segment state="translated">
+        <source>Red Squadron</source>
+        <target>紅色中隊</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.1.Designation">
+      <segment state="translated">
+        <source>GOLD</source>
+        <target>金色</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.2.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.3.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.4.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.5.Designation">
+      <segment state="translated">
+        <source>XI</source>
+        <target>XI</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.5.Cargo">
+      <segment state="translated">
+        <source>DROIDS</source>
+        <target>機器人</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.6.Designation">
+      <segment state="translated">
+        <source>PSI</source>
+        <target>PSI</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.6.Cargo">
+      <segment state="translated">
+        <source>Weapons</source>
+        <target>武器</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.7.Designation">
+      <segment state="translated">
+        <source>WIGGINS</source>
+        <target>威金斯</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.7.Cargo">
+      <segment state="translated">
+        <source>Calamari</source>
+        <target>蒙卡拉馬里人</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.8.Designation">
+      <segment state="translated">
+        <source>BETAR</source>
+        <target>貝塔爾</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.8.Cargo">
+      <segment state="translated">
+        <source>Weapons</source>
+        <target>武器</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.9.Designation">
+      <segment state="translated">
+        <source>T-87</source>
+        <target>T-87</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.10.Designation">
+      <segment state="translated">
+        <source>T-85</source>
+        <target>T-85</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.11.Designation">
+      <segment state="translated">
+        <source>CITADEL 2</source>
+        <target>堡壘 2</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.12.Designation">
+      <segment state="translated">
+        <source>CITADEL 1</source>
+        <target>堡壘 1</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.13.Designation">
+      <segment state="translated">
+        <source>WARRIOR</source>
+        <target>戰士</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.14.Designation">
+      <segment state="translated">
+        <source>THETA</source>
+        <target>THETA</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.15.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Briefing.halley.FG.16.Designation">
+      <segment state="translated">
+        <source>N</source>
+        <target>N</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.1.Designation">
+      <segment state="translated">
+        <source>GOLD</source>
+        <target>金色</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.2.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.3.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.4.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.5.Designation">
+      <segment state="translated">
+        <source>XI</source>
+        <target>XI</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.5.Cargo">
+      <segment state="translated">
+        <source>DROIDS</source>
+        <target>機器人</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.5.SpecialCargo">
+      <segment state="translated">
+        <source>CALAMARI</source>
+        <target>蒙卡拉馬里人</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.6.Designation">
+      <segment state="translated">
+        <source>PSI</source>
+        <target>PSI</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.6.Cargo">
+      <segment state="translated">
+        <source>Weapons</source>
+        <target>武器</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.6.SpecialCargo">
+      <segment state="translated">
+        <source>Shield Gens</source>
+        <target>護盾產生器</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.7.Designation">
+      <segment state="translated">
+        <source>WIGGINS</source>
+        <target>威金斯</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.7.Cargo">
+      <segment state="translated">
+        <source>Calamari</source>
+        <target>蒙卡拉馬里人</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.7.SpecialCargo">
+      <segment state="translated">
+        <source>Calamari</source>
+        <target>蒙卡拉馬里人</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.8.Designation">
+      <segment state="translated">
+        <source>BETAR</source>
+        <target>貝塔爾</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.8.Cargo">
+      <segment state="translated">
+        <source>Weapons</source>
+        <target>武器</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.8.SpecialCargo">
+      <segment state="translated">
+        <source>Weapons</source>
+        <target>武器</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.9.Designation">
+      <segment state="translated">
+        <source>T-87</source>
+        <target>T-87</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.10.Designation">
+      <segment state="translated">
+        <source>T-85</source>
+        <target>T-85</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.11.Designation">
+      <segment state="translated">
+        <source>CITADEL 2</source>
+        <target>堡壘 2</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.12.Designation">
+      <segment state="translated">
+        <source>CITADEL 1</source>
+        <target>堡壘 1</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.13.Designation">
+      <segment state="translated">
+        <source>WARRIOR</source>
+        <target>戰士</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.14.Designation">
+      <segment state="translated">
+        <source>THETA</source>
+        <target>THETA</target></segment>
+    </unit>
+    <unit id="Mission.halley.FG.15.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Mission.halley.CompletionMessage.0">
+      <segment state="translated">
+        <source>Hooray! All Calamari prisoners have been rescued!</source>
+        <target>太好了！所有卡拉馬里囚犯均已獲救！</target></segment>
+    </unit>
+    <unit id="Mission.halley.CompletionMessage.1">
+      <segment state="translated">
+        <source>Well done, Red Two!</source>
+        <target>做得好，紅色二號！</target></segment>
+    </unit>
+    <unit id="Mission.halley.CompletionMessage.2">
+      <segment state="translated">
+        <source>Back to mothership and lets celebrate!</source>
+        <target>回母艦慶祝吧！</target></segment>
+    </unit>
+    <unit id="Mission.keyan.Title">
+      <segment state="translated">
+        <source>Farlander's First Mission</source>
+        <target>法蘭德的首次任務</target></segment>
+    </unit>
+    <unit id="Mission.keyan.Description">
+      <segment state="translated">
+        <source>This mission will teach
+you the importance of
+teamwork in a complicated
+operation to capture secret
+Imperial documents.</source>
+        <target>這次任務將在一場
+奪取帝國機密文件的
+複雜行動中，
+教你認識
+團隊合作的重要性。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.1">
+      <segment state="translated">
+        <source>&gt;Farlander's First Mission</source>
+        <target>&gt;法蘭德的首次任務</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.2">
+      <segment state="translated">
+        <source>An Imperial Corvette will be stopping near [[Turkana]] in the [[Hadar]] sector.</source>
+        <target>一艘帝國護衛艦將在[[哈達爾]]星區的[[圖卡納]]附近停留。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.3">
+      <segment state="translated">
+        <source>The Alliance Frigate [[Liberator]] will pop up here to draw off its escorts.</source>
+        <target>聯盟巡防艦[[解放者號]]將在此現身，引開它的護航機。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.4">
+      <segment state="translated">
+        <source>[[Blue Squadron]] will drop in behind the TIEs to make a surprise flank attack.</source>
+        <target>[[藍色中隊]]將躍入鈦戰機後方，發動出其不意的側翼攻擊。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.5">
+      <segment state="translated">
+        <source>  This mission recreates the famous first mission of [[Keyan Farlander]].  Though still in training, his natural skill earned him an invitation to volunteer for what turned out to be a very vital mission.$  In the event, he proved himself quite capable in combat.  In addition, he was personally responsible for recovering some extremely valuable Imperial documents.</source>
+        <target>  這次任務重現了[[奇安·法蘭德]]著名的首次任務。雖然他當時仍在受訓，但天生的才能讓他受邀自願參與一項後來證明極為重要的任務。$  結果他在戰鬥中證明了自己的能力。此外，他還親手取回了一些極具價值的帝國文件。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.6">
+      <segment state="translated">
+        <source>  Alliance Intelligence had discovered elaborate precautions being taken to make a particular Imperial Corvette seem unimportant.  At the risk of blowing their cover our agents determined that the ship would have extremely important contents, possibly [[Darth Vader]] himself!  Furthermore, it would have a skeleton crew and minimal escort.  It was scheduled to make one stop near lightly defended [[Turkana ]]in the[[ Hadar Sector]].</source>
+        <target>  聯盟情報部發現，帝國煞費苦心地讓某艘帝國護衛艦看起來無足輕重。我方特務冒著身分曝光的風險查明，這艘船上載有極為重要的事物，甚至可能是[[達斯·維達]]本人！此外，船上只有最低限度的船員，護航也極少。按計畫，它將在防衛薄弱的[[哈達爾星區]][[圖卡納]]附近停靠一次。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.7">
+      <segment state="translated">
+        <source>  In the position of Keyan in [[Red Squadron]], you will be protecting [[Gold Squadron's]] Y-wings while they disable the [[Imperial Corvette]].  Then you will help maintain security in the area while the [[Storm Unit Commandos]] conduct their boarding raid.$  Feel free to assist the Y-wings in bringing down the Corvette's shields. If all goes well and you have time, you may join up with [[Blue Squadron ]]to mop up the remaining escorts.</source>
+        <target>  你將扮演[[紅色中隊]]中的奇安，在[[金色中隊]]的Y翼戰機癱瘓[[帝國護衛艦]]時負責掩護。接著在[[風暴小隊突擊隊員]]執行登艦突襲期間，協助維持該區域的安全。$  你也可以協助Y翼戰機打掉護衛艦的護盾。如果一切順利且還有時間，你可以和[[藍色中隊]]會合，掃蕩剩餘的護航機。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.8">
+      <segment state="translated">
+        <source>Y-wings from [[Gold Squadron]] will come in and disable the Corvette.</source>
+        <target>[[金色中隊]]的Y翼戰機將進場癱瘓護衛艦。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.9">
+      <segment state="translated">
+        <source>Once disabled the [[Storm Unit's Commandos]] will conduct the boarding.</source>
+        <target>護衛艦一旦被癱瘓，[[風暴小隊的突擊隊員]]就會執行登艦。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Text.10">
+      <segment state="translated">
+        <source>Throughout the attack [[Red Squadron]] will protect Gold and Storm Unit.</source>
+        <target>整個攻擊過程中，[[紅色中隊]]將保護金色中隊與風暴小隊。</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.0">
+      <segment state="translated">
+        <source>X-W Red 2 (YOU)</source>
+        <target>X-W 紅色 2（你）</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.1">
+      <segment state="translated">
+        <source>X-W Blue</source>
+        <target>X-W 藍色</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.2">
+      <segment state="translated">
+        <source>FRG Liberator</source>
+        <target>FRG 解放者</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.3">
+      <segment state="translated">
+        <source>Imperial Corvette</source>
+        <target>帝國護衛艦</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.4">
+      <segment state="translated">
+        <source>Y-W Gold</source>
+        <target>Y-W 金色</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.5">
+      <segment state="translated">
+        <source>TIE Escorts</source>
+        <target>鈦戰機護航機</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.6">
+      <segment state="translated">
+        <source>Storm Unit</source>
+        <target>風暴小隊</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.Tag.7">
+      <segment state="translated">
+        <source>Turkana</source>
+        <target>圖卡納</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.1.Designation">
+      <segment state="translated">
+        <source>RED 3</source>
+        <target>紅色 3</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.2.Designation">
+      <segment state="translated">
+        <source>RED 4</source>
+        <target>紅色 4</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.3.Designation">
+      <segment state="translated">
+        <source>BLUE</source>
+        <target>藍色</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.4.Designation">
+      <segment state="translated">
+        <source>LIBERATOR</source>
+        <target>解放者</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.5.Designation">
+      <segment state="translated">
+        <source>TALON</source>
+        <target>猛爪</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.5.Cargo">
+      <segment state="translated">
+        <source>HOLOS</source>
+        <target>全像影片</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.6.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.7.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.8.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.9.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.10.Designation">
+      <segment state="translated">
+        <source>GOLD 1</source>
+        <target>金色 1</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.11.Designation">
+      <segment state="translated">
+        <source>GOLD 2</source>
+        <target>金色 2</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.12.Designation">
+      <segment state="translated">
+        <source>STORM UNIT</source>
+        <target>風暴小隊</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.12.Cargo">
+      <segment state="translated">
+        <source>COMMANDOS</source>
+        <target>突擊隊</target></segment>
+    </unit>
+    <unit id="Briefing.keyan.FG.13.Designation">
+      <segment state="translated">
+        <source>TURKANA</source>
+        <target>圖卡納</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.1.Designation">
+      <segment state="translated">
+        <source>RED 3</source>
+        <target>紅色 3</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.2.Designation">
+      <segment state="translated">
+        <source>RED 4</source>
+        <target>紅色 4</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.3.Designation">
+      <segment state="translated">
+        <source>BLUE</source>
+        <target>藍色</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.4.Designation">
+      <segment state="translated">
+        <source>LIBERATOR</source>
+        <target>解放者</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.5.Designation">
+      <segment state="translated">
+        <source>TALON</source>
+        <target>猛爪</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.5.Cargo">
+      <segment state="translated">
+        <source>HOLOS</source>
+        <target>全像影片</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.6.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.7.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.8.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.9.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.10.Designation">
+      <segment state="translated">
+        <source>GOLD 1</source>
+        <target>金色 1</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.11.Designation">
+      <segment state="translated">
+        <source>GOLD 2</source>
+        <target>金色 2</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.12.Designation">
+      <segment state="translated">
+        <source>STORM UNIT</source>
+        <target>風暴小隊</target></segment>
+    </unit>
+    <unit id="Mission.keyan.FG.12.Cargo">
+      <segment state="translated">
+        <source>COMMANDOS</source>
+        <target>突擊隊</target></segment>
+    </unit>
+    <unit id="Mission.keyan.CompletionMessage.0">
+      <segment state="translated">
+        <source>The Storm Units have confiscated all Imperial Holo discs</source>
+        <target>風暴小隊已奪取所有帝國全像光碟</target></segment>
+    </unit>
+    <unit id="Mission.keyan.CompletionMessage.1">
+      <segment state="translated">
+        <source>Another victory for the Alliance</source>
+        <target>聯盟又一場勝利</target></segment>
+    </unit>
+  </file>
+</xliff>

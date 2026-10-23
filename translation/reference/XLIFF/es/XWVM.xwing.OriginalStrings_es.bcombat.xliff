@@ -1,0 +1,2156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="es">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="MissionGroup.bcombat.Title">
+      <segment>
+        <source>B-Wing</source>
+        <target>Ala-B</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.Title">
+      <segment>
+        <source>Project Shantipole</source>
+        <target>Proyecto Shantipole</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.Description">
+      <segment state="translated">
+        <source>Fly the first armed
+B-wing prototype in a
+desperate fight to evade
+capture by the Empire!</source>
+        <target>¡Pilota el primer prototipo
+armado de Ala-B en un combate
+desesperado para evitar la captura
+por el Imperio!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 1: Project Shantipole</source>
+        <target>&gt;HM 1: Proyecto Shantipole</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.2">
+      <segment state="translated">
+        <source>Project [[Shantipole]] has been compromised by an Imperial spy.</source>
+        <target>El proyecto [[Shantipole]] ha sido comprometido por un espía del imperial.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.3">
+      <segment state="translated">
+        <source>The [[Verpine]] staff will be evacuated aboard the Corvette [[Shantipole]].</source>
+        <target>El personal [[Verpine]] será evacuado a bordo de la corbeta [[Shantipole]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.4">
+      <segment state="translated">
+        <source>Commander Ackbar and his aides will be evacuating on the Shuttle [[Falcon]].</source>
+        <target>El comandante Ackbar y sus ayudantes evacuarán en la Lanzadera [[Halcón]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.5">
+      <segment state="translated">
+        <source>Prototype #1 is unarmed, but #2 will be able to help cover the evacuation.</source>
+        <target>El prototipo Número 1 está desarmado, pero el Número 2 podrá ayudar a cubrir la evacuación.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.6">
+      <segment state="translated">
+        <source>  After the [[Battle of Yavin]] the Empire began using the Nebulon B Frigate with much greater regularity.  It was superbly suited to protecting convoys from the depradations of Alliance starfighters.$  With too few capital ships to throw against the Frigates, then Commander Ackbar realized the need for a specially designed heavy fighter.  He was able enlist the unique shipbuilding skills of the [[Verpine]].</source>
+        <target>  Tras la [[Batalla de Yavin]], el Imperio comenzó a utilizar con mayor regularidad la Fragata Nebulon B.  Era perfectamente adecuada para proteger convoyes de los saqueos por cazas de la Alianza.$  Con pocas naves de guerra para lanzar contra las fragatas, el entonces Comandante Ackbar se dio cuenta de la necesidad de un caza pesado diseñado específicamente.  Pudo contar con las habilidades únicas en la construcción de naves de los [[Verpine]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.7">
+      <segment state="translated">
+        <source>  The [[Verpine]] are an insectoid race from the [[Roche]] system.  Though unwilling to join the Alliance, they did commit to the project.  They built two prototypes and showed Ackbar's engineers how to build more.$  The Empire found out about the project through a traitor on Ackbar's staff.  Thanks to the efforts of a daring Rebel strike team, the prototypes and project personnel were saved from Imperial capture.</source>
+        <target>Los [[Verpine]] son una raza insectoide del sistema [[Roche]].  Aunque no estaban dispuestos a unirse a la Alianza, sí que aceptaron el proyecto.  Construyeron dos prototipos y enseñaron a los ingenieros de Ackbar cómo construir más.$  El Imperio se enteró del proyecto a través de un traidor en el personal de Ackbar.  Gracias a los esfuerzos de un audaz equipo de asalto rebelde, los prototipos y el personal del proyecto fueron rescatados de la captura imperial.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.8">
+      <segment state="translated">
+        <source>  You will fly the number two ship.  Follow the (unarmed) number one prototype out of the test facility and prepare to fight your way out of an Imperial trap!  A number of Corvettes and Transports will be attacking.  The Transports will attempt to disable you for capture.$  You must ensure that both prototypes and the evacuation ships make it to safety.  [[Blue]] Squadron will come to your assistance shortly.</source>
+        <target>  Pilotarás la nave Número Dos.  Sigue al prototipo Número Uno (desarmado) fuera del centro de pruebas ¡y prepárate para abrirte camino a través de una trampa Imperial!  Habrá varias corbetas y transportes atacando.  Los transportes intentarán incapacitarte para capturarte.$  Debes asegurarte de que tanto los prototipos como las naves de evacuación escapen a salvo. El Escuadrón [[Azul]] llegará en tu ayuda pronto.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.11">
+      <segment state="translated">
+        <source>  Go to full throttle and set cannon and shield recharge rates to maximum.$  Concentrate on the TRNs first.  Remember, the "R" key won't help you!$  Stay near the SHU Falcon until it has completed docking.$  Keep an eye on the CRV Shantipole, and intercept any TRNs attacking it.</source>
+        <target>  Ve a velocidad máxima y establece la tasa de recarga de cañones y escudos al máximo.$ Concéntrate primero en los TRNs.$  Permanece cerca de la LAN Halcón hasta que haya completado su acoplamiento.$  Mantén un ojo en la CRB Shantipole, e intercepta a cualquier TRN que la ataque.$  Puedes intentar montar tus cañones láser en el morro de la nave en el hangar. Eso te permitirá más fácilmente destruir las torretas de las corbetas enemigas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.0">
+      <segment>
+        <source>B-W Prototype (YOU)</source>
+        <target>A-B Prototipo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.1">
+      <segment>
+        <source>Project Shantipole Test Facility</source>
+        <target>Instalación de Pruebas del Proyecto Shantipole</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.2">
+      <segment state="translated">
+        <source>CRV Shantipole</source>
+        <target>CRB Shantipole</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.3">
+      <segment state="translated">
+        <source>SHU Falcon</source>
+        <target>LAN Halcón</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.4">
+      <segment>
+        <source>Roche</source>
+        <target>Roche</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.0.Designation">
+      <segment>
+        <source>PROTOTYPE 2</source>
+        <target>PROTOTIPO 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.0.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.1.Designation">
+      <segment state="translated">
+        <source>PROTOTYPE 1</source>
+        <target>PROTOTIPO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.2.Designation">
+      <segment>
+        <source>SHANTIPOLE</source>
+        <target>SHANTIPOLE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.2.Cargo">
+      <segment state="translated">
+        <source>VERPINE TECHS</source>
+        <target>TÉCNICOS VERPINE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.3.Designation">
+      <segment state="translated">
+        <source>FALCON</source>
+        <target>HALCÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.4.Designation">
+      <segment state="translated">
+        <source>UPSIDE</source>
+        <target>CUBIERTA SUPERIOR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.4.Cargo">
+      <segment state="translated">
+        <source>ACKBAR</source>
+        <target>ACKBAR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.5.Designation">
+      <segment state="translated">
+        <source>DOWNSIDE</source>
+        <target>CUBIERTA INFERIOR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.6.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.7.Designation">
+      <segment>
+        <source>BLUE 3</source>
+        <target>AZUL 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.8.Designation">
+      <segment>
+        <source>BLUE 4</source>
+        <target>AZUL 4</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.9.Designation">
+      <segment>
+        <source>ROCHE</source>
+        <target>ROCHE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.10.Designation">
+      <segment state="translated">
+        <source>JAVELIN 4</source>
+        <target>JABALINA 4</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.11.Designation">
+      <segment state="translated">
+        <source>JAVELIN 3</source>
+        <target>JABALINA 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.12.Designation">
+      <segment state="translated">
+        <source>JAVELIN</source>
+        <target>JABALINA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.13.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.14.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.15.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.16.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.0.Designation">
+      <segment>
+        <source>PROTOTYPE 2</source>
+        <target>PROTOTIPO 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.0.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.1.Designation">
+      <segment state="translated">
+        <source>PROTOTYPE 1</source>
+        <target>PROTOTIPO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.2.Designation">
+      <segment>
+        <source>SHANTIPOLE</source>
+        <target>SHANTIPOLE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.2.Cargo">
+      <segment state="translated">
+        <source>VERPINE TECHS</source>
+        <target>TÉCNICOS VERPINE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.3.Designation">
+      <segment state="translated">
+        <source>FALCON</source>
+        <target>HÁLCON</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.4.Designation">
+      <segment state="translated">
+        <source>UPSIDE</source>
+        <target>CUBIERTA SUPERIOR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.4.Cargo">
+      <segment>
+        <source>ACKBAR</source>
+        <target>ACKBAR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.5.Designation">
+      <segment state="translated">
+        <source>DOWNSIDE</source>
+        <target>CUBIERTA INFERIOR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.6.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.7.Designation">
+      <segment>
+        <source>BLUE 3</source>
+        <target>AZUL 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.8.Designation">
+      <segment>
+        <source>BLUE 4</source>
+        <target>AZUL 4</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.9.Designation">
+      <segment state="translated">
+        <source>JAVELIN 4</source>
+        <target>JABALINA 4</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.10.Designation">
+      <segment state="translated">
+        <source>JAVELIN 3</source>
+        <target>JABALINA 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.11.Designation">
+      <segment state="translated">
+        <source>JAVELIN</source>
+        <target>JABALINA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.12.Designation">
+      <segment state="translated">
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.13.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.14.Designation">
+      <segment>
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.15.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.CompletionMessage.0">
+      <segment state="translated">
+        <source>THE VERPINE HAVE ESCAPED</source>
+        <target>LOS VERPINE HAN ESCAPADO.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.CompletionMessage.1">
+      <segment state="translated">
+        <source>COMMANDER ACKBAR AND HIS STAFF ARE SAFE</source>
+        <target>EL COMANDANTE ACKBAR Y SU EQUIPO ESTÁN A SALVO.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h1wb.CompletionMessage.2">
+      <segment state="translated">
+        <source>X-WING BLUE WILL COVER YOUR WITHDRAWAL</source>
+        <target>ALA-X AZUL CUBRIRÁ TU RETIRADA.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.Title">
+      <segment state="translated">
+        <source>Assault an Imperial Convoy</source>
+        <target>Asalta un Convoy Imperial</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.Description">
+      <segment state="translated">
+        <source>Use the tremendous
+firepower of the B-wing
+to wipe out an
+Imperial convoy!</source>
+        <target>¡Utiliza la tremenda potencia
+de fuego del Ala-B para eliminar
+un convoy imperial!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 2: Assault Imperial Convoy</source>
+        <target>&gt;MH 2: Asalta Convoy Imperial</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.2">
+      <segment state="translated">
+        <source>An Imperial convoy en route to [[Petrakis ]]is to be destroyed.</source>
+        <target>Un convoy imperial en ruta a [[Petrakis]] debe ser destruido.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.3">
+      <segment>
+        <source>The priority targets are the Freighters loaded with TIE Fighters.</source>
+        <target>Las prioridades son los Cargueros cargados con Cazas TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.4">
+      <segment state="translated">
+        <source>The convoy is to receive additional escort from the [[Petrakis]] base.</source>
+        <target>El convoy va a recibir escolta adicional de la base de [[Petrakis]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.5">
+      <segment state="translated">
+        <source>[[Red]] Squadron will send two B-wings escorted by one X-wing for this raid.</source>
+        <target>El Escuadrón [[Rojo]] enviará dos Alas-B acompañados por un Ala-X para esta incursión.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.6">
+      <segment state="translated">
+        <source>  Following the [[Shantipole]] debacle, rumors of a powerful new Rebel fighter quickly spread through the Imperial fleet.  By the time the first Alliance B-wings saw action against Imperial TIEs, the fear was so strong that the entire Imperial wing turned tail and ran at first sight of the strange new craft.$  This mission recreates that action.  It was a hit and fade attack on a convoy loaded with TIE Fighters.</source>
+        <target>  Tras la debacle [[Shantipole]], los rumores de un poderoso nuevo caza rebelde se extendieron rápidamente por la flota Imperial.  Cuando los primeros Alas-B entraron en combate contra los TIEs imperiales, el miedo era tan fuerte que todo el ala imperial dio media vuelta y huyó tras el primer vistazo a las extrañas nuevas naves.$  Esta misión recrea esa situación.  Fue un ataque relámpago contra un convoy con Cazas TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.7">
+      <segment state="translated">
+        <source>  The convoy was made up of several Freighters, some Transports and Shuttles.  Escort was provided by four Corellian Corvettes.  Additional escort was to have been provided by TIE Fighters from the [[Petrakis ]]base.  These were the ones who ran from the fight.$  Gunboats which arrived in the midst of the battle were not so timid, though.  Destroy all of the Imperial Freighters and Corvettes.</source>
+        <target>  El convoy estaba compuesto por varios Cargueros, algunos Transportes y Lanzaderas.  Cuatro Corbetas Corellianas proporcionaban escolta.  Una escolta adicional debía haber sido proporcionada por Cazas TIE de la base de [[Petrakis]].  Ésos fueron los que huyeron del combate.$  Sin embargo, las Cañoneras que llegaron en medio de la batalla no fueron tan timoratas.  Destruye todos los Cargueros y Corbetas imperiales.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.8">
+      <segment state="translated">
+        <source>  Order your wingman to attack the nearest FRT.  Then target the nearest CRV and fire 6 torps to destroy it.  Switch to lasers and "blindside", (attack dead level from the sides or rear) the other CRV of the forward pair.$  You may need to break off and destroy one or more GUNs.$  Repeat this procedure for the next pair of FRTs and CRVs.$  Do not attack the neutrals.</source>
+        <target>  Ordena a tu compañero que ataque al CRG más cercano.  Luego, fija la CRB más cercana y dispara 6 torpedos para destruirla.  Cambia a láseres y usa el "punto ciego" (atacar a la altura de su ecuador, desde el costado o desde atrás) con la otra CRB del par delantero.$  Es posible que debas retirarte y destruir una o más CAÑs.$  Repite este procedimiento para la siguiente pareja de CRG y CRBs.$  No ataques a los neutrales.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.0">
+      <segment>
+        <source>B-W Red (YOU)</source>
+        <target>A-B Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.1">
+      <segment>
+        <source>X-W Gold</source>
+        <target>A-X Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.2">
+      <segment state="translated">
+        <source>Imperial SHUs</source>
+        <target>LANs Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.3">
+      <segment state="translated">
+        <source>Imperial FRTs</source>
+        <target>CRGs Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.4">
+      <segment state="translated">
+        <source>Imperial CRVs</source>
+        <target>CRBs Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.5">
+      <segment>
+        <source>Petrakis</source>
+        <target>Petrakis</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.6">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.2.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.3.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.3.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.4.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.4.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.5.Designation">
+      <segment state="translated">
+        <source>OCEAN</source>
+        <target>OCÉANO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.5.Cargo">
+      <segment>
+        <source>TIE FIGHTERS</source>
+        <target>CAZAS TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.6.Designation">
+      <segment>
+        <source>MANX</source>
+        <target>MANX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.6.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.7.Designation">
+      <segment>
+        <source>TEVE</source>
+        <target>TEVE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.7.Cargo">
+      <segment state="translated">
+        <source>TIE BOMBERS</source>
+        <target>BOMBARDEROS TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.8.Designation">
+      <segment state="translated">
+        <source>HORNET</source>
+        <target>AVISPÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.8.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.9.Designation">
+      <segment state="translated">
+        <source>BUFFALO</source>
+        <target>BÚFALO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.9.Cargo">
+      <segment state="translated">
+        <source>FOODSTUFFS</source>
+        <target>ALIMENTOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.10.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.11.Designation">
+      <segment>
+        <source>NINJA</source>
+        <target>NINJA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.12.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.13.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.14.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.15.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.16.Designation">
+      <segment>
+        <source>PETRAKIS</source>
+        <target>PETRAKIS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.1.Designation">
+      <segment state="translated">
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.2.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.3.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.3.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.4.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.4.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.4.SpecialCargo">
+      <segment>
+        <source>OFFICERS</source>
+        <target>OFICIALES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.5.Designation">
+      <segment state="translated">
+        <source>OCEAN</source>
+        <target>OCÉANO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.5.Cargo">
+      <segment>
+        <source>TIE FIGHTERS</source>
+        <target>CAZAS TIE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.6.Designation">
+      <segment>
+        <source>MANX</source>
+        <target>MANX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.6.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.6.SpecialCargo">
+      <segment state="translated">
+        <source>WEAPONS</source>
+        <target>ARMAS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.7.Designation">
+      <segment>
+        <source>TEVE</source>
+        <target>TEVE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.7.Cargo">
+      <segment>
+        <source>TIE BOMBERS</source>
+        <target>BOMBARDEROS TIE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.8.Designation">
+      <segment state="translated">
+        <source>HORNET</source>
+        <target>AVISPÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.8.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.9.Designation">
+      <segment state="translated">
+        <source>BUFFALO</source>
+        <target>BÚFALO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.9.Cargo">
+      <segment>
+        <source>FOODSTUFFS</source>
+        <target>ALIMENTOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.10.Designation">
+      <segment state="translated">
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.11.Designation">
+      <segment>
+        <source>NINJA</source>
+        <target>NINJA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.11.SpecialCargo">
+      <segment state="translated">
+        <source>COMMANDOS</source>
+        <target>COMANDOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.12.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.13.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.14.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.15.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.CompletionMessage.0">
+      <segment state="translated">
+        <source>NOT MUCH LEFT OF THAT CONVOY</source>
+        <target>NO QUEDA MUCHO DE ESE CONVOY.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.CompletionMessage.1">
+      <segment state="translated">
+        <source>YOU SURE DID YOUR SHARE, RED ONE</source>
+        <target>CIERTAMENTE TE OCUPASTE DE UNA BUENA PARTE DE ÉL, ROJO UNO.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h2mb.CompletionMessage.2">
+      <segment state="translated">
+        <source>GOOD MISSION!</source>
+        <target>¡BUENA MISIÓN!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.Title">
+      <segment>
+        <source>Capture the Frigate Priam</source>
+        <target>Captura la Fragata Priam</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.Description">
+      <segment state="translated">
+        <source>Compare the performance
+of the B-wing with that of
+the Y-wing in this recreation
+of the capture of the
+Imperial Frigate Priam.</source>
+        <target>Compara el rendimiento
+del Ala-B con el del
+Ala-Y en esta recreación
+de la captura de la
+fragata imperial Priam.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 3: Capture the Frigate Priam</source>
+        <target>&gt;MH 3: Captura la Fragata Priam</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.2">
+      <segment state="translated">
+        <source>The Frigate [[Priam ]]is damaged and vulnerable without its TIE Fighters.</source>
+        <target>La Fragata [[Priam]] está dañada y vulnerable sin sus Cazas TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.3">
+      <segment state="translated">
+        <source>B-wing [[Red]] will eliminate its last defenses and disable the Frigate.</source>
+        <target>Ala-B [[Rojo]] eliminará sus últimas defensas e incapacitará la Fragata.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.4">
+      <segment state="translated">
+        <source>  In a previous operation the Frigate Priam was stripped of her TIE Fighters.  Except for a few small groups of TIEs and some mines the [[Priam]] has deployed around her, she is now virtually defenseless.$  General Dodonna has ordered that our Special Forces Command lead a "board and capture" operation.  Your mission is to disable the [[Priam]] and then provide cover during the capture of this Frigate. </source>
+        <target>  En una operación anterior, la Fragata Priam se quedó sin Cazas TIE.  Excepto por unos pocos grupos menores de TIEs y algunas minas que la [[Priam]] ha desplegado a su alrededor, ahora está prácticamente indefensa.$  El General Dodonna ha ordenado que nuestro Comando de Fuerzas Especiales dirija una operación de "abordaje y captura".  Tu misión es incapacitar la [[Priam]] y luego proporcionar cobertura durante la captura de esta Fragata.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.5">
+      <segment state="translated">
+        <source>A-wing [[Blue]] will provide escort for the B-wings.</source>
+        <target>Ala-A [[Azul]] proporcionará escolta para los Alas-B.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.6">
+      <segment state="translated">
+        <source>Once the [[Priam]] is disabled, Commandos will arrive to board and capture it.</source>
+        <target>Una vez que la [[Priam]] esté incapacitada, los Comandos llegarán para abordarla y capturarla.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.7">
+      <segment state="translated">
+        <source>  What if the B-wing had been available earlier, say during the capture of the Frigate [[Priam]]?  Substituted for the Y-wings, the B-wings could have accomplished as much, but with fewer ships (and fewer pilots.)$  This mission recreates that operation.  However, this time [[Red]] Squadron is given the task of disabling the ship so it can be captured.</source>
+        <target>  ¿Y si el Ala-B hubiera estado disponible con anterioridad, como durante la captura de la Fragata [[Priam]]?  Sustituyendo a los Alas-Y, los Alas-B podrían haber logrado tanto o incluso más, pero con menos naves (y menos pilotos.)$  Esta misión recrea esa operación.  Sin embargo, esta vez el Escuadrón [[Rojo]] recibe la tarea de incapacitar la nave para que pueda ser capturada.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.8">
+      <segment state="translated">
+        <source>B-wing [[Red]] and A-wing [[Blue]] will cover the boarding and capture.</source>
+        <target>Ala-B [[Rojo]] y Ala-A [[Azul]] cubrirán el abordaje y la captura.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.11">
+      <segment state="translated">
+        <source>  Order your wingmen to wait, while you fire all of your torps at the FRG.  Then, assist your escort in destroying T/F Alpha and T/B Beta.  When the A-wing gets hull damage send it home.$  Clear the mines and order your wingmen to proceed.  Keep attacking the FRG with lasers until its shields go down, then switch to ions.$  Intercept GUN Mu, then head back.</source>
+        <target>  Ordena a tus compañeros que esperen, mientras tú disparas todos tus torpedos a la FRA.  Seguidamente, ayuda a tu escolta con la destrucción de T/C Alfa y T/B Beta.  Cuando el Ala-A sufra daños en el casco, envíalo a la base.$  Elimina las minas y ordena a tus compañeros que prosigan.  Sigue atacando la FRA con láseres hasta que sus escudos caigan, y entonces cambia a iones.$  Intercepta a CAÑ Mu, y entonces regresa.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.0">
+      <segment>
+        <source>FRG Priam</source>
+        <target>FRA Priam</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.1">
+      <segment state="translated">
+        <source>A-W Blue</source>
+        <target>A-A Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.2">
+      <segment>
+        <source>B-W Red (YOU)</source>
+        <target>A-B Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.3">
+      <segment state="translated">
+        <source>Minefield</source>
+        <target>Campo de minas</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.4">
+      <segment>
+        <source>TRN Jordi</source>
+        <target>TRN Jordi</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.5">
+      <segment>
+        <source>SHU Panda</source>
+        <target>LAN Panda</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.1.Designation">
+      <segment>
+        <source>BLUE 7</source>
+        <target>AZUL 7</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.2.Designation">
+      <segment>
+        <source>JORDI 1</source>
+        <target>JORDI 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.2.Cargo">
+      <segment>
+        <source>EQUIPMENT</source>
+        <target>EQUIPAMIENTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.3.Designation">
+      <segment>
+        <source>JORDI 2</source>
+        <target>JORDI 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.3.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.4.Designation">
+      <segment>
+        <source>PANDA 1</source>
+        <target>PANDA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.4.Cargo">
+      <segment>
+        <source>OFFICERS</source>
+        <target>OFICIALES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.5.Designation">
+      <segment>
+        <source>PANDA 2</source>
+        <target>PANDA 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.5.Cargo">
+      <segment state="translated">
+        <source>CREW</source>
+        <target>TRIPULACIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.6.Designation">
+      <segment>
+        <source>ASSAULT 1</source>
+        <target>ASALTO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.6.Cargo">
+      <segment>
+        <source>COMMANDOS</source>
+        <target>COMANDOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.7.Designation">
+      <segment>
+        <source>ASSAULT 2</source>
+        <target>ASALTO 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.7.Cargo">
+      <segment>
+        <source>COMMANDOS</source>
+        <target>COMANDOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.8.Designation">
+      <segment>
+        <source>PRIAM</source>
+        <target>PRIAM</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.9.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.10.Designation">
+      <segment>
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.11.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.12.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.13.Designation">
+      <segment>
+        <source>OMEGA</source>
+        <target>OMEGA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.14.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.15.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.1.Designation">
+      <segment>
+        <source>BLUE 7</source>
+        <target>AZUL 7</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.2.Designation">
+      <segment>
+        <source>JORDI 1</source>
+        <target>JORDI 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.2.Cargo">
+      <segment>
+        <source>EQUIPMENT</source>
+        <target>EQUIPAMENTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.3.Designation">
+      <segment>
+        <source>JORDI 2</source>
+        <target>JORDI 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.3.Cargo">
+      <segment>
+        <source>SUPPLIES</source>
+        <target>SUMINISTROS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.4.Designation">
+      <segment>
+        <source>PANDA 1</source>
+        <target>PANDA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.4.Cargo">
+      <segment>
+        <source>OFFICERS</source>
+        <target>OFICIALES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.5.Designation">
+      <segment>
+        <source>PANDA 2</source>
+        <target>PANDA 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.5.Cargo">
+      <segment state="translated">
+        <source>CREW</source>
+        <target>EQUIPAMIENTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.6.Designation">
+      <segment state="translated">
+        <source>ASSAULT 1</source>
+        <target>ASALTO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.6.Cargo">
+      <segment state="translated">
+        <source>COMMANDOS</source>
+        <target>COMANDOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.7.Designation">
+      <segment>
+        <source>ASSAULT 2</source>
+        <target>ASALTO 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.7.Cargo">
+      <segment>
+        <source>COMMANDOS</source>
+        <target>COMANDOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.8.Designation">
+      <segment>
+        <source>PRIAM</source>
+        <target>PRIAM</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.9.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.10.Designation">
+      <segment>
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.11.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.12.Designation">
+      <segment state="translated">
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.13.Designation">
+      <segment>
+        <source>OMEGA</source>
+        <target>OMEGA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.14.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.15.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.CompletionMessage.0">
+      <segment state="translated">
+        <source>The Frigate Priam has been secured</source>
+        <target>La Fragata Priam ha sido controlada.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.CompletionMessage.1">
+      <segment state="translated">
+        <source>All Imperial personnel have been subdued</source>
+        <target>Todos el personal imperial ha sido sometido.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h3mb.CompletionMessage.2">
+      <segment state="translated">
+        <source>The Priam's captain has surrendered control to our forces</source>
+        <target>El capitán de la Priam ha rendido el control a nuestras fuerzas.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.Title">
+      <segment state="translated">
+        <source>B-wing Attack on the Shrike</source>
+        <target>Ataque con Ala-B a la Alcaudón</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.Description">
+      <segment state="translated">
+        <source>Fly the B-wing in its
+primary role of heavy
+assault starfighter as you
+destroy an Imperial Frigate!</source>
+        <target>Pilota el Ala-B en su papel
+principal de caza pesado de
+asalto conforme destruyes
+una Fragata Imperial.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 4: B-wing Attack on the Shrike</source>
+        <target>&gt;MH 4: Ataque con Ala-B a la Alcaudón</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.2">
+      <segment state="translated">
+        <source>B-wing [[Red]] will lead the attack on the Imperial Frigate [[Shrike]].</source>
+        <target>Ala-B [[Rojo]] dirigirá el ataque contra la Fragata Imperial [[Alcaudón]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.3">
+      <segment state="translated">
+        <source>A-wing [[Gold]] will escort the B-wings and eliminate enemy fighter defenses.</source>
+        <target>Ala-A [[Oro]] escoltará a los Alas-B y eliminará las defensas de cazas enemigos.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.4">
+      <segment state="translated">
+        <source>The [[Shrike]] will attempt to escape into hyperspace at this Nav Buoy.</source>
+        <target>La [[Alcaudón]] intentará escapar al hiperespacio en esta Boya de Navegación.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.5">
+      <segment state="translated">
+        <source>The Nav Buoy is protected by a small minefield.</source>
+        <target>La Boya de Navegación está protegida por un pequeño campo de minas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.6">
+      <segment state="translated">
+        <source>  This mission recreates the first use of the B-wing in its primary role as a Frigate killer.  Imperial Military Intelligence refused to believe initial reports of the encounter.  How could three starfighters (and their A-wing escorts) possibly defeat a Nebulon-B class Frigate?$  The bad news only got worse.  A detachment of Corvettes and "Starwing" Gunboats from the local System Patrol Squadron was also lost!</source>
+        <target>  Esta misión recrea el primer uso del Ala-B en su papel principal como mata-fragatas.  La Inteligencia Militar Imperial se negó a creer los informes iniciales del encuentro.  ¿Cómo podrían tres cazas (y sus escoltas Ala-A) derrotar una Fragata clase Nebulon-B?$  Las malas noticias sólo empeoraron.  ¡También se perdió un destacamento de Corbetas y Cañoneras "Alas Estelares" del Escuadrón de Patrulla del Sistema local!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.7">
+      <segment state="translated">
+        <source>  The legendary [[Keyan Farlander]] was the commander who led the B-wings in this daring attack.  Can you match their amazing success?$  As you fly this mission remember that the B-wing is a heavy assault starfighter.  Leave the dogfighting to your A-wing escorts.  Your attack against the [[Shrike]] must be relentless!</source>
+        <target>  El legendario [[Keyan Farlander]] era el comandante que lideró los Alas-B en este audaz ataque. ¿Puedes igualar su asombroso éxito?$  Mientras vuelas esta misión, recuerda que el Ala-B es un caza de asalto pesado.  Deja los combates cercanos a tus escoltas Ala-A.  ¡Tu ataque contra la [[Alcaudón]] debe ser implacable!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.8">
+      <segment state="translated">
+        <source>  Immediately launch all of your torpedoes at the FRG and order your wingmen to attack.$  Ignore the TIE Fighters, your escorts will take care of them.$  When the FRG's status becomes "hull damaged", switch to single-fire mode and press home your attack.  This will increase your chances of getting the "kill shot"!$</source>
+        <target>  Lanza inmediatamente todos tus torpedos contra la FRA y ordena a sus compañeros de escuadrón que ataquen.$  Ignora los Cazas TIE; tus escoltas se encargarán de ellos.$  Cuando el estado de la FRA cambie a  "casco dañado", cambia a modo de disparo único y presiona en tu ataque.  ¡Esto aumentará tus probabilidades de obtener el "tiro de gracia"!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.0">
+      <segment>
+        <source>B-W Red (YOU)</source>
+        <target>A-B Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.1">
+      <segment>
+        <source>A-W Gold</source>
+        <target>ALFA ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.2">
+      <segment state="translated">
+        <source>FRG Shrike</source>
+        <target>FRA Alcaudón</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.3">
+      <segment>
+        <source>Nav Buoy</source>
+        <target>Boya de Navegación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.4">
+      <segment state="translated">
+        <source>Type 1 Mines</source>
+        <target>Minas Tipo 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.5">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.6">
+      <segment>
+        <source>TIE Bombers</source>
+        <target>Bombarderos TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.0.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.2.Designation">
+      <segment>
+        <source>NAV BUOY</source>
+        <target>BOYA DE NAVEGACIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.3.Designation">
+      <segment>
+        <source>NAV BUOY</source>
+        <target>BOYA DE NAVEGACIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.4.Designation">
+      <segment>
+        <source>NAV BUOY</source>
+        <target>BOYA DE NAVEGACIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.5.Designation">
+      <segment state="translated">
+        <source>SHRIKE</source>
+        <target>ALCAUDÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.6.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.7.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.8.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.9.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.10.Designation">
+      <segment state="translated">
+        <source>BANSHEE</source>
+        <target>PLAÑIDERA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.11.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.12.Designation">
+      <segment>
+        <source>PLANET 7</source>
+        <target>PLANETA 7</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.0.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.2.Designation">
+      <segment state="translated">
+        <source>SHRIKE</source>
+        <target>ALCAUDÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.3.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.4.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.5.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.6.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.7.Designation">
+      <segment state="translated">
+        <source>BANSHEE</source>
+        <target>PLAÑIDERA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.8.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.9.Designation">
+      <segment>
+        <source>NAV BUOY</source>
+        <target>BOYA DE NAVEGACIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.9.Cargo">
+      <segment state="translated">
+        <source>OTAN</source>
+        <target>OTAN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.10.Designation">
+      <segment>
+        <source>NAV BUOY</source>
+        <target>BOYA DE NAVEGACIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.10.Cargo">
+      <segment>
+        <source>OTAN</source>
+        <target>OTAN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.11.Designation">
+      <segment state="translated">
+        <source>NAV BUOY</source>
+        <target>BOYA DE NAVEGACIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.11.Cargo">
+      <segment state="translated">
+        <source>OTAN</source>
+        <target>OTAN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.CompletionMessage.0">
+      <segment state="translated">
+        <source>THE SHRIKE HAS BEEN DESTROYED!</source>
+        <target>¡LA ALCAUDÓN HA SIDO DESTRUIDA!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h4wb.CompletionMessage.1">
+      <segment state="translated">
+        <source>WAY TO GO, RED ONE!</source>
+        <target>¡ASÍ SE HACE, ROJO UNO!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.Title">
+      <segment state="translated">
+        <source>Attack Death Star Surface</source>
+        <target>Ataca Superficie de la Estrella de la Muerte</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.Description">
+      <segment state="translated">
+        <source>Compare the performance
+of the B-wing with that of
+the X-wing in this recreation
+of the initial attack against
+the Death Star's surface.</source>
+        <target>Compara el rendimiento
+del Ala-B con el del Ala-X
+en esta recreación del ataque
+inicial contra la superficie de la
+Estrella de la Muerte.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 5: Attack Death Star Surface</source>
+        <target>&gt;MH 5: Ataca la Superficie de la Estrella de la Muerte</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.2">
+      <segment state="translated">
+        <source>Engage any TIE Fighters encountered on your way to the [[Nav Buoy]].</source>
+        <target>Ataca a cualquier Caza TIE que te encuentres en tu camino hasta la [[Boya de Navegación]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.3">
+      <segment state="translated">
+        <source>Destroy all [[Turbolaser Gun Towers]] within 2 kilometers of the [[Nav Buoy]].</source>
+        <target>Destruye todas las [[Torres de Cañones Turboláser]] a menos de 2 kilómetros de la [[boya de navegación]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.4">
+      <segment state="translated">
+        <source>Destroy all [[Hangar Ports]] from which the TIE Fighters are launched.</source>
+        <target>Destruye todas las [[Salidas de Hangares]] desde las que se lanzan los Cazas TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.5">
+      <segment state="translated">
+        <source>  What if the B-wing had been available at the Battle of Yavin?$  The Death Star surface is covered with [[Turbolaser Towers]].  These batteries provide defense against small spacecraft such as starfighters.  The Death Star also carries a large contingent of [[TIE Fighters]] and [[Bombers]].  Both of these forces must be countered before we can launch our assault on the [[Death Star's Trench]].$ </source>
+        <target>  ¿Y si el Ala-B hubiera estado disponible durante la Batalla de Yavin?$  La superficie de la Estrella de la Muerte está cubierta con [[Torres Turboláser]].  Esta artillería proporciona defensa contra pequeñas naves como los cazas estelares.  La Estrella de la Muerte también lleva consigo un gran contingente de [[Cazas]] y [[Bombarderos TIE]].  La combinación de estas dos fuerzas debe ser contrarrestada antes de que podamos lanzar nuestro ataque a la [[Trinchera de la Estrella de la Muerte]].$</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.6">
+      <segment state="translated">
+        <source>  Your mission is to rendezvous at the Nav Buoy and destroy all the Turbolaser Towers within a [[two]] kilometers radius.  You must also destroy the four[[ Hangar Port exits]] that are camouflaged as simple supply containers.  From here, TIE squadrons exit the interior of the Death Star.$$&gt;Good Luck!$ $&gt;May the Force be with you!</source>
+        <target>  Tu misión es encontrarte con la boya de navegación y destruir todas las Torres Turboláser dentro de un radio de [[dos]] kilómetros.  También debes destruir las cuatro [[salidas de hangar]] que están camufladas como simples contenedores de suministro.  A través de éstas salen escuadrones de cazas TIE del interior de la Estrella de la Muerte.$$&gt;¡Buena Suerte!$ $&gt;¡Que la Fuerza te acompañe!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.7">
+      <segment state="translated">
+        <source>B-wing [[Red]] will clear the Death Star's defenses near this Nav Buoy.</source>
+        <target>Ala-B [[Rojo]] despejará las defensas de la Estrella de la Muerte cerca de esta Boya de Navegación.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.8">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.9">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.10">
+      <segment state="translated">
+        <source>  Scroll through the target list to the 1st CON and assign it to memory (Shift-F5).  Assign the other three to memory locations, also.$  Order your wingman to engage the nearest enemy while you attack the 1st CON.  Use 3 torpedoes.$  Proceed to the 2nd, then the 4th, and finally the 3rd.  Destroy each with 3 torpedoes.$  Break off to dogfight only when absolutely necessary. </source>
+        <target>  Avanza a través de la lista de objetivos hasta el primer CON y asígnalo a memoria (Shift-F5).  Asigna también los otros tres a ubicaciones de memoria.$  Ordena a tu compañero que ataque al enemigo más próximo mientras tú atacas al primer CON.  Utiliza 3 torpedos.$  Continúa al segundo, luego al cuarto y finalmente al tercero.  Destruye cada uno con 3 torpedos.$  Interrumpe para combate cercano sólo cuando sea absolutamente necesario.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Tag.0">
+      <segment>
+        <source>B-W Red (YOU)</source>
+        <target>A-B Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Tag.1">
+      <segment>
+        <source>TIE Fighters</source>
+        <target>Cazas TIE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Tag.2">
+      <segment>
+        <source>Nav Buoy</source>
+        <target>Boya de Navegación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Tag.3">
+      <segment state="translated">
+        <source>Hangar Port</source>
+        <target>Salida de Hangar</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.0.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.1.Designation">
+      <segment>
+        <source>ALPHA 1</source>
+        <target>ALFA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.2.Designation">
+      <segment>
+        <source>ALPHA 2</source>
+        <target>ALFA 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.3.Designation">
+      <segment>
+        <source>ALPHA 3</source>
+        <target>ALFA 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.4.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.5.Designation">
+      <segment state="translated">
+        <source>BETA 2</source>
+        <target>BETA 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.6.Designation">
+      <segment state="translated">
+        <source>BETA 3</source>
+        <target>BETA 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.7.Designation">
+      <segment>
+        <source>GAMMA 1</source>
+        <target>GAMMA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.8.Designation">
+      <segment>
+        <source>GAMMA 2</source>
+        <target>GAMMA 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.9.Designation">
+      <segment>
+        <source>GAMMA 3</source>
+        <target>GAMMA 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.10.Designation">
+      <segment>
+        <source>DELTA 1</source>
+        <target>DELTA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.11.Designation">
+      <segment>
+        <source>DELTA 2</source>
+        <target>DELTA 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.13.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>SALIDA DE HANGAR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.13.Cargo">
+      <segment>
+        <source>T/F ALPHA</source>
+        <target>T/C ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.14.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>SALIDA DE HANGAR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.14.Cargo">
+      <segment>
+        <source>T/B BETA</source>
+        <target>T/B BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.15.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>SALIDA DE HANGAR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.15.Cargo">
+      <segment state="translated">
+        <source>T/F GAMMA</source>
+        <target>T/C GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.16.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>SALIDA DE HANGAR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.16.Cargo">
+      <segment state="translated">
+        <source>T/I DELTA</source>
+        <target>T/I DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.0.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.1.Designation">
+      <segment>
+        <source>ALPHA 1</source>
+        <target>ALFA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.2.Designation">
+      <segment>
+        <source>ALPHA 2</source>
+        <target>ALFA 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.3.Designation">
+      <segment>
+        <source>ALPHA 3</source>
+        <target>ALFA 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.4.Designation">
+      <segment>
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.5.Designation">
+      <segment>
+        <source>BETA 2</source>
+        <target>BETA 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.6.Designation">
+      <segment state="translated">
+        <source>BETA 3</source>
+        <target>BETA 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.7.Designation">
+      <segment>
+        <source>GAMMA 1</source>
+        <target>GAMMA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.8.Designation">
+      <segment>
+        <source>GAMMA 2</source>
+        <target>GAMMA 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.9.Designation">
+      <segment>
+        <source>GAMMA 3</source>
+        <target>GAMMA 3</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.10.Designation">
+      <segment>
+        <source>DELTA 1</source>
+        <target>DELTA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.11.Designation">
+      <segment>
+        <source>DELTA 2</source>
+        <target>DELTA 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.12.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>SALIDA DE HANGAR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.12.Cargo">
+      <segment>
+        <source>T/F ALPHA</source>
+        <target>T/C ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.13.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>SALIDA DE HANGAR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.13.Cargo">
+      <segment state="translated">
+        <source>T/B BETA</source>
+        <target>T/B BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.14.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>SALIDA DE HANGAR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.14.Cargo">
+      <segment>
+        <source>T/F GAMMA</source>
+        <target>T/C GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.15.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>SALIDA DE HANGAR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.15.Cargo">
+      <segment state="translated">
+        <source>T/I DELTA</source>
+        <target>T/I DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.CompletionMessage.0">
+      <segment state="translated">
+        <source>All TIE fighter hangar ports destroyed in target area</source>
+        <target>Todas las salidas de hangares de cazas TIE destruidos en el área objetivo.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h5wb.CompletionMessage.1">
+      <segment state="translated">
+        <source>All laser towers cleared in target area</source>
+        <target>Todas las torres láser despejadas en zona de objetivo.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.Title">
+      <segment state="translated">
+        <source>Death Star Trench Run</source>
+        <target>La Trinchera de la Estrella de la Muerte</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.Description">
+      <segment state="translated">
+        <source>Relive the climactic moment
+of the Battle of Yavin as
+you pilot your B-wing in
+the harrowing Trench Run!</source>
+        <target>¡Revive el momento culminante
+de la Batalla de Yavin mientras
+pilotas tu Ala-B durante el impresionante
+vuelo por la Trinchera!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 6: Death Star Trench Run</source>
+        <target>&gt;MH 6: La Trinchera de la Estrella de la Muerte</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.2">
+      <segment state="translated">
+        <source>In your[[ ]]B-wing follow the [[Nav Buoys]] to the Death Star Trench.</source>
+        <target>En tu [[Ala-B]] sigue las [[boyas de navegación]] hasta la Trinchera de la Estrella de la Muerte.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.3">
+      <segment state="translated">
+        <source>Turn [[left]] and [[descend]] into the Death Star Trench.</source>
+        <target>Gira a la [[izquierda]] y [[desciende]] a la Trinchera de la Estrella de la Muerte.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.4">
+      <segment state="translated">
+        <source>Beware of Imperial [[TIE fighters]].  They will send their best after you.</source>
+        <target>Cuidado con los [[cazas TIE]] del Imperio.  Enviarán a sus élites tras tu nave.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.5">
+      <segment state="translated">
+        <source>Follow the trench to the[[ Exhaust Port]].  Use your [[Proton Torpedoes]]!</source>
+        <target>Sigue la trinchera hasta el [[Conducto de Ventilación]].  ¡Utiliza tus [[Torpedos de Protones]]!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.6">
+      <segment state="translated">
+        <source>  This mission looks again at the [[Battle of Yavin]].  How well suited would a B-wing have been for the crucial Death Star Trench Run?  With almost as much speed as an X-wing and considerably better armor and shields, it seems the B-wing would have been ideally suited to the task!$  As you know, Alliance scientists and engineers had analyzed the captured technical readouts of the Death Star and discovered its [[weak spot]]. </source>
+        <target>Esta misión vuelve a examinar la [[Batalla de Yavin]]. ¿Cuán adecuado hubiera sido un Ala-B para la crucial aproximación dentro de la Trinchera de la Estrella de la Muerte?  Con casi tanta velocidad como una Ala-X y considerablemente mejor blindaje y escudos, ¡parece que el Ala-B hubiera tenido una aptitud ideal para la tarea!  Como sabes, los científicos e ingenieros de la Alianza habían analizado los datos técnicos capturados de la Estrella de la Muerte y descubierto su [[punto débil]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.7">
+      <segment state="translated">
+        <source>  The Death Star proved to be vulnerable through an [[exhaust outlet port]] located in an equatorial trench on the battle station's surface.  A[[ proton torpedo]] fired directly into this exhaust port would cause a [[chain reaction]] in the artificial moon's reactor core that would destroy the entire Death Star.$  This daring attack would be made by a single starfighter in the hands of an exceptionally courageous pilot!</source>
+        <target>La Estrella de la Muerte demostró ser vulnerable por una [[salida de ventilación]] ubicada en una trinchera ecuatorial en la superficie de la estación de combate. Un [[torpedo de protones]] disparado directamente dentro de ese conducto de ventilación causaría una [[reacción en cadena]] en el núcleo del reactor de la luna artificial que destruiría toda la Estrella de la Muerte.$  ¡Este audaz ataque sería realizado por un único caza en manos de un piloto excepcionalmente valiente!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.8">
+      <segment state="translated">
+        <source>  Follow the Nav Buoys to the trench, turn left and dive down into it.  Your B-wing's engines have been modified to triple their thrust.  Your ship's computer will boost their output once you are in the trench.$  The exhaust port is located at the end of the trench.  Watch your [[targeting computer]] for when the exhaust port comes into range of your proton torpedoes.$&gt;May the Force be with you!</source>
+        <target>  Sigue las Boyas de Navegación hasta la trinchera, gira a la izquierda y desciende dentro de ella.  Los motores de tu Ala-B han sido modificados para triplicar su empuje.  La computadora de tu nave aumentará su potencia una vez que estés en la trinchera.$  La salida de escape está ubicada al final de la trinchera.  Vigila tu [[computadora de fijado de objetivos]] para cuando la salida de escape esté al alcance de tus torpedos de protones.$&gt;¡Que la Fuerza te acompañe!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.11">
+      <segment state="translated">
+        <source>  Set cannon recharge rate to full, and engage T/F Alpha.  Once they're destroyed, set the shield recharge to full and head for the trench.$  Cannons and shields should be fully charged when you reach the trench.  Redirect all energy to the engines for the dive into the trench.  Reset cannons to full recharge and set shields all forward.  As you close on the exhaust port, transfer cannon energy to the (forward) shields.</source>
+        <target>  Establece la recarga de los cañones al máximo, y enfréntate a T/C Alfa.  Una vez destruidos, establece la recarga de escudos al máximo y dirígete hacia la trinchera.$  Los cañones y los escudos deberían estar completamente cargados cuando llegues a la trinchera.  Redirige toda la energía a los motores para la entrada a la trinchera.  Reestablece la recarga de los cañones al máximo y orienta los escudos completamente hacia delante.  Conforme te acercas a la salida de ventilación, transfiere energía de las armas a escudos (delanteros).</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.0">
+      <segment>
+        <source>B-W Red (YOU)</source>
+        <target>A-B Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.1">
+      <segment>
+        <source>Nav Buoys</source>
+        <target>Boya de Navegación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.2">
+      <segment state="translated">
+        <source>&lt;- Trench</source>
+        <target>&lt;- Trinchera</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.3">
+      <segment state="translated">
+        <source>Exhaust Port</source>
+        <target>Salida de Ventilación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.4">
+      <segment state="translated">
+        <source>[+]</source>
+        <target>[+]</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.5">
+      <segment state="translated">
+        <source>(*)</source>
+        <target>(*)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.6">
+      <segment state="translated">
+        <source>[*]</source>
+        <target>[*]</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.1.Designation">
+      <segment state="translated">
+        <source>NAV BUOY 1</source>
+        <target>BOYA DE NAVEGACIÓN 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.2.Designation">
+      <segment>
+        <source>NAV BUOY 2</source>
+        <target>BOYA DE NAVEGACIÓN 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.3.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.4.Designation">
+      <segment>
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.5.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.6.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.7.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.0.Designation">
+      <segment>
+        <source>RED 1</source>
+        <target>ROJO 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.1.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.2.Designation">
+      <segment>
+        <source>BETA 1</source>
+        <target>BETA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.3.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.4.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.5.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.6.Designation">
+      <segment>
+        <source>NAV BUOY 1</source>
+        <target>BOYA DE NAVEGACIÓN 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.7.Designation">
+      <segment>
+        <source>NAV BUOY 2</source>
+        <target>BOYA DE NAVEGACIÓN 2</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.CompletionMessage.0">
+      <segment state="translated">
+        <source>You've hit the exhaust port, that was one in a BILLION!</source>
+        <target>¡Has acertado en la salida de ventilación! ¡Era un disparo entre MIL MILLONES!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.t5h6mb.CompletionMessage.1">
+      <segment state="translated">
+        <source>RED ONE, GET OUT OF THERE!</source>
+        <target>¡ROJO UNO, SAL DE AHÍ!</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

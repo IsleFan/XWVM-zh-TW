@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "python_version": "3.15.0",
+  "tested_from_fresh_zip_extraction": true,
+  "network_used": false,
+  "game_executed": false,
+  "external_package_dependencies": [],
+  "commands": [
+    {
+      "command": [
+        "python3",
+        "tools/localization_tool.py",
+        "validate"
+      ],
+      "exit_code": 0,
+      "stdout": "{\"ok\": true, \"entries\": 9391, \"required_nonempty_sources\": 8940, \"translated_entries\": 0, \"translated_required\": 0, \"untranslated_required\": 8940, \"translated_unicode_codepoints\": 0, \"game_runtime_tested\": false, \"font_support_verified\": false}\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "python3",
+        "-m",
+        "unittest",
+        "discover",
+        "-s",
+        "tools",
+        "-p",
+        "test_*.py",
+        "-v"
+      ],
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": "test_braces_tags_markers_escapes (test_localization_tool.SyntaxTests.test_braces_tags_markers_escapes) ... ok\ntest_inline_xml_and_ampersand_roundtrip (test_localization_tool.SyntaxTests.test_inline_xml_and_ampersand_roundtrip) ... ok\ntest_nested_smartstrings_and_branch_keys (test_localization_tool.SyntaxTests.test_nested_smartstrings_and_branch_keys) ... ok\ntest_placeholders_reorder_and_missing (test_localization_tool.SyntaxTests.test_placeholders_reorder_and_missing) ... ok\ntest_baseline_counts_and_no_translations (test_localization_tool.WorkspaceTests.test_baseline_counts_and_no_translations) ... ok\ntest_broken_json_is_rejected (test_localization_tool.WorkspaceTests.test_broken_json_is_rejected) ... ok\ntest_complete_check_refuses_unfinished_pack (test_localization_tool.WorkspaceTests.test_complete_check_refuses_unfinished_pack) ... ok\ntest_duplicate_and_missing_id_are_rejected (test_localization_tool.WorkspaceTests.test_duplicate_and_missing_id_are_rejected) ... ok\ntest_modified_source_is_rejected (test_localization_tool.WorkspaceTests.test_modified_source_is_rejected) ... ok\ntest_native_roundtrip_all_sources_and_ids (test_localization_tool.WorkspaceTests.test_native_roundtrip_all_sources_and_ids) ... ok\ntest_no_overwrite_or_path_escape (test_localization_tool.WorkspaceTests.test_no_overwrite_or_path_escape) ... ok\ntest_source_hash_tampering_is_detected (test_localization_tool.WorkspaceTests.test_source_hash_tampering_is_detected) ... ok\ntest_translated_xml_fragment_and_csv_roundtrip (test_localization_tool.WorkspaceTests.test_translated_xml_fragment_and_csv_roundtrip) ... ok\ntest_unicode_translation_and_progress (test_localization_tool.WorkspaceTests.test_unicode_translation_and_progress) ... ok\n\n----------------------------------------------------------------------\nRan 14 tests in 1.523s\n\nOK\n"
+    },
+    {
+      "command": [
+        "python3",
+        "tools/localization_tool.py",
+        "build",
+        "--name",
+        "offline-handoff-check"
+      ],
+      "exit_code": 0,
+      "stdout": "/private/var/folders/fl/t5h9pz0s68x2w4b_25p3f6xr0000gn/T/xwvm-cloud-offline-s5j2xk_a/extracted/XWVM-zh-TW-translation-resources/exports/offline-handoff-check\n",
+      "stderr": ""
+    }
+  ]
+}

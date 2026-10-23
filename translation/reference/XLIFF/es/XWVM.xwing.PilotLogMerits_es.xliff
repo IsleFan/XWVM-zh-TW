@@ -1,0 +1,291 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.xwing.PilotLogMerits">
+    
+      <unit id="PilotLog.ExitButton.Label" >
+        <segment>
+          <source>Exit Pilot Log</source>
+          <target>Salir de Hoja de Servicios</target>
+        </segment>
+      </unit>
+      <unit id="PilotUniform.ExitButton.Label" >
+        <segment>
+          <source>Exit Uniform and Medals</source>
+          <target>Salir de Uniforme y Medallas</target>
+        </segment>
+      </unit>
+      <unit id="PilotLog.Stats.CompletedTrainingTitle" >
+        <segment>
+          <source>Completed Training Levels</source>
+          <target>Niveles de Entrenamiento Completados</target>
+        </segment>
+      </unit>
+      <unit id="PilotLog.Stats.Generic.ContinuedBrackets" >
+        <segment>
+          <source>(Continued)</source>
+          <target>(Continuación)</target>
+        </segment>
+      </unit>
+      <unit id="Scores.MissionHighScoreRecordRow" >
+		<notes>
+			<note>[[, ]], ((, and )) denote color highlights. | denote a separation.</note>
+		</notes>
+        <segment>
+          <source>[[{pilotName}]]|((Score [[{score}]]|Kills [[{kills}]]))</source>
+          <target>[[{pilotName}]]|((Puntuación [[{score}]]|Derribos [[{kills}]]))</target>
+        </segment>
+      </unit>
+      <unit id="Scores.HighScoreTitle" >
+        <segment>
+          <source>High Scores</source>
+          <target>Récords</target>
+        </segment>
+      </unit>
+      <unit id="Scores.NoHighScoresAvailable" >
+        <segment>
+          <source>No High Scores</source>
+          <target>No hay Récords</target>
+        </segment>
+      </unit>
+      <unit id="Scores.TrainingHighScoreRecordRow" >
+		<notes>
+			<note>[[, ]], ((, and )) denote color highlights. | denote a separation.</note>
+		</notes>
+        <segment>
+          <source>[[{pilotName}]]|((Score [[{score}]]|Level [[{level}]]))</source>
+          <target>[[{pilotName}]]|((Puntuación [[{score}]]|Nivel [[{level}]]))</target>
+        </segment>
+      </unit>
+      <unit id="AwardType.TourMedal" >
+        <segment>
+          <source>Tour Medal</source>
+          <target>Medalla de Campaña</target>
+        </segment>
+      </unit>
+      <unit id="AwardType.HistoricalFlightPatch" >
+        <segment>
+          <source>Historical Flight Patch</source>
+          <target>Parche de Vuelo Histórico</target>
+        </segment>
+      </unit>
+      <unit id="AwardType.TourRibbon" >
+        <segment>
+          <source>Tour Ribbon</source>
+          <target>Lazo de Campaña</target>
+        </segment>
+      </unit>
+      <unit id="AwardType.Kalidor" >
+        <segment>
+          <source>Kalidor Crescent</source>
+          <target>Media Luna Kalidor</target>
+        </segment>
+      </unit>
+      <unit id="AwardType.FlightBadge" >
+        <segment>
+          <source>Flight Badge</source>
+          <target>Insignia de Vuelo</target>
+        </segment>
+      </unit>    
+	
+	<unit id="PilotLog.Stats.TitleLine1" >
+		<notes>
+			<note>The (* and *) represent highlight in bold.</note>
+		</notes>
+        <segment>
+          <source>(*{pilotRank}*) {pilotName}</source>
+          <target>(*{pilotRank}*) {pilotName}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TitleLine2" >
+		<notes>
+			<note>The (* and *) represent highlight in bold. [[ and ]] represent highlight in white.</note>
+		</notes>
+        <segment>
+          <source>(*{pilotStatus}*) with (*[[{score}]]*) Tour of Duty points</source>
+          <target>(*{pilotStatus:choose(Alive|Dead|Captured):Vivo|Fallecido|Capturado}*) con (*[[{score}]]*) puntos de Campaña</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.PpgNoLevelsCompleted" >		
+        <segment>
+          <source>{species.ONE} has not completed any levels</source>
+          <target>No se ha completado ningún nivel con {species.GENDER:choose(M|F):el|la} {species.ONE}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.PpgLevelsCompleted" >		
+		<notes>
+			<note>(( and )) represent highlight in white.</note>
+		</notes>
+        <segment>
+          <source>{species.ONE} has completed level (({level}))</source>
+          <target>Con {species.GENDER:choose(M|F):el|la} {species.ONE} se ha completado el nivel (({level}))</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.PpgNoTrainingCompleted" >				
+        <segment>
+          <source>No training levels completed.</source>
+          <target>No se han completado niveles de entrenamiento.</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TrainingBestScoresTitle" >				
+        <segment>
+          <source>Training Best Scores</source>
+          <target>Récords de Entrenamiento</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TrainingBestScoreEntry" >				
+        <segment>
+          <source>{species.ONE} has a best score of (({score}))</source>
+          <target>Con {species.GENDER:choose(M|F):el|la} {species.ONE} se tiene un récord de (({score}))</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.PageOfPages" >				
+        <segment>
+          <source>Page {page} of {total}</source>
+          <target>Página {page} de {total}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.HistoricBestScoresTitle" >				
+        <segment>
+          <source>Best Scores for Historic Combat Mission:</source>
+          <target>Mejores Puntuaciones de Misiones de Combate Históricas:</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.HistoricBestScoresEntry" >				
+        <segment>
+          <source>Mission (({mission})) with (({score})) points</source>
+          <target>Misión (({mission})) con (({score})) puntos</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.CompletionRange" >				
+		<notes>
+			<note>
+				The {collection} variable contains the name of the mission collection, such as "Y-wing Historical Missions"
+				The {range} variable will look like "1, 3, 5-10" and indicates which missions in the collection have been completed.
+				If no mission has been completed, then the {range} variable will contain the text in the PilotLog.Stats.NoCompletion string below.
+			</note>
+		</notes>
+        <segment>
+          <source>{collection} (Completed {range})</source>
+          <target>{collection} (Completadas {range})</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.NoCompletion" >				
+		<notes>
+			<note>
+				This makes reference to no mission in a collection having being completed. 
+				It will appear as the {range} variable in the PilotLog.Stats.CompletionRange string above.
+			</note>
+		</notes>
+        <segment>
+          <source>none</source>
+          <target>ninguna</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodSpaceVictoriesTitle" >				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment>
+          <source>TOD Space Victories (Captured): [[{kills} ({captures})]]</source>
+          <target>Derribos Espaciales en Campaña (Capturas): [[{kills} ({captures})]]</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodSurfaceVictories" >				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment>
+          <source>TOD Surface Victories: [[{kills}]]</source>
+          <target>Derribos de Superficie en Campaña: [[{kills}]]</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodLasersFired" >				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment>
+          <source>TOD Lasers Fired: [[{fired}]]</source>
+          <target>Láseres Disparados en Campaña: [[{fired}]]</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.CraftHits" >				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment>
+          <source>Craft Hits: [[{hits} ({percent}%)]]</source>
+          <target>Impactos en Naves: [[{hits} ({percent}%)]]</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.GroundHits" >				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment>
+          <source>Ground Hits: [[{hits} ({percent}%)]]</source>
+          <target>Impactos en Superficie: [[{hits} ({percent}%)]]</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodProjectilesFired" >				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment>
+          <source>TOD Homing Projectiles Fired: [[{fired}]]</source>
+          <target>Ojivas Rastreadoras Disparadas en Campaña: [[{fired}]]</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodCraftLost" >				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment>
+          <source>TOD Craft Lost: [[{lost}]]</source>
+          <target>Naves Perdidas en Campaña: [[{lost}]]</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.TodTourDetails" >				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment>
+          <source>Tour [[{tour}]] is {finished:cond:Complete|In Progress}</source>
+          <target>La Campaña [[{tour}]] está {finished:cond:Completada|En Progreso}</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.OperationScoresTitle" >				
+        <segment>
+          <source>Scores for each Operation:</source>
+          <target>Puntuaciones de cada Operación:</target>
+        </segment>
+	</unit>
+	<unit id="PilotLog.Stats.OperationScoresEntry" >				
+		<notes>
+			<note>
+				[[ and ]] is color highlight
+			</note>
+		</notes>
+        <segment>
+          <source>Operation [[{mission}]] with [[{score}]] Points</source>
+          <target>Operación [[{mission}]] con [[{score}]] Puntos</target>
+        </segment>
+	</unit>
+
+  </file>
+</xliff>

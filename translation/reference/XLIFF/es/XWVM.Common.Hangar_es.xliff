@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" trgLang="es">
+	<file id="XWVM.Common.Hangar" srcLang="en" trgLang="es">
+		<unit id="Hangar.Ship.NoWeapons">
+			<segment>
+				<source>No Weapons!</source>
+				<target>¡Sin Armas!</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.IonCannons">
+			<segment>
+				<source>Ion Cannons: {count}</source>
+				<target>Cañones de Iones: {count}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.LaserCannons">
+			<segment>
+				<source>Laser Cannons: {count}</source>
+				<target>Cañones Láser: {count}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.MissileLaunchers">
+			<segment>
+				<source>Missile Launchers: {count}</source>
+				<target>Lanzamisiles: {count}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.MagPulseLaunchers">
+			<segment>
+				<source>MagPulse Launchers: {count}</source>
+				<target>Lanzadores de Pulso Magnético: {count}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.TorpedoLaunchers">
+			<segment>
+				<source>Torpedo Launchers: {count}</source>
+				<target>Lanzatorpedos: {count}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.BombTubes">
+			<segment>
+				<source>Bomb Tubes: {count}</source>
+				<target>Lanzadores de Bombas: {count}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.OptionalWarheads">
+			<segment>
+				<source>Optional Warheads: {count}</source>
+				<target>Ojivas Opcionales: {count}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.OptionalBeam">
+			<segment>
+				<source>Optional Beam: {count}</source>
+				<target>Arma de Haz Opcional: {count}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.SpecialWeapon">
+			<segment>
+				<source>Special: {count}</source>
+				<target>Especial: {count}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.IndividualLoad">
+			<segment>
+				<source>({count} each)</source>
+				<target>({count} en cada uno)</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Role.None">
+			<segment>
+				<source>No Combat Role</source>
+				<target>Sin Rol en Combate</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Role.Interceptor">
+			<segment>
+				<source>Interceptor</source>
+				<target>Interceptor</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Role.Bomber">
+			<segment>
+				<source>Bomber</source>
+				<target>Bombardero</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Role.Superiority">
+			<segment>
+				<source>Superiority</source>
+				<target>Superioridad Espacial</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.None">
+			<segment>
+				<source>None</source>
+				<target>Sin Tipo</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Object">
+			<segment>
+				<source>Object</source>
+				<target>Objeto</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Utility">
+			<segment>
+				<source>Utility</source>
+				<target>De Servicio</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Fighter">
+			<segment>
+				<source>Fighter</source>
+				<target>Caza</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Transport">
+			<segment>
+				<source>Transport</source>
+				<target>Transporte</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Freighter">
+			<segment>
+				<source>Freighter</source>
+				<target>Carguero</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Container">
+			<segment>
+				<source>Container</source>
+				<target>Contenedor</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Capital">
+			<segment>
+				<source>Capital Ship</source>
+				<target>Nave Capital</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Mine">
+			<segment>
+				<source>Mine</source>
+				<target>Mina</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Asteroid">
+			<segment>
+				<source>Asteroid</source>
+				<target>Asteroide</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Weapon">
+			<segment>
+				<source>Weapon</source>
+				<target>Arma</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.PPGPlatform">
+			<segment>
+				<source>Proving Grounds Platform</source>
+				<target>Plataforma de Entrenamiento</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.SurfaceBuilding">
+			<segment>
+				<source>Surface Building</source>
+				<target>Estructura de Superficie</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Debris">
+			<segment>
+				<source>Debris</source>
+				<target>Escombros</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Platform">
+			<segment>
+				<source>Platform</source>
+				<target>Plataforma</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.Ship.StatsText">
+			<segment>
+				<source>{speed} MGLT, {shield} SDB, {hull} RU</source>
+				<target>{speed} MGLT, {shield} SDB, {hull} RU</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.Title">
+			<segment>
+				<source>Pilot Assignment</source>
+				<target>Asignación de Pilotos</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.CraftLoadout.Title">
+			<segment>
+				<source>Craft Selection and Loadout</source>
+				<target>Selección de Nave y Equipamiento</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.SelectFromRosterButton.Label">
+			<segment>
+				<source>Select Pilot from Roster</source>
+				<target>Escoger Piloto de la Lista</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.UnassignButton.Label">
+			<segment>
+				<source>Unassign Pilot</source>
+				<target>Desasignar Piloto</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.AutoassignButton.Label">
+			<segment>
+				<source>Auto-assign Pilots</source>
+				<target>Asignar Pilotos Automáticamente</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.AssignButton.Label">
+			<segment>
+				<source>Assign Selected Pilot</source>
+				<target>Asignar Piloto Seleccionado</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.ReAssignButton.Label">
+			<segment>
+				<source>Re-Assign Selected Pilot</source>
+				<target>Reasignar Piloto Seleccionado</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.CancelButton.Label">
+			<segment>
+				<source>Cancel</source>
+				<target>Cancelar</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.Formation.Label">
+			<segment>
+				<source>Formation View Mode:</source>
+				<target>Visualización de Formación:</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.Formation.TopLabel">
+			<segment>
+				<source>Top View</source>
+				<target>Desde Arriba</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.Formation.RearLabel">
+			<segment>
+				<source>Rear View</source>
+				<target>Desde Detrás</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.FGTypeAndDesignation">
+			<segment>
+				<source>{species.ONE} {designation}</source>
+				<target>{species.ONE} {designation}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.NoCraftSelected">
+			<segment>
+				<source>No craft selected.</source>
+				<target>Ninguna nave seleccionada.</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.NoPilotSelected">
+			<segment>
+				<source>No pilot selected.</source>
+				<target>Ningún piloto seleccionado.</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.CraftSelectedDesignation">
+			<segment>
+				<source>Selected craft: {designation}</source>
+				<target>Nave seleccionada: {designation}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.PilotSelectedName">
+			<segment>
+				<source>Pilot: {name}</source>
+				<target>Piloto: {name}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.PilotSummary">
+			<segment>
+				<source>{rank:choose(FltCadet|FltOfficer|Lieutenant|Captain|Commander|General):Flight Cadet|Flight Officer|Lieutenant|Captain|Commander|General}
+[[{name}]]
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}: {score}</source>
+				<target>{rank:choose(FltCadet|FltOfficer|Lieutenant|Captain|Commander|General):Cadete|Oficial de Vuelo|Teniente|Capitán|Comandante|General}
+[[{name}]]
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Novato|Oficial|Veterano|As|As de Ases|Jedi}: {score}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.NpcPilotSummaryA">
+			<segment>
+				<source>{designation} Squadron {rank:choose(Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major):Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major}
+[[{name}]]
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}</source>
+				<target>{rank:choose(Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major):Recluta|Colaborador|Mercenario|Cadete|Oficial|Teniente|Capitán|Comandante} del Escuadrón {designation}
+[[{name}]]
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Novato|Oficial|Veterano|As|As de Ases|Jedi}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.NpcPilotSummaryB">
+			<segment>
+				<source>[[{name}]]
+{rank:choose(Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major):Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major} of the {designation} Squadron
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}</source>
+				<target>[[{name}]]
+{rank:choose(Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major):Recluta|Colaborador|Mercenario|Cadete|Oficial|Teniente|Capitán|Comandante} del Escuadrón {designation}
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Novato|Oficial|Veterano|As|As de Ases|Jedi}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.RosterPilotRankedName">
+			<segment>
+				<source>{rank:choose(FltCadet|FltOfficer|Lieutenant|Captain|Commander|General):FC|FO|LT|CP|CM|GN} {name}</source>
+				<target>{rank:choose(FltCadet|FltOfficer|Lieutenant|Captain|Commander|General):CD|OV|TE|CP|CO|GE} {name}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.RosterPilotSkill">
+			<segment>
+				<source>{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}</source>
+				<target>{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Novato|Oficial|Veterano|As|As de Ases|Jedi}</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.CraftSelection.Label">
+			<segment>
+				<source>Craft Selection:</source>
+				<target>Selección de Nave:</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.HardpointConfiguration.Label">
+			<segment>
+				<source>Hardpoint Configuration:</source>
+				<target>Configuración de Armamento:</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.PrimaryWarheads.Label">
+			<segment>
+				<source>Primary Warheads:</source>
+				<target>Ojivas Principales:</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.SecondaryWarheads.Label">
+			<segment>
+				<source>Secondary Warheads:</source>
+				<target>Ojivas Secundarias:</target>
+			</segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.BeamInstallation.Label">
+			<segment>
+				<source>Beam Installation:</source>
+				<target>Arma de Haz:</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.None">
+			<segment>
+				<source>None</source>
+				<target>Ningun{count:plural:a|as}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.RebelLaser">
+			<segment>
+				<source>Rebel {count:plural:Laser|Lasers}</source>
+				<target>{count:plural:Láser Rebelde|Láseres Rebeldes}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.ImperialLaser">
+			<segment>
+				<source>Imperial {count:plural:Laser|Lasers}</source>
+				<target>{count:plural:Láser Imperial|Láseres Imperiales}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.RebelWeakLaser">
+			<segment>
+				<source>Weak Rebel {count:plural:Laser|Lasers}</source>
+				<target>{count:plural:Láser Rebelde Débil|Láseres Rebeldes Débiles}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.ImperialWeakLaser">
+			<segment>
+				<source>Weak Imperial {count:plural:Laser|Lasers}</source>
+				<target>{count:plural:Láser Imperial Débil|Láseres Imperiales Débiles}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.Ion">
+			<segment>
+				<source>{count:plural:Ion|Ions}</source>
+				<target>{count:plural:Ion|Iones}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.IonWeak">
+			<segment>
+				<source>Weak {count:plural:Ion|Ions}</source>
+				<target>{count:plural:Ion Débil|Iones Débiles}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.RebelTurboLaser">
+			<segment>
+				<source>Rebel Turbo{count:plural:laser|lasers}</source>
+				<target>{count:plural:Turboláser Rebelde|Turboláseres Rebeldes}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.ImperialTurboLaser">
+			<segment>
+				<source>Imperial Turbo{count:plural:laser|lasers}</source>
+				<target>{count:plural:Turboláser Imperial|Turboláseres Imperiales}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.Missile">
+			<segment>
+				<source>Concussion Missil{count:plural:e|es}</source>
+				<target>Misi{count:plural:l|les} de Impacto</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.Torpedo">
+			<segment>
+				<source>Proton Torped{count:plural:o|oes}</source>
+				<target>Torped{count:plural:o|os} de Protones</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.AdvancedMissile">
+			<segment>
+				<source>Advanced Missil{count:plural:e|es}</source>
+				<target>{count:plural:Misil Avanzado|Misiles Avanzados}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.AdvancedTorpedo">
+			<segment>
+				<source>Advanced Torped{count:plural:o|oes}</source>
+				<target>{count:plural:Torpedo Avanzado|Torpedos Avanzados}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.Bomb">
+			<segment>
+				<source>Space Bom{count:plural:b|bs}</source>
+				<target>{count:plural:Bomba Espacial|Bombas Espaciales}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.HeavyRocket">
+			<segment>
+				<source>Heavy Rocke{count:plural:t|ts}</source>
+				<target>{count:plural:Cohete Pesado|Cohetes Pesados}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.MagPulse">
+			<segment>
+				<source>Mag Puls{count:plural:e|es}</source>
+				<target>{count:plural:Pulso Magnético|Pulsos Magnéticos}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.TurboMagPulse">
+			<segment>
+				<source>Turbo-Mag Puls{count:plural:e|es}</source>
+				<target>Turbo-{count:plural:Pulso Magnético|Pulsos Magnéticos}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.SuperMagPulse">
+			<segment>
+				<source>Super Mag Puls{count:plural:e|es}</source>
+				<target>Super-{count:plural:Pulso Magnético|Pulsos Magnéticos}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.TractorBeam">
+			<segment>
+				<source>Tractor Bea{count:plural:m|ms}</source>
+				<target>{count:plural:Haz Tractor|Haces Tractores}</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.JammingBeam">
+			<segment>
+				<source>Jamming Bea{count:plural:m|ms}</source>
+				<target>{count:plural:Haz|Haces} de Interferencia</target>
+			</segment>
+		</unit>
+		<unit id="WeaponType.DecoyBeam">
+			<segment>
+				<source>Decoy Bea{count:plural:m|ms}</source>
+				<target>{count:plural:Haz|Haces} de Señuelo</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.Standard">
+			<segment>
+				<source>Standard</source>
+				<target>Estándar</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.YW-BTLA4">
+			<segment>
+				<source>BTL-A4 Forward Ion Cannons</source>
+				<target>BTL-A4 Cañones de Iones al Frente</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.YW-BTLS3-Ion">
+			<segment>
+				<source>BTL-S3 Ion cannon turret</source>
+				<target>BTL-S3 Torreta de Cañones de Iones</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.YW-BTLS3-Blaster">
+			<segment>
+				<source>BTL-S3 Blaster cannon turret</source>
+				<target>BTL-S3 Torreta de Cañones Bláster</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.TI-Wing-Lasers">
+			<segment>
+				<source>Wing-mounted Lasers</source>
+				<target>Láseres en las Alas</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.TI-Chin-Lasers">
+			<segment>
+				<source>Chin-mounted Lasers</source>
+				<target>Láseres bajo la Cabina</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.TB-Wing-Lasers">
+			<segment>
+				<source>Wing-mounted Lasers</source>
+				<target>Láseres en las Alas</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.TB-Centered-Lasers">
+			<segment>
+				<source>Centered laser cannons</source>
+				<target>Cañones Láser Centrados</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.GUN-Chin-Lasers">
+			<segment>
+				<source>Chin-mounted Lasers</source>
+				<target>Láseres bajo la Cabina</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.GUN-Wing-Lasers">
+			<segment>
+				<source>Wing-mounted Lasers</source>
+				<target>Láseres en las Alas</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.BW-Classic">
+			<segment>
+				<source>Classic mixed</source>
+				<target>Mezcla Clásica</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.BW-Wing-Lasers">
+			<segment>
+				<source>Wing-mounted lasers</source>
+				<target>Láseres en las Alas</target>
+			</segment>
+		</unit>
+		<unit id="HardpointConfig.BW-Chin-Lasers">
+			<segment>
+				<source>Chin-mounted lasers</source>
+				<target>Láseres bajo la Cabina</target>
+			</segment>
+		</unit>
+		<unit id="HangarNavigation.StartMission">
+			<segment>
+				<source>Start Mission</source>
+				<target>Iniciar la Misión</target>
+			</segment>
+		</unit>
+		<unit id="HangarNavigation.ReturnToBriefing">
+			<segment>
+				<source>Return to Briefing</source>
+				<target>Volver a Reunión Táctica</target>
+			</segment>
+		</unit>
+		<unit id="HangarNavigation.UniformMedals">
+			<segment>
+				<source>View Uniform and Medals</source>
+				<target>Ver Uniforme y Medallas</target>
+			</segment>
+		</unit>
+	</file>
+</xliff>

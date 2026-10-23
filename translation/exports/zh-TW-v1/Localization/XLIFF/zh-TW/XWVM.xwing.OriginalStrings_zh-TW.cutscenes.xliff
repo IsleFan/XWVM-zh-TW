@@ -1,0 +1,804 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="Cutscene.Text.shuleacom">
+      <segment state="translated">
+        <source>Leaving the hidden Rebel Combat Training Facilities.</source>
+        <target>正在離開隱密的反抗軍戰鬥訓練設施。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.resc1a">
+      <segment state="translated">
+        <source>We've found him!</source>
+        <target>找到他了！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.resc1b">
+      <segment state="translated">
+        <source>He's OK.</source>
+        <target>他沒事。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.resc2">
+      <segment state="translated">
+        <source>Arriving at Rebel Fleet Medical Ship, the Salvation.</source>
+        <target>抵達反抗軍艦隊醫療船拯救號。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.capt1a">
+      <segment state="translated">
+        <source>There's the rebel!</source>
+        <target>叛軍在那裡！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.capt1b">
+      <segment state="translated">
+        <source>Bring him in.</source>
+        <target>把他帶進來。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.capt2">
+      <segment state="translated">
+        <source>Arriving at the Executor.  Flagship of the Empire!</source>
+        <target>抵達執行者號。帝國的旗艦！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.capt3a">
+      <segment state="translated">
+        <source>Now we will discuss the position</source>
+        <target>現在，我們來談談</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.capt3b">
+      <segment state="translated">
+        <source>of the secret rebel base!</source>
+        <target>叛軍秘密基地的位置吧！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.retcom">
+      <segment state="translated">
+        <source>Returning to the hidden Rebel Combat Training Facilities.</source>
+        <target>返回隱密的反抗軍戰鬥訓練設施。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.shuleatra">
+      <segment state="translated">
+        <source>Leaving the hidden Rebel Training Facilities.</source>
+        <target>正在離開隱密的反抗軍訓練設施。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.shuleadef">
+      <segment state="translated">
+        <source>Leaving the Defiance.</source>
+        <target>正在離開不屈號。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.retdef">
+      <segment state="translated">
+        <source>Returning to the Defiance.</source>
+        <target>返回不屈號。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os1">
+      <segment state="translated">
+        <source>Star Destroyer patrol near the planet Turkana</source>
+        <target>圖卡納行星附近的滅星者巡邏隊</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os2a">
+      <segment state="translated">
+        <source>Sir, our TIE Interceptors have located a</source>
+        <target>長官，我們的鈦攔截機發現了</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os2b">
+      <segment state="translated">
+        <source>Rebel Fleet orbiting the planet Turkana.</source>
+        <target>一支在圖卡納行星軌道上的叛軍艦隊。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os3">
+      <segment state="translated">
+        <source>Excellent!  Prepare the attack.</source>
+        <target>很好！準備進攻。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os4a">
+      <segment state="translated">
+        <source>Move our Star Destroyers within range</source>
+        <target>把我們的滅星者移進射程內，</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os4b">
+      <segment state="translated">
+        <source>and launch all TIE Fighter Squadrons.</source>
+        <target>並派出所有鈦戰機中隊。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os5">
+      <segment state="translated">
+        <source>At once, Sir!</source>
+        <target>遵命，長官！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os5x">
+      <segment state="translated">
+        <source>On board the Rebel Flagship Independence.</source>
+        <target>反抗軍旗艦獨立號艦上。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os6a">
+      <segment state="translated">
+        <source>We are under attack by Imperial Star Destroyers!</source>
+        <target>我們遭到帝國滅星者攻擊！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os6b">
+      <segment state="translated">
+        <source>Begin evasive maneuvers.  Launch the X-Wing fighters.</source>
+        <target>開始迴避機動。派出 X翼戰機。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os7a">
+      <segment state="translated">
+        <source>This is Red Leader.  Stay close</source>
+        <target>這裡是紅色隊長。保持隊形，</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os7b">
+      <segment state="translated">
+        <source>and watch for enemy fighters.</source>
+        <target>注意敵方戰機。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os8">
+      <segment state="translated">
+        <source>I got him.</source>
+        <target>我擊落他了。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os9">
+      <segment state="translated">
+        <source>Follow me.</source>
+        <target>跟我來。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os10">
+      <segment state="translated">
+        <source>I can't shake him!</source>
+        <target>我甩不掉他！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os11">
+      <segment state="translated">
+        <source>I'm on him.</source>
+        <target>我咬住他了。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.os12">
+      <segment state="translated">
+        <source>Nice shot, Red Two!</source>
+        <target>打得好，紅色二號！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c1s1a">
+      <segment state="translated">
+        <source>Star Destroyer fleet orbiting a</source>
+        <target>滅星者艦隊在軌道上包圍</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c1s1b">
+      <segment state="translated">
+        <source>Rebel base on the planet Orion IV.</source>
+        <target>奧瑞恩四號星的反抗軍基地。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c1s2">
+      <segment state="translated">
+        <source>AT-AT Walkers advance on the Rebel base.</source>
+        <target>AT-AT 步行機向反抗軍基地推進。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c1s3">
+      <segment state="translated">
+        <source>Planet has been secured.</source>
+        <target>行星已經拿下。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s1">
+      <segment state="translated">
+        <source>Rebel agents on approach to Star Destroyer Invincible.</source>
+        <target>反抗軍特務正接近滅星者無敵號。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s2">
+      <segment state="translated">
+        <source>Security codes approved.  Shuttle landing in Main Bay.</source>
+        <target>安全密碼核准。穿梭機降落於主機庫。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s3">
+      <segment state="translated">
+        <source>Is that it?</source>
+        <target>就這些了嗎？</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s4">
+      <segment state="translated">
+        <source>Yes, that's the last crate.</source>
+        <target>對，這是最後一箱。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s5">
+      <segment state="translated">
+        <source>Alright, lift off.</source>
+        <target>好，起飛。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s6a">
+      <segment state="translated">
+        <source>Hidden among the crates, the Rebels have</source>
+        <target>反抗軍在貨箱之間</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t1c2s6b">
+      <segment state="translated">
+        <source>planted a powerful explosive device.</source>
+        <target>藏了一枚威力強大的爆炸裝置。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s1a">
+      <segment state="translated">
+        <source>Rebel Corvette deploying captured</source>
+        <target>反抗軍護衛艦正在部署擄獲的</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s1b">
+      <segment state="translated">
+        <source>Imperial Communication Satellites.</source>
+        <target>帝國通訊衛星。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s2">
+      <segment state="translated">
+        <source>The modified CommSats scatter into deep space.</source>
+        <target>改裝過的通訊衛星散布到深太空中。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s3a">
+      <segment state="translated">
+        <source>A lone CommSat transmits near the Cron Drift,</source>
+        <target>一顆孤立的通訊衛星在克朗漂流帶附近發送訊號，</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s3b">
+      <segment state="translated">
+        <source>sending Imperial data to a nearby Rebel outpost.</source>
+        <target>將帝國資料傳給鄰近的反抗軍前哨站。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s4a">
+      <segment state="translated">
+        <source>Rebel listening post Ax-235 in an</source>
+        <target>反抗軍監聽站 Ax-235 位於</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s4b">
+      <segment state="translated">
+        <source>asteroid field within the Cron Drift.</source>
+        <target>克朗漂流帶內的小行星帶中。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s5">
+      <segment state="translated">
+        <source>We just intercepted a transmission.</source>
+        <target>我們剛攔截到一段通訊。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s6">
+      <segment state="translated">
+        <source>Sounds like an Imperial code.</source>
+        <target>聽起來像是帝國的密碼。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s7">
+      <segment state="translated">
+        <source>That's right!  I'm decoding it now.</source>
+        <target>沒錯！我正在解碼。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s8">
+      <segment state="translated">
+        <source>Looks like plans for an Imperial Battle Station!</source>
+        <target>看起來像是帝國戰鬥太空站的藍圖！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c1s9">
+      <segment state="translated">
+        <source>Relay it with the next High Security transmissions.</source>
+        <target>跟著下一批高度機密通訊一起轉發出去。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s1a">
+      <segment state="translated">
+        <source>Enroute to the planet Alderaan, the Corellian Corvette</source>
+        <target>柯瑞利亞護衛艦載著莉亞公主前往奧德蘭，</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s1b">
+      <segment state="translated">
+        <source>transporting Princess Leia receives a vital message.</source>
+        <target>途中收到一則重要訊息。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s2">
+      <segment state="translated">
+        <source>Here are the secret plans, Princess Leia.</source>
+        <target>莉亞公主，這是秘密藍圖。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s3">
+      <segment state="translated">
+        <source>I will bring them safely to Alderaan.</source>
+        <target>我會把它們安全送到奧德蘭。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s4">
+      <segment state="translated">
+        <source>Imperial Fleet on course for Tatooine.</source>
+        <target>帝國艦隊正航向塔圖因星。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t2c2s5">
+      <segment state="translated">
+        <source>I have you now!</source>
+        <target>你逃不掉了！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s1">
+      <segment state="translated">
+        <source>Imperial Death Star in final stages of construction.</source>
+        <target>帝國死星進入最後建造階段。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s2">
+      <segment state="translated">
+        <source>Arrival of Darth Vader, Envoy of the Emperor.</source>
+        <target>皇帝特使達斯·維達駕到。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s3a">
+      <segment state="translated">
+        <source>Congratulations, the Death Star is</source>
+        <target>恭喜，死星已經</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s3b">
+      <segment state="translated">
+        <source>complete.  The Emperor will be pleased.</source>
+        <target>完工。皇帝會很高興的。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s4a">
+      <segment state="translated">
+        <source>I think it is time we demonstrated</source>
+        <target>我想是時候展示</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s4b">
+      <segment state="translated">
+        <source>the full power of this station.</source>
+        <target>這座太空站的全部威力了。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s5a">
+      <segment state="translated">
+        <source>This station is insignificant compared</source>
+        <target>這座太空站和原力的力量相比</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s5b">
+      <segment state="translated">
+        <source>with the power of the force.</source>
+        <target>根本微不足道。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c1s6">
+      <segment state="translated">
+        <source>You may fire when ready.</source>
+        <target>準備好就可以開火。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c2s1">
+      <segment state="translated">
+        <source>Imperial Death Star on approach to Alderaan.</source>
+        <target>帝國死星正逼近奧德蘭。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c2s2">
+      <segment state="translated">
+        <source>You may fire when ready.</source>
+        <target>準備好就可以開火。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c3s1">
+      <segment state="translated">
+        <source>Approaching Yavin Moon Base.</source>
+        <target>接近雅文衛星基地。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t3c3s2">
+      <segment state="translated">
+        <source>Yavin Rebel Base.  Headquarters of the Rebellion.</source>
+        <target>雅文反抗軍基地。反抗軍的總部。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s1">
+      <segment state="translated">
+        <source>Darth Vader's shuttle arrives at Plooriod III.</source>
+        <target>達斯·維達的穿梭機抵達普魯里奧德三號星。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s2a">
+      <segment state="translated">
+        <source>Lord Vader!  What a great privilege to have</source>
+        <target>維達大人！真是莫大的榮幸，</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s2b">
+      <segment state="translated">
+        <source>you unexpectedly grace my humble domain.</source>
+        <target>您竟出乎意料地蒞臨寒舍。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s3">
+      <segment state="translated">
+        <source>How may I serve you?</source>
+        <target>有什麼能為您效勞的嗎？</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s4">
+      <segment state="translated">
+        <source>We received your grain shipments, Ghorin...</source>
+        <target>戈林，我們收到你送來的穀物了……</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s5a">
+      <segment state="translated">
+        <source>and the Emperor has sent me here to</source>
+        <target>而皇帝派我來</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c2s5b">
+      <segment state="translated">
+        <source>personally repay you for your treachery.</source>
+        <target>親自回報你的背叛。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c3s1">
+      <segment state="translated">
+        <source>Imperial Drydock IV, Greater Plooriad Sector.</source>
+        <target>帝國第四乾塢，大普魯里奧德星區。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c3s2">
+      <segment state="translated">
+        <source>Interdictor Cruisers respond to Fleet Summons.</source>
+        <target>禁制者級巡洋艦響應艦隊集結令。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c3s3a">
+      <segment state="translated">
+        <source>Outer Rim Imperial Fleet preparing for battle.</source>
+        <target>外環帝國艦隊正在備戰。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c3s3b">
+      <segment state="translated">
+        <source>Interdictors join the fleet for attack on Rebels.</source>
+        <target>禁制者級巡洋艦加入艦隊，準備進攻反抗軍。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c4s1">
+      <segment state="translated">
+        <source>Ramming course locked in.</source>
+        <target>衝撞航線已鎖定。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t4c4s2">
+      <segment state="translated">
+        <source>Right!  Let's get out of here.</source>
+        <target>好！我們快離開這裡。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s1">
+      <segment state="translated">
+        <source>New B-wings arrive at Rebel Fleet.</source>
+        <target>新的 B翼戰機抵達反抗軍艦隊。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s2a">
+      <segment state="translated">
+        <source>Lt. Farlander, do you have</source>
+        <target>法蘭德中尉，</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s2b">
+      <segment state="translated">
+        <source>the B-wings combat-ready?</source>
+        <target>B翼戰機可以投入戰鬥了嗎？</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s3a">
+      <segment state="translated">
+        <source>Yes Cmdr. Skywalker, they will be a</source>
+        <target>是的，天行者中校，它們將成為</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s3b">
+      <segment state="translated">
+        <source>powerful new weapon against the Empire.</source>
+        <target>對抗帝國的強大新武器。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c1s4">
+      <segment state="translated">
+        <source>Good work, Lieutenant.</source>
+        <target>做得好，中尉。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s1a">
+      <segment state="translated">
+        <source>Two Rebel ships work in conjunction to replace</source>
+        <target>兩艘反抗軍艦艇協同作業，</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s1b">
+      <segment state="translated">
+        <source>Imperial probes with modified Rebel probes.</source>
+        <target>以改裝的反抗軍探測器替換帝國探測器。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s2a">
+      <segment state="translated">
+        <source>Inside the cargo ship, modified probes are</source>
+        <target>在貨船內，改裝過的探測器</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s2b">
+      <segment state="translated">
+        <source>readied for release.</source>
+        <target>已準備就緒，隨時可以投放。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c2s3">
+      <segment state="translated">
+        <source>Each Imperial probe is replaced in a quick swap.</source>
+        <target>每個帝國探測器都在瞬間被調包。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s1">
+      <segment state="translated">
+        <source>Rebel Fleet arrives at the planet Hoth.</source>
+        <target>反抗軍艦隊抵達霍斯星。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s2a">
+      <segment state="translated">
+        <source>General, what word is there of</source>
+        <target>將軍，從哈巴薩撤離的情況</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s2b">
+      <segment state="translated">
+        <source>our evacuation from Habassa?</source>
+        <target>有什麼消息嗎？</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s3">
+      <segment state="translated">
+        <source>The fleet has arrived safely, Princess.</source>
+        <target>公主，艦隊已安全抵達。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s4">
+      <segment state="translated">
+        <source>Thank goodness.  Is our Hoth base operational?</source>
+        <target>謝天謝地。我們的霍斯基地可以運作了嗎？</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s5a">
+      <segment state="translated">
+        <source>Yes, the Rebel Alliance has</source>
+        <target>是的，反抗軍聯盟</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.t5c3s5b">
+      <segment state="translated">
+        <source>found a new home.</source>
+        <target>找到了新家園。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.medtext">
+      <segment state="translated">
+        <source>Congratulations on behalf of the Rebel Alliance.</source>
+        <target>謹代表反抗軍聯盟向你致賀。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.rettra">
+      <segment state="translated">
+        <source>Returning to the hidden Rebel Training Facilities.</source>
+        <target>返回隱密的反抗軍訓練設施。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.shuleaind">
+      <segment state="translated">
+        <source>Leaving the Alliance Flagship Independence.</source>
+        <target>正在離開聯盟旗艦獨立號。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.shuhyp">
+      <segment state="translated">
+        <source>Preparing for the jump to hyperspace.</source>
+        <target>準備躍入超空間。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.shuarrtra">
+      <segment state="translated">
+        <source>Arriving at the hidden Rebel Training Facilities.</source>
+        <target>抵達隱密的反抗軍訓練設施。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.shuarrcom">
+      <segment state="translated">
+        <source>Arriving at the hidden Rebel Combat Training Facilities.</source>
+        <target>抵達隱密的反抗軍戰鬥訓練設施。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.shuarrdef">
+      <segment state="translated">
+        <source>Arriving at the Calamari Cruiser Defiance.</source>
+        <target>抵達卡拉馬里巡洋艦不屈號。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.retind">
+      <segment state="translated">
+        <source>Returning to Independence.</source>
+        <target>返回獨立號。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.trafail1">
+      <segment state="translated">
+        <source>This is Red Leader.  Don't worry</source>
+        <target>這裡是紅色隊長。別在意，</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.trafail2">
+      <segment state="translated">
+        <source>about it.  Try again.</source>
+        <target>再試一次。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.traok1">
+      <segment state="translated">
+        <source>This is Red Leader.  Not bad.</source>
+        <target>這裡是紅色隊長。還不錯。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.traok2">
+      <segment state="translated">
+        <source>But you still need training.</source>
+        <target>但你仍需要訓練。</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.traend1">
+      <segment state="translated">
+        <source>This is Red Leader.  Excellent!</source>
+        <target>這裡是紅色隊長。太出色了！</target></segment>
+    </unit>
+    <unit id="Cutscene.Text.traend2">
+      <segment state="translated">
+        <source>You're ready for combat!</source>
+        <target>你已經可以上戰場了！</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.0">
+      <segment state="translated">
+        <source>Tour I Scene 1</source>
+        <target>第一服役期 第一幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.1">
+      <segment state="translated">
+        <source>Tour I Scene 2</source>
+        <target>第一服役期 第二幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.2">
+      <segment state="translated">
+        <source>Tour II Scene 1</source>
+        <target>第二服役期 第一幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.3">
+      <segment state="translated">
+        <source>Tour II Scene 2</source>
+        <target>第二服役期 第二幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.4">
+      <segment state="translated">
+        <source>Tour III Scene 1</source>
+        <target>第三服役期 第一幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.5">
+      <segment state="translated">
+        <source>Tour III Scene 2</source>
+        <target>第三服役期 第二幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.6">
+      <segment state="translated">
+        <source>Tour III Scene 3</source>
+        <target>第三服役期 第三幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.7">
+      <segment state="translated">
+        <source>Tour IV Scene 1</source>
+        <target>第四服役期 第一幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.8">
+      <segment state="translated">
+        <source>Tour IV Scene 2</source>
+        <target>第四服役期 第二幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.9">
+      <segment state="translated">
+        <source>Tour IV Scene 3</source>
+        <target>第四服役期 第三幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.10">
+      <segment state="translated">
+        <source>Tour IV Scene 4</source>
+        <target>第四服役期 第四幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.11">
+      <segment state="translated">
+        <source>Tour V Scene 1</source>
+        <target>第五服役期 第一幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.12">
+      <segment state="translated">
+        <source>Tour V Scene 2</source>
+        <target>第五服役期 第二幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Title.13">
+      <segment state="translated">
+        <source>Tour V Scene 3</source>
+        <target>第五服役期 第三幕</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.7">
+      <segment state="translated">
+        <source>An Imperial fleet is heading for
+the Rebel Base at Ralltir.  You
+must try to delay the attack.</source>
+        <target>一支帝國艦隊正前往
+拉爾提爾星的反抗軍基地。
+你必須設法拖延這場攻擊。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.8">
+      <segment state="translated">
+        <source>An Imperial fleet is heading for
+the Rebel Base at Ralltir.  You
+must try to delay the attack.</source>
+        <target>一支帝國艦隊正前往
+拉爾提爾星的反抗軍基地。
+你必須設法拖延這場攻擊。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.9">
+      <segment state="translated">
+        <source>The Imperial Fleet is attacking
+a Rebel Base with AT-AT walkers
+and Assault Gunboats.</source>
+        <target>帝國艦隊出動 AT-AT 步行機
+與突擊砲艇，
+進攻一座反抗軍基地。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.10">
+      <segment state="translated">
+        <source>The Rebels sneak on board an
+Imperial Star Destroyer and
+plant a bomb.</source>
+        <target>反抗軍潛入一艘
+帝國滅星者，
+並安置了一枚炸彈。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.11">
+      <segment state="translated">
+        <source>The plans for the Death Star
+are intercepted by a Rebel
+outpost.</source>
+        <target>一座反抗軍前哨站
+攔截到了
+死星藍圖。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.12">
+      <segment state="translated">
+        <source>The plans for the Death Star
+are transmitted to the ship
+containing Princess Leia.</source>
+        <target>死星藍圖被傳送到
+載著莉亞公主的
+艦艇上。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.13">
+      <segment state="translated">
+        <source>The Death Star is completed
+and destroys the planet used
+for building resources.</source>
+        <target>死星完工，並摧毀了
+為其提供建造資源的
+那顆行星。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.14">
+      <segment state="translated">
+        <source>The Death Star destroys the
+planet Alderaan as a means of
+terrorizing the galaxy.</source>
+        <target>死星摧毀了
+奧德蘭行星，
+藉此威嚇整個銀河。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.15">
+      <segment state="translated">
+        <source>The Death Star is destroyed
+by a Rebel attack.  The rebels
+return to Yavin to celebrate.</source>
+        <target>死星被反抗軍的
+攻擊摧毀。反抗軍
+返回雅文慶祝。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.16">
+      <segment state="translated">
+        <source>The Rebels flee from Yavin
+before the Imperial Fleet
+can retaliate.</source>
+        <target>反抗軍搶在帝國艦隊
+展開報復之前
+撤離雅文。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.17">
+      <segment state="translated">
+        <source>Overlord Ghorin is killed
+by Darth Vader for giving
+poison grain to the empire.</source>
+        <target>戈林霸主因向帝國
+供應有毒穀物，
+遭達斯·維達處決。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.18">
+      <segment state="translated">
+        <source>Imperial Interdictors are
+taken from a repair dock to
+join the main Imperial Fleet.</source>
+        <target>帝國的禁制者級巡洋艦
+駛離維修船塢，
+加入帝國主力艦隊。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.19">
+      <segment state="translated">
+        <source>An unprotected Imperial
+repair dock is rammed by an
+unmanned Rebel Corvette.</source>
+        <target>一座毫無防護的帝國
+維修船塢遭一艘無人駕駛的
+反抗軍護衛艦衝撞。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.20">
+      <segment state="translated">
+        <source>The B-Wing Starfighter
+is brought on-line by Luke
+Skywalker and Lt. Farlander.</source>
+        <target>路克·天行者與法蘭德中尉
+讓 B翼星際戰機
+正式投入服役。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.21">
+      <segment state="translated">
+        <source>The Rebel Alliance swaps
+Imperial Probes with Rebel
+Probes during an evacuation.</source>
+        <target>反抗軍聯盟在撤離期間
+以反抗軍探測器
+調包帝國探測器。</target></segment>
+    </unit>
+    <unit id="Cutscene.Description.22">
+      <segment state="translated">
+        <source>The Rebellion arrives at
+Hoth, where a new base for the
+Rebel Alliance will be built.</source>
+        <target>反抗軍抵達霍斯星，
+將在此為反抗軍聯盟
+建立新基地。</target></segment>
+    </unit>
+  </file>
+</xliff>

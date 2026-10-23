@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en-US" trgLang="es">
+  <file id="XWVM.xwing.ClipSubtitles">
+    <unit id="acknowledged, ignoring target">
+      <segment state="translated">
+        <source>Acknowledged, ignoring target.</source>
+        <target>Recibido, ignorando blanco.</target>
+      </segment>
+    </unit>
+    <unit id="acknowledged, ignoring target2">
+      <segment state="translated">
+        <source>Acknowledged, ignoring target.</source>
+        <target>Recibido, ignorando blanco.</target>
+      </segment>
+    </unit>
+    <unit id="acknowledged, preparing for hyperspace jump">
+      <segment state="translated">
+        <source>Acknowledged, preparing for hyperspace jump.</source>
+        <target>Recibido, preparando el salto al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="acknowledged, preparing for hyperspace jump2">
+      <segment state="translated">
+        <source>Acknowledged, preparing for hyperspace jump.</source>
+        <target>Recibido, preparando el salto al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="acknowledged, setting up for attack run">
+      <segment state="translated">
+        <source>Acknowledged, setting up for attack run.</source>
+        <target>Recibido, posicionándome para el vector de ataque.</target>
+      </segment>
+    </unit>
+    <unit id="acknowledged, setting up for attack run2">
+      <segment state="translated">
+        <source>Acknowledged, setting up for attack run.</source>
+        <target>Recibido, posicionándome para el vector de ataque.</target>
+      </segment>
+    </unit>
+    <unit id="awaiting">
+      <segment state="translated">
+        <source>Awaiting further orders.</source>
+        <target>A la espera de nuevas órdenes.</target>
+      </segment>
+    </unit>
+    <unit id="beginatk">
+      <segment state="translated">
+        <source>Beginning attack.</source>
+        <target>Comenzando el ataque.</target>
+      </segment>
+    </unit>
+    <unit id="breakof2">
+      <segment state="translated">
+        <source>Break off!</source>
+        <target>¡Rompe!</target>
+      </segment>
+    </unit>
+    <unit id="breakofg">
+      <segment state="translated">
+        <source>Break off!</source>
+        <target>¡Rompe!</target>
+      </segment>
+    </unit>
+    <unit id="could use a hand over here">
+      <segment state="translated">
+        <source>I could use a hand over here!</source>
+        <target>¡¿Podría alguien echarme una mano?!</target>
+      </segment>
+    </unit>
+    <unit id="coverme2">
+      <segment state="translated">
+        <source>Cover me!</source>
+        <target>¡Cúbreme!</target>
+      </segment>
+    </unit>
+    <unit id="docking">
+      <segment state="translated">
+        <source>Docking operation complete.</source>
+        <target>Operación de acoplamiento completada.</target>
+      </segment>
+    </unit>
+    <unit id="followa">
+      <segment state="translated">
+        <source>Follow me.</source>
+        <target>Sígueme.</target>
+      </segment>
+    </unit>
+    <unit id="formup">
+      <segment state="translated">
+        <source>Form up.</source>
+        <target>Formación.</target>
+      </segment>
+    </unit>
+    <unit id="gate-1">
+      <segment state="translated">
+        <source>[Gate Visited Beep]</source>
+        <target>[Bip por Visitar Puerta]</target>
+      </segment>
+    </unit>
+    <unit id="gothim">
+      <segment state="translated">
+        <source>Got 'em!</source>
+        <target>¡Le he dado!</target>
+      </segment>
+    </unit>
+    <unit id="heading your way, keep it togheter">
+      <segment state="translated">
+        <source>Heading your way, keep it together!</source>
+        <target>Voy hacia allá, ¡aguanta un poco más!</target>
+      </segment>
+    </unit>
+    <unit id="heading your way, keep it togheter2">
+      <segment state="translated">
+        <source>Heading your way, keep it together!</source>
+        <target>Voy hacia allá, ¡aguanta un poco más!</target>
+      </segment>
+    </unit>
+    <unit id="helpme">
+      <segment state="translated">
+        <source>Help me!</source>
+        <target>¡Ayuda!</target>
+      </segment>
+    </unit>
+    <unit id="I could do with a hand over here">
+      <segment state="translated">
+        <source>I could do with a hand over here!</source>
+        <target>¡¿Podría alguien echarme una mano?!</target>
+      </segment>
+    </unit>
+    <unit id="I could do with a hand over here2">
+      <segment state="translated">
+        <source>I could do with a hand over here!</source>
+        <target>¡¿Podría alguien echarme una mano?!</target>
+      </segment>
+    </unit>
+    <unit id="I know just a maneuver to get out of this one">
+      <segment state="translated">
+        <source>I know just the manoeuvre to get out of this one!</source>
+        <target>¡Sé exactamente qué hacer para salir de esta!</target>
+      </segment>
+    </unit>
+    <unit id="I know just a maneuver to get out of this one2">
+      <segment state="translated">
+        <source>I know just the manoeuvre to get out of this one!</source>
+        <target>¡Sé exactamente qué hacer para salir de esta!</target>
+      </segment>
+    </unit>
+    <unit id="I need some help">
+      <segment state="translated">
+        <source>I need some help!</source>
+        <target>¡Un poco de ayuda!</target>
+      </segment>
+    </unit>
+    <unit id="I need some help--">
+      <segment state="translated">
+        <source>I need some help--!</source>
+        <target>¡Un poco de ayu--!</target>
+      </segment>
+    </unit>
+    <unit id="I need some help here">
+      <segment state="translated">
+        <source>I need some help here!</source>
+        <target>¡Necesito un poco de ayuda!</target>
+      </segment>
+    </unit>
+    <unit id="I need some help here2">
+      <segment state="translated">
+        <source>I need some help here!</source>
+        <target>¡Necesito un poco de ayuda!</target>
+      </segment>
+    </unit>
+    <unit id="I need some help2">
+      <segment state="translated">
+        <source>I need some help!</source>
+        <target>¡Necesito un poco de ayuda!</target>
+      </segment>
+    </unit>
+    <unit id="ignoring">
+      <segment state="translated">
+        <source>Ignoring target.</source>
+        <target>Ignorando blanco.</target>
+      </segment>
+    </unit>
+    <unit id="I'm hit">
+      <segment state="translated">
+        <source>I'm hit!</source>
+        <target>¡Me han dado!</target>
+      </segment>
+    </unit>
+    <unit id="I'm on 'em">
+      <segment state="translated">
+        <source>I'm on 'em!</source>
+        <target>¡Ya lo tengo!</target>
+      </segment>
+    </unit>
+    <unit id="incomina">
+      <segment state="translated">
+        <source>Incoming missile!</source>
+        <target>¡Alerta: Misil!</target>
+      </segment>
+    </unit>
+    <unit id="lookouta">
+      <segment state="translated">
+        <source>Look out!</source>
+        <target>¡Cuidado!</target>
+      </segment>
+    </unit>
+    <unit id="lookoutg">
+      <segment state="translated">
+        <source>Look out!</source>
+        <target>¡Cuidado!</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft destroyed">
+      <segment state="translated">
+        <source>Mission critical craft: Destroyed.</source>
+        <target>Unidad esencial de la misión: Destruida.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft destroyed2">
+      <segment state="translated">
+        <source>Mission critical craft: Destroyed.</source>
+        <target>Unidad esencial de la misión: Destruida.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft hull condition critical">
+      <segment state="translated">
+        <source>Mission critical craft: Hull condition critical.</source>
+        <target>Unidad esencial de la misión: Integridad del casco crítica.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft hull condition critical2">
+      <segment state="translated">
+        <source>Mission critical craft: Hull condition critical.</source>
+        <target>Unidad esencial de la misión: Integridad del casco crítica.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft shields down">
+      <segment state="translated">
+        <source>Mission critical craft: Shields down.</source>
+        <target>Unidad esencial de la misión: Sin Escudos.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft shields down2">
+      <segment state="translated">
+        <source>Mission critical craft: Shields down.</source>
+        <target>Unidad esencial de la misión: Sin Escudos.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft they've started their boarding operation">
+      <segment state="translated">
+        <source>Mission critical craft: Boarding operation started.</source>
+        <target>Unidad esencial de la misión: Operación de abordaje iniciada.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft they've started their boarding operation2">
+      <segment state="translated">
+        <source>Mission critical craft: Boarding operation started.</source>
+        <target>Unidad esencial de la misión: Operación de abordaje iniciada.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft under attack">
+      <segment state="translated">
+        <source>Mission critical craft: Under attack.</source>
+        <target>Unidad esencial de la misión: Bajo ataque.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical craft under attack2">
+      <segment state="translated">
+        <source>Mission critical craft: Under attack.</source>
+        <target>Unidad esencial de la misión: Bajo ataque.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical it's aborting their mission">
+      <segment state="translated">
+        <source>Mission critical craft: Aborting mission.</source>
+        <target>Unidad esencial de la misión: Abortando la misión.</target>
+      </segment>
+    </unit>
+    <unit id="mission critical it's completed its boarding operation">
+      <segment state="translated">
+        <source>Mission critical craft: Boarding operation completed.</source>
+        <target>Unidad esencial de la misión: Operación de abordaje completada.</target>
+      </segment>
+    </unit>
+    <unit id="niceshtg">
+      <segment state="translated">
+        <source>Nice shot!</source>
+        <target>¡Buen tiro!</target>
+      </segment>
+    </unit>
+    <unit id="onhima">
+      <segment state="translated">
+        <source>I'm on him!</source>
+        <target>¡Ya lo tengo!</target>
+      </segment>
+    </unit>
+    <unit id="ontargt">
+      <segment state="translated">
+        <source>Stay on target!</source>
+        <target>¡Sigue sobre el objetivo!</target>
+      </segment>
+    </unit>
+    <unit id="preparing for hyperspace jump">
+      <segment state="translated">
+        <source>Preparing for hyperspace jump.</source>
+        <target>Preparando el salto al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="preparing for hyperspace jump2">
+      <segment state="translated">
+        <source>Preparing for hyperspace jump.</source>
+        <target>Preparando el salto al hiperespacio.</target>
+      </segment>
+    </unit>
+    <unit id="preparing to accelerate to attack speed">
+      <segment state="translated">
+        <source>Prepare to accelerate to attack speed.</source>
+        <target>Acelerar a velocidad de ataque.</target>
+      </segment>
+    </unit>
+    <unit id="proceedn">
+      <segment state="translated">
+        <source>Proceeding with mission.</source>
+        <target>Continuando la misión.</target>
+      </segment>
+    </unit>
+    <unit id="r2a">
+      <segment state="translated">
+        <source>[Negative Beep]</source>
+        <target>[Bip Negativo]</target>
+      </segment>
+    </unit>
+    <unit id="r2b">
+      <segment state="translated">
+        <source>[Report Beep]</source>
+        <target>[Bip de Informe]</target>
+      </segment>
+    </unit>
+    <unit id="r2c">
+      <segment state="translated">
+        <source>[Negative Beep]</source>
+        <target>[Bip Negativo]</target>
+      </segment>
+    </unit>
+    <unit id="r2d">
+      <segment state="translated">
+        <source>[Report Beep]</source>
+        <target>[Bip de Informe]</target>
+      </segment>
+    </unit>
+    <unit id="r2dangr2">
+      <segment state="translated">
+        <source>[Danger Beep]</source>
+        <target>[Bip de Peligro]</target>
+      </segment>
+    </unit>
+    <unit id="r2happy1">
+      <segment state="translated">
+        <source>[Happy Beep]</source>
+        <target>[Bip Feliz]</target>
+      </segment>
+    </unit>
+    <unit id="r2hit">
+      <segment state="translated">
+        <source>[Damage Beep]</source>
+        <target>[Bip de Daño]</target>
+      </segment>
+    </unit>
+    <unit id="r2warn">
+      <segment state="translated">
+        <source>[Warning Beep]</source>
+        <target>[Bip de Alerta]</target>
+      </segment>
+    </unit>
+    <unit id="r2whistl">
+      <segment state="translated">
+        <source>[Positive Beep]</source>
+        <target>[Bip Positivo]</target>
+      </segment>
+    </unit>
+    <unit id="red2e">
+      <segment state="translated">
+        <source>Red Two:</source>
+        <target>Rojo Dos:</target>
+      </segment>
+    </unit>
+    <unit id="red2e1">
+      <segment state="translated">
+        <source>Red Two:</source>
+        <target>Rojo Dos:</target>
+      </segment>
+    </unit>
+    <unit id="redlead3">
+      <segment state="translated">
+        <source>Red Leader:</source>
+        <target>Líder Rojo:</target>
+      </segment>
+    </unit>
+    <unit id="redlede">
+      <segment state="translated">
+        <source>Red Leader:</source>
+        <target>Líder Rojo:</target>
+      </segment>
+    </unit>
+    <unit id="right, let's see them try to match this">
+      <segment state="translated">
+        <source>Right, let's see them try to match this!</source>
+        <target>¡Bien! ¡A ver si pueden seguirme el ritmo!</target>
+      </segment>
+    </unit>
+    <unit id="roger that, I got your back">
+      <segment state="translated">
+        <source>Roger that, I've got your back.</source>
+        <target>Entendido, yo te cubro.</target>
+      </segment>
+    </unit>
+    <unit id="roger that, returning to base">
+      <segment>
+        <source>Roger that, returning to base.</source>
+        <target>Recibido, volviendo a la base.</target>
+      </segment>
+    </unit>
+    <unit id="roger that, returning to base2">
+      <segment>
+        <source>Roger that, returning to base.</source>
+        <target>Recibido, volviendo a la base.</target>
+      </segment>
+    </unit>
+    <unit id="roger that, time for some fancy flying">
+      <segment state="translated">
+        <source>Roger that, time for some fancy flying!</source>
+        <target>¡Entendido! ¡Hora de lucirse un poco!</target>
+      </segment>
+    </unit>
+    <unit id="roger that, time for some fancy flying2">
+      <segment state="translated">
+        <source>Roger that, time for some fancy flying!</source>
+        <target>¡Recibido! ¡Es hora de hacer unas cuantas piruetas!</target>
+      </segment>
+    </unit>
+    <unit id="roger that, using designated target">
+      <segment state="translated">
+        <source>Roger that, using designated target.</source>
+        <target>Recibido, voy tras el objetivo marcado.</target>
+      </segment>
+    </unit>
+    <unit id="roger that, using designated target2">
+      <segment state="translated">
+        <source>Roger that, using designated target.</source>
+        <target>Recibido, voy tras el objetivo marcado.</target>
+      </segment>
+    </unit>
+    <unit id="roger, attacking target">
+      <segment state="translated">
+        <source>Roger, attacking target.</source>
+        <target>Recibido, atacando al objetivo.</target>
+      </segment>
+    </unit>
+    <unit id="roger, I'm on 'em">
+      <segment state="translated">
+        <source>Roger, I'm on 'em.</source>
+        <target>Entendido, voy tras ellos.</target>
+      </segment>
+    </unit>
+    <unit id="roger2">
+      <segment state="translated">
+        <source>Roger.</source>
+        <target>Recibido.</target>
+      </segment>
+    </unit>
+    <unit id="setting up for attack run">
+      <segment state="translated">
+        <source>Setting up for attack run.</source>
+        <target>Posicionándome para el vector de ataque.</target>
+      </segment>
+    </unit>
+    <unit id="setting up for attack run2">
+      <segment state="translated">
+        <source>Setting up for attack run.</source>
+        <target>Posicionándome para el vector de ataque.</target>
+      </segment>
+    </unit>
+    <unit id="shakem">
+      <segment state="translated">
+        <source>I can't shake 'em!</source>
+        <target>¡No puedo quitármelos!</target>
+      </segment>
+    </unit>
+    <unit id="sit tight, I'm on my way">
+      <segment state="translated">
+        <source>Sit tight, I'm on my way.</source>
+        <target>Mantén la calma, ya voy hacia ti.</target>
+      </segment>
+    </unit>
+    <unit id="sit tight, I'm on my way2">
+      <segment state="translated">
+        <source>Sit tight, I'm on my way.</source>
+        <target>Mantén la calma, ya voy hacia ti.</target>
+      </segment>
+    </unit>
+    <unit id="staclosg">
+      <segment state="translated">
+        <source>Stay close.</source>
+        <target>Mantente cerca.</target>
+      </segment>
+    </unit>
+    <unit id="stay calm, I'm planning an intercept course">
+      <segment state="translated">
+        <source>Stay calm, I'm plotting an intercept course.</source>
+        <target>No te desesperes, voy en curso de interceptación.</target>
+      </segment>
+    </unit>
+    <unit id="stay calm, I'm planning an intercept course2">
+      <segment state="translated">
+        <source>Stay calm, I'm plotting an intercept course.</source>
+        <target>No te desesperes, voy en curso de interceptación.</target>
+      </segment>
+    </unit>
+    <unit id="stayclos">
+      <segment state="translated">
+        <source>Stay close.</source>
+        <target>Mantente cerca.</target>
+      </segment>
+    </unit>
+    <unit id="tail1">
+      <segment state="translated">
+        <source>You've got one on your tail.</source>
+        <target>¡Tienes uno en tu cola!</target>
+      </segment>
+    </unit>
+    <unit id="tailg">
+      <segment state="translated">
+        <source>You've got one on your tail.</source>
+        <target>¡Tienes uno en tu cola!</target>
+      </segment>
+    </unit>
+    <unit id="tgtcaptr">
+      <segment state="translated">
+        <source>Target captured.</source>
+        <target>Objetivo capturado.</target>
+      </segment>
+    </unit>
+    <unit id="tgtdestr">
+      <segment state="translated">
+        <source>Target destroyed.</source>
+        <target>Objetivo destruido.</target>
+      </segment>
+    </unit>
+    <unit id="tgtdisab">
+      <segment state="translated">
+        <source>Target disabled.</source>
+        <target>Objetivo incapacitado.</target>
+      </segment>
+    </unit>
+    <unit id="tgtreprd">
+      <segment state="translated">
+        <source>Target repaired.</source>
+        <target>Objetivo reparado.</target>
+      </segment>
+    </unit>
+    <unit id="usingtgt">
+      <segment state="translated">
+        <source>Using designated target.</source>
+        <target>Yendo al objetivo marcado.</target>
+      </segment>
+    </unit>
+    <unit id="watchout">
+      <segment state="translated">
+        <source>Watch out!</source>
+        <target>¡Atención!</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

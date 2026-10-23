@@ -1,0 +1,29 @@
+{
+  "status": "translation_workspace_ready_not_installed_language_pack",
+  "tests_passed": 14,
+  "source_localization_files_hash_verified": 32,
+  "original_metadata_files_hash_verified": 16,
+  "original_hash_checks_all_match": true,
+  "translation_rows": 9391,
+  "required_nonempty_sources": 8940,
+  "translated_entries": 0,
+  "native_candidate_files": 32,
+  "game_runtime_tested": false,
+  "font_support_verified": false,
+  "files_before_this_summary": 108,
+  "bytes_before_this_summary": 9304949,
+  "no_uploads": true,
+  "no_game_modifications": true,
+  "remaining_blockers": [
+    {
+      "action": "upload resources",
+      "target": "not specified",
+      "status": "pending destination confirmation; not attempted"
+    },
+    {
+      "action": "load Traditional Chinese and verify font rendering",
+      "target": "XWVM 1.0.20260923.2004",
+      "status": "not attempted; installed font path support not verified; official developer states support needs more work"
+    }
+  ]
+}

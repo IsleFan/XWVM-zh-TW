@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="es">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="Intro.Crawl.Full">
+      <segment state="translated">
+        <source>It is a time of Civil War. Using fear and intimidation, the Empire seeks to impose a New Order on the galaxy.  Only the Rebel Alliance stands in the way of their evil plans. 
+ Not yet willing to confront the Empire directly, the Rebels are marshalling their forces in secrecy.  Even now a group of their prized Calamari Cruisers is being intercepted by a squadron of Imperial Star Destroyers. 
+ The Rebel Fleet is outnumbered but, they have a surprise... the X-Wing Starfighter! </source>
+        <target>Es una época de Guerra Civil. Mediante el miedo y la intimidación, el Imperio pretende imponer un Nuevo Orden en la galaxia.  Sólo la Alianza Rebelde se interpone en el camino de sus malvados planes. 
+ Aún sin estar dispuestos a enfrentarse directamente al Imperio, los rebeldes están reuniendo sus fuerzas en secreto.  En estos mismos momentos, un grupo de sus preciados Cruceros Calamari está siendo interceptado por una escuadrilla de Destructores Estelares Imperiales. 
+ La flota rebelde está en inferioridad numérica, pero tiene una sorpresa... ¡el caza estelar Ala-X! </target>
+      </segment>
+    </unit>
+	<unit id="Intro.ALongTimeAgoLine">
+		<segment>
+			<source>A long time ago\nin a galaxy far, far away....</source>
+			<target>Hace mucho tiempo\nen una galaxia muy, muy lejana...</target>
+		</segment>
+	</unit>
+  </file>
+</xliff>

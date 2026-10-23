@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="Credits.Block.0.Line.0">
+      <segment state="translated">
+        <source>Design and Project Management</source>
+        <target>設計與專案管理</target></segment>
+    </unit>
+    <unit id="Credits.Block.0.Line.1">
+      <segment state="translated">
+        <source>Lawrence Holland and Edward Kilham</source>
+        <target>Lawrence Holland 與 Edward Kilham</target></segment>
+    </unit>
+    <unit id="Credits.Block.1.Line.0">
+      <segment state="translated">
+        <source>3D Engine Programming</source>
+        <target>3D 引擎程式設計</target></segment>
+    </unit>
+    <unit id="Credits.Block.1.Line.1">
+      <segment state="translated">
+        <source>Peter Lincroft</source>
+        <target>Peter Lincroft</target></segment>
+    </unit>
+    <unit id="Credits.Block.2.Line.0">
+      <segment state="translated">
+        <source>Cinematic Engine Programming</source>
+        <target>過場動畫引擎程式設計</target></segment>
+    </unit>
+    <unit id="Credits.Block.2.Line.1">
+      <segment state="translated">
+        <source>Edward Kilham</source>
+        <target>Edward Kilham</target></segment>
+    </unit>
+    <unit id="Credits.Block.3.Line.0">
+      <segment state="translated">
+        <source>Mission AI Programming</source>
+        <target>任務 AI 程式設計</target></segment>
+    </unit>
+    <unit id="Credits.Block.3.Line.1">
+      <segment state="translated">
+        <source>Lawrence Holland</source>
+        <target>Lawrence Holland</target></segment>
+    </unit>
+    <unit id="Credits.Block.4.Line.0">
+      <segment state="translated">
+        <source>Background Artwork</source>
+        <target>背景美術</target></segment>
+    </unit>
+    <unit id="Credits.Block.4.Line.1">
+      <segment state="translated">
+        <source>Jon Knoles and Jim McLeod</source>
+        <target>Jon Knoles 與 Jim McLeod</target></segment>
+    </unit>
+    <unit id="Credits.Block.5.Line.0">
+      <segment state="translated">
+        <source>3D Animation and Rendering</source>
+        <target>3D 動畫與算圖</target></segment>
+    </unit>
+    <unit id="Credits.Block.5.Line.1">
+      <segment state="translated">
+        <source>Martin Cameron</source>
+        <target>Martin Cameron</target></segment>
+    </unit>
+    <unit id="Credits.Block.6.Line.0">
+      <segment state="translated">
+        <source>3D Flight Engine Models</source>
+        <target>3D 飛行引擎模型</target></segment>
+    </unit>
+    <unit id="Credits.Block.6.Line.1">
+      <segment state="translated">
+        <source>Wade Lady and Peter Lincroft</source>
+        <target>Wade Lady 與 Peter Lincroft</target></segment>
+    </unit>
+    <unit id="Credits.Block.7.Line.0">
+      <segment state="translated">
+        <source>Additional 3D Models</source>
+        <target>額外 3D 模型</target></segment>
+    </unit>
+    <unit id="Credits.Block.7.Line.1">
+      <segment state="translated">
+        <source>Jon Bell and Dan Colon</source>
+        <target>Jon Bell 與 Dan Colon</target></segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.0">
+      <segment state="translated">
+        <source>Mission and Story Design</source>
+        <target>任務與劇情設計</target></segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.1">
+      <segment state="translated">
+        <source>David Maxwell, David Wessman,</source>
+        <target>David Maxwell、David Wessman、</target></segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.2">
+      <segment state="translated">
+        <source>Kalani Streicher, Lawrence Holland,</source>
+        <target>Kalani Streicher、Lawrence Holland、</target></segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.3">
+      <segment state="translated">
+        <source>Jon Knoles, Wayne Cline and</source>
+        <target>Jon Knoles、Wayne Cline 與</target></segment>
+    </unit>
+    <unit id="Credits.Block.8.Line.4">
+      <segment state="translated">
+        <source>Peter Lincroft</source>
+        <target>Peter Lincroft</target></segment>
+    </unit>
+    <unit id="Credits.Block.9.Line.0">
+      <segment state="translated">
+        <source>Theme Music</source>
+        <target>主題音樂</target></segment>
+    </unit>
+    <unit id="Credits.Block.9.Line.1">
+      <segment state="translated">
+        <source>John Williams</source>
+        <target>John Williams</target></segment>
+    </unit>
+    <unit id="Credits.Block.10.Line.0">
+      <segment state="translated">
+        <source>Additional Music and Orchestration</source>
+        <target>額外音樂與編曲</target></segment>
+    </unit>
+    <unit id="Credits.Block.10.Line.1">
+      <segment state="translated">
+        <source>Peter McConnell, Michael Z. Land</source>
+        <target>Peter McConnell、Michael Z. Land</target></segment>
+    </unit>
+    <unit id="Credits.Block.10.Line.2">
+      <segment state="translated">
+        <source>and Clint Bajakian</source>
+        <target>與 Clint Bajakian</target></segment>
+    </unit>
+    <unit id="Credits.Block.11.Line.0">
+      <segment state="translated">
+        <source>Sound Effects</source>
+        <target>音效</target></segment>
+    </unit>
+    <unit id="Credits.Block.11.Line.1">
+      <segment state="translated">
+        <source>Clint Bajakian, Robin Goldstein and</source>
+        <target>Clint Bajakian、Robin Goldstein 與</target></segment>
+    </unit>
+    <unit id="Credits.Block.11.Line.2">
+      <segment state="translated">
+        <source>Albert Mack</source>
+        <target>Albert Mack</target></segment>
+    </unit>
+    <unit id="Credits.Block.12.Line.0">
+      <segment state="translated">
+        <source>Dialog Editing</source>
+        <target>對白剪輯</target></segment>
+    </unit>
+    <unit id="Credits.Block.12.Line.1">
+      <segment state="translated">
+        <source>Robin Goldstein</source>
+        <target>Robin Goldstein</target></segment>
+    </unit>
+    <unit id="Credits.Block.13.Line.0">
+      <segment state="translated">
+        <source>CD Voice Production</source>
+        <target>CD 配音製作</target></segment>
+    </unit>
+    <unit id="Credits.Block.13.Line.1">
+      <segment state="translated">
+        <source>Tamlynn Barra and Khris Brown</source>
+        <target>Tamlynn Barra 與 Khris Brown</target></segment>
+    </unit>
+    <unit id="Credits.Block.14.Line.0">
+      <segment state="translated">
+        <source>CD Voice Actors</source>
+        <target>CD 配音演員</target></segment>
+    </unit>
+    <unit id="Credits.Block.14.Line.1">
+      <segment state="translated">
+        <source>Clive Revill as Dodonna</source>
+        <target>Clive Revill 飾 多唐納</target></segment>
+    </unit>
+    <unit id="Credits.Block.14.Line.2">
+      <segment state="translated">
+        <source>Erik Bauersfeld as Ackbar</source>
+        <target>Erik Bauersfeld 飾 阿克巴</target></segment>
+    </unit>
+    <unit id="Credits.Block.14.Line.3">
+      <segment state="translated">
+        <source>Nick Jamison as Moff Tarkin</source>
+        <target>Nick Jamison 飾 塔金總督</target></segment>
+    </unit>
+    <unit id="Credits.Block.15.Line.0">
+      <segment state="translated">
+        <source>iMUSE(tm) Electronic Music System</source>
+        <target>iMUSE(tm) 電子音樂系統</target></segment>
+    </unit>
+    <unit id="Credits.Block.15.Line.1">
+      <segment state="translated">
+        <source>Michael Z. Land and Peter McConnell</source>
+        <target>Michael Z. Land 與 Peter McConnell</target></segment>
+    </unit>
+    <unit id="Credits.Block.16.Line.0">
+      <segment state="translated">
+        <source>Producers</source>
+        <target>製作人</target></segment>
+    </unit>
+    <unit id="Credits.Block.16.Line.1">
+      <segment state="translated">
+        <source>Kalani Streicher and Lawrence Holland</source>
+        <target>Kalani Streicher 與 Lawrence Holland</target></segment>
+    </unit>
+    <unit id="Credits.Block.17.Line.0">
+      <segment state="translated">
+        <source>CD Producer</source>
+        <target>CD 版製作人</target></segment>
+    </unit>
+    <unit id="Credits.Block.17.Line.1">
+      <segment state="translated">
+        <source>Wayne Cline</source>
+        <target>Wayne Cline</target></segment>
+    </unit>
+    <unit id="Credits.Block.18.Line.0">
+      <segment state="translated">
+        <source>Lead Testers</source>
+        <target>首席測試員</target></segment>
+    </unit>
+    <unit id="Credits.Block.18.Line.1">
+      <segment state="translated">
+        <source>Dan Connors and Brian Kemp</source>
+        <target>Dan Connors 與 Brian Kemp</target></segment>
+    </unit>
+    <unit id="Credits.Block.19.Line.0">
+      <segment state="translated">
+        <source>LucasArts QA Supervisor</source>
+        <target>LucasArts 品保主管</target></segment>
+    </unit>
+    <unit id="Credits.Block.19.Line.1">
+      <segment state="translated">
+        <source>Mark Cartwright</source>
+        <target>Mark Cartwright</target></segment>
+    </unit>
+    <unit id="Credits.Block.20.Line.0">
+      <segment state="translated">
+        <source>Compatibility Testing</source>
+        <target>相容性測試</target></segment>
+    </unit>
+    <unit id="Credits.Block.20.Line.1">
+      <segment state="translated">
+        <source>Chip Hinnenberg and Doyle Gilstrap</source>
+        <target>Chip Hinnenberg 與 Doyle Gilstrap</target></segment>
+    </unit>
+    <unit id="Credits.Block.21.Line.0">
+      <segment state="translated">
+        <source>Testers</source>
+        <target>測試員</target></segment>
+    </unit>
+    <unit id="Credits.Block.21.Line.1">
+      <segment state="translated">
+        <source>Reed Derleth, Al Chen, Sean Matheis,</source>
+        <target>Reed Derleth、Al Chen、Sean Matheis、</target></segment>
+    </unit>
+    <unit id="Credits.Block.21.Line.2">
+      <segment state="translated">
+        <source>William W. Burns, Leyton Chew and</source>
+        <target>William W. Burns、Leyton Chew 與</target></segment>
+    </unit>
+    <unit id="Credits.Block.21.Line.3">
+      <segment state="translated">
+        <source>Darren Johnson</source>
+        <target>Darren Johnson</target></segment>
+    </unit>
+    <unit id="Credits.Block.22.Line.0">
+      <segment state="translated">
+        <source>Invaluable Support</source>
+        <target>鼎力支持</target></segment>
+    </unit>
+    <unit id="Credits.Block.22.Line.1">
+      <segment state="translated">
+        <source>Heidi Gebhard, Yali Lin,</source>
+        <target>Heidi Gebhard、Yali Lin、</target></segment>
+    </unit>
+    <unit id="Credits.Block.22.Line.2">
+      <segment state="translated">
+        <source>Robin Parker, Laurie Canfield,</source>
+        <target>Robin Parker、Laurie Canfield、</target></segment>
+    </unit>
+    <unit id="Credits.Block.22.Line.3">
+      <segment state="translated">
+        <source>Debby McLeod and Heather Barclay</source>
+        <target>Debby McLeod 與 Heather Barclay</target></segment>
+    </unit>
+    <unit id="Credits.Block.23.Line.0">
+      <segment state="translated">
+        <source>Special Thanks to George Lucas</source>
+        <target>特別感謝 George Lucas</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.0.Line.0">
+      <segment state="translated">
+        <source>XWVM Programming</source>
+        <target>XWVM 程式設計</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.0.Line.1">
+      <segment state="translated">
+        <source>Azrapse, DeZmond, Foonix,</source>
+        <target>Azrapse、DeZmond、Foonix、</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.0.Line.2">
+      <segment state="translated">
+        <source>Lardo, MajorParts, Rob</source>
+        <target>Lardo、MajorParts、Rob</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.0.Line.3">
+      <segment state="translated">
+        <source>and Zeratul</source>
+        <target>與 Zeratul</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.1.Line.0">
+      <segment state="translated">
+        <source>XWVM Art and Music</source>
+        <target>XWVM 美術與音樂</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.1.Line.1">
+      <segment state="translated">
+        <source>Colin J, FekLeyrTarg, Ignat,</source>
+        <target>Colin J、FekLeyrTarg、Ignat、</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.1.Line.2">
+      <segment state="translated">
+        <source>Laserschwert, Jewskibot, Lardo,</source>
+        <target>Laserschwert、Jewskibot、Lardo、</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.1.Line.3">
+      <segment state="translated">
+        <source>Paul Weaver and TerryB</source>
+        <target>Paul Weaver 與 TerryB</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.2.Line.0">
+      <segment state="translated">
+        <source>XWVM Researchers and Testers</source>
+        <target>XWVM 研究與測試</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.2.Line.1">
+      <segment state="translated">
+        <source>Blazingfirestorm, Det. Bullock,</source>
+        <target>Blazingfirestorm、Det. Bullock、</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.2.Line.2">
+      <segment state="translated">
+        <source>J. King, Justagai, RandomStarfighter</source>
+        <target>J. King、Justagai、RandomStarfighter</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.2.Line.3">
+      <segment state="translated">
+        <source>and Rasi Talon</source>
+        <target>與 Rasi Talon</target></segment>
+    </unit>    
+	<unit id="Credits.XWVM.3.Line.0">
+      <segment state="translated">
+        <source>XWVM Italian Translation</source>
+        <target>XWVM 義大利文翻譯</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.3.Line.1">
+      <segment state="translated">
+        <source>Translation: Emanuele Granatello</source>
+        <target>翻譯：Emanuele Granatello</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.3.Line.2">
+      <segment state="translated">
+        <source>Proofreading: Fiorenzo Delle Rupi</source>
+        <target>校對：Fiorenzo Delle Rupi</target></segment>
+    </unit>
+	<unit id="Credits.XWVM.4.Line.0">
+      <segment state="translated">
+        <source>XWVM German Additional Translation</source>
+        <target>XWVM 德文補充翻譯</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.4.Line.1">
+      <segment state="translated">
+        <source>FekLeyrTarg</source>
+        <target>FekLeyrTarg</target></segment>
+    </unit>
+	<unit id="Credits.XWVM.5.Line.0">
+      <segment state="translated">
+        <source>XWVM Spanish Translation</source>
+        <target>XWVM 西班牙文翻譯</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.5.Line.1">
+      <segment state="translated">
+        <source>Translation: Azrapse</source>
+        <target>翻譯：Azrapse</target></segment>
+    </unit>
+    <unit id="Credits.XWVM.5.Line.2">
+      <segment state="translated">
+        <source>Proofreading: Alkaryn Varyatar</source>
+        <target>校對：Alkaryn Varyatar</target></segment>
+    </unit>
+  </file>
+</xliff>

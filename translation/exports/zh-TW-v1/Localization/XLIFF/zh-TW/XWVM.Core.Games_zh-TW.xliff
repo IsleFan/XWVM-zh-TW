@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" trgLang="zh-TW">
+	<file id="XWVM.Core.Games" srcLang="en" trgLang="zh-TW">
+		<unit id="xwvm">
+			<segment state="translated">
+				<source>XWVM</source>
+				<target>XWVM</target></segment>
+		</unit>
+		<unit id="xwing">
+			<segment state="translated">
+				<source>X-Wing</source>
+				<target>X翼戰機</target></segment>
+		</unit>
+		<unit id="tf">
+			<segment state="translated">
+				<source>TIE Fighter</source>
+				<target>鈦戰機</target></segment>
+		</unit>
+		<unit id="xvt">
+			<segment state="translated">
+				<source>X-Wing VS TIE Fighter</source>
+				<target>X翼戰機 VS 鈦戰機</target></segment>
+		</unit>
+		<unit id="xwa">
+			<segment state="translated">
+				<source>X-Wing Alliance</source>
+				<target>X翼戰機：聯盟</target></segment>
+		</unit>
+	</file>
+</xliff>

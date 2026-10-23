@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" trgLang="es">
+  <file id="XWVM.Common.Rooms" srcLang="en" trgLang="es">
+    <unit id="AstromechWorkshop.Header.Label">
+      <segment state="translated">
+        <source>Astromech Workshop</source>
+        <target>Taller de Astromecánicos</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.View.Label">
+      <segment state="translated">
+        <source>View</source>
+        <target>Presentación</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.Autorotate.Label">
+      <segment state="translated">
+        <source>Auto-rotate</source>
+        <target>Rotación automática</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.Autorotate.TooltipTitle">
+      <segment state="translated">
+        <source>Auto-rotate</source>
+        <target>Rotación automática</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.Autorotate.TooltipContent">
+      <segment state="translated">
+        <source>Automatically rotate the view.</source>
+        <target>Rotar el droide automáticamente</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.RotationSpeed.Label">
+      <segment state="translated">
+        <source>Rotation Speed</source>
+        <target>Velocidad de rotación</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.RotationSpeed.TooltipTitle">
+      <segment state="translated">
+        <source>Auto-rotate speed</source>
+        <target>Velocidad de rotación automática</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.RotationSpeed.TooltipContent">
+      <segment state="translated">
+        <source>Set the speed of the auto rotation.</source>
+        <target>Ajusta la velocidad de la rotación automática.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.PoseMode.Label">
+      <segment state="translated">
+        <source>Pose Mode</source>
+        <target>Postura</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.PoseMode.TooltipTitle">
+      <segment state="translated">
+        <source>Pose Mode</source>
+        <target>Postura</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.PoseMode.TooltipContent">
+      <segment state="translated">
+        <source>Switch between 2 and 3 legs.</source>
+        <target>Cambia entre 2 y 3 patas.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.Customize.Label">
+      <segment state="translated">
+        <source>Customize</source>
+        <target>Personalizar</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.Name.Label">
+      <segment state="translated">
+        <source>Astromech Name</source>
+        <target>Nombre del Astromecánico</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.Name.TooltipTitle">
+      <segment state="translated">
+        <source>Astromech Name</source>
+        <target>Nombre del Astromecánico</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.Name.TooltipContent">
+      <segment state="translated">
+        <source>Use a custom name for your onboard R2 unit (for craft that use one).</source>
+        <target>Utiliza un nombre personalizado para tu unidad astromecánica de abordo (en naves que emplean una).</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadSection.Label">
+      <segment state="translated">
+        <source>Astromech Head</source>
+        <target>Cabeza del Astromecánico</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadDropdown.Label">
+      <segment state="translated">
+        <source>Astromech Head</source>
+        <target>Cabeza del Astromecánico</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadDropdown.TooltipTitle">
+      <segment state="translated">
+        <source>Astromech Head</source>
+        <target>Cabeza del Astromecánico</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadDropdown.TooltipContent">
+      <segment state="translated">
+        <source>Select the astromech head you would like to use.</source>
+        <target>Escoge la cabeza del astromecánico que te gustaría usar.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkings.Label">
+      <segment state="translated">
+        <source>Head Markings</source>
+        <target>Patrones de Cabeza</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkings.TooltipTitle">
+      <segment state="translated">
+        <source>Astromech Head Markings</source>
+        <target>Patrones de Cabeza del Astromecánico</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkings.TooltipContent">
+      <segment state="translated">
+        <source>Select the astromech head markings you would like to use.</source>
+        <target>Escoge los patrones de la cabeza del astromecánico que te gustaría usar.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor1.Label">
+      <segment state="translated">
+        <source>Head Markings Color 1</source>
+        <target>Color de Patrón de Cabeza 1</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor1.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 1</source>
+        <target>Color de Patrón 1</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor1.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>Escoge el color de este patrón.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor2.Label">
+      <segment state="translated">
+        <source>Head Markings Color 2</source>
+        <target>Color de Patrón de Cabeza 2</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor2.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 2</source>
+        <target>Color de Patrón 2</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor2.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>Escoge el color de este patrón.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor3.Label">
+      <segment state="translated">
+        <source>Head Markings Color 3</source>
+        <target>Color de Patrón de Cabeza 3</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor3.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 3</source>
+        <target>Color de Patrón 3</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor3.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>Escoge el color de este patrón.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor4.Label">
+      <segment state="translated">
+        <source>Head Markings Color 4</source>
+        <target>Color de Patrón de Cabeza 4</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor4.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 4</source>
+        <target>Color de Patrón 4</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.HeadMarkingsColor4.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>Escoge el color de este patrón.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodySection.Label">
+      <segment state="translated">
+        <source>Astromech Body</source>
+        <target>Cuerpo del Astromecánico</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkings.Label">
+      <segment state="translated">
+        <source>Body Markings</source>
+        <target>Patrones de Cuerpo</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkings.TooltipTitle">
+      <segment state="translated">
+        <source>Astromech Body Markings</source>
+        <target>Patrones de Cuerpo del Astromecánico</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkings.TooltipContent">
+      <segment state="translated">
+        <source>Select the body markings pattern you would like to use.</source>
+        <target>Escoge los patrones del cuerpo del astromecánico que te gustaría usar.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor1.Label">
+      <segment state="translated">
+        <source>Body Markings Color 1</source>
+        <target>Color de Patrón de Cuerpo 1</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor1.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 1</source>
+        <target>Color de Patrón 1</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor1.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>Escoge el color de este patrón.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor2.Label">
+      <segment state="translated">
+        <source>Body Markings Color 2</source>
+        <target>Color de Patrón de Cuerpo 2</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor2.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 2</source>
+        <target>Color de Patrón 2</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor2.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>Escoge el color de este patrón.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor3.Label">
+      <segment state="translated">
+        <source>Body Markings Color 3</source>
+        <target>Color de Patrón de Cuerpo 3</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor3.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 3</source>
+        <target>Color de Patrón 3</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor3.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>Escoge el color de este patrón.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor4.Label">
+      <segment state="translated">
+        <source>Body Markings Color 4</source>
+        <target>Color de Patrón de Cuerpo 4</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor4.TooltipTitle">
+      <segment state="translated">
+        <source>Markings Color 4</source>
+        <target>Color de Patrón 4</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BodyMarkingsColor4.TooltipContent">
+      <segment state="translated">
+        <source>Set the colour of this marking.</source>
+        <target>Escoge el color de este patrón.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.ColorPicker.CloseButton.Label">
+      <segment state="translated">
+        <source>Close</source>
+        <target>Cerrar</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.OverwritePrompt.Label">
+      <segment state="translated">
+        <source>A droid already exists with this name, overwrite?</source>
+        <target>Ya existe un droide con este nombre. ¿Reemplazarlo?</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.OverwritePrompt.SaveButton.Label">
+      <segment state="translated">
+        <source>Save and Overwrite</source>
+        <target>Guardar y Reemplazar</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.OverwritePrompt.CancelButton.Label">
+      <segment state="translated">
+        <source>Cancel</source>
+        <target>Cancelar</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.AssignPrompt.Label">
+      <segment state="translated">
+        <source>This droid is not assigned to your current pilot yet. Would you like to assign it now?</source>
+        <target>Este droide aún no está asignado a tu piloto actual. ¿Quieres asignárselo ahora?</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.AssignPrompt.AssignButton.Label">
+      <segment state="translated">
+        <source>Assign to current pilot</source>
+        <target>Asignar al Piloto Actual</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.AssignPrompt.NotAssignButton.Label">
+      <segment state="translated">
+        <source>Do not assign</source>
+        <target>No Asignar</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSection.Label">
+      <segment state="translated">
+        <source>Load Droid</source>
+        <target>Cargar Droide</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSection.NoDroidsMessage.Label">
+      <segment state="translated">
+        <source>No droids currently available to load.</source>
+        <target>No hay droides actualmente disponibles para cargar.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSection.LoadButton.Label">
+      <segment state="translated">
+        <source>Load</source>
+        <target>Cargar</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSection.CancelButton.Label">
+      <segment state="translated">
+        <source>Cancel</source>
+        <target>Cancelar</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.NewButton.Label">
+      <segment state="translated">
+        <source>New droid</source>
+        <target>Nuevo Droide</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.NewButton.TooltipTitle">
+      <segment state="translated">
+        <source>New</source>
+        <target>Nuevo</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.NewButton.TooltipContent">
+      <segment state="translated">
+        <source>Create a new droid, starting from the default R2 unit.</source>
+        <target>Crea un nuevo droide partiendo de la unidad R2 predeterminada.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.LoadButton.Label">
+      <segment state="translated">
+        <source>Load existing droid</source>
+        <target>Cargar Droide Existente</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.LoadButton.TooltipTitle">
+      <segment state="translated">
+        <source>Load</source>
+        <target>Cargar</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.LoadButton.TooltipContent">
+      <segment state="translated">
+        <source>Select a droid config to edit.</source>
+        <target>Selecciona una configuración de droide para editarla.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveButton.Label">
+      <segment state="translated">
+        <source>Save current droid</source>
+        <target>Guardar Droide Actual</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveButton.TooltipTitle">
+      <segment state="translated">
+        <source>Save</source>
+        <target>Guardar</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveButton.TooltipContent">
+      <segment state="translated">
+        <source>Save this astromech config.</source>
+        <target>Guarda esta configuración del astromecánico.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveAssignButton.Label">
+      <segment state="translated">
+        <source>Save and assign to current pilot</source>
+        <target>Guardar y Asignar al Piloto Actual</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveAssignButton.TooltipTitle">
+      <segment state="translated">
+        <source>Save and assign to current pilot</source>
+        <target>Guardar y asignar al piloto actual</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.BottomPanel.SaveAssignButton.TooltipContent">
+      <segment state="translated">
+        <source>Save this astromech config (overwrite any existing droid with the same name), and assign it to the current pilot.</source>
+        <target>Guarda esta configuración de astromecánico (sobrescribe cualquier droide existente con el mismo nombre) y la asigna al piloto actual.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.MarkingSet.Name">
+      <segment state="translated">
+        <source>Marking set {num}</source>
+        <target>Conjunto de Patrón {num}</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.SaveSuccess.Message">
+      <segment state="translated">
+        <source>Droid {name} saved{isAssigned:cond: and assigned|} successfully.</source>
+        <target>Droide {name} guardado{isAssigned:cond: y asignado|} correctamente.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.SaveFailUnnamed.Message">
+      <segment state="translated">
+        <source>Unable to save droid. Please name the droid first.</source>
+        <target>No se puede guardar droide. Por favor, proporciona un nombre.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.SaveFailError.Message">
+      <segment state="translated">
+        <source>Error on saving droid.</source>
+        <target>Error al guardar el droide.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.OverwriteNamePrompt.Label">
+      <segment state="translated">
+        <source>A droid already exists with this name ({name}), overwrite?</source>
+        <target>Ya existe un droide con este nombre ({name}). ¿Quieres reemplazarlo?</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.LoadSuccess.Message">
+      <segment>
+        <source>Droid {name} loaded successfully.</source>
+        <target>Droide {name} cargado correctamente.</target>
+      </segment>
+    </unit>
+    <unit id="AstromechWorkshop.Exit.Label">
+      <segment>
+        <source>Exit Workshop</source>
+        <target>Salir del Taller</target>
+      </segment>
+    </unit>
+
+  </file>
+</xliff>

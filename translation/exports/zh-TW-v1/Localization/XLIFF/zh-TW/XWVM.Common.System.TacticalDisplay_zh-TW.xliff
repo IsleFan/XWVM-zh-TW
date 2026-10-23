@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file original="XWVM.Common.System.TacticalDisplay">
+      <unit id="Orders.Label">
+        <segment state="translated">
+          <source>ORDERS</source>
+          <target>命令</target></segment>
+      </unit>
+      <unit id="TimeLeft.Label">
+        <segment state="translated">
+          <source>TIME LEFT</source>
+          <target>剩餘時間</target></segment>
+      </unit>
+      <unit id="CurrentTarget.Label">
+        <segment state="translated">
+          <source>CURRENT TARGET</source>
+          <target>目前目標</target></segment>
+      </unit>
+      <unit id="DistanceFromTarget.Label">
+        <segment state="translated">
+          <source>DISTANCE FROM TARGET</source>
+          <target>與目標距離</target></segment>
+      </unit>
+      <unit id="NoInformationAvailable">
+        <segment state="translated">
+          <source>No information available.</source>
+          <target>無可用資訊。</target></segment>
+      </unit>
+      <unit id="TacticalDisplayTitle">
+        <segment state="translated">
+          <source>Tactical Information</source>
+          <target>戰術資訊</target></segment>
+      </unit>
+      <unit id="System.Laser.Label">
+        <segment state="translated">
+          <source>LASER</source>
+          <target>雷射</target></segment>
+      </unit>
+      <unit id="System.Ion.Label">
+        <segment state="translated">
+          <source>ION</source>
+          <target>離子</target></segment>
+      </unit>
+      <unit id="System.Warhead.Label">
+        <segment state="translated">
+          <source>WARHEAD</source>
+          <target>彈頭</target></segment>
+      </unit>
+      <unit id="System.Beam.Label">
+        <segment state="translated">
+          <source>BEAM</source>
+          <target>光束</target></segment>
+      </unit>    
+      <unit id="System.Shield.Label">
+        <segment state="translated">
+          <source>SHIELD</source>
+          <target>護盾</target></segment>
+      </unit>    
+      <unit id="System.Hull.Label">
+        <segment state="translated">
+          <source>HULL</source>
+          <target>船體</target></segment>
+      </unit>    
+      <unit id="System.Offline.Label">
+        <segment state="translated">
+          <source>OFFLINE ({0}s)</source>
+          <target>離線（{0} 秒）</target></segment>
+      </unit>    
+  </file>
+</xliff>

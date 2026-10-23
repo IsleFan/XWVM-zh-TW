@@ -1,0 +1,354 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.Common.RanksAwards">
+      <unit id="PilotRank.FltCadet" >
+        <segment>
+          <source>Flight Cadet</source>
+          <target>Cadete de Vuelo</target>
+        </segment>
+      </unit>
+      <unit id="PilotRank.FltOfficer" >
+        <segment>
+          <source>Flight Officer</source>
+          <target>Oficial de Vuelo</target>
+        </segment>
+      </unit>
+      <unit id="PilotRank.Lieutenant" >
+        <segment>
+          <source>Lieutenant</source>
+          <target>Teniente</target>
+        </segment>
+      </unit>
+      <unit id="PilotRank.Captain" >
+        <segment>
+          <source>Captain</source>
+          <target>Capitán</target>
+        </segment>
+      </unit>
+      <unit id="PilotRank.Commander" >
+        <segment>
+          <source>Commander</source>
+          <target>Comandante</target>
+        </segment>
+      </unit>
+      <unit id="PilotRank.General" >
+        <segment>
+          <source>General</source>
+          <target>General</target>
+        </segment>
+      </unit>
+      <unit id="Award.KalidorCrescent" >
+        <segment>
+          <source>Kalidor Crescent</source>
+          <target>Media Luna Kalidor</target>
+        </segment>
+      </unit>
+      <unit id="Award.BronzeCluster" >
+        <segment>
+          <source>Bronze Cluster</source>
+          <target>Cúmulo de Bronce</target>
+        </segment>
+      </unit>
+      <unit id="Award.SilverTalons" >
+        <segment>
+          <source>Silver Talons</source>
+          <target>Garras Plateadas</target>
+        </segment>
+      </unit>
+      <unit id="Award.SilverScimitar" >
+        <segment>
+          <source>Silver Scimitar</source>
+          <target>Cimitarra Plateada</target>
+        </segment>
+      </unit>
+     <unit id="Award.GoldenWings" >
+        <segment>
+          <source>Golden Wings</source>
+          <target>Alas Doradas</target>
+        </segment>
+      </unit>
+      <unit id="Award.DiamondEyes" >
+        <segment>
+          <source>Diamond Eyes</source>
+          <target>Ojos de Diamante</target>
+        </segment>
+      </unit>
+      <unit id="Award.YouveBeenAwarded" >
+        <segment>
+          <source>You have been awarded the {awardName}!</source>
+          <target>¡Se te han concedido: {awardName}!</target>
+        </segment>
+      </unit>
+       <unit id="Award.SecretOrderRankUp" >
+        <segment>
+          <source>Your rank in the Secret Order is now {rankName}!</source>
+          <target>¡Tu rango en la Orden Secreta ahora es {rankName}!</target>
+        </segment>
+      </unit>
+     <unit id="Award.SecretOrderRank1" >
+        <segment>
+          <source>First Initiate</source>
+          <target>Círculo Inicial</target>
+        </segment>
+      </unit>
+      <unit id="Award.SecretOrderRank2" >
+        <segment>
+          <source>Second Circle</source>
+          <target>Segundo Círculo</target>
+        </segment>
+      </unit>
+      <unit id="Award.SecretOrderRank3" >
+        <segment>
+          <source>Third Circle</source>
+          <target>Tercer Círculo</target>
+        </segment>
+      </unit>
+      <unit id="Award.SecretOrderRank4" >
+        <segment>
+          <source>Fourth Circle</source>
+          <target>Cuarto Círculo</target>
+        </segment>
+      </unit>
+      <unit id="Award.SecretOrderRank5" >
+        <segment>
+          <source>Inner circle</source>
+          <target>Círculo Interno</target>
+        </segment>
+      </unit>
+      <unit id="Award.SecretOrderRank6" >
+        <segment>
+          <source>Emperor's Hand</source>
+          <target>Mano del Emperador</target>
+        </segment>
+      </unit>
+      <unit id="Award.SecretOrderRank7" >
+        <segment>
+          <source>Emperor's Eyes</source>
+          <target>Ojos del Emperador</target>
+        </segment>
+      </unit>
+      <unit id="Award.SecretOrderRank8" >
+        <segment>
+          <source>Emperor's Voice</source>
+          <target>Voz del Emperador</target>
+        </segment>
+      </unit>
+      <unit id="Award.SecretOrderRank9" >
+        <segment>
+          <source>Emperor's Reach</source>
+          <target>Alcance del Emperador</target>
+        </segment>
+      </unit>
+      <unit id="Award.AwardedBonusPin" >
+        <segment>
+          <source>You have been awarded the Bonus Objectives Pin!</source>
+          <target>¡Se te ha concedido el Broche de Objetivos Extra!</target>
+        </segment>
+      </unit>
+      <unit id="Award.BonusPinName" >
+        <segment>
+          <source>{missionTitle} Bonus Goals Pin {missionIndex}</source>
+          <target>Broche de Objetivos Extra {missionIndex} de {missionTitle}</target>
+        </segment>
+      </unit>
+      <unit id="Award.AwardedSecondaryPin" >
+        <segment>
+          <source>You have been awarded the Secondary Objectives Pin!</source>
+          <target>¡Se te ha concedido el Broche de Objetivos Secundarios!</target>
+        </segment>
+      </unit>
+      <unit id="Award.SecondaryPinName" >
+        <segment>
+          <source>{missionTitle} Secondary Pin {missionIndex}</source>
+          <target>Broche de Objetivos Secundarios {missionIndex} de {missionTitle}</target>
+        </segment>
+      </unit>
+	  <unit id="Award.AwardedFlightBadge" >
+        <segment>
+          <source>You have been awarded the {species.ONE} Flight Badge!</source>
+          <target>¡Se te ha concedido el Distintivo de Vuelo {species.GENDER:choose(M|F):del|de la} {species.ONE}!</target>
+        </segment>
+      </unit>
+      <unit id="Award.FlightBadgeName" >
+        <segment>
+          <source>{species.ONE} Flight Badge</source>
+          <target>Distintivo de Vuelo {species.GENDER:choose(M|F):del|de la} {species.ONE}</target>
+        </segment>
+      </unit>
+	  <unit id="Award.AwardedHistoricPatch" >
+        <segment>
+          <source>You have been awarded the Historic {missionTitle} Battle Patch {missionIndex}!</source>
+          <target>¡Se te ha concedido el Parche de Combate Histórico {missionIndex} de {missionTitle}!</target>
+        </segment>
+      </unit>
+      <unit id="Award.HistoricPatchName" >
+        <segment>
+          <source>Historic {missionTitle} Battle Patch {missionIndex}</source>
+          <target>Parche de Combate Histórico {missionIndex} de {missionTitle}</target>
+        </segment>
+      </unit>
+	  <unit id="Award.AwardedHistoricMedallion" >
+        <segment>
+          <source>You have been awarded {upgrade:choose(False|True):a|a new} Combat Medallion!</source>
+          <target>¡Has {upgrade:choose(False|True):sido condecorado con una|recibido una nueva} Medalla de Combate!</target>
+        </segment>
+      </unit>
+      <unit id="Award.AwardedRankUp" >
+        <segment>
+          <source>You have been promoted to {rank}.</source>
+          <target>Te han ascendido a {rank}.</target>
+        </segment>
+      </unit>
+	  <unit id="Award.AwardedMedal" >
+        <segment>
+          <source>You have been awarded the {medalName}!</source>
+          <target>¡Se te ha otorgado la medalla: {medalName}!</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle1MedalName" >
+        <segment>
+          <source>Medal of Redemption</source>
+          <target>Medalla de la Redención</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle2MedalName" >
+        <segment>
+          <source>Medal of Unity</source>
+          <target>Medalla de la Unidad</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle3MedalName" >
+        <segment>
+          <source>Medal of Progress</source>
+          <target>Medalla del Progreso</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle4MedalName" >
+        <segment>
+          <source>Medal of Order</source>
+          <target>Medalla del Orden</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle5MedalName" >
+        <segment>
+          <source>Medal of Loyalty</source>
+          <target>Medalla de la Lealtad</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle6MedalName" >
+        <segment>
+          <source>Medal of Destiny</source>
+          <target>Medalla del Destino</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle7MedalName" >
+        <segment>
+          <source>Emperor's Will</source>
+          <target>Voluntad del Emperador</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle8MedalName" >
+        <segment>
+          <source>Medal of Dignity</source>
+          <target>Medalla de la Dignidad</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle9MedalName" >
+        <segment>
+          <source>Medal of Futility</source>
+          <target>Medalla de la Futilidad</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle10MedalName" >
+        <segment>
+          <source>Medal of Horror</source>
+          <target>Medalla del Horror</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle11MedalName" >
+        <segment>
+          <source>Medal of Liberty</source>
+          <target>Medalla de la Libertad</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle12MedalName" >
+        <segment>
+          <source>Medal of Guile</source>
+          <target>Medalla de la Astucia</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Battle13MedalName" >
+        <segment>
+          <source>Medal of Victory</source>
+          <target>Medalla de la Victoria</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Tour1MedalName" >
+        <segment>
+          <source>Corellian Cross</source>
+          <target>Cruz Coreliana</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Tour2MedalName" >
+        <segment>
+          <source>Mantooine Medallion</source>
+          <target>Medallón de Mantooine</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Tour3MedalName" >
+        <segment>
+          <source>Star of Alderaan</source>
+          <target>Estrella de Alderaan</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Tour4MedalName" >
+        <segment>
+          <source>Shield of Yavin</source>
+          <target>Escudo de Yavin</target>
+        </segment>
+      </unit>
+	  <unit id="Award.Tour5MedalName" >
+        <segment>
+          <source>Talons of Hoth</source>
+          <target>Garras de Hoth</target>
+        </segment>
+      </unit>
+	  <unit id="Award.UndecoratedAward" >
+        <segment>
+          <source>Undecorated {award}</source>
+          <target>{award} sin condecoraciones</target>
+        </segment>
+      </unit>
+	  <unit id="Award.DecoratedAward" >
+        <segment>
+          <source>{award} with {decoration} decoration</source>
+          <target>{award} con condecoración {decoration}</target>
+        </segment>
+      </unit>
+	  <unit id="Award.FlightBadgeAward" >
+		<notes>
+			<note>
+				This is the flight badge tooltip that must say the flight badge and for which ship it is.
+				"B-wing Flight Badge"
+			</note>
+		</notes>
+        <segment>
+          <source>{species.ONE} {award}</source>
+          <target>{award} de {species.ONE}</target>
+        </segment>
+      </unit>
+	  <unit id="Award.MissionCollectionPatchTooltip" >
+		<notes>
+			<note>
+				This is the description for a patch award for a collection of missions.
+				"B-wing Historical Missions number 6"
+			</note>
+		</notes>
+        <segment>
+          <source>{collection} number {number}</source>
+          <target>{collection} número {number}</target>
+        </segment>
+      </unit>
+	  
+  </file>
+</xliff>

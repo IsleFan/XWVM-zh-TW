@@ -1,0 +1,2778 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="es">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="MissionGroup.bonus.Title">
+      <segment state="translated">
+        <source>Bonus</source>
+        <target>Extras</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.Title">
+      <segment state="translated">
+        <source>Protect Cargo Transfer</source>
+        <target>Protege Transbordo de Carga</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.Description">
+      <segment state="translated">
+        <source>Protect a cargo transfer
+during an attack by 
+Imperial frigates. Eliminate 
+the TIE Bombers while 
+dogfighting the TIE Advanced.</source>
+        <target>Protege una transferencia de carga
+durante un ataque por 
+fragatas imperiales. Elimina 
+a los Bombarderos TIE mientras 
+combates contra los TIEs Avanzados.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.1">
+      <segment state="translated">
+        <source>&gt;A-wing Bonus Mission 1</source>
+        <target>Misión Extra de Ala-A 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.2">
+      <segment state="translated">
+        <source>Mission designed by [[David Wessman]] c1994</source>
+        <target>Misión diseñada por [[David Wessman]] c1994</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.3">
+      <segment state="translated">
+        <source>A pair of cargo containers has been hidden away in an asteroid field.</source>
+        <target>Un par de contenedores de carga han sido ocultados en un campo de asteroides.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.4">
+      <segment state="translated">
+        <source>A-wing [[Red One]] will inspect the containers to verify their contents.</source>
+        <target>Ala-A [[Rojo]] inspeccionará los contenedores para verificar su contenido.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.5">
+      <segment state="translated">
+        <source>Two transports will then deploy to ferry the supplies to our cruiser.</source>
+        <target>Dos transportes seguidamente se desplegarán para transportar los suministros a nuestro crucero.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.6">
+      <segment state="translated">
+        <source>This will require at least two or three trips, so remain alert.</source>
+        <target>Esto requerirá al menos dos o tres viajes, así que permanece alerta.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.7">
+      <segment state="translated">
+        <source>Attack any Imperial patrols instantly! We can not allow any interference!</source>
+        <target>¡Ataca a cualquier patrulla imperial en el acto! ¡No podemos permitir ninguna interferencia!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.8">
+      <segment state="translated">
+        <source>X-wing [[Gold ]]and B-wing [[Blue]] will be on the alert in case of trouble.</source>
+        <target>Ala-X [[Oro]] y Ala-B [[Azul]] estarán en guardia en caso de problemas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.9">
+      <segment state="translated">
+        <source>As soon as the [[Stimsenj'kat]] has entered hyperspace, you should, too.</source>
+        <target>Tan pronto como el [[Stimsenj'kat]] haya entrado en hiperespacio, tú deberías hacer lo mismo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.10">
+      <segment state="translated">
+        <source>1) Cargo container group[[ Xi]] must be inspected.$$2) Calamari Cruiser [[Stimsenj'kat]] must survive.  The cruiser will enter hyperspace when the transports have completed their mission.$$3) Transport group [[Renhoek]] must survive.  There are two replacement waves that must also dock with the containers to complete their mission.</source>
+        <target>1) El grupo de contenedores de carga [[Xi]] debe ser inspeccionado.$$2) El crucero Calamari [[Stimsenj'kat]] debe sobrevivir.  El crucero entrará en hiperespacio cuando los transportes hayan completado su misión.$$3) El grupo de transportes [[Renhoek]] debe sobrevivir.  Hay dos oleadas de refuerzo que deben acoplarse también con los contenedores para completar su misión.$$&gt;Clic sobre recuadro negro de página para ver Evaluación de Amenaza</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.11">
+      <segment state="translated">
+        <source>&gt;WIN CONDITIONS</source>
+        <target>&gt;CONDICIONES DE VICTORIA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.12">
+      <segment state="translated">
+        <source>&gt;THREAT ASSESSMENT</source>
+        <target>&gt;EVALUACIÓN DE AMENAZA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.13">
+      <segment state="translated">
+        <source>  First is an independent group of four Assault Gunboats (whose primary targets are the containers and transports.)  They are joined by two Nebulon-B class Frigates, each with two TIE squadrons.  The TIEs are an even mix of TIE Bombers and TIE Advanced.  Upon the destruction of the first Frigate a third will arrive.$  The Bombers' primary target is the Cruiser.  The TIE Advanceds' primary targets are Alliance fighters.</source>
+        <target>  Primero hay un grupo independiente de cuatro Cañoneras de Asalto (cuyos objetivos principales son los contenedores y transportes.)  Se les unen dos Fragatas clase Nebulon-B, cada una con dos escuadrones de TIEs.  Los TIEs son una mezcla homogénea de Bombarderos TIE y TIEs Avanzados.  Al destruirse la primera Fragata llegará una tercera.$   El objetivo principal de los Bombarderos es el Crucero.  Los objetivos principales de los TIE Avanzados son los cazas de la Alianza.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.14">
+      <segment state="translated">
+        <source>  The Empire's first deployment of an advanced TIE fighter with defensive shields was less than momentous.  The new craft were faster than anything else in wide use at the time, but were badly underarmed.$  In this battle three squadrons were lost in combat against a single Calamari Cruiser.  Of course, there was one Alliance pilot who greatly distinguished himself on that day... accounting for over 30 enemy craft!</source>
+        <target>  El primer despliegue del Imperio de un caza TIE Avanzado con escudos defensivos no fue un acontecimiento particularmente destacado.  Las nuevas naves eran más rápidas que cualquier otra comúnmente usada hasta ese momento, pero estaban pésimamente armadas.$  En esta batalla se perdieron tres escuadrones en combate contra un solo Crucero Calamari.  Por supuesto, había un piloto de la Alianza que se distinguió excepcionalmente ese día... ¡anotándose más de 30 naves enemigas!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.15">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.16">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ THIS IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.17">
+      <segment state="translated">
+        <source>  IDing the CONs triggers the arrival of GUN[[ Rho]].  Engage them immediately to prevent them from destroying the TRNs.$  When the FRGs arrive and begin launching their TIEs, go after the Bombers first.  X-W[[ Gold]] will help you while B-W[[ Blue]] concentrates on the Frigates.  When there are no more T/Bs, go after the T/As.  (X-W[[ Gold]] should then join B-W[[ Blue]] against the FRGs.)</source>
+        <target>  Identificar los CONs desencadena la llegada de CAÑ [[Rho]].  Atácalas inmediatamente para evitar que destruyan los TRNs.$  Cuando lleguen las FRA y comiencen a lanzar sus TIEs, ataca primero a los Bombarderos.  A-X [[Oro]] te ayudará mientras A-B [[Azul]] se concentra en las Fragatas.  Cuando no haya más T/Bs, ataca a los T/As. (A-X [[Oro]] debería entonces unirse a A-B [[Azul]] contra las FRAs.)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Text.18">
+      <segment state="translated">
+        <source>  Your mission goals are simple: verify the contents of the containers, then ensure the safety of the transfer operation.  Transport group[[ Renhoek]] is most vulnerable so be sure to keep watch over them.$  The greatest threat to our Cruiser would be a torpedo attack, so be prepared to intercept any Imperial craft that could launch one. Stay alert and stay alive!</source>
+        <target>  Tus objetivos de misión son sencillos: verificar el contenido de los contenedores, y luego asegurarte del éxito de la operación de transferencia.  El grupo de transportes [[Renhoek]] es la parte más vulnerable, así que asegúrate de tenerlo bajo vigilancia.$  La mayor amenaza para nuestro Crucero sería un ataque con torpedos, por lo que prepárate para interceptar cualquier nave imperial capaz de lanzarlo. ¡Mantente alerta y mantente con vida!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Tag.0">
+      <segment>
+        <source>Cargo Containers</source>
+        <target>Contenedores de Carga</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Tag.1">
+      <segment>
+        <source>Nav Sat</source>
+        <target>Satélite de Navegación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Tag.2">
+      <segment>
+        <source>Asteroids</source>
+        <target>Asteroides</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Tag.3">
+      <segment>
+        <source>A-W Red (YOU)</source>
+        <target>A-A Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Tag.4">
+      <segment>
+        <source>TRN Renhoek</source>
+        <target>TRN Renhoek</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Tag.5">
+      <segment state="translated">
+        <source>Imperial Patrols (GUNs)</source>
+        <target>Patrullas Imperiales (CAÑs)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Tag.6">
+      <segment state="translated">
+        <source>CRS Stimsenj'kat</source>
+        <target>CRU Stimsenj'kat</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Tag.7">
+      <segment>
+        <source>X-W Gold</source>
+        <target>A-X Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.Tag.8">
+      <segment state="translated">
+        <source>B-W Blue</source>
+        <target>A-B Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.0.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.1.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.1.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.2.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.3.Designation">
+      <segment>
+        <source>RENHOEK</source>
+        <target>RENHOEK</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.4.Designation">
+      <segment>
+        <source>STIMSENJ'KAT</source>
+        <target>STIMSENJ'KAT</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.5.Designation">
+      <segment>
+        <source>XI</source>
+        <target>XI</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.5.Cargo">
+      <segment>
+        <source>LONSIGAR</source>
+        <target>LONSIGAR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.6.Designation">
+      <segment state="translated">
+        <source>RAPIER</source>
+        <target>ESTOQUE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.7.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.8.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.9.Designation">
+      <segment state="translated">
+        <source>FIRESTORM</source>
+        <target>TORMENTA ÍGNEA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.10.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.11.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.12.Designation">
+      <segment state="translated">
+        <source>REAPER</source>
+        <target>SEGADORA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.13.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.14.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.15.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.16.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.17.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.18.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.19.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan1aw.FG.20.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.0.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.1.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.1.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.2.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.3.Designation">
+      <segment>
+        <source>RENHOEK</source>
+        <target>RENHOEK</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.4.Designation">
+      <segment>
+        <source>STIMSENJ'KAT</source>
+        <target>STIMSENJ'KAT</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.5.Designation">
+      <segment state="translated">
+        <source>XI</source>
+        <target>XI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.5.Cargo">
+      <segment>
+        <source>LONSIGAR</source>
+        <target>LONSIGAR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.6.Designation">
+      <segment state="translated">
+        <source>RAPIER</source>
+        <target>ESTOQUE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.7.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.8.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.9.Designation">
+      <segment state="translated">
+        <source>FIRESTORM</source>
+        <target>TORMENTA ÍGNEA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.10.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.11.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.12.Designation">
+      <segment state="translated">
+        <source>REAPER</source>
+        <target>SEGADORA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.13.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.14.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.15.Designation">
+      <segment>
+        <source>RHO</source>
+        <target>RHO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.16.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.16.Cargo">
+      <segment state="translated">
+        <source>tormtrprs</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.17.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.17.Cargo">
+      <segment state="translated">
+        <source>tormtrprs</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.18.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.18.Cargo">
+      <segment state="translated">
+        <source>tormtrprs</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.19.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.19.Cargo">
+      <segment state="translated">
+        <source>tormtrprs</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.20.Designation">
+      <segment>
+        <source>MOJO-1</source>
+        <target>MOJO-1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.FG.20.Cargo">
+      <segment state="translated">
+        <source>tormtrprs</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.CompletionMessage.0">
+      <segment state="translated">
+        <source>Outstanding, Red 1! You're an inspiration to us all!</source>
+        <target>¡Sobresaliente, Rojo 1! ¡Eres una inspiración para todos nosotros!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.CompletionMessage.1">
+      <segment state="translated">
+        <source>Perhaps one day you will be remembered as the ...</source>
+        <target>¡Quizás algún día serás recordado como el...</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan1aw.CompletionMessage.2">
+      <segment state="translated">
+        <source>... greatest A-wing pilot of all time!</source>
+        <target>...mejor piloto de Ala-A de todos los tiempos!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.Title">
+      <segment state="translated">
+        <source>Destroy Troop Convoy</source>
+        <target>Destruye Convoy de Tropas</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.Description">
+      <segment state="translated">
+        <source>Destroy a large Imperial 
+troop convoy as part of a 
+combined strike team made 
+up of X-wings, A-wings and 
+B-wings.</source>
+        <target>Destruye un gran convoy de tropas
+del Imperio como parte de un
+equipo de ataque combinado
+compuesto por Alas-X, Alas-A
+y Alas-B.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.1">
+      <segment state="translated">
+        <source>&gt;X-wing Bonus Mission 2</source>
+        <target>&gt;Misión Extra de Ala-X 2</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.2">
+      <segment>
+        <source>Mission designed by [[David Wessman]] c1994</source>
+        <target>Misión diseñada por [[David Wessman]] c1994</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.3">
+      <segment>
+        <source>A large Imperial convoy bearing occupation troops is the target.</source>
+        <target>Un gran convoy imperial transportando tropas de ocupación es el objetivo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.4">
+      <segment state="translated">
+        <source>Stormtrooper[[ Transports]] and bulk[[ Freighters]] make up the convoy.</source>
+        <target>[[Transportes]] con tropas de asalto y [[Cargueros]] pesados componen el convoy.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.5">
+      <segment state="translated">
+        <source>The convoy contains [[40]] freighters and [[60]] troop transports.</source>
+        <target>El convoy contiene [[40]] cargueros y [[60]] transportes de tropas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.6">
+      <segment state="translated">
+        <source>At least half of the convoy must be destroyed.</source>
+        <target>Al menos la mitad del convoy debe ser destruido.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.7">
+      <segment state="translated">
+        <source>The strike force will consist of [[4]] X-wings, [[4]] B-wings and [[4]] A-wings.</source>
+        <target>Las fuerzas de ataque constarán de [[4]] Alas-X, [[4]] Alas-B y [[4]] Alas-A.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.8">
+      <segment state="translated">
+        <source>X-wing[[ Red ]]will take the transports, B-wing [[Gold]] will take the freighters.</source>
+        <target>Ala-X [[Rojo]] se ocupará de los transportes, Ala-B [[Oro]] se ocupará de los cargueros.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.9">
+      <segment state="translated">
+        <source>A-wing[[ Blue]] will cover the attack by engaging any escort fighters.</source>
+        <target>Ala-A [[Azul]] cubrirá el ataque combatiendo con cualquier caza de escolta.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.10">
+      <segment>
+        <source>&gt;WIN CONDITIONS</source>
+        <target>&gt;CONDICIONES DE VICTORIA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.11">
+      <segment state="translated">
+        <source>1) Transport group [[Epsilon]] must be destroyed.  (There are 30 ships arriving in 5 six ship flight groups.)$$2) Freighter group [[M-S]] must be destroyed.  (There are 20 ships arriving in pairs.)</source>
+        <target>1) El grupo de transportes [[Épsilon]] debe ser destruido.  (Hay 30 naves en 5 grupos de vuelo de 6 naves.)$$2) El grupo de cargueros [[M-S]] debe ser destruido.  (Hay 20 naves en que llegan en parejas.)$$&gt;Clic sobre recuadro negro de página para ver Evaluación de Amenaza</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.12">
+      <segment state="translated">
+        <source>&gt;THREAT ASSESSMENT</source>
+        <target>&gt;EVALUACIÓN DE AMENAZA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.13">
+      <segment state="translated">
+        <source>  The troop transports in the convoy will fight back.  Additionally, a heavy squadron (20 ships) of Assault Gunboats are providing escort.  They will arrive in pairs.$  A Star Destroyer will arrive after about 20 minutes.  It has a full complement of TIEs.  There are three squadrons of TIE Fighters, two squadrons of TIE Interceptors and one squadron of TIE Bombers.</source>
+        <target>  Los transportes de tropas del convoy contraatacarán.  Además, una escuadrilla pesada (20 naves) de Cañoneras de Asalto están proporcionando escolta.  Llegarán en parejas.$  Un Destructor Estelar llegará después de unos 20 minutos.  Tiene un completo complemento de TIEs.  Hay tres escuadrones de Cazas TIE, dos escuadrones de Interceptores TIE y un escuadrón de Bombarderos TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.14">
+      <segment state="translated">
+        <source>  After the Battle of Hoth, the Empire fell victim to overconfidence.  Believing the Alliance to have been so devastated that they would be incapable of launching any new attacks, a major troop convoy was left with minimal escort.$  The ensuing raid was a triumph!  Striking a mortal blow to the Empire while still reeling from the loss at Hoth proved to all the resilience of the Rebellion.</source>
+        <target>  Tras la Batalla de Hoth, el Imperio cayó víctima de la soberbia.  Creyendo que la Alianza había sido tan devastada que serían incapaces de lanzar nuevos ataques, a un importante convoy de tropas le fue asignada una escolta mínima.$  ¡La incursión subsiguiente fue un triunfo!  Al infligir una herida mortal al Imperio mientras aún nos recuperábamos del golpe en Hoth demostramos a todos la durabilidad de la Rebelión.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.15">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.16">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ THIS IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.17">
+      <segment state="translated">
+        <source>  Aggressively attack TRN [[Epsilon]].  A-W[[ Blue]] will keep the Gunboats occupied.  Help them out when the opportunity presents itself, but concentrate on the Transports.  Similarly, B-W[[ Gold]] will take care of the Freighters, but you can always speed things up when you see a Freighter with its shields down.$  Try to save your torpedoes for the Star Destroyer's shield generator towers!</source>
+        <target>  Ataca agresivamente a TRN [[Épsilon]]. A-A [[Azul]] distraerá a las cañoneras.  Ayúdales cuando se te presente la oportunidad, pero concéntrate en los Transportes.  De manera similar, A-B [[Oro]] se encargará de los Cargueros, pero siempre puedes acelerar las cosas cuando veas un Carguero con sus escudos bajos.$  ¡Intenta conservar tus torpedos para las torres de generación de escudos del destructor estelar!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Text.18">
+      <segment state="translated">
+        <source>  In this mission you will need to demonstrate a lot of stamina!  The convoy is very large and destroying even just half of it will take awhile.$  Since you'll be leading the X-wing group, you'll be in the "swing" position.  This means that, (as opportunity or necessity dictates), your group will assist the B-wings and/or the A-wings with their mission goals.$  Good luck! ... You'll need it!</source>
+        <target>  ¡En esta misión deberás demostrar mucho aguante!  El convoy es muy grande y destruir incluso sólo la mitad de él tomará algún tiempo.$  Como estarás al mando del grupo de Alas-X, estarás en posición de "apoyo dinámico". Esto significa que, (ya sea por necesidad u oportunidad), tu grupo ayudará a los Alas-B y/o a los Alas-A con sus objetivos de misión. $  ¡Buena suerte! ... ¡La necesitarás!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.0">
+      <segment>
+        <source>Nav Buoy</source>
+        <target>Boya de Navegación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.1">
+      <segment>
+        <source>Imperial</source>
+        <target>Imperial</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.2">
+      <segment>
+        <source>Troop Convoy</source>
+        <target>Convoy de tropas</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.3">
+      <segment>
+        <source>Convoy</source>
+        <target>Convoy</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.4">
+      <segment state="translated">
+        <source>Stormtrooper Transports</source>
+        <target>Transportes de Tropas de Asalto</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.5">
+      <segment state="translated">
+        <source>Bulk Freighters</source>
+        <target>Cargueros Pesados</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.6">
+      <segment state="translated">
+        <source>Telgorn Delta class Dx-9s</source>
+        <target>Dx-9s clase Telgorn Delta</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.7">
+      <segment state="translated">
+        <source>Crew + 30 Troops</source>
+        <target>Tripulación + 30 Soldados</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.8">
+      <segment state="translated">
+        <source>Standard class</source>
+        <target>Clase estándar</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.9">
+      <segment>
+        <source>Ammunition, heavy weapons, foodstuffs, etc.</source>
+        <target>Municiones, armamento pesado, alimentos, etc.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.10">
+      <segment>
+        <source>X-W Red (YOU)</source>
+        <target>A-X Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.11">
+      <segment>
+        <source>B-W Gold</source>
+        <target>A-B Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.12">
+      <segment state="translated">
+        <source>A-W Blue</source>
+        <target>A-A Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.13">
+      <segment state="translated">
+        <source>Stormtrooper TRNs</source>
+        <target>TRNs Tropas de Asalto</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.Tag.14">
+      <segment state="translated">
+        <source>Assault Gunboats</source>
+        <target>Cañoneras de Asalto</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.0.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.2.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.3.Designation">
+      <segment>
+        <source>M-S</source>
+        <target>M-S</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.3.Cargo">
+      <segment state="translated">
+        <source>AT-AT WLKRS</source>
+        <target>CAMINANTES AT-AT</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.4.Designation">
+      <segment>
+        <source>SEINAR</source>
+        <target>SEINAR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.4.Cargo">
+      <segment>
+        <source>MUNITIONS</source>
+        <target>MUNICIONES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.5.Designation">
+      <segment state="translated">
+        <source>RESOLUTE</source>
+        <target>RESUELTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.6.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.7.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.8.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.9.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.10.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.11.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.12.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.12.Cargo">
+      <segment state="translated">
+        <source>STORMTRPRS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.13.Designation">
+      <segment>
+        <source>OMICRON</source>
+        <target>OMICRÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.13.Cargo">
+      <segment state="translated">
+        <source>STORMTRPRS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.14.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.15.Designation">
+      <segment state="translated">
+        <source>DEATHWING</source>
+        <target>ALA DE LA MUERTE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan2xw.FG.16.Designation">
+      <segment>
+        <source>CRM-114</source>
+        <target>CRM-114</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.0.Cargo">
+      <segment>
+        <source>WOTAN</source>
+        <target>WOTAN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.2.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.3.Designation">
+      <segment>
+        <source>M-S</source>
+        <target>M-S</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.3.Cargo">
+      <segment state="translated">
+        <source>AT-AT WLKRS</source>
+        <target>CAMINANTES AT-AT</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.3.SpecialCargo">
+      <segment state="translated">
+        <source>AT-ST WLKRS</source>
+        <target>CAMINANTES AT-ST</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.4.Designation">
+      <segment>
+        <source>SEINAR</source>
+        <target>SEINAR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.4.Cargo">
+      <segment>
+        <source>MUNITIONS</source>
+        <target>MUNICIONES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.4.SpecialCargo">
+      <segment>
+        <source>FOODSTUFFS</source>
+        <target>ALIMENTOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.5.Designation">
+      <segment state="translated">
+        <source>RESOLUTE</source>
+        <target>RESUELTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.6.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.7.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.8.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.9.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.10.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.11.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.12.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>ÉPSILON</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.12.Cargo">
+      <segment state="translated">
+        <source>STORMTRPRS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.13.Designation">
+      <segment state="translated">
+        <source>OMICRON</source>
+        <target>OMICRÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.13.Cargo">
+      <segment state="translated">
+        <source>STORMTRPRS</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.14.Designation">
+      <segment>
+        <source>TAU</source>
+        <target>TAU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.15.Designation">
+      <segment state="translated">
+        <source>DEATHWING</source>
+        <target>ALA DE LA MUERTE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.16.Designation">
+      <segment>
+        <source>CRM-114</source>
+        <target>CRM-114</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.FG.16.Cargo">
+      <segment state="translated">
+        <source>tormtrprs</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.CompletionMessage.0">
+      <segment state="translated">
+        <source>Fantastic job, Red 1, you're on your way to becoming a legend</source>
+        <target>¡Excelente trabajo, Rojo 1; estás de camino de convertirte en una leyenda!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.CompletionMessage.1">
+      <segment state="translated">
+        <source>Perhaps one day you will be remembered as the ...</source>
+        <target>¡Quizás un día serás recordado como el...</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan2xw.CompletionMessage.2">
+      <segment state="translated">
+        <source>... greatest X-wing pilot of all time!</source>
+        <target>...mejor piloto de Ala-X de todos los tiempos!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.Title">
+      <segment state="translated">
+        <source>Attack Star Destroyer</source>
+        <target>Ataca Destructor Estelar</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.Description">
+      <segment state="translated">
+        <source>Lead the assault on an 
+Imperial Star Destroyer 
+that is vulnerable during 
+a resupply operation. 
+Cover the capture of 
+enemy supplies.</source>
+        <target>Dirige el asalto a un Destructor Estelar Imperial
+que se encuentra en una posición vulnerable durante
+una operación de reabastecimiento. 
+Cubre la captura de suministros enemigos.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.1">
+      <segment state="translated">
+        <source>&gt;B-wing Bonus Mission 3</source>
+        <target>&gt;Misión Extra de Ala-B 3</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.2">
+      <segment>
+        <source>Mission designed by [[David Wessman]] c1994</source>
+        <target>Misión diseñada por [[David Wessman]] c1994</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.3">
+      <segment>
+        <source>An Imperial Star Destroyer will be vulnerable during a resupply stop.</source>
+        <target>Un Destructor Estelar Imperial será vulnerable durante una parada de reabastecimiento.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.4">
+      <segment>
+        <source>Critical supplies have been delivered and must be transferred.</source>
+        <target>Suministros críticos han sido entregados y deben ser transferidos.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.5">
+      <segment state="translated">
+        <source>Clear the TIE fighter defenses and knock out the Star Destroyer.</source>
+        <target>Despeja las defensas de cazas TIE y elimina al Destructor Estelar.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.6">
+      <segment>
+        <source>Any craft attempting to escape are also to be attacked.</source>
+        <target>Cualquier nave intentando escapar también debe ser atacada.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.7">
+      <segment state="translated">
+        <source>The strike force will consist of [[4]] X-wings, [[4]] B-wings and [[4]] A-wings.</source>
+        <target>La fuerza de ataque estará compuesta por [[4]] Alas-X, [[4]] Alas-B y [[4]] Alas-A.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.8">
+      <segment state="translated">
+        <source>X-wing[[ Gold ]]and B-wing[[ Red]] will attack the Star Destroyer.</source>
+        <target>Ala-X [[Oro]] y Ala-B [[Rojo]] atacarán al Destructor Estelar.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.9">
+      <segment state="translated">
+        <source>A-wing[[ Blue]] will cover the attack by clearing the TIE fighter defenses.</source>
+        <target>Ala-A [[Azu ]] cubrirá el ataque despejando las defensas de cazas TIE.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.10">
+      <segment state="translated">
+        <source>B-wing [[Red ]]will also be responsible for stopping any craft from escaping.</source>
+        <target>Ala-B [[Rojo]] también será responsable de impedir que cualquier nave escape.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.11">
+      <segment state="translated">
+        <source>If all goes well, FRT[[ Schwa]] will arrive to empty the cargo containers.</source>
+        <target>Si todo sale bien, el Carguero [[Schwa]] llegará para vaciar los contenedores de carga.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.12">
+      <segment state="translated">
+        <source>&gt;WIN CONDITIONS</source>
+        <target>&gt;CONDICIONES DE VICTORIA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.13">
+      <segment state="translated">
+        <source>1) Imperial Star Destroyer[[ Kotiate]] must be destroyed.$$2) Shuttle group[[ Lambda]] must be destroyed.</source>
+        <target>1) Destructor Estelar Imperial [[Kotiate]] debe ser destruido.$$2) Grupo de Lanzaderas [[Lambda]] debe ser destruido.$$&gt;Clic sobre recuadro negro de página para ver Evaluación de Amenaza</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.14">
+      <segment state="translated">
+        <source>&gt;THREAT ASSESSMENT</source>
+        <target>&gt;EVALUACIÓN DE AMENAZA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.15">
+      <segment state="translated">
+        <source>  The Star Destroyer is at full alert. Its six TIE squadrons are at full strength.  The squadrons are divided by type in the standard three TIE Fighter, two TIE Interceptor and one TIE Bomber mix.$  A Nebulon-B class Frigate will arrive to reinforce.  It has two squadrons of TIE Advanced.  The escape Shuttles will launch shortly after it arrives.</source>
+        <target>  El Destructor Estelar está en alerta máxima. Sus seis escuadrones de TIEs están a plena capacidad.  Los escuadrones se han dividido por tipo según la mezcla estándar de tres de Cazas TIE, dos de Interceptores TIE y uno de Bombarderos TIE.  Un Fragata clase Nebulon-B llegará para reforzarlo.  Tiene dos escuadrones de TIE Avanzados.  Las lanzaderas de escape despegarán poco después de su llegada.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.16">
+      <segment state="translated">
+        <source>  This mission recreates the last time an Imperial class Star Destroyer was destroyed by taking advantage of its "Achilles' heel."  After this the remaining vessels in the class were all subjected to a time-consuming and expensive shield system upgrade.$  B-wing [[Red]] led the attack, with [[Red One]] taking down the shield generator towers.  An Imperial Frigate carrying Advanced TIEs was also destroyed.</source>
+        <target>  Esta misión recrea la última vez que un Destructor Estelar de clase Imperial fue destruido aprovechando su "talón de Aquiles."  Después de esto, las naves restantes de esa clase fueron sometidas a una larga y costosa actualización del sistema de escudos.$  Ala-B [[Rojo]] lideró el ataque, con [[Rojo Uno]] derribando las torres del generador de escudos.  También fue destruida una Fragata Imperial que transportaba TIE Avanzados.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.17">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.18">
+      <segment state="translated">
+        <source>  Waste no time taking down the shield generator towers on top of the STD's bridge superstructure.  The fastest way to do this is with torpedoes, [[3]] per tower.$  Order your wingmen to attack TRN [[Sigma 1]] while you make your first pass.  Build up your shields on the way in, then redirect all power to the engines for maximum speed.  When the STD's shields go down, switch to ion cannons and disable it!</source>
+        <target>  No tardes en derribar las torres de generación de escudos encima de la superestructura del puente del DES.  La forma más rápida de hacer esto es con torpedos, [[3]] por torre.$  Ordena a tus compañeros que ataquen al TRN [[Sigma 1]] mientras tú haces tu primera pasada.  Refuerza tus escudos por el camino, y entonces redirige toda la potencia a los motores para velocidad máxima.  Cuando caigan los escudos del DES, cambia a cañones de iones e ¡incapacítalo!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.19">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS FOR$&gt;COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ THIS IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER &gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Text.20">
+      <segment state="translated">
+        <source>  As the leader of the B-wing group your primary responsibility will be the destruction of the shield towers.  They are located on top of the command bridge superstructure.  Once the shields are down, switch to ion cannons and disable the Star Destroyer as quickly as you can.$  Be sure to watch for any small craft attempting to escape the area. This is a "take no prisoners" attack!</source>
+        <target>  Como líder del grupo de Alas-B, tu responsabilidad principal será la destrucción de las torres de escudos.  Se encuentran ubicadas en la parte superior de la superestructura del puente de mando.  Una vez que los escudos hayan caído, cambia a cañones de iones e incapacita al Destructor Estelar lo antes posible.$  Asegúrate de estar atento a cualquier nave pequeña que intente escapar de la zona. ¡Éste es un ataque "sin cuartel"!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.0">
+      <segment>
+        <source>Mellisse</source>
+        <target>Mellisse</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.1">
+      <segment>
+        <source>Nav Buoy</source>
+        <target>Boya de Navegación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.2">
+      <segment>
+        <source>STD Kotiate</source>
+        <target>DES Kotiate</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.3">
+      <segment>
+        <source>Cargo Containers</source>
+        <target>Contenedores de Carga</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.4">
+      <segment>
+        <source>Transports</source>
+        <target>Transportes</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.5">
+      <segment state="translated">
+        <source>(to ferry supplies)</source>
+        <target>(para trasbordar suministros)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.6">
+      <segment state="translated">
+        <source>T/F Alpha</source>
+        <target>T/C Alfa</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.7">
+      <segment>
+        <source>T/F Delta</source>
+        <target>T/C Delta</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.8">
+      <segment state="translated">
+        <source>Escape Shuttles</source>
+        <target>Lanzaderas de Huida</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.9">
+      <segment>
+        <source>X-W Gold</source>
+        <target>A-X Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.10">
+      <segment>
+        <source>B-W Red (YOU)</source>
+        <target>A-B Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.11">
+      <segment>
+        <source>A-W Blue</source>
+        <target>A-A Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.Tag.12">
+      <segment state="translated">
+        <source>FRT Schwa</source>
+        <target>CRG Schwa</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.0.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.2.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.3.Designation">
+      <segment>
+        <source>SCHWA</source>
+        <target>SCHWA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.4.Designation">
+      <segment state="translated">
+        <source>PI</source>
+        <target>PI</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.4.Cargo">
+      <segment>
+        <source>BLASTERS</source>
+        <target>BLÁSTERES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.5.Designation">
+      <segment>
+        <source>KOTIATE</source>
+        <target>KOTIATE</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.6.Designation">
+      <segment>
+        <source>SIGMA 1</source>
+        <target>SIGMA 1</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.7.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.8.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.9.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.10.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.11.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.12.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.13.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.13.Cargo">
+      <segment>
+        <source>OFFICERS</source>
+        <target>OFICIALES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.14.Designation">
+      <segment state="translated">
+        <source>BIRD OF PREY</source>
+        <target>AVE DE PRESA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.15.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.16.Designation">
+      <segment>
+        <source>CRM-114</source>
+        <target>CRM-114</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.wotan3bw.FG.17.Designation">
+      <segment state="translated">
+        <source>MELLISSE</source>
+        <target>MELLISSE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.0.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.2.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.3.Designation">
+      <segment>
+        <source>SCHWA</source>
+        <target>SCHWA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.4.Designation">
+      <segment>
+        <source>PI</source>
+        <target>PI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.4.Cargo">
+      <segment state="translated">
+        <source>BLASTERS</source>
+        <target>BLÁSTERES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.4.SpecialCargo">
+      <segment state="translated">
+        <source>HVY WEAPONS</source>
+        <target>ARMAS PESADAS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.5.Designation">
+      <segment>
+        <source>KOTIATE</source>
+        <target>KOTIATE</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.6.Designation">
+      <segment>
+        <source>SIGMA 1</source>
+        <target>SIGMA 1</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.7.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.8.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.9.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.10.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.11.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.12.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.13.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.13.Cargo">
+      <segment>
+        <source>OFFICERS</source>
+        <target>OFICIALES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.13.SpecialCargo">
+      <segment>
+        <source>CAPTAIN</source>
+        <target>CAPITÁN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.14.Designation">
+      <segment>
+        <source>BIRD OF PREY</source>
+        <target>AVE DE PRESA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.15.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.16.Designation">
+      <segment>
+        <source>CRM-114</source>
+        <target>CRM-114</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.FG.16.Cargo">
+      <segment state="translated">
+        <source>tormtrprs</source>
+        <target>TROPAS DE ASALTO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.CompletionMessage.0">
+      <segment state="translated">
+        <source>Excellent job, Red 1! Your fighting skills are amazing!</source>
+        <target>¡Excelente trabajo, Rojo 1! ¡Tus habilidades en combate son impresionantes!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.CompletionMessage.1">
+      <segment state="translated">
+        <source>Perhaps one day you will be remembered as the ...</source>
+        <target>¡Quizás un día te recordarán como el...</target>
+      </segment>
+    </unit>
+    <unit id="Mission.wotan3bw.CompletionMessage.2">
+      <segment state="translated">
+        <source>... greatest B-wing pilot of all time!</source>
+        <target>...mejor piloto de Ala-B de todos los tiempos!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.Title">
+      <segment state="translated">
+        <source>Protect Convoy</source>
+        <target>Protege el Convoy</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.Description">
+      <segment state="translated">
+        <source>Protect a convoy under 
+attack by Imperial forces 
+in the Mennaalii system. 
+This convoy is transporting
+Rebel troops. Many lives 
+are at stake.</source>
+        <target>Protege un convoy bajo ataque
+por fuerzas imperiales en el sistema
+de Mennaalii. Este convoy transporta
+tropas rebeldes. Muchas vidas están en juego.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.1">
+      <segment state="translated">
+        <source>&gt;Assist Convoy Under Attack</source>
+        <target>&gt;Ayuda a Convoy Atacado</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.2">
+      <segment state="translated">
+        <source>   [[MADMAX]] AND [[WOTAN]] ARE [[GODS]]!!!</source>
+        <target>   ¡¡¡[[MADMAX]] Y [[WOTAN]] SON [[DIOSES]]!!!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.3">
+      <segment state="translated">
+        <source>A convoy passing through the [[Mennaalii]] system is under attack.</source>
+        <target>Un convoy que pasaba por el sistema [[Mennaalii]] está siendo atacado.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.4">
+      <segment state="translated">
+        <source>The convoy dropped out of hyper- space to avoid an asteroid field.</source>
+        <target>El convoy salió del hiperespacio para evitar un campo de asteroides.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.5">
+      <segment>
+        <source>Here they were ambushed by a band of pirates.</source>
+        <target>Aquí fueron emboscados por un grupo de piratas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.6">
+      <segment state="translated">
+        <source>  In the struggle for survival we find ourselves under the constant threat of attack, not only by the Imperial Navy but by countless pirates and hostile cultures as well. Nevertheless, we will survive. With the help of brave and skilled pilots like you, we have been able to strike at the enemy with victorious battles and successful missions. Now, most important is the defense of our own people. Again you are called upon to save lives.</source>
+        <target>  En la lucha por la supervivencia nos encontramos bajo constante peligro de ser atacados, no solo por la Armada Imperial sino también por innumerables piratas y culturas hostiles. Sin embargo, sobreviviremos. Con la ayuda de valientes y experimentados pilotos como tú, hemos podido golpear al enemigo con batallas victoriosas y misiones exitosas. Ahora bien, lo más importante es la defensa de nuestra propia gente. Una vez más te llamamos a salvar vidas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.7">
+      <segment state="translated">
+        <source>  A Rebel troop convoy is under attack by pirates equipped with craft like ours. There are pirate Y-wings and A-wings already in the battle. Use your CMD to ID each craft to confirm it is unfriendly before engaging. The Y-wings pose the biggest threat to the convoy with their torpedoes so concentrate on them first. The primary goal is to ensure the safety of the convoy. You must save all the Corvettes and our troops onboard.</source>
+        <target>  Un convoy de tropas rebeldes está bajo ataque por piratas equipados con naves similares a las nuestras. Ya hay Alas-Y y Alas-A piratas en la batalla. Utiliza tu computadora de objetivos para identificar cada nave antes de combatirla, confirmando así que es hostil. Los Alas-Y representan la mayor amenaza para el convoy con sus torpedos, así que concéntrate primero en ellos. El objetivo principal es garantizar la seguridad del convoy. Debes salvar todas las Corbetas y nuestras tropas a bordo.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.8">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.9">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ THIS IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.10">
+      <segment state="translated">
+        <source>  First destroy all the Y-wings using lasers. Then concentrate on the X-wings. The X-wings will launch torpedoes at the Corvettes. If you use torpedoes against the X-wings, increase your speed before launching. The next craft to stop are the Transports. They will target the Corvettes. The last real threat to stop are the Gunboat scouts that enter and attack the Corvettes. The A-wings are only a threat to you.</source>
+        <target>  Primero destruye todos los Alas-Y usando láseres. Luego concéntrate en los Alas-X. Los Alas-X lanzarán torpedos contra las Corbetas. Si utilizas torpedos contra los Ala-X, aumenta tu velocidad antes de lanzarlos. Las siguientes naves a detener son los Transportes. Estos últimos atacarán a las Corbetas. El último verdadero peligro a detener son las Cañoneras de Asalto que entran y atacan las Corbetas. Los Alas-A solo son una amenaza para ti.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Text.11">
+      <segment state="translated">
+        <source>Your mission is to protect the convoy and drive off the pirates.</source>
+        <target>Tu misión es proteger el convoy y repeler a los piratas.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Tag.0">
+      <segment state="translated">
+        <source>FRTs Xroi</source>
+        <target>CRGs Xroi</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Tag.1">
+      <segment state="translated">
+        <source>CRVs Qiluiy</source>
+        <target>CRBs Qiluiy</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Tag.2">
+      <segment>
+        <source>A-W Blue</source>
+        <target>A-A Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Tag.3">
+      <segment state="translated">
+        <source>Y-W Red</source>
+        <target>A-Y Rojo</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Tag.4">
+      <segment>
+        <source>Nav Buoy</source>
+        <target>Boya de Navegación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Tag.5">
+      <segment>
+        <source>Pirates</source>
+        <target>Piratas</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Tag.6">
+      <segment>
+        <source>X-W Red (YOU)</source>
+        <target>A-X Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.Tag.7">
+      <segment>
+        <source>Asteroids</source>
+        <target>Asteroides</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.2.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.3.Designation">
+      <segment>
+        <source>QILUIY</source>
+        <target>QUILIY</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.3.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.4.Designation">
+      <segment state="translated">
+        <source>XROI</source>
+        <target>XROI</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.4.Cargo">
+      <segment state="translated">
+        <source>WEAPONS</source>
+        <target>ARMAS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.5.Designation">
+      <segment state="translated">
+        <source>SCORPION</source>
+        <target>ESCORPIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.6.Designation">
+      <segment state="translated">
+        <source>YW</source>
+        <target>AY</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.7.Designation">
+      <segment state="translated">
+        <source>XW</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.8.Designation">
+      <segment state="translated">
+        <source>AW</source>
+        <target>AA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.9.Designation">
+      <segment state="translated">
+        <source>TRANSPO</source>
+        <target>TRANSPO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.10.Designation">
+      <segment state="translated">
+        <source>DARKSTAR</source>
+        <target>ESTRELLA TENEBROSA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.10.Cargo">
+      <segment>
+        <source>MADMAX</source>
+        <target>MADMAX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.11.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.12.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.13.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.14.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.15.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.15.Cargo">
+      <segment>
+        <source>DARTH JR</source>
+        <target>DARTH JR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.16.Designation">
+      <segment>
+        <source>ASTRO 337</source>
+        <target>ASTRO 337</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max101x.FG.17.Designation">
+      <segment>
+        <source>ASTRO 336</source>
+        <target>ASTRO 336</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.1.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.2.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.3.Designation">
+      <segment>
+        <source>QILUIY</source>
+        <target>QILUIY</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.3.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>SOLDADOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.4.Designation">
+      <segment state="translated">
+        <source>XROI</source>
+        <target>XROI</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.4.Cargo">
+      <segment>
+        <source>WEAPONS</source>
+        <target>ARMAS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.5.Designation">
+      <segment state="translated">
+        <source>SCORPION</source>
+        <target>ESCORPIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.6.Designation">
+      <segment state="translated">
+        <source>YW</source>
+        <target>AY</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.7.Designation">
+      <segment state="translated">
+        <source>XW</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.8.Designation">
+      <segment state="translated">
+        <source>AW</source>
+        <target>AA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.9.Designation">
+      <segment state="translated">
+        <source>TRANSPO</source>
+        <target>TRANSPO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.10.Designation">
+      <segment state="translated">
+        <source>DARKSTAR</source>
+        <target>ESTRELLA TENEBROSA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.10.Cargo">
+      <segment>
+        <source>MADMAX</source>
+        <target>MADMAX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.11.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.12.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.13.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.14.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.15.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.15.Cargo">
+      <segment>
+        <source>DARTH JR</source>
+        <target>DARTH JR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.15.SpecialCargo">
+      <segment state="translated">
+        <source>DARTHET</source>
+        <target>DARTHET</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.16.Designation">
+      <segment>
+        <source>ASTRO 337</source>
+        <target>ASTRO 337</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.16.Cargo">
+      <segment>
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.17.Designation">
+      <segment>
+        <source>ASTRO 336</source>
+        <target>ASTRO 336</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.17.Cargo">
+      <segment>
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.18.Cargo">
+      <segment state="translated">
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.19.Cargo">
+      <segment state="translated">
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.20.Cargo">
+      <segment state="translated">
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.21.Cargo">
+      <segment state="translated">
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.22.Cargo">
+      <segment state="translated">
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.FG.23.Cargo">
+      <segment state="translated">
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.CompletionMessage.0">
+      <segment state="translated">
+        <source>YOUR MISSION HAS BEEN ACCOMPLISHED RED 1!</source>
+        <target>¡MISIÓN CUMPLIDA, ROJO 1!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.CompletionMessage.1">
+      <segment state="translated">
+        <source>YOU HELPED SAVE THE CONVOY RED 1, GOOD JOB!</source>
+        <target>AYUDASTE A SALVAR EL CONVOY, ROJO 1. ¡BUEN TRABAJO!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max101x.CompletionMessage.2">
+      <segment state="translated">
+        <source>YOU MAY RETURN HOME WHEN YOU WISH</source>
+        <target>PUEDES REGRESAR A LA BASE CUANDO QUIERAS.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.Title">
+      <segment state="translated">
+        <source>Attack Imperial Stockyard</source>
+        <target>Ataca Arsenal Imperial</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.Description">
+      <segment state="translated">
+        <source>Attack an Imperial weapons 
+stockyard made up of 
+several containers. This 
+will be a suprise attack 
+with lots of targets.</source>
+        <target>Ataca un arsenal de armamento
+imperial compuesto por varios
+contenedores. Éste será un ataque
+sorpresa con muchos objetivos.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Text.1">
+      <segment state="translated">
+        <source>&gt;B-wing Attack</source>
+        <target>&gt;Ataque con Ala-B</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Text.2">
+      <segment state="translated">
+        <source>   [[MADMAX]] AND [[WOTAN]] ARE [[GODS]]!!!</source>
+        <target>   ¡¡¡[[MADMAX]] Y [[WOTAN]] SON [[DIOSES]]!!!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Text.3">
+      <segment state="translated">
+        <source>Our intelligence has located a lightly defended Imperial [[weapons stockyard.]]</source>
+        <target>Nuestra inteligencia ha localizado un [[arsenal imperial]] ligeramente defendido.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Text.4">
+      <segment state="translated">
+        <source>The facility is a perfect target for one of our [[hit and run]] attacks.</source>
+        <target>La instalación es un objetivo perfecto para uno de nuestros [[ataques relámpago]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Text.5">
+      <segment state="translated">
+        <source>You will fly a [[B-wing ]]and use its torpedoes to destroy all containers.</source>
+        <target>Volarás en un [[Ala-B]] y utilizarás sus torpedos para destruir todos los contenedores.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Text.6">
+      <segment state="translated">
+        <source>  Here you will get the opportunity to fly the [[B-wing]] on an [[assault]] mission. The B-wing's larger payload makes it a good craft for attacking multiple targets. We have picked a Container Stockyard for you to practice your assault skills. There were little to no defenses at last report. You will be assigned three wingmen to assist you in this task.$  [[Your objective is to destroy all the Containers in the area.]] </source>
+        <target>  Aquí tendrás la oportunidad de volar con el [[Ala-B]] en una misión de asalto. La mayor capacidad de carga del Ala-B lo hace una buena nave para atacar varios objetivos. Hemos elegido un Arsenal de Contenedores para que practiques tus habilidades de asalto. Según la última información, había muy pocas defensas. Te serán asignados tres compañeros para ayudarte en esta tarea.$  [[Tu objetivo es destruir todos los contenedores en la zona]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Text.7">
+      <segment state="translated">
+        <source>  First take out all the [[Shuttles]] with lasers. Note that some Shuttles start off behind you! Attack the [[Corvettes]] next using your torpedoes. Quickly destroy the [[Containers]]. Assign your wingmen to help often. When Gunboats [[Nu]] enter the area, make them a priority. They want you dead.$  If you feel you need extra help, destroy the disabled [[TUG]] named [[Empleh]]. This will call in some reserve X-wings to help in the battle.</source>
+        <target>  Primero elimina todas las [[Lanzaderas]] con láseres. ¡Ten en cuenta que algunas Lanzaderas comienzan detrás de ti! Ataca las [[Corbetas]] seguidamente utilizando tus torpedos. Destruye rápidamente los [[Contenedores]]. Ordena frecuentemente a sus compañeros para que ayuden. Cuando las Cañoneras [[Nu]] entren en la zona, prioriza su eliminación. Te quieren muerto.$  Si sientes que necesitas más ayuda, destruye el [[Remolcador]] incapacitado [[Emaduya]]. Esto llamará a algunos Alas-X de reserva para ayudar en la batalla.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Text.8">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS $&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Tag.0">
+      <segment>
+        <source>Imperial Containers</source>
+        <target>Contenedores Imperiales</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Tag.1">
+      <segment state="translated">
+        <source>Imperial TRN</source>
+        <target>TRN Imperial</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Tag.2">
+      <segment>
+        <source>Nav-Buoy</source>
+        <target>Boya de Navegación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Tag.3">
+      <segment>
+        <source>Com-Sat</source>
+        <target>Satélite de Comunicaciones</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Tag.4">
+      <segment>
+        <source>Nav Buoy</source>
+        <target>Boya de Navegación</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Tag.5">
+      <segment state="translated">
+        <source>SHUs</source>
+        <target>LANs</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.Tag.6">
+      <segment>
+        <source>B-W Red (YOU)</source>
+        <target>A-B Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.2.Designation">
+      <segment>
+        <source>C558</source>
+        <target>C558</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.2.Cargo">
+      <segment>
+        <source>TORPEDOES</source>
+        <target>TORPEDOS</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.3.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.4.Designation">
+      <segment>
+        <source>C442</source>
+        <target>C442</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.4.Cargo">
+      <segment state="translated">
+        <source>MISSILES</source>
+        <target>MISILES</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.5.Designation">
+      <segment>
+        <source>M60</source>
+        <target>M60</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.6.Designation">
+      <segment>
+        <source>OMARA</source>
+        <target>OMARA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.7.Designation">
+      <segment state="translated">
+        <source>EMPLEH</source>
+        <target>EMADUYA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.8.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.9.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.10.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.11.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.12.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.13.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.14.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.15.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.16.Designation">
+      <segment>
+        <source>NS675</source>
+        <target>NS675</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max102b.FG.17.Designation">
+      <segment>
+        <source>NB898</source>
+        <target>NB898</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.2.Designation">
+      <segment>
+        <source>C558</source>
+        <target>C558</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.2.Cargo">
+      <segment>
+        <source>TORPEDOES</source>
+        <target>TORPEDOS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.2.SpecialCargo">
+      <segment state="translated">
+        <source>MISSILES</source>
+        <target>MISILES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.3.Designation">
+      <segment>
+        <source>SIGMA</source>
+        <target>SIGMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.4.Designation">
+      <segment>
+        <source>C442</source>
+        <target>C442</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.4.Cargo">
+      <segment state="translated">
+        <source>MISSILES</source>
+        <target>MISILES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.4.SpecialCargo">
+      <segment>
+        <source>BLASTERS</source>
+        <target>BLÁSTERES</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.5.Designation">
+      <segment>
+        <source>OMARA</source>
+        <target>OMARA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.6.Designation">
+      <segment state="translated">
+        <source>EMPLEH</source>
+        <target>EMADUYA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.7.Designation">
+      <segment>
+        <source>KAPPA</source>
+        <target>KAPPA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.8.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.9.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.10.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.11.Designation">
+      <segment>
+        <source>NU</source>
+        <target>NU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.12.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.13.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.14.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.15.Designation">
+      <segment>
+        <source>M60</source>
+        <target>M60</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.15.Cargo">
+      <segment state="translated">
+        <source>EAPONS</source>
+        <target>ARMAS</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.16.Designation">
+      <segment>
+        <source>NS675</source>
+        <target>NS675</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.16.Cargo">
+      <segment state="translated">
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.17.Designation">
+      <segment>
+        <source>NB898</source>
+        <target>NB898</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.FG.17.Cargo">
+      <segment state="translated">
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.CompletionMessage.0">
+      <segment state="translated">
+        <source>YOU HAVE ACCOMPLISHED YOUR MISSION RED 1!</source>
+        <target>¡MISIÓN CUMPLIDA, ROJO 1!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.CompletionMessage.1">
+      <segment state="translated">
+        <source>YOU HELPED TO ELIMINATE AN IMPERIAL WEAPONS STOCKYARD</source>
+        <target>AYUDASTE A ELIMINAR UN ARSENAL DE ARMAS DEL IMPERIO.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max102b.CompletionMessage.2">
+      <segment state="translated">
+        <source>YOU MAY RETURN HOME AT ANY TIME NOW</source>
+        <target>PUEDES REGRESAR A LA BASE CUANDO QUIERAS.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.Title">
+      <segment state="translated">
+        <source>Protect Your Mothership</source>
+        <target>Protege Tu Nave Nodriza</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.Description">
+      <segment state="translated">
+        <source>Scramble to save your 
+mothership by intercepting
+TIE Bombers that are making 
+torpedo runs on your 
+cruiser.
+
+</source>
+        <target>Despega inmediatamente para salvar
+tu nave nodriza interceptando
+Bombarderos TIE que están realizando
+ataques con torpedos sobre tu crucero.
+</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.1">
+      <segment state="translated">
+        <source>&gt;A-wing Interception</source>
+        <target>&gt;Intercepción con Ala-A</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.2">
+      <segment state="translated">
+        <source>   [[MADMAX]] AND [[WOTAN]] ARE [[GODS]]!!!</source>
+        <target>   ¡¡¡[MADMAX]] Y [[WOTAN]] SON [[DIOSES]]!!!</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.3">
+      <segment state="translated">
+        <source>Imperial reconnaissance patrols have located our [[Cruiser Excelsior]].</source>
+        <target>Patrullas de reconocimiento imperiales han localizado nuestro [[Crucero Excelsior]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.4">
+      <segment state="translated">
+        <source>The Imperial [[FRG Blue Fox]] has already launched an attack against her.</source>
+        <target>La [[FRA Zorro Azul]] imperial ya ha lanzado un ataque contra él.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.5">
+      <segment state="translated">
+        <source>Two A-wings from Red group are intercepting the attacking bombers.</source>
+        <target>Dos Alas-A del grupo Rojo interceptarán a los bombarderos atacantes.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.6">
+      <segment state="translated">
+        <source>Y-wings and X-wings will be armed, then launched against the Frigate.</source>
+        <target>Alas-Y y Alas-X serán preparados y seguidamente lanzados contra la Fragata.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.7">
+      <segment state="translated">
+        <source>  Break time is over. As usual we are on the run. An Imperial Frigate has hyper-jumped into the area and is launching TIE Bombers. We could stand our ground and defeat the Frigate, but since more Imperials are no doubt on the way here, the orders are to retreat. It will take about twenty minutes to reach our jump point which is in the direction of the Frigate.$  [[The primary objective is the survival of our Cruiser]].[[ ]] </source>
+        <target>  El tiempo de descanso ha terminado. Como de costumbre, estamos huyendo. Una fragata imperial ha salido del hiperespacio en la zona y está lanzando Bombarderos TIE. Podríamos sostener nuestra posición y derrotar a la Fragata, pero dado que no hay duda de que más imperiales vienen de camino hacia aquí, las órdenes son retirarse. Llevará aproximadamente veinte minutos llegar a nuestro punto de salto, que está en dirección a la fragata.$  [[El objetivo principal es la supervivencia de nuestro Crucero]].</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.8">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS $&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;HAY DISPONIBLES ESTRATEGIAS$&gt;Y TÁCTICAS PARA COMPLETAR ESTA MISIÓN$$$&gt;¡NO LAS LEAS SI DESEAS$&gt;DESCUBRIRLAS POR TU CUENTA!$$$&gt;CLIC EN EL RECUADRO NEGRO CON EL NÚMERO$&gt;DE PÁGINA PARA VER LAS SUGERENCIAS.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;CONSEJOS PARA COMPLETAR LA MISIÓN</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Text.10">
+      <segment state="translated">
+        <source>  Stop all the [[TIE Bombers]] as quickly as possible, hopefully before they get a chance to launch too many of their torpedoes. You need to destroy the two [[Gunboats]] [[Mu]] behind the first wave of TIE Bombers. Use the [[Cruiser]] for cover and support fire if you get into trouble. Save at least 4 missiles to use on TIE Bombers [[Eta]] who want to eliminate you. You can safely fire on the [[Corvettes]] while they are attacking the Cruiser. </source>
+        <target>  Detén a todos los [[Bombarderos TIE]] lo antes posible, idealmente antes de que puedan lanzar demasiados torpedos. Tienes que destruir las dos [[Cañoneras Mu]] tras la primera oleada de Bombarderos TIE. Utiliza el [[Crucero]] como cobertura y artillería de apoyo si te ves en problemas. Guarda al menos 4 misiles para usarlos contra los Bombarderos TIE [[Eta]] que buscan eliminarte. Puedes disparar con seguridad sobre las [[Corbetas]] mientras atacan al Crucero.</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Tag.0">
+      <segment>
+        <source>CRS Excelsior</source>
+        <target>CRU Excelsior</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Tag.1">
+      <segment state="translated">
+        <source>Imperial FRG</source>
+        <target>FRA imperial</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Tag.2">
+      <segment state="translated">
+        <source>T/Bs</source>
+        <target>T/Bs</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Tag.3">
+      <segment>
+        <source>A-W Red (YOU)</source>
+        <target>A-A Rojo (TÚ)</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Tag.4">
+      <segment state="translated">
+        <source>Y-W Blue</source>
+        <target>A-Y Azul</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.Tag.5">
+      <segment>
+        <source>X-W Gold</source>
+        <target>A-X Oro</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.2.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.3.Designation">
+      <segment>
+        <source>EXCELSIOR</source>
+        <target>EXCELSIOR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.4.Designation">
+      <segment state="translated">
+        <source>BLUE FOX</source>
+        <target>ZORRO AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.5.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.6.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.7.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.8.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.9.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.10.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.11.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.12.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.13.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.14.Designation">
+      <segment>
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.15.Designation">
+      <segment state="translated">
+        <source>RAIDER</source>
+        <target>INCURSOR</target>
+      </segment>
+    </unit>
+    <unit id="Briefing.max103a.FG.16.Designation">
+      <segment>
+        <source>JP 432</source>
+        <target>JP 432</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.0.Designation">
+      <segment>
+        <source>RED</source>
+        <target>ROJO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.0.Cargo">
+      <segment>
+        <source>MAX</source>
+        <target>MAX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.1.Designation">
+      <segment>
+        <source>BLUE</source>
+        <target>AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.2.Designation">
+      <segment>
+        <source>GOLD</source>
+        <target>ORO</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.3.Designation">
+      <segment>
+        <source>EXCELSIOR</source>
+        <target>EXCELSIOR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.4.Designation">
+      <segment state="translated">
+        <source>BLUE FOX</source>
+        <target>ZORRO AZUL</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.5.Designation">
+      <segment>
+        <source>ALPHA</source>
+        <target>ALFA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.6.Designation">
+      <segment>
+        <source>BETA</source>
+        <target>BETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.7.Designation">
+      <segment>
+        <source>GAMMA</source>
+        <target>GAMMA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.8.Designation">
+      <segment>
+        <source>DELTA</source>
+        <target>DELTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.9.Designation">
+      <segment>
+        <source>THETA</source>
+        <target>THETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.10.Designation">
+      <segment>
+        <source>ETA</source>
+        <target>ETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.11.Designation">
+      <segment>
+        <source>ZETA</source>
+        <target>ZETA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.12.Designation">
+      <segment>
+        <source>IOTA</source>
+        <target>IOTA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.13.Designation">
+      <segment>
+        <source>LAMBDA</source>
+        <target>LAMBDA</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.14.Designation">
+      <segment state="translated">
+        <source>MU</source>
+        <target>MU</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.15.Designation">
+      <segment state="translated">
+        <source>RAIDER</source>
+        <target>INCURSOR</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.16.Designation">
+      <segment>
+        <source>JP 432</source>
+        <target>JP 432</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.FG.16.Cargo">
+      <segment state="translated">
+        <source>AX</source>
+        <target>AX</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.CompletionMessage.0">
+      <segment state="translated">
+        <source>YOU HAVE ACCOMPLISHED YOUR MISSION RED 1!</source>
+        <target>¡MISIÓN CUMPLIDA, ROJO 1!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.CompletionMessage.1">
+      <segment state="translated">
+        <source>YOU HELPED TO SAVE ALL OF OUR LIVES!</source>
+        <target>¡AYUDASTE A SALVAR LAS VIDAS DE TODOS NOSOTROS!</target>
+      </segment>
+    </unit>
+    <unit id="Mission.max103a.CompletionMessage.2">
+      <segment state="translated">
+        <source>YOU MAY RETURN HOME AT ANY TIME NOW</source>
+        <target>PUEDES REGRESAR A LA BASE CUANDO QUIERAS.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

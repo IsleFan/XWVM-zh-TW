@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="Mission.level1.Title">
+      <segment state="translated">
+        <source>Level One</source>
+        <target>Nivel Uno</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level1.Description">
+      <segment state="translated">
+        <source>Navigate carefully through the
+gates. You have [[8.5 minutes]] 
+to finish the course. If you
+get too far off track you
+may press [[H]] to abort this
+run. Each missed gate incurs
+a [[15 second]] time penalty.</source>
+        <target>Recorre con cuidado las
+puertas. Tienes [[8.5 minutos]] 
+para completar el recorrido. Si te
+desvías demasiado de la ruta,
+puedes pulsar [[H]] para abortar este
+intento. Cada puerta que te saltes conlleva
+una penalización de [[15 segundos]].</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level2.Title">
+      <segment state="translated">
+        <source>Level Two</source>
+        <target>Nivel Dos</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level2.Description">
+      <segment state="translated">
+        <source>On this level you have
+[[6 minutes]] to complete the 
+course. For each target you 
+destroy you receive a 
+[[2 second]] time bonus. 
+Learn to configure your
+shields for greater safety.</source>
+        <target>En este nivel tienes
+[[6 minutos]] para completar el 
+recorrido. Por cada objetivo que 
+destruyas, recibirás una 
+bonificación de tiempo de [[2 segundos]]. 
+Aprende a configurar tus
+escudos para mayor seguridad.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level3.Title">
+      <segment state="translated">
+        <source>Level Three</source>
+        <target>Nivel Tres</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level3.Description">
+      <segment state="translated">
+        <source>On this level you have a time
+limit of [[4.5 minutes]]. The
+course is more [[difficult]] and 
+there are more targets.
+Destroy as many [[targets]] as
+you can to increase your 
+time limit.</source>
+        <target>En este nivel tienes un
+tiempo límite de [[4.5 minutos]]. El
+recorrido es más [[difícil]] y 
+hay más objetivos.
+Destruye tantos [[objetivos]] como
+puedas para aumentar tu 
+tiempo límite.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level4.Title">
+      <segment state="translated">
+        <source>Level Four</source>
+        <target>Nivel Cuatro</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level4.Description">
+      <segment state="translated">
+        <source>On this level you have only 
+[[3 minutes]] to complete the
+course. Reconfigure your 
+power system to gain [[extra]]
+speed. Nearly every panel has
+a [[full complement]] of targets.
+Can you destroy them all?</source>
+        <target>En este nivel solo tienes 
+[[3 minutos]] para completar el
+recorrido. Reconfigura tu 
+sistema de energía para ganar [[más]]
+velocidad. Casi todas las plataformas tienen
+un [[conjunto completo]] de objetivos.
+¿Podrás destruirlos todos?</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level5.Title">
+      <segment state="translated">
+        <source>Level Five</source>
+        <target>Nivel Cinco</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level5.Description">
+      <segment state="translated">
+        <source>Keep a careful balance between
+speed and shields.  You have
+[[5.5 minutes]] to complete
+the course.
+Complete this level to earn a
+promotion to [[flight officer]].</source>
+        <target>Mantén un equilibrio cuidadoso entre
+velocidad y escudos. Tienes
+[[5.5 minutos]] para completar
+el recorrido.
+Supera este nivel para conseguir un
+ascenso a [[oficial de vuelo]].</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level6.Title">
+      <segment state="translated">
+        <source>Level Six</source>
+        <target>Nivel Seis</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level6.Description">
+      <segment state="translated">
+        <source>On this level the course is
+more [[difficult[[ and there
+are more targets.
+Configure your shields to full
+power forward.
+You have [[5 minutes]] to 
+complete this level.</source>
+        <target>En este nivel, el recorrido es
+más [[difícil]] y hay
+más objetivos.
+Configura tus escudos a máxima
+potencia hacia delante.
+Tienes [[5 minutos]] para 
+completar este nivel.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level7.Title">
+      <segment state="translated">
+        <source>Level Seven</source>
+        <target>Nivel Siete</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level7.Description">
+      <segment state="translated">
+        <source>On this level all platforms are
+[[fully]] loaded with firing
+targets. If you have time try 
+to find a [[safe]] place to slow
+down and recharge your 
+shields. You have [[5 minutes]]
+to complete this level.</source>
+        <target>En este nivel, todas las plataformas están
+[[completamente]] repletas de
+blancos a los que disparar. Si tienes tiempo, intenta 
+encontrar un lugar [[seguro]] para reducir
+la velocidad y recargar tus 
+escudos. Tienes [[5 minutos]]
+para completar este nivel.</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level8.Title">
+      <segment state="translated">
+        <source>Level Eight</source>
+        <target>Nivel Ocho</target>
+      </segment>
+    </unit>
+    <unit id="Mission.level8.Description">
+      <segment state="translated">
+        <source>This is the [[most]] difficult
+course. Some panels are set 
+up to shoot at you from 
+behind. You have a [[4.5 minute]] 
+time limit. Complete this level 
+to earn your [[flight badge]].
+[[May the Force be with you.]]</source>
+        <target>Este es el [[más]] difícil
+de los niveles. Algunos paneles están colocados 
+de tal forma que te disparan por 
+detrás. Tienes un límite de tiempo de [[4.5 minutos]]. 
+Supera este nivel 
+para conseguir tu [[insignia de vuelo]].
+[[Que la Fuerza te acompañe.]]</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

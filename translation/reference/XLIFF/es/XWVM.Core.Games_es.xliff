@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" trgLang="es">
+	<file id="XWVM.Core.Games" srcLang="en" trgLang="es">
+		<unit id="xwvm">
+			<segment>
+				<source>XWVM</source>
+				<target>XWVM</target>
+			</segment>
+		</unit>
+		<unit id="xwing">
+			<segment>
+				<source>X-Wing</source>
+				<target>X-Wing</target>
+			</segment>
+		</unit>
+		<unit id="tf">
+			<segment>
+				<source>TIE Fighter</source>
+				<target>TIE Fighter</target>
+			</segment>
+		</unit>
+		<unit id="xvt">
+			<segment>
+				<source>X-Wing VS TIE Fighter</source>
+				<target>X-Wing VS TIE Fighter</target>
+			</segment>
+		</unit>
+		<unit id="xwa">
+			<segment>
+				<source>X-Wing Alliance</source>
+				<target>X-Wing Alliance</target>
+			</segment>
+		</unit>
+	</file>
+</xliff>

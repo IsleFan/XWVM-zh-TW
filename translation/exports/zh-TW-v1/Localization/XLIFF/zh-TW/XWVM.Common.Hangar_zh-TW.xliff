@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" trgLang="zh-TW">
+	<file id="XWVM.Common.Hangar" srcLang="en" trgLang="zh-TW">
+		<unit id="Hangar.Ship.NoWeapons">
+			<segment state="translated">
+				<source>No Weapons!</source>
+				<target>無武器！</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.IonCannons">
+			<segment state="translated">
+				<source>Ion Cannons: {count}</source>
+				<target>離子砲：{count}</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.LaserCannons">
+			<segment state="translated">
+				<source>Laser Cannons: {count}</source>
+				<target>雷射砲：{count}</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.MissileLaunchers">
+			<segment state="translated">
+				<source>Missile Launchers: {count}</source>
+				<target>飛彈發射器：{count}</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.MagPulseLaunchers">
+			<segment state="translated">
+				<source>MagPulse Launchers: {count}</source>
+				<target>磁脈衝發射器：{count}</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.TorpedoLaunchers">
+			<segment state="translated">
+				<source>Torpedo Launchers: {count}</source>
+				<target>魚雷發射器：{count}</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.BombTubes">
+			<segment state="translated">
+				<source>Bomb Tubes: {count}</source>
+				<target>炸彈發射管：{count}</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.OptionalWarheads">
+			<segment state="translated">
+				<source>Optional Warheads: {count}</source>
+				<target>可選彈頭：{count}</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.OptionalBeam">
+			<segment state="translated">
+				<source>Optional Beam: {count}</source>
+				<target>可選光束：{count}</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.SpecialWeapon">
+			<segment state="translated">
+				<source>Special: {count}</source>
+				<target>特殊：{count}</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.IndividualLoad">
+			<segment state="translated">
+				<source>({count} each)</source>
+				<target>（各 {count}）</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Role.None">
+			<segment state="translated">
+				<source>No Combat Role</source>
+				<target>無戰鬥定位</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Role.Interceptor">
+			<segment state="translated">
+				<source>Interceptor</source>
+				<target>攔截機</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Role.Bomber">
+			<segment state="translated">
+				<source>Bomber</source>
+				<target>轟炸機</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Role.Superiority">
+			<segment state="translated">
+				<source>Superiority</source>
+				<target>制空</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.None">
+			<segment state="translated">
+				<source>None</source>
+				<target>無</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Object">
+			<segment state="translated">
+				<source>Object</source>
+				<target>物體</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Utility">
+			<segment state="translated">
+				<source>Utility</source>
+				<target>勤務艇</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Fighter">
+			<segment state="translated">
+				<source>Fighter</source>
+				<target>戰機</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Transport">
+			<segment state="translated">
+				<source>Transport</source>
+				<target>運輸艦</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Freighter">
+			<segment state="translated">
+				<source>Freighter</source>
+				<target>貨船</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Container">
+			<segment state="translated">
+				<source>Container</source>
+				<target>貨櫃</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Capital">
+			<segment state="translated">
+				<source>Capital Ship</source>
+				<target>主力艦</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Mine">
+			<segment state="translated">
+				<source>Mine</source>
+				<target>太空水雷</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Asteroid">
+			<segment state="translated">
+				<source>Asteroid</source>
+				<target>小行星</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Weapon">
+			<segment state="translated">
+				<source>Weapon</source>
+				<target>武器</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.PPGPlatform">
+			<segment state="translated">
+				<source>Proving Grounds Platform</source>
+				<target>試煉場平台</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.SurfaceBuilding">
+			<segment state="translated">
+				<source>Surface Building</source>
+				<target>地表建築</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Debris">
+			<segment state="translated">
+				<source>Debris</source>
+				<target>殘骸</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.Kind.Platform">
+			<segment state="translated">
+				<source>Platform</source>
+				<target>平台</target></segment>
+		</unit>
+		<unit id="Hangar.Ship.StatsText">
+			<segment state="translated">
+				<source>{speed} MGLT, {shield} SDB, {hull} RU</source>
+				<target>{speed} MGLT，{shield} SDB，{hull} RU</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.Title">
+			<segment state="translated">
+				<source>Pilot Assignment</source>
+				<target>飛行員指派</target></segment>
+		</unit>
+		<unit id="Hangar.CraftLoadout.Title">
+			<segment state="translated">
+				<source>Craft Selection and Loadout</source>
+				<target>機體選擇與配備</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.SelectFromRosterButton.Label">
+			<segment state="translated">
+				<source>Select Pilot from Roster</source>
+				<target>從名冊選擇飛行員</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.UnassignButton.Label">
+			<segment state="translated">
+				<source>Unassign Pilot</source>
+				<target>取消指派</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.AutoassignButton.Label">
+			<segment state="translated">
+				<source>Auto-assign Pilots</source>
+				<target>自動指派飛行員</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.AssignButton.Label">
+			<segment state="translated">
+				<source>Assign Selected Pilot</source>
+				<target>指派所選飛行員</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.ReAssignButton.Label">
+			<segment state="translated">
+				<source>Re-Assign Selected Pilot</source>
+				<target>重新指派所選飛行員</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.CancelButton.Label">
+			<segment state="translated">
+				<source>Cancel</source>
+				<target>取消</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.Formation.Label">
+			<segment state="translated">
+				<source>Formation View Mode:</source>
+				<target>隊形檢視模式：</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.Formation.TopLabel">
+			<segment state="translated">
+				<source>Top View</source>
+				<target>俯視</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.Formation.RearLabel">
+			<segment state="translated">
+				<source>Rear View</source>
+				<target>後視</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.FGTypeAndDesignation">
+			<segment state="translated">
+				<source>{species.ONE} {designation}</source>
+				<target>{species.ONE} {designation}</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.NoCraftSelected">
+			<segment state="translated">
+				<source>No craft selected.</source>
+				<target>未選擇機體。</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.NoPilotSelected">
+			<segment state="translated">
+				<source>No pilot selected.</source>
+				<target>未選擇飛行員。</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.CraftSelectedDesignation">
+			<segment state="translated">
+				<source>Selected craft: {designation}</source>
+				<target>已選機體：{designation}</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.PilotSelectedName">
+			<segment state="translated">
+				<source>Pilot: {name}</source>
+				<target>飛行員：{name}</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.PilotSummary">
+			<segment state="translated">
+				<source>{rank:choose(FltCadet|FltOfficer|Lieutenant|Captain|Commander|General):Flight Cadet|Flight Officer|Lieutenant|Captain|Commander|General}
+[[{name}]]
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}: {score}</source>
+				<target>{rank:choose(FltCadet|FltOfficer|Lieutenant|Captain|Commander|General):飛行學員|飛行准尉|中尉|上尉|中校|將軍}
+[[{name}]]
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):新手|軍官|老手|王牌|頂尖王牌|絕地}：{score}</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.NpcPilotSummaryA">
+			<segment state="translated">
+				<source>{designation} Squadron {rank:choose(Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major):Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major}
+[[{name}]]
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}</source>
+				<target>{designation} 中隊{rank:choose(Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major):新兵|協力者|傭兵|學員|准尉|中尉|上尉|少校}
+[[{name}]]
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):新手|軍官|老手|王牌|頂尖王牌|絕地}</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.NpcPilotSummaryB">
+			<segment state="translated">
+				<source>[[{name}]]
+{rank:choose(Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major):Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major} of the {designation} Squadron
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}</source>
+				<target>[[{name}]]
+{designation} 中隊{rank:choose(Recruit|Collaborator|Hireling|Cadet|Officer|Lieutenant|Captain|Major):新兵|協力者|傭兵|學員|准尉|中尉|上尉|少校}
+
+{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):新手|軍官|老手|王牌|頂尖王牌|絕地}</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.RosterPilotRankedName">
+			<segment state="translated">
+				<source>{rank:choose(FltCadet|FltOfficer|Lieutenant|Captain|Commander|General):FC|FO|LT|CP|CM|GN} {name}</source>
+				<target>{rank:choose(FltCadet|FltOfficer|Lieutenant|Captain|Commander|General):學員|准尉|中尉|上尉|中校|將軍} {name}</target></segment>
+		</unit>
+		<unit id="Hangar.PilotAssignment.RosterPilotSkill">
+			<segment state="translated">
+				<source>{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):Rookie|Officer|Veteran|Ace|Top Ace|Jedi}</source>
+				<target>{skill:choose(Rookie|Officer|Veteran|Ace|TopAce|Jedi):新手|軍官|老手|王牌|頂尖王牌|絕地}</target></segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.CraftSelection.Label">
+			<segment state="translated">
+				<source>Craft Selection:</source>
+				<target>機體選擇：</target></segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.HardpointConfiguration.Label">
+			<segment state="translated">
+				<source>Hardpoint Configuration:</source>
+				<target>掛點配置：</target></segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.PrimaryWarheads.Label">
+			<segment state="translated">
+				<source>Primary Warheads:</source>
+				<target>主彈頭：</target></segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.SecondaryWarheads.Label">
+			<segment state="translated">
+				<source>Secondary Warheads:</source>
+				<target>副彈頭：</target></segment>
+		</unit>
+		<unit id="Hangar.CraftSelection.BeamInstallation.Label">
+			<segment state="translated">
+				<source>Beam Installation:</source>
+				<target>光束裝置：</target></segment>
+		</unit>
+		<unit id="WeaponType.None">
+			<segment state="translated">
+				<source>None</source>
+				<target>無</target></segment>
+		</unit>
+		<unit id="WeaponType.RebelLaser">
+			<segment state="translated">
+				<source>Rebel {count:plural:Laser|Lasers}</source>
+				<target>反抗軍{count:plural:雷射砲|雷射砲}</target></segment>
+		</unit>
+		<unit id="WeaponType.ImperialLaser">
+			<segment state="translated">
+				<source>Imperial {count:plural:Laser|Lasers}</source>
+				<target>帝國{count:plural:雷射砲|雷射砲}</target></segment>
+		</unit>
+		<unit id="WeaponType.RebelWeakLaser">
+			<segment state="translated">
+				<source>Weak Rebel {count:plural:Laser|Lasers}</source>
+				<target>反抗軍低功率{count:plural:雷射砲|雷射砲}</target></segment>
+		</unit>
+		<unit id="WeaponType.ImperialWeakLaser">
+			<segment state="translated">
+				<source>Weak Imperial {count:plural:Laser|Lasers}</source>
+				<target>帝國低功率{count:plural:雷射砲|雷射砲}</target></segment>
+		</unit>
+		<unit id="WeaponType.Ion">
+			<segment state="translated">
+				<source>{count:plural:Ion|Ions}</source>
+				<target>{count:plural:離子砲|離子砲}</target></segment>
+		</unit>
+		<unit id="WeaponType.IonWeak">
+			<segment state="translated">
+				<source>Weak {count:plural:Ion|Ions}</source>
+				<target>低功率{count:plural:離子砲|離子砲}</target></segment>
+		</unit>
+		<unit id="WeaponType.RebelTurboLaser">
+			<segment state="translated">
+				<source>Rebel Turbo{count:plural:laser|lasers}</source>
+				<target>反抗軍渦輪{count:plural:雷射砲|雷射砲}</target></segment>
+		</unit>
+		<unit id="WeaponType.ImperialTurboLaser">
+			<segment state="translated">
+				<source>Imperial Turbo{count:plural:laser|lasers}</source>
+				<target>帝國渦輪{count:plural:雷射砲|雷射砲}</target></segment>
+		</unit>
+		<unit id="WeaponType.Missile">
+			<segment state="translated">
+				<source>Concussion Missil{count:plural:e|es}</source>
+				<target>震盪{count:plural:飛彈|飛彈}</target></segment>
+		</unit>
+		<unit id="WeaponType.Torpedo">
+			<segment state="translated">
+				<source>Proton Torped{count:plural:o|oes}</source>
+				<target>質子{count:plural:魚雷|魚雷}</target></segment>
+		</unit>
+		<unit id="WeaponType.AdvancedMissile">
+			<segment state="translated">
+				<source>Advanced Missil{count:plural:e|es}</source>
+				<target>先進{count:plural:飛彈|飛彈}</target></segment>
+		</unit>
+		<unit id="WeaponType.AdvancedTorpedo">
+			<segment state="translated">
+				<source>Advanced Torped{count:plural:o|oes}</source>
+				<target>先進{count:plural:魚雷|魚雷}</target></segment>
+		</unit>
+		<unit id="WeaponType.Bomb">
+			<segment state="translated">
+				<source>Space Bom{count:plural:b|bs}</source>
+				<target>太空{count:plural:炸彈|炸彈}</target></segment>
+		</unit>
+		<unit id="WeaponType.HeavyRocket">
+			<segment state="translated">
+				<source>Heavy Rocke{count:plural:t|ts}</source>
+				<target>重型{count:plural:火箭|火箭}</target></segment>
+		</unit>
+		<unit id="WeaponType.MagPulse">
+			<segment state="translated">
+				<source>Mag Puls{count:plural:e|es}</source>
+				<target>磁{count:plural:脈衝彈|脈衝彈}</target></segment>
+		</unit>
+		<unit id="WeaponType.TurboMagPulse">
+			<segment state="translated">
+				<source>Turbo-Mag Puls{count:plural:e|es}</source>
+				<target>渦輪磁{count:plural:脈衝彈|脈衝彈}</target></segment>
+		</unit>
+		<unit id="WeaponType.SuperMagPulse">
+			<segment state="translated">
+				<source>Super Mag Puls{count:plural:e|es}</source>
+				<target>超級磁{count:plural:脈衝彈|脈衝彈}</target></segment>
+		</unit>
+		<unit id="WeaponType.TractorBeam">
+			<segment state="translated">
+				<source>Tractor Bea{count:plural:m|ms}</source>
+				<target>牽引{count:plural:光束|光束}</target></segment>
+		</unit>
+		<unit id="WeaponType.JammingBeam">
+			<segment state="translated">
+				<source>Jamming Bea{count:plural:m|ms}</source>
+				<target>干擾{count:plural:光束|光束}</target></segment>
+		</unit>
+		<unit id="WeaponType.DecoyBeam">
+			<segment state="translated">
+				<source>Decoy Bea{count:plural:m|ms}</source>
+				<target>誘餌{count:plural:光束|光束}</target></segment>
+		</unit>
+		<unit id="HardpointConfig.Standard">
+			<segment state="translated">
+				<source>Standard</source>
+				<target>標準</target></segment>
+		</unit>
+		<unit id="HardpointConfig.YW-BTLA4">
+			<segment state="translated">
+				<source>BTL-A4 Forward Ion Cannons</source>
+				<target>BTL-A4 前置離子砲</target></segment>
+		</unit>
+		<unit id="HardpointConfig.YW-BTLS3-Ion">
+			<segment state="translated">
+				<source>BTL-S3 Ion cannon turret</source>
+				<target>BTL-S3 離子砲塔</target></segment>
+		</unit>
+		<unit id="HardpointConfig.YW-BTLS3-Blaster">
+			<segment state="translated">
+				<source>BTL-S3 Blaster cannon turret</source>
+				<target>BTL-S3 爆能砲塔</target></segment>
+		</unit>
+		<unit id="HardpointConfig.TI-Wing-Lasers">
+			<segment state="translated">
+				<source>Wing-mounted Lasers</source>
+				<target>翼裝雷射砲</target></segment>
+		</unit>
+		<unit id="HardpointConfig.TI-Chin-Lasers">
+			<segment state="translated">
+				<source>Chin-mounted Lasers</source>
+				<target>機首雷射砲</target></segment>
+		</unit>
+		<unit id="HardpointConfig.TB-Wing-Lasers">
+			<segment state="translated">
+				<source>Wing-mounted Lasers</source>
+				<target>翼裝雷射砲</target></segment>
+		</unit>
+		<unit id="HardpointConfig.TB-Centered-Lasers">
+			<segment state="translated">
+				<source>Centered laser cannons</source>
+				<target>中置雷射砲</target></segment>
+		</unit>
+		<unit id="HardpointConfig.GUN-Chin-Lasers">
+			<segment state="translated">
+				<source>Chin-mounted Lasers</source>
+				<target>機首雷射砲</target></segment>
+		</unit>
+		<unit id="HardpointConfig.GUN-Wing-Lasers">
+			<segment state="translated">
+				<source>Wing-mounted Lasers</source>
+				<target>翼裝雷射砲</target></segment>
+		</unit>
+		<unit id="HardpointConfig.BW-Classic">
+			<segment state="translated">
+				<source>Classic mixed</source>
+				<target>經典混合</target></segment>
+		</unit>
+		<unit id="HardpointConfig.BW-Wing-Lasers">
+			<segment state="translated">
+				<source>Wing-mounted lasers</source>
+				<target>翼裝雷射砲</target></segment>
+		</unit>
+		<unit id="HardpointConfig.BW-Chin-Lasers">
+			<segment state="translated">
+				<source>Chin-mounted lasers</source>
+				<target>機首雷射砲</target></segment>
+		</unit>
+		<unit id="HangarNavigation.StartMission">
+			<segment state="translated">
+				<source>Start Mission</source>
+				<target>開始任務</target></segment>
+		</unit>
+		<unit id="HangarNavigation.ReturnToBriefing">
+			<segment state="translated">
+				<source>Return to Briefing</source>
+				<target>返回任務簡報</target></segment>
+		</unit>
+		<unit id="HangarNavigation.UniformMedals">
+			<segment state="translated">
+				<source>View Uniform and Medals</source>
+				<target>檢視制服與勳章</target></segment>
+		</unit>
+	</file>
+</xliff>

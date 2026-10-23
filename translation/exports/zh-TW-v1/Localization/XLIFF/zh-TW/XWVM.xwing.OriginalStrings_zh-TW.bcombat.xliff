@@ -1,0 +1,1805 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="MissionGroup.bcombat.Title">
+      <segment state="translated">
+        <source>B-Wing</source>
+        <target>B翼戰機</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.Title">
+      <segment state="translated">
+        <source>Project Shantipole</source>
+        <target>香提波計畫</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.Description">
+      <segment state="translated">
+        <source>Fly the first armed
+B-wing prototype in a
+desperate fight to evade
+capture by the Empire!</source>
+        <target>駕駛首架武裝
+B翼戰機原型機，
+奮力突圍，
+逃離帝國的追捕！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 1: Project Shantipole</source>
+        <target>&gt;歷史任務 1：香提波計畫</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.2">
+      <segment state="translated">
+        <source>Project [[Shantipole]] has been compromised by an Imperial spy.</source>
+        <target>[[香提波]]計畫的機密已遭帝國間諜洩漏。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.3">
+      <segment state="translated">
+        <source>The [[Verpine]] staff will be evacuated aboard the Corvette [[Shantipole]].</source>
+        <target>[[維爾派恩人]]技術人員將搭乘護衛艦[[香提波號]]撤離。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.4">
+      <segment state="translated">
+        <source>Commander Ackbar and his aides will be evacuating on the Shuttle [[Falcon]].</source>
+        <target>阿克巴指揮官及其幕僚將搭乘穿梭機[[獵鷹號]]撤離。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.5">
+      <segment state="translated">
+        <source>Prototype #1 is unarmed, but #2 will be able to help cover the evacuation.</source>
+        <target>1 號原型機沒有武裝，但 2 號原型機能協助掩護撤離。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.6">
+      <segment state="translated">
+        <source>  After the [[Battle of Yavin]] the Empire began using the Nebulon B Frigate with much greater regularity.  It was superbly suited to protecting convoys from the depradations of Alliance starfighters.$  With too few capital ships to throw against the Frigates, then Commander Ackbar realized the need for a specially designed heavy fighter.  He was able enlist the unique shipbuilding skills of the [[Verpine]].</source>
+        <target>  [[雅文戰役]]之後，帝國開始更頻繁地動用星雲B型巡防艦。這種艦艇極適合保護船團，抵禦聯盟星際戰機的劫掠。$  由於缺乏足夠的主力艦對抗這些巡防艦，時任指揮官的阿克巴意識到，必須打造一款特別設計的重型戰機。他成功爭取到[[維爾派恩人]]獨到的造艦技術。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.7">
+      <segment state="translated">
+        <source>  The [[Verpine]] are an insectoid race from the [[Roche]] system.  Though unwilling to join the Alliance, they did commit to the project.  They built two prototypes and showed Ackbar's engineers how to build more.$  The Empire found out about the project through a traitor on Ackbar's staff.  Thanks to the efforts of a daring Rebel strike team, the prototypes and project personnel were saved from Imperial capture.</source>
+        <target>  [[維爾派恩人]]是來自[[羅許星系]]的昆蟲型種族。他們雖不願加入聯盟，卻承諾參與這項計畫。他們打造了兩架原型機，並教導阿克巴的工程師如何繼續生產。$  帝國透過阿克巴幕僚中的一名叛徒得知了這項計畫。多虧一支反抗軍打擊小隊的英勇行動，原型機與計畫人員才得以免遭帝國俘獲。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.8">
+      <segment state="translated">
+        <source>  You will fly the number two ship.  Follow the (unarmed) number one prototype out of the test facility and prepare to fight your way out of an Imperial trap!  A number of Corvettes and Transports will be attacking.  The Transports will attempt to disable you for capture.$  You must ensure that both prototypes and the evacuation ships make it to safety.  [[Blue]] Squadron will come to your assistance shortly.</source>
+        <target>  你將駕駛 2 號機。跟隨（沒有武裝的）1 號原型機飛出測試設施，準備殺出帝國的包圍！數艘護衛艦與運輸艦將發動攻擊。運輸艦會試圖癱瘓你，以便將你俘獲。$  你必須確保兩架原型機與撤離艦艇都安全脫離。[[藍色]]中隊很快就會前來支援。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;任務完成提示</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;本頁提供完成$&gt;此任務的$&gt;策略與戰術。$$$&gt;若你想自行摸索，$&gt;請勿閱讀！$$$&gt;點擊黑色頁碼方塊$&gt;即可查看提示。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Text.11">
+      <segment state="translated">
+        <source>  Go to full throttle and set cannon and shield recharge rates to maximum.$  Concentrate on the TRNs first.  Remember, the "R" key won't help you!$  Stay near the SHU Falcon until it has completed docking.$  Keep an eye on the CRV Shantipole, and intercept any TRNs attacking it.</source>
+        <target>  將油門推到全速，並把砲火與護盾的充能速率調到最高。$  先集中攻擊運輸艦。記住，「R」鍵幫不了你！$  待在穿梭機獵鷹號附近，直到它完成對接。$  留意護衛艦香提波號，攔截任何攻擊它的運輸艦。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.0">
+      <segment state="translated">
+        <source>B-W Prototype (YOU)</source>
+        <target>B-W 原型機（你）</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.1">
+      <segment state="translated">
+        <source>Project Shantipole Test Facility</source>
+        <target>香提波計畫測試設施</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.2">
+      <segment state="translated">
+        <source>CRV Shantipole</source>
+        <target>CRV 香提波</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.3">
+      <segment state="translated">
+        <source>SHU Falcon</source>
+        <target>SHU 獵鷹</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.Tag.4">
+      <segment state="translated">
+        <source>Roche</source>
+        <target>羅許星系</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.0.Designation">
+      <segment state="translated">
+        <source>PROTOTYPE 2</source>
+        <target>原型機 2</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.0.Cargo">
+      <segment state="translated">
+        <source>WOTAN</source>
+        <target>沃坦</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.1.Designation">
+      <segment state="translated">
+        <source>PROTOTYPE 1</source>
+        <target>原型機 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.2.Designation">
+      <segment state="translated">
+        <source>SHANTIPOLE</source>
+        <target>香提波</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.2.Cargo">
+      <segment state="translated">
+        <source>VERPINE TECHS</source>
+        <target>維爾派恩技師</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.3.Designation">
+      <segment state="translated">
+        <source>FALCON</source>
+        <target>獵鷹</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.4.Designation">
+      <segment state="translated">
+        <source>UPSIDE</source>
+        <target>上方</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.4.Cargo">
+      <segment state="translated">
+        <source>ACKBAR</source>
+        <target>阿克巴</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.5.Designation">
+      <segment state="translated">
+        <source>DOWNSIDE</source>
+        <target>下方</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.6.Designation">
+      <segment state="translated">
+        <source>BLUE</source>
+        <target>藍色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.7.Designation">
+      <segment state="translated">
+        <source>BLUE 3</source>
+        <target>藍色 3</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.8.Designation">
+      <segment state="translated">
+        <source>BLUE 4</source>
+        <target>藍色 4</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.9.Designation">
+      <segment state="translated">
+        <source>ROCHE</source>
+        <target>羅許</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.10.Designation">
+      <segment state="translated">
+        <source>JAVELIN 4</source>
+        <target>標槍 4</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.11.Designation">
+      <segment state="translated">
+        <source>JAVELIN 3</source>
+        <target>標槍 3</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.12.Designation">
+      <segment state="translated">
+        <source>JAVELIN</source>
+        <target>標槍</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.13.Designation">
+      <segment state="translated">
+        <source>KAPPA</source>
+        <target>KAPPA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.14.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>EPSILON</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.15.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h1wb.FG.16.Designation">
+      <segment state="translated">
+        <source>SIGMA</source>
+        <target>SIGMA</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.0.Designation">
+      <segment state="translated">
+        <source>PROTOTYPE 2</source>
+        <target>原型機 2</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.0.Cargo">
+      <segment state="translated">
+        <source>WOTAN</source>
+        <target>沃坦</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.1.Designation">
+      <segment state="translated">
+        <source>PROTOTYPE 1</source>
+        <target>原型機 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.2.Designation">
+      <segment state="translated">
+        <source>SHANTIPOLE</source>
+        <target>香提波</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.2.Cargo">
+      <segment state="translated">
+        <source>VERPINE TECHS</source>
+        <target>維爾派恩技師</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.3.Designation">
+      <segment state="translated">
+        <source>FALCON</source>
+        <target>獵鷹</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.4.Designation">
+      <segment state="translated">
+        <source>UPSIDE</source>
+        <target>上方</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.4.Cargo">
+      <segment state="translated">
+        <source>ACKBAR</source>
+        <target>阿克巴</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.5.Designation">
+      <segment state="translated">
+        <source>DOWNSIDE</source>
+        <target>下方</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.6.Designation">
+      <segment state="translated">
+        <source>BLUE</source>
+        <target>藍色</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.7.Designation">
+      <segment state="translated">
+        <source>BLUE 3</source>
+        <target>藍色 3</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.8.Designation">
+      <segment state="translated">
+        <source>BLUE 4</source>
+        <target>藍色 4</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.9.Designation">
+      <segment state="translated">
+        <source>JAVELIN 4</source>
+        <target>標槍 4</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.10.Designation">
+      <segment state="translated">
+        <source>JAVELIN 3</source>
+        <target>標槍 3</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.11.Designation">
+      <segment state="translated">
+        <source>JAVELIN</source>
+        <target>標槍</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.12.Designation">
+      <segment state="translated">
+        <source>KAPPA</source>
+        <target>KAPPA</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.13.Designation">
+      <segment state="translated">
+        <source>EPSILON</source>
+        <target>EPSILON</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.14.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.FG.15.Designation">
+      <segment state="translated">
+        <source>SIGMA</source>
+        <target>SIGMA</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.CompletionMessage.0">
+      <segment state="translated">
+        <source>THE VERPINE HAVE ESCAPED</source>
+        <target>維爾派恩人已經逃脫</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.CompletionMessage.1">
+      <segment state="translated">
+        <source>COMMANDER ACKBAR AND HIS STAFF ARE SAFE</source>
+        <target>阿克巴指揮官及其幕僚均已安全</target></segment>
+    </unit>
+    <unit id="Mission.t5h1wb.CompletionMessage.2">
+      <segment state="translated">
+        <source>X-WING BLUE WILL COVER YOUR WITHDRAWAL</source>
+        <target>X翼藍色中隊將掩護你撤離</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.Title">
+      <segment state="translated">
+        <source>Assault an Imperial Convoy</source>
+        <target>突襲帝國船團</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.Description">
+      <segment state="translated">
+        <source>Use the tremendous
+firepower of the B-wing
+to wipe out an
+Imperial convoy!</source>
+        <target>運用 B翼戰機
+強大的火力，
+殲滅一支
+帝國船團！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 2: Assault Imperial Convoy</source>
+        <target>&gt;歷史任務 2：突襲帝國船團</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.2">
+      <segment state="translated">
+        <source>An Imperial convoy en route to [[Petrakis ]]is to be destroyed.</source>
+        <target>一支前往[[佩特拉基斯]]的帝國船團必須予以摧毀。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.3">
+      <segment state="translated">
+        <source>The priority targets are the Freighters loaded with TIE Fighters.</source>
+        <target>首要目標是載運鈦戰機的貨船。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.4">
+      <segment state="translated">
+        <source>The convoy is to receive additional escort from the [[Petrakis]] base.</source>
+        <target>船團將獲得來自[[佩特拉基斯]]基地的額外護航。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.5">
+      <segment state="translated">
+        <source>[[Red]] Squadron will send two B-wings escorted by one X-wing for this raid.</source>
+        <target>[[紅色]]中隊將派出兩架 B翼戰機，由一架 X翼戰機護航，執行這次突襲。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.6">
+      <segment state="translated">
+        <source>  Following the [[Shantipole]] debacle, rumors of a powerful new Rebel fighter quickly spread through the Imperial fleet.  By the time the first Alliance B-wings saw action against Imperial TIEs, the fear was so strong that the entire Imperial wing turned tail and ran at first sight of the strange new craft.$  This mission recreates that action.  It was a hit and fade attack on a convoy loaded with TIE Fighters.</source>
+        <target>  [[香提波]]一役慘敗之後，反抗軍擁有強大新型戰機的傳聞迅速在帝國艦隊中傳開。等到聯盟的 B翼戰機首度與帝國鈦戰機交手時，恐懼早已深植人心，整支帝國戰機聯隊一見到這種奇特的新型戰機便掉頭逃竄。$  本任務重現那場戰鬥：一次對滿載鈦戰機的船團發動的打帶跑突襲。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.7">
+      <segment state="translated">
+        <source>  The convoy was made up of several Freighters, some Transports and Shuttles.  Escort was provided by four Corellian Corvettes.  Additional escort was to have been provided by TIE Fighters from the [[Petrakis ]]base.  These were the ones who ran from the fight.$  Gunboats which arrived in the midst of the battle were not so timid, though.  Destroy all of the Imperial Freighters and Corvettes.</source>
+        <target>  該船團由數艘貨船、若干運輸艦與穿梭機組成，並由四艘柯瑞利亞護衛艦護航。原本還有來自[[佩特拉基斯]]基地的鈦戰機提供額外護航，臨陣脫逃的正是它們。$  不過，在戰鬥中途抵達的砲艇可沒那麼膽小。摧毀所有帝國貨船與護衛艦。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.8">
+      <segment state="translated">
+        <source>  Order your wingman to attack the nearest FRT.  Then target the nearest CRV and fire 6 torps to destroy it.  Switch to lasers and "blindside", (attack dead level from the sides or rear) the other CRV of the forward pair.$  You may need to break off and destroy one or more GUNs.$  Repeat this procedure for the next pair of FRTs and CRVs.$  Do not attack the neutrals.</source>
+        <target>  命令你的僚機攻擊最近的貨船。接著鎖定最近的護衛艦，發射 6 枚魚雷將其摧毀。切換到雷射砲，對前方那一對護衛艦中的另一艘進行「側襲」（從側面或後方以完全相同的高度進攻）。$  你可能需要脫離戰鬥，摧毀一艘或多艘砲艇。$  對下一組貨船與護衛艦重複這套程序。$  不要攻擊中立艦艇。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;任務完成提示</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;本頁提供完成$&gt;此任務的$&gt;策略與戰術。$$$&gt;若你想自行摸索，$&gt;請勿閱讀！$$$&gt;點擊黑色頁碼方塊$&gt;即可查看提示。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.0">
+      <segment state="translated">
+        <source>B-W Red (YOU)</source>
+        <target>B-W 紅色（你）</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.1">
+      <segment state="translated">
+        <source>X-W Gold</source>
+        <target>X-W 金色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.2">
+      <segment state="translated">
+        <source>Imperial SHUs</source>
+        <target>帝國 SHU</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.3">
+      <segment state="translated">
+        <source>Imperial FRTs</source>
+        <target>帝國 FRT</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.4">
+      <segment state="translated">
+        <source>Imperial CRVs</source>
+        <target>帝國 CRV</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.5">
+      <segment state="translated">
+        <source>Petrakis</source>
+        <target>佩特拉基斯</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.Tag.6">
+      <segment state="translated">
+        <source>TIE Fighters</source>
+        <target>鈦戰機</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.0.Cargo">
+      <segment state="translated">
+        <source>MAX</source>
+        <target>麥克斯</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.1.Designation">
+      <segment state="translated">
+        <source>GOLD</source>
+        <target>金色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.2.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.3.Designation">
+      <segment state="translated">
+        <source>SIGMA</source>
+        <target>SIGMA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.3.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>部隊</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.4.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.4.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>部隊</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.5.Designation">
+      <segment state="translated">
+        <source>OCEAN</source>
+        <target>海洋</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.5.Cargo">
+      <segment state="translated">
+        <source>TIE FIGHTERS</source>
+        <target>鈦戰機</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.6.Designation">
+      <segment state="translated">
+        <source>MANX</source>
+        <target>曼克斯</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.6.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>部隊</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.7.Designation">
+      <segment state="translated">
+        <source>TEVE</source>
+        <target>提夫</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.7.Cargo">
+      <segment state="translated">
+        <source>TIE BOMBERS</source>
+        <target>鈦轟炸機</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.8.Designation">
+      <segment state="translated">
+        <source>HORNET</source>
+        <target>大黃蜂</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.8.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>部隊</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.9.Designation">
+      <segment state="translated">
+        <source>BUFFALO</source>
+        <target>水牛</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.9.Cargo">
+      <segment state="translated">
+        <source>FOODSTUFFS</source>
+        <target>糧食</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.10.Designation">
+      <segment state="translated">
+        <source>MU</source>
+        <target>MU</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.11.Designation">
+      <segment state="translated">
+        <source>NINJA</source>
+        <target>忍者</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.12.Designation">
+      <segment state="translated">
+        <source>GOLD</source>
+        <target>金色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.13.Designation">
+      <segment state="translated">
+        <source>NU</source>
+        <target>NU</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.14.Designation">
+      <segment state="translated">
+        <source>TAU</source>
+        <target>TAU</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.15.Designation">
+      <segment state="translated">
+        <source>SIGMA</source>
+        <target>SIGMA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h2mb.FG.16.Designation">
+      <segment state="translated">
+        <source>PETRAKIS</source>
+        <target>佩特拉基斯</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.0.Cargo">
+      <segment state="translated">
+        <source>MAX</source>
+        <target>麥克斯</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.1.Designation">
+      <segment state="translated">
+        <source>GOLD</source>
+        <target>金色</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.2.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.3.Designation">
+      <segment state="translated">
+        <source>SIGMA</source>
+        <target>SIGMA</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.3.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>部隊</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.4.Designation">
+      <segment state="translated">
+        <source>LAMBDA</source>
+        <target>LAMBDA</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.4.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>部隊</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.4.SpecialCargo">
+      <segment state="translated">
+        <source>OFFICERS</source>
+        <target>軍官</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.5.Designation">
+      <segment state="translated">
+        <source>OCEAN</source>
+        <target>海洋</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.5.Cargo">
+      <segment state="translated">
+        <source>TIE FIGHTERS</source>
+        <target>鈦戰機</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.6.Designation">
+      <segment state="translated">
+        <source>MANX</source>
+        <target>曼克斯</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.6.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>部隊</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.6.SpecialCargo">
+      <segment state="translated">
+        <source>WEAPONS</source>
+        <target>武器</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.7.Designation">
+      <segment state="translated">
+        <source>TEVE</source>
+        <target>提夫</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.7.Cargo">
+      <segment state="translated">
+        <source>TIE BOMBERS</source>
+        <target>鈦轟炸機</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.8.Designation">
+      <segment state="translated">
+        <source>HORNET</source>
+        <target>大黃蜂</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.8.Cargo">
+      <segment state="translated">
+        <source>TROOPS</source>
+        <target>部隊</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.9.Designation">
+      <segment state="translated">
+        <source>BUFFALO</source>
+        <target>水牛</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.9.Cargo">
+      <segment state="translated">
+        <source>FOODSTUFFS</source>
+        <target>糧食</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.10.Designation">
+      <segment state="translated">
+        <source>MU</source>
+        <target>MU</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.11.Designation">
+      <segment state="translated">
+        <source>NINJA</source>
+        <target>忍者</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.11.SpecialCargo">
+      <segment state="translated">
+        <source>COMMANDOS</source>
+        <target>突擊隊</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.12.Designation">
+      <segment state="translated">
+        <source>GOLD</source>
+        <target>金色</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.13.Designation">
+      <segment state="translated">
+        <source>NU</source>
+        <target>NU</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.14.Designation">
+      <segment state="translated">
+        <source>TAU</source>
+        <target>TAU</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.FG.15.Designation">
+      <segment state="translated">
+        <source>SIGMA</source>
+        <target>SIGMA</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.CompletionMessage.0">
+      <segment state="translated">
+        <source>NOT MUCH LEFT OF THAT CONVOY</source>
+        <target>那支船團所剩無幾了</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.CompletionMessage.1">
+      <segment state="translated">
+        <source>YOU SURE DID YOUR SHARE, RED ONE</source>
+        <target>你確實盡了本分，紅色一號</target></segment>
+    </unit>
+    <unit id="Mission.t5h2mb.CompletionMessage.2">
+      <segment state="translated">
+        <source>GOOD MISSION!</source>
+        <target>任務圓滿！</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.Title">
+      <segment state="translated">
+        <source>Capture the Frigate Priam</source>
+        <target>俘獲巡防艦普萊姆號</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.Description">
+      <segment state="translated">
+        <source>Compare the performance
+of the B-wing with that of
+the Y-wing in this recreation
+of the capture of the
+Imperial Frigate Priam.</source>
+        <target>在這場重現俘獲
+帝國巡防艦普萊姆號
+的任務中，比較
+B翼戰機與 Y翼戰機
+的性能差異。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 3: Capture the Frigate Priam</source>
+        <target>&gt;歷史任務 3：俘獲巡防艦普萊姆號</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.2">
+      <segment state="translated">
+        <source>The Frigate [[Priam ]]is damaged and vulnerable without its TIE Fighters.</source>
+        <target>巡防艦[[普萊姆號]]已經受損，失去鈦戰機後毫無招架之力。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.3">
+      <segment state="translated">
+        <source>B-wing [[Red]] will eliminate its last defenses and disable the Frigate.</source>
+        <target>B翼[[紅色]]中隊將清除其最後的防禦，並癱瘓該巡防艦。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.4">
+      <segment state="translated">
+        <source>  In a previous operation the Frigate Priam was stripped of her TIE Fighters.  Except for a few small groups of TIEs and some mines the [[Priam]] has deployed around her, she is now virtually defenseless.$  General Dodonna has ordered that our Special Forces Command lead a "board and capture" operation.  Your mission is to disable the [[Priam]] and then provide cover during the capture of this Frigate. </source>
+        <target>  在先前的作戰中，巡防艦普萊姆號已失去旗下的鈦戰機。除了幾小群鈦戰機，以及[[普萊姆號]]在周圍佈下的一些太空水雷之外，它如今幾乎毫無防禦能力。$  多唐納將軍已下令由我方特種部隊司令部主導一次「登艦俘獲」行動。你的任務是癱瘓[[普萊姆號]]，並在俘獲這艘巡防艦期間提供掩護。 </target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.5">
+      <segment state="translated">
+        <source>A-wing [[Blue]] will provide escort for the B-wings.</source>
+        <target>A翼[[藍色]]中隊將為 B翼戰機護航。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.6">
+      <segment state="translated">
+        <source>Once the [[Priam]] is disabled, Commandos will arrive to board and capture it.</source>
+        <target>[[普萊姆號]]一旦遭到癱瘓，突擊隊便會抵達，登艦並將其俘獲。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.7">
+      <segment state="translated">
+        <source>  What if the B-wing had been available earlier, say during the capture of the Frigate [[Priam]]?  Substituted for the Y-wings, the B-wings could have accomplished as much, but with fewer ships (and fewer pilots.)$  This mission recreates that operation.  However, this time [[Red]] Squadron is given the task of disabling the ship so it can be captured.</source>
+        <target>  假如 B翼戰機早點問世，例如在俘獲巡防艦[[普萊姆號]]的時候呢？若以 B翼戰機取代 Y翼戰機，就能以更少的戰機（以及更少的飛行員）達成同樣的戰果。$  本任務重現那次行動。不過這一次，由[[紅色]]中隊負責癱瘓該艦，以便將其俘獲。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.8">
+      <segment state="translated">
+        <source>B-wing [[Red]] and A-wing [[Blue]] will cover the boarding and capture.</source>
+        <target>B翼[[紅色]]中隊與 A翼[[藍色]]中隊將掩護登艦與俘獲行動。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;任務完成提示</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;本頁提供完成$&gt;此任務的$&gt;策略與戰術。$$$&gt;若你想自行摸索，$&gt;請勿閱讀！$$$&gt;點擊黑色頁碼方塊$&gt;即可查看提示。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Text.11">
+      <segment state="translated">
+        <source>  Order your wingmen to wait, while you fire all of your torps at the FRG.  Then, assist your escort in destroying T/F Alpha and T/B Beta.  When the A-wing gets hull damage send it home.$  Clear the mines and order your wingmen to proceed.  Keep attacking the FRG with lasers until its shields go down, then switch to ions.$  Intercept GUN Mu, then head back.</source>
+        <target>  命令你的僚機待命，同時你對巡防艦發射所有魚雷。接著協助你的護航機摧毀鈦戰機 Alpha 編隊與鈦轟炸機 Beta 編隊。當 A翼戰機船體受損時，命令它返航。$  清除太空水雷後，命令你的僚機繼續前進。持續以雷射砲攻擊巡防艦，直到其護盾失效，再切換為離子砲。$  攔截 Mu 砲艇，然後返回。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.0">
+      <segment state="translated">
+        <source>FRG Priam</source>
+        <target>FRG 普萊姆</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.1">
+      <segment state="translated">
+        <source>A-W Blue</source>
+        <target>A-W 藍色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.2">
+      <segment state="translated">
+        <source>B-W Red (YOU)</source>
+        <target>B-W 紅色（你）</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.3">
+      <segment state="translated">
+        <source>Minefield</source>
+        <target>雷區</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.4">
+      <segment state="translated">
+        <source>TRN Jordi</source>
+        <target>TRN 喬迪</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.Tag.5">
+      <segment state="translated">
+        <source>SHU Panda</source>
+        <target>SHU 熊貓</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.0.Cargo">
+      <segment state="translated">
+        <source>MAX</source>
+        <target>麥克斯</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.1.Designation">
+      <segment state="translated">
+        <source>BLUE 7</source>
+        <target>藍色 7</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.2.Designation">
+      <segment state="translated">
+        <source>JORDI 1</source>
+        <target>喬迪 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.2.Cargo">
+      <segment state="translated">
+        <source>EQUIPMENT</source>
+        <target>裝備</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.3.Designation">
+      <segment state="translated">
+        <source>JORDI 2</source>
+        <target>喬迪 2</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.3.Cargo">
+      <segment state="translated">
+        <source>SUPPLIES</source>
+        <target>補給品</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.4.Designation">
+      <segment state="translated">
+        <source>PANDA 1</source>
+        <target>熊貓 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.4.Cargo">
+      <segment state="translated">
+        <source>OFFICERS</source>
+        <target>軍官</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.5.Designation">
+      <segment state="translated">
+        <source>PANDA 2</source>
+        <target>熊貓 2</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.5.Cargo">
+      <segment state="translated">
+        <source>CREW</source>
+        <target>船員</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.6.Designation">
+      <segment state="translated">
+        <source>ASSAULT 1</source>
+        <target>突擊 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.6.Cargo">
+      <segment state="translated">
+        <source>COMMANDOS</source>
+        <target>突擊隊</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.7.Designation">
+      <segment state="translated">
+        <source>ASSAULT 2</source>
+        <target>突擊 2</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.7.Cargo">
+      <segment state="translated">
+        <source>COMMANDOS</source>
+        <target>突擊隊</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.8.Designation">
+      <segment state="translated">
+        <source>PRIAM</source>
+        <target>普萊姆</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.9.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.10.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.11.Designation">
+      <segment state="translated">
+        <source>MU</source>
+        <target>MU</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.12.Designation">
+      <segment state="translated">
+        <source>RHO</source>
+        <target>RHO</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.13.Designation">
+      <segment state="translated">
+        <source>OMEGA</source>
+        <target>OMEGA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.14.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h3mb.FG.15.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.0.Cargo">
+      <segment state="translated">
+        <source>MAX</source>
+        <target>麥克斯</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.1.Designation">
+      <segment state="translated">
+        <source>BLUE 7</source>
+        <target>藍色 7</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.2.Designation">
+      <segment state="translated">
+        <source>JORDI 1</source>
+        <target>喬迪 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.2.Cargo">
+      <segment state="translated">
+        <source>EQUIPMENT</source>
+        <target>裝備</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.3.Designation">
+      <segment state="translated">
+        <source>JORDI 2</source>
+        <target>喬迪 2</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.3.Cargo">
+      <segment state="translated">
+        <source>SUPPLIES</source>
+        <target>補給品</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.4.Designation">
+      <segment state="translated">
+        <source>PANDA 1</source>
+        <target>熊貓 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.4.Cargo">
+      <segment state="translated">
+        <source>OFFICERS</source>
+        <target>軍官</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.5.Designation">
+      <segment state="translated">
+        <source>PANDA 2</source>
+        <target>熊貓 2</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.5.Cargo">
+      <segment state="translated">
+        <source>CREW</source>
+        <target>船員</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.6.Designation">
+      <segment state="translated">
+        <source>ASSAULT 1</source>
+        <target>突擊 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.6.Cargo">
+      <segment state="translated">
+        <source>COMMANDOS</source>
+        <target>突擊隊</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.7.Designation">
+      <segment state="translated">
+        <source>ASSAULT 2</source>
+        <target>突擊 2</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.7.Cargo">
+      <segment state="translated">
+        <source>COMMANDOS</source>
+        <target>突擊隊</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.8.Designation">
+      <segment state="translated">
+        <source>PRIAM</source>
+        <target>普萊姆</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.9.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.10.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.11.Designation">
+      <segment state="translated">
+        <source>MU</source>
+        <target>MU</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.12.Designation">
+      <segment state="translated">
+        <source>RHO</source>
+        <target>RHO</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.13.Designation">
+      <segment state="translated">
+        <source>OMEGA</source>
+        <target>OMEGA</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.14.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.FG.15.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.CompletionMessage.0">
+      <segment state="translated">
+        <source>The Frigate Priam has been secured</source>
+        <target>巡防艦普萊姆號已被控制</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.CompletionMessage.1">
+      <segment state="translated">
+        <source>All Imperial personnel have been subdued</source>
+        <target>所有帝國人員均已制伏</target></segment>
+    </unit>
+    <unit id="Mission.t5h3mb.CompletionMessage.2">
+      <segment state="translated">
+        <source>The Priam's captain has surrendered control to our forces</source>
+        <target>普萊姆號艦長已向我軍交出控制權</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.Title">
+      <segment state="translated">
+        <source>B-wing Attack on the Shrike</source>
+        <target>B翼戰機突襲伯勞號</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.Description">
+      <segment state="translated">
+        <source>Fly the B-wing in its
+primary role of heavy
+assault starfighter as you
+destroy an Imperial Frigate!</source>
+        <target>駕駛 B翼戰機，
+發揮其重型突擊
+星際戰機的本色，
+摧毀一艘帝國巡防艦！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 4: B-wing Attack on the Shrike</source>
+        <target>&gt;歷史任務 4：B翼戰機突襲伯勞號</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.2">
+      <segment state="translated">
+        <source>B-wing [[Red]] will lead the attack on the Imperial Frigate [[Shrike]].</source>
+        <target>B翼[[紅色]]中隊將率先攻擊帝國巡防艦[[伯勞號]]。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.3">
+      <segment state="translated">
+        <source>A-wing [[Gold]] will escort the B-wings and eliminate enemy fighter defenses.</source>
+        <target>A翼[[金色]]中隊將為 B翼戰機護航，並清除敵方戰機防禦。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.4">
+      <segment state="translated">
+        <source>The [[Shrike]] will attempt to escape into hyperspace at this Nav Buoy.</source>
+        <target>[[伯勞號]]將試圖從這個導航浮標躍入超空間逃逸。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.5">
+      <segment state="translated">
+        <source>The Nav Buoy is protected by a small minefield.</source>
+        <target>該導航浮標周圍佈有一小片雷區。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.6">
+      <segment state="translated">
+        <source>  This mission recreates the first use of the B-wing in its primary role as a Frigate killer.  Imperial Military Intelligence refused to believe initial reports of the encounter.  How could three starfighters (and their A-wing escorts) possibly defeat a Nebulon-B class Frigate?$  The bad news only got worse.  A detachment of Corvettes and "Starwing" Gunboats from the local System Patrol Squadron was also lost!</source>
+        <target>  本任務重現 B翼戰機首度擔綱其主要角色、以巡防艦殺手之姿出擊的戰鬥。帝國軍事情報局起初拒絕相信這場遭遇戰的報告。三架星際戰機（加上護航的 A翼戰機）怎麼可能擊敗一艘星雲B型巡防艦？$  壞消息接踵而來。當地星系巡邏中隊一支由護衛艦與「星翼」砲艇組成的分遣隊也全軍覆沒！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.7">
+      <segment state="translated">
+        <source>  The legendary [[Keyan Farlander]] was the commander who led the B-wings in this daring attack.  Can you match their amazing success?$  As you fly this mission remember that the B-wing is a heavy assault starfighter.  Leave the dogfighting to your A-wing escorts.  Your attack against the [[Shrike]] must be relentless!</source>
+        <target>  率領 B翼戰機執行這次大膽攻擊的指揮官，正是傳奇人物[[奇安·法蘭德]]。你能締造與他們同樣驚人的戰果嗎？$  執行本任務時，記住 B翼戰機是重型突擊星際戰機。纏鬥就交給護航的 A翼戰機。你對[[伯勞號]]的攻擊必須毫不留情！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.8">
+      <segment state="translated">
+        <source>  Immediately launch all of your torpedoes at the FRG and order your wingmen to attack.$  Ignore the TIE Fighters, your escorts will take care of them.$  When the FRG's status becomes "hull damaged", switch to single-fire mode and press home your attack.  This will increase your chances of getting the "kill shot"!$</source>
+        <target>  立即對巡防艦發射所有魚雷，並命令你的僚機發動攻擊。$  不必理會鈦戰機，你的護航機會處理它們。$  當巡防艦的狀態變為「船體受損」時，切換為單發模式，持續逼近攻擊。這能提高你打出「致命一擊」的機會！$</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;任務完成提示</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;本頁提供完成$&gt;此任務的$&gt;策略與戰術。$$$&gt;若你想自行摸索，$&gt;請勿閱讀！$$$&gt;點擊黑色頁碼方塊$&gt;即可查看提示。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.0">
+      <segment state="translated">
+        <source>B-W Red (YOU)</source>
+        <target>B-W 紅色（你）</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.1">
+      <segment state="translated">
+        <source>A-W Gold</source>
+        <target>A-W 金色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.2">
+      <segment state="translated">
+        <source>FRG Shrike</source>
+        <target>FRG 伯勞</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.3">
+      <segment state="translated">
+        <source>Nav Buoy</source>
+        <target>導航浮標</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.4">
+      <segment state="translated">
+        <source>Type 1 Mines</source>
+        <target>一型太空水雷</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.5">
+      <segment state="translated">
+        <source>TIE Fighters</source>
+        <target>鈦戰機</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.Tag.6">
+      <segment state="translated">
+        <source>TIE Bombers</source>
+        <target>鈦轟炸機</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.0.Cargo">
+      <segment state="translated">
+        <source>WOTAN</source>
+        <target>沃坦</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.1.Designation">
+      <segment state="translated">
+        <source>GOLD</source>
+        <target>金色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.2.Designation">
+      <segment state="translated">
+        <source>NAV BUOY</source>
+        <target>導航浮標</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.3.Designation">
+      <segment state="translated">
+        <source>NAV BUOY</source>
+        <target>導航浮標</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.4.Designation">
+      <segment state="translated">
+        <source>NAV BUOY</source>
+        <target>導航浮標</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.5.Designation">
+      <segment state="translated">
+        <source>SHRIKE</source>
+        <target>伯勞</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.6.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.7.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.8.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.9.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.10.Designation">
+      <segment state="translated">
+        <source>BANSHEE</source>
+        <target>女妖</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.11.Designation">
+      <segment state="translated">
+        <source>ETA</source>
+        <target>ETA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h4wb.FG.12.Designation">
+      <segment state="translated">
+        <source>PLANET 7</source>
+        <target>行星 7</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.0.Cargo">
+      <segment state="translated">
+        <source>WOTAN</source>
+        <target>沃坦</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.1.Designation">
+      <segment state="translated">
+        <source>GOLD</source>
+        <target>金色</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.2.Designation">
+      <segment state="translated">
+        <source>SHRIKE</source>
+        <target>伯勞</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.3.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.4.Designation">
+      <segment state="translated">
+        <source>BETA</source>
+        <target>BETA</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.5.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.6.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.7.Designation">
+      <segment state="translated">
+        <source>BANSHEE</source>
+        <target>女妖</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.8.Designation">
+      <segment state="translated">
+        <source>ETA</source>
+        <target>ETA</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.9.Designation">
+      <segment state="translated">
+        <source>NAV BUOY</source>
+        <target>導航浮標</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.9.Cargo">
+      <segment state="translated">
+        <source>OTAN</source>
+        <target>沃坦</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.10.Designation">
+      <segment state="translated">
+        <source>NAV BUOY</source>
+        <target>導航浮標</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.10.Cargo">
+      <segment state="translated">
+        <source>OTAN</source>
+        <target>沃坦</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.11.Designation">
+      <segment state="translated">
+        <source>NAV BUOY</source>
+        <target>導航浮標</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.FG.11.Cargo">
+      <segment state="translated">
+        <source>OTAN</source>
+        <target>沃坦</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.CompletionMessage.0">
+      <segment state="translated">
+        <source>THE SHRIKE HAS BEEN DESTROYED!</source>
+        <target>伯勞號已被摧毀！</target></segment>
+    </unit>
+    <unit id="Mission.t5h4wb.CompletionMessage.1">
+      <segment state="translated">
+        <source>WAY TO GO, RED ONE!</source>
+        <target>幹得好，紅色一號！</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.Title">
+      <segment state="translated">
+        <source>Attack Death Star Surface</source>
+        <target>攻擊死星表面</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.Description">
+      <segment state="translated">
+        <source>Compare the performance
+of the B-wing with that of
+the X-wing in this recreation
+of the initial attack against
+the Death Star's surface.</source>
+        <target>在這場重現對死星
+表面首波攻擊的
+任務中，比較
+B翼戰機與 X翼戰機
+的性能差異。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 5: Attack Death Star Surface</source>
+        <target>&gt;歷史任務 5：攻擊死星表面</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.2">
+      <segment state="translated">
+        <source>Engage any TIE Fighters encountered on your way to the [[Nav Buoy]].</source>
+        <target>在前往[[導航浮標]]途中，與遭遇的任何鈦戰機交戰。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.3">
+      <segment state="translated">
+        <source>Destroy all [[Turbolaser Gun Towers]] within 2 kilometers of the [[Nav Buoy]].</source>
+        <target>摧毀[[導航浮標]] 2 公里範圍內的所有[[渦輪雷射砲塔]]。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.4">
+      <segment state="translated">
+        <source>Destroy all [[Hangar Ports]] from which the TIE Fighters are launched.</source>
+        <target>摧毀所有派出鈦戰機的[[機庫口]]。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.5">
+      <segment state="translated">
+        <source>  What if the B-wing had been available at the Battle of Yavin?$  The Death Star surface is covered with [[Turbolaser Towers]].  These batteries provide defense against small spacecraft such as starfighters.  The Death Star also carries a large contingent of [[TIE Fighters]] and [[Bombers]].  Both of these forces must be countered before we can launch our assault on the [[Death Star's Trench]].$ </source>
+        <target>  假如 B翼戰機在雅文戰役時就已問世呢？$  死星表面佈滿了[[渦輪雷射砲塔]]。這些砲台負責抵禦星際戰機之類的小型太空船。死星還搭載了大批[[鈦戰機]]與[[轟炸機]]。我們必須先壓制這兩股力量，才能對[[死星溝槽]]發動突擊。$ </target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.6">
+      <segment state="translated">
+        <source>  Your mission is to rendezvous at the Nav Buoy and destroy all the Turbolaser Towers within a [[two]] kilometers radius.  You must also destroy the four[[ Hangar Port exits]] that are camouflaged as simple supply containers.  From here, TIE squadrons exit the interior of the Death Star.$$&gt;Good Luck!$ $&gt;May the Force be with you!</source>
+        <target>  你的任務是在導航浮標會合，並摧毀半徑[[兩]]公里內的所有渦輪雷射砲塔。你還必須摧毀四座偽裝成普通補給貨櫃的[[機庫口出口]]。鈦戰機中隊就是從這裡飛出死星內部。$$&gt;祝你好運！$ $&gt;願原力與你同在！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.7">
+      <segment state="translated">
+        <source>B-wing [[Red]] will clear the Death Star's defenses near this Nav Buoy.</source>
+        <target>B翼[[紅色]]中隊將清除此導航浮標附近的死星防禦。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.8">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;任務完成提示</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.9">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;本頁提供完成$&gt;此任務的$&gt;策略與戰術。$$$&gt;若你想自行摸索，$&gt;請勿閱讀！$$$&gt;點擊黑色頁碼方塊$&gt;即可查看提示。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Text.10">
+      <segment state="translated">
+        <source>  Scroll through the target list to the 1st CON and assign it to memory (Shift-F5).  Assign the other three to memory locations, also.$  Order your wingman to engage the nearest enemy while you attack the 1st CON.  Use 3 torpedoes.$  Proceed to the 2nd, then the 4th, and finally the 3rd.  Destroy each with 3 torpedoes.$  Break off to dogfight only when absolutely necessary. </source>
+        <target>  在目標清單中捲動到第一個貨櫃，並將其指定到記憶位置（Shift-F5）。其餘三個也一併指定到記憶位置。$  命令你的僚機與最近的敵機交戰，同時你攻擊第一個貨櫃，使用 3 枚魚雷。$  接著依序攻擊第二個、第四個，最後是第三個，每個都用 3 枚魚雷摧毀。$  非到絕對必要，不要脫隊纏鬥。 </target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Tag.0">
+      <segment state="translated">
+        <source>B-W Red (YOU)</source>
+        <target>B-W 紅色（你）</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Tag.1">
+      <segment state="translated">
+        <source>TIE Fighters</source>
+        <target>鈦戰機</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Tag.2">
+      <segment state="translated">
+        <source>Nav Buoy</source>
+        <target>導航浮標</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.Tag.3">
+      <segment state="translated">
+        <source>Hangar Port</source>
+        <target>機庫口</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.0.Cargo">
+      <segment state="translated">
+        <source>WOTAN</source>
+        <target>沃坦</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.1.Designation">
+      <segment state="translated">
+        <source>ALPHA 1</source>
+        <target>ALPHA 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.2.Designation">
+      <segment state="translated">
+        <source>ALPHA 2</source>
+        <target>ALPHA 2</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.3.Designation">
+      <segment state="translated">
+        <source>ALPHA 3</source>
+        <target>ALPHA 3</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.4.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.5.Designation">
+      <segment state="translated">
+        <source>BETA 2</source>
+        <target>BETA 2</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.6.Designation">
+      <segment state="translated">
+        <source>BETA 3</source>
+        <target>BETA 3</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.7.Designation">
+      <segment state="translated">
+        <source>GAMMA 1</source>
+        <target>GAMMA 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.8.Designation">
+      <segment state="translated">
+        <source>GAMMA 2</source>
+        <target>GAMMA 2</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.9.Designation">
+      <segment state="translated">
+        <source>GAMMA 3</source>
+        <target>GAMMA 3</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.10.Designation">
+      <segment state="translated">
+        <source>DELTA 1</source>
+        <target>DELTA 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.11.Designation">
+      <segment state="translated">
+        <source>DELTA 2</source>
+        <target>DELTA 2</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.13.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>機庫口</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.13.Cargo">
+      <segment state="translated">
+        <source>T/F ALPHA</source>
+        <target>T/F ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.14.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>機庫口</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.14.Cargo">
+      <segment state="translated">
+        <source>T/B BETA</source>
+        <target>T/B BETA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.15.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>機庫口</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.15.Cargo">
+      <segment state="translated">
+        <source>T/F GAMMA</source>
+        <target>T/F GAMMA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.16.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>機庫口</target></segment>
+    </unit>
+    <unit id="Briefing.t5h5wb.FG.16.Cargo">
+      <segment state="translated">
+        <source>T/I DELTA</source>
+        <target>T/I DELTA</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED</source>
+        <target>紅色</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.0.Cargo">
+      <segment state="translated">
+        <source>WOTAN</source>
+        <target>沃坦</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.1.Designation">
+      <segment state="translated">
+        <source>ALPHA 1</source>
+        <target>ALPHA 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.2.Designation">
+      <segment state="translated">
+        <source>ALPHA 2</source>
+        <target>ALPHA 2</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.3.Designation">
+      <segment state="translated">
+        <source>ALPHA 3</source>
+        <target>ALPHA 3</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.4.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.5.Designation">
+      <segment state="translated">
+        <source>BETA 2</source>
+        <target>BETA 2</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.6.Designation">
+      <segment state="translated">
+        <source>BETA 3</source>
+        <target>BETA 3</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.7.Designation">
+      <segment state="translated">
+        <source>GAMMA 1</source>
+        <target>GAMMA 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.8.Designation">
+      <segment state="translated">
+        <source>GAMMA 2</source>
+        <target>GAMMA 2</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.9.Designation">
+      <segment state="translated">
+        <source>GAMMA 3</source>
+        <target>GAMMA 3</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.10.Designation">
+      <segment state="translated">
+        <source>DELTA 1</source>
+        <target>DELTA 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.11.Designation">
+      <segment state="translated">
+        <source>DELTA 2</source>
+        <target>DELTA 2</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.12.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>機庫口</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.12.Cargo">
+      <segment state="translated">
+        <source>T/F ALPHA</source>
+        <target>T/F ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.13.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>機庫口</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.13.Cargo">
+      <segment state="translated">
+        <source>T/B BETA</source>
+        <target>T/B BETA</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.14.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>機庫口</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.14.Cargo">
+      <segment state="translated">
+        <source>T/F GAMMA</source>
+        <target>T/F GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.15.Designation">
+      <segment state="translated">
+        <source>HANGAR PORT</source>
+        <target>機庫口</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.FG.15.Cargo">
+      <segment state="translated">
+        <source>T/I DELTA</source>
+        <target>T/I DELTA</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.CompletionMessage.0">
+      <segment state="translated">
+        <source>All TIE fighter hangar ports destroyed in target area</source>
+        <target>目標區域內所有鈦戰機機庫口均已摧毀</target></segment>
+    </unit>
+    <unit id="Mission.t5h5wb.CompletionMessage.1">
+      <segment state="translated">
+        <source>All laser towers cleared in target area</source>
+        <target>目標區域內的雷射塔已全數清除</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.Title">
+      <segment state="translated">
+        <source>Death Star Trench Run</source>
+        <target>死星溝槽突襲</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.Description">
+      <segment state="translated">
+        <source>Relive the climactic moment
+of the Battle of Yavin as
+you pilot your B-wing in
+the harrowing Trench Run!</source>
+        <target>重溫雅文戰役的
+最高潮時刻，
+駕駛你的 B翼戰機
+展開驚險的溝槽突襲！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.1">
+      <segment state="translated">
+        <source>&gt;HM 6: Death Star Trench Run</source>
+        <target>&gt;歷史任務 6：死星溝槽突襲</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.2">
+      <segment state="translated">
+        <source>In your[[ ]]B-wing follow the [[Nav Buoys]] to the Death Star Trench.</source>
+        <target>駕駛你的[[ ]]B翼戰機，沿著[[導航浮標]]飛往死星溝槽。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.3">
+      <segment state="translated">
+        <source>Turn [[left]] and [[descend]] into the Death Star Trench.</source>
+        <target>[[左]]轉並[[下降]]進入死星溝槽。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.4">
+      <segment state="translated">
+        <source>Beware of Imperial [[TIE fighters]].  They will send their best after you.</source>
+        <target>小心帝國[[鈦戰機]]。他們會派出精銳對付你。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.5">
+      <segment state="translated">
+        <source>Follow the trench to the[[ Exhaust Port]].  Use your [[Proton Torpedoes]]!</source>
+        <target>沿著溝槽飛往[[排氣口]]。使用你的[[質子魚雷]]！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.6">
+      <segment state="translated">
+        <source>  This mission looks again at the [[Battle of Yavin]].  How well suited would a B-wing have been for the crucial Death Star Trench Run?  With almost as much speed as an X-wing and considerably better armor and shields, it seems the B-wing would have been ideally suited to the task!$  As you know, Alliance scientists and engineers had analyzed the captured technical readouts of the Death Star and discovered its [[weak spot]]. </source>
+        <target>  本任務再度回顧[[雅文戰役]]。B翼戰機是否適合執行至關重要的死星溝槽突襲？它的速度幾乎與 X翼戰機相當，裝甲與護盾卻遠勝一籌，看來 B翼戰機會是這項任務的理想人選！$  如你所知，聯盟的科學家與工程師分析了截獲的死星技術資料，發現了它的[[弱點]]。 </target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.7">
+      <segment state="translated">
+        <source>  The Death Star proved to be vulnerable through an [[exhaust outlet port]] located in an equatorial trench on the battle station's surface.  A[[ proton torpedo]] fired directly into this exhaust port would cause a [[chain reaction]] in the artificial moon's reactor core that would destroy the entire Death Star.$  This daring attack would be made by a single starfighter in the hands of an exceptionally courageous pilot!</source>
+        <target>  死星的弱點在於戰鬥太空站表面赤道溝槽中的一個[[排氣出口]]。只要將一枚[[質子魚雷]]直接射入這個排氣口，就會在這顆人造衛星的反應爐核心引發[[連鎖反應]]，進而摧毀整座死星。$  這場大膽的攻擊將由一位格外英勇的飛行員，駕駛單架星際戰機完成！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.8">
+      <segment state="translated">
+        <source>  Follow the Nav Buoys to the trench, turn left and dive down into it.  Your B-wing's engines have been modified to triple their thrust.  Your ship's computer will boost their output once you are in the trench.$  The exhaust port is located at the end of the trench.  Watch your [[targeting computer]] for when the exhaust port comes into range of your proton torpedoes.$&gt;May the Force be with you!</source>
+        <target>  沿著導航浮標飛往溝槽，左轉並俯衝進入其中。你的 B翼戰機引擎已經改裝，推力提升為三倍。進入溝槽後，戰機電腦將自動增強引擎輸出。$  排氣口位於溝槽盡頭。留意你的[[瞄準電腦]]，確認排氣口何時進入質子魚雷的射程。$&gt;願原力與你同在！</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.9">
+      <segment state="translated">
+        <source>&gt;MISSION COMPLETION HINTS</source>
+        <target>&gt;任務完成提示</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.10">
+      <segment state="translated">
+        <source>$&gt;STRATEGY AND TACTICS$&gt;FOR COMPLETING THIS MISSION$&gt;ARE AVAILABLE.$$$&gt;DO NOT READ IF YOU WISH TO$&gt;DISCOVER THESE FOR YOURSELF!$$$&gt;CLICK ON THE BLACK PAGE NUMBER$&gt;BOX TO SEE THE HINT(S).</source>
+        <target>$&gt;本頁提供完成$&gt;此任務的$&gt;策略與戰術。$$$&gt;若你想自行摸索，$&gt;請勿閱讀！$$$&gt;點擊黑色頁碼方塊$&gt;即可查看提示。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Text.11">
+      <segment state="translated">
+        <source>  Set cannon recharge rate to full, and engage T/F Alpha.  Once they're destroyed, set the shield recharge to full and head for the trench.$  Cannons and shields should be fully charged when you reach the trench.  Redirect all energy to the engines for the dive into the trench.  Reset cannons to full recharge and set shields all forward.  As you close on the exhaust port, transfer cannon energy to the (forward) shields.</source>
+        <target>  將砲火充能速率調到最高，與鈦戰機 Alpha 編隊交戰。消滅它們之後，將護盾充能調到最高，並飛往溝槽。$  抵達溝槽時，砲火與護盾都應已充滿。俯衝進入溝槽時，把所有能量轉移到引擎。接著將砲火重設為最高充能，並把護盾全部集中到前方。逼近排氣口時，將砲火能量轉移到（前方）護盾。</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.0">
+      <segment state="translated">
+        <source>B-W Red (YOU)</source>
+        <target>B-W 紅色（你）</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.1">
+      <segment state="translated">
+        <source>Nav Buoys</source>
+        <target>導航浮標</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.2">
+      <segment state="translated">
+        <source>&lt;- Trench</source>
+        <target>&lt;- 溝槽</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.3">
+      <segment state="translated">
+        <source>Exhaust Port</source>
+        <target>排氣口</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.4">
+      <segment state="translated">
+        <source>[+]</source>
+        <target>[+]</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.5">
+      <segment state="translated">
+        <source>(*)</source>
+        <target>(*)</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.Tag.6">
+      <segment state="translated">
+        <source>[*]</source>
+        <target>[*]</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED 1</source>
+        <target>紅色 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.1.Designation">
+      <segment state="translated">
+        <source>NAV BUOY 1</source>
+        <target>導航浮標 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.2.Designation">
+      <segment state="translated">
+        <source>NAV BUOY 2</source>
+        <target>導航浮標 2</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.3.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.4.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.5.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.6.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Briefing.t5h6mb.FG.7.Designation">
+      <segment state="translated">
+        <source>ETA</source>
+        <target>ETA</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.0.Designation">
+      <segment state="translated">
+        <source>RED 1</source>
+        <target>紅色 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.1.Designation">
+      <segment state="translated">
+        <source>ALPHA</source>
+        <target>ALPHA</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.2.Designation">
+      <segment state="translated">
+        <source>BETA 1</source>
+        <target>BETA 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.3.Designation">
+      <segment state="translated">
+        <source>GAMMA</source>
+        <target>GAMMA</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.4.Designation">
+      <segment state="translated">
+        <source>DELTA</source>
+        <target>DELTA</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.5.Designation">
+      <segment state="translated">
+        <source>ETA</source>
+        <target>ETA</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.6.Designation">
+      <segment state="translated">
+        <source>NAV BUOY 1</source>
+        <target>導航浮標 1</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.FG.7.Designation">
+      <segment state="translated">
+        <source>NAV BUOY 2</source>
+        <target>導航浮標 2</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.CompletionMessage.0">
+      <segment state="translated">
+        <source>You've hit the exhaust port, that was one in a BILLION!</source>
+        <target>你命中排氣口了，那可是十億分之一的機會！</target></segment>
+    </unit>
+    <unit id="Mission.t5h6mb.CompletionMessage.1">
+      <segment state="translated">
+        <source>RED ONE, GET OUT OF THERE!</source>
+        <target>紅色一號，快離開那裡！</target></segment>
+    </unit>
+  </file>
+</xliff>

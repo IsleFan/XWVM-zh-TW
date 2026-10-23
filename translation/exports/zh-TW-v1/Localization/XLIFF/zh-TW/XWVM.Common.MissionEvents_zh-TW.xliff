@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.Common.MissionEvents">
+    <!-- Simple Events -->
+    <unit id="MissionStart">
+      <segment state="translated">
+        <source>[[Mission started]]</source>
+        <target>[[任務開始]]</target></segment>
+    </unit>
+    <unit id="MissionComplete">
+      <segment state="translated">
+        <source>[[Mission complete]]</source>
+        <target>[[任務完成]]</target></segment>
+    </unit>
+    <unit id="MissionFailed">
+      <segment state="translated">
+        <source>[[Mission failed]]</source>
+        <target>[[任務失敗]]</target></segment>
+    </unit>
+    <unit id="ReinforcementRequest">
+      <segment state="translated">
+        <source>[[Request for reinforcements acknowledged]]</source>
+        <target>[[增援請求已獲確認]]</target></segment>
+    </unit>
+    
+    <!-- Ship Arrival Events -->
+    <unit id="Arrived_SameIff_Group">
+      <segment state="translated">
+        <source>[[{species.ABBR}]] group [[{designation}]] entered sector at [[{distance} km]]</source>
+        <target>[[{species.ABBR}]] 編隊 [[{designation}]] 於 [[{distance} 公里]]處進入星區</target></segment>
+    </unit>
+    <unit id="Arrived_SameIff_Single">
+      <segment state="translated">
+        <source>[[{species.ABBR} {designation}]] entered sector at [[{distance} km]]</source>
+        <target>[[{species.ABBR} {designation}]] 於 [[{distance} 公里]]處進入星區</target></segment>
+    </unit>
+    <unit id="Arrived_DifferentIff_Single">
+      <segment state="translated">
+        <source>A new [[{species.ONE}]] entered sector at [[{distance} km]]</source>
+        <target>一架新的 [[{species.ONE}]] 於 [[{distance} 公里]]處進入星區</target></segment>
+    </unit>
+    <unit id="Arrived_DifferentIff_Group">
+      <segment state="translated">
+        <source>[[{waveSize}]] new [[{species.OTHER}]] entered sector at [[{distance} km]]</source>
+        <target>[[{waveSize}]] 架新的 [[{species.OTHER}]] 於 [[{distance} 公里]]處進入星區</target></segment>
+    </unit>
+
+    <!-- Single Entity Events -->
+    <unit id="EnteredHangar">
+      <segment state="translated">
+        <source>[[{species.ABBR} {designation}]] entered hangar</source>
+        <target>[[{species.ABBR} {designation}]] 已進入機庫</target></segment>
+    </unit>
+    <unit id="EnteredHyperspace">
+      <segment state="translated">
+        <source>[[{species.ABBR} {designation}]] has entered hyperspace</source>
+        <target>[[{species.ABBR} {designation}]] 已進入超空間</target></segment>
+    </unit>
+    <unit id="Destroyed">
+      <segment state="translated">
+        <source>[[{species.ABBR} {designation}]] has been [[destroyed]]</source>
+        <target>[[{species.ABBR} {designation}]] 已被[[摧毀]]</target></segment>
+    </unit>
+    <unit id="Disabled">
+      <segment state="translated">
+        <source>[[{species.ABBR} {designation}]] has been [[disabled]]</source>
+        <target>[[{species.ABBR} {designation}]] 已被[[癱瘓]]</target></segment>
+    </unit>
+    <unit id="Identified">
+      <segment state="translated">
+        <source>[[{species.ABBR} {designation}]] has been [[identified]]</source>
+        <target>[[{species.ABBR} {designation}]] 已被[[識別]]</target></segment>
+    </unit>
+    <unit id="DockingComplete">
+      <segment state="translated">
+        <source>[[{species.ABBR} {designation}]] reports docking operation complete</source>
+        <target>[[{species.ABBR} {designation}]] 回報對接作業完成</target></segment>
+    </unit>
+    <unit id="SurfaceObjectDestroyed">
+      <segment state="translated">
+        <source>Surface object has been [[destroyed]]</source>
+        <target>地面目標已被[[摧毀]]</target></segment>
+    </unit>
+
+    <!-- Multi-Entity Events -->
+    <unit id="Docked">
+      <segment state="translated">
+        <source>[[{agent.species.ABBR} {agent.designation}]] has docked with [[{subject.species.ABBR} {subject.designation}]]</source>
+        <target>[[{agent.species.ABBR} {agent.designation}]] 已與 [[{subject.species.ABBR} {subject.designation}]] 完成對接</target></segment>
+    </unit>
+    <unit id="Captured">
+      <segment state="translated">
+        <source>[[{subject.species.ABBR} {subject.designation}]] has been [[captured]] by [[{agent.species.ABBR} {agent.designation}]]</source>
+        <target>[[{subject.species.ABBR} {subject.designation}]] 已被 [[{agent.species.ABBR} {agent.designation}]] [[俘獲]]</target></segment>
+    </unit>
+    <unit id="Repaired">
+      <segment state="translated">
+        <source>[[{subject.species.ABBR} {subject.designation}]] has been [[repaired]] by [[{agent.species.ABBR} {agent.designation}]]</source>
+        <target>[[{subject.species.ABBR} {subject.designation}]] 已由 [[{agent.species.ABBR} {agent.designation}]] [[修復]]</target></segment>
+    </unit>
+    <unit id="ComponentDestruction">
+      <segment state="translated">
+        <source>[[{agent.designation}]] destroyed [[{subject.designation}]]'s component #[[{componentNo}]]</source>
+        <target>[[{agent.designation}]] 摧毀了 [[{subject.designation}]] 的第 [[{componentNo}]] 號組件</target></segment>
+    </unit>
+
+    <!-- System Events -->
+    <unit id="SystemDamaged">
+      <segment state="translated">
+        <source>[[{systemName}]]: damaged and [[inoperative]]!</source>
+        <target>[[{systemName}]]：受損，[[無法運作]]！</target></segment>
+    </unit>
+    <unit id="SystemRepaired">
+      <segment state="translated">
+        <source>[[{systemName}: repaired]]!</source>
+        <target>[[{systemName}：已修復]]！</target></segment>
+    </unit>
+
+    <!-- Sensor/Detection Events -->
+    <unit id="EntityPresenceDetected">
+      <segment state="translated">
+        <source>[[{detector.designation}]] detects [[{detected.designation}]] at sensor [[{sensorId}]]</source>
+        <target>[[{detector.designation}]] 於感測器 [[{sensorId}]] 偵測到 [[{detected.designation}]]</target></segment>
+    </unit>
+    <unit id="PPGGateVisited">
+      <segment state="translated">
+        <source>[[{runnerId}]] visits [[{platformId}]]'s gate [[{gateNo}]]</source>
+        <target>[[{runnerId}]] 通過 [[{platformId}]] 的閘門 [[{gateNo}]]</target></segment>
+    </unit>
+
+    <!-- Weapon Events -->
+    <unit id="WeaponFired">
+      <segment state="translated">
+        <source>Weapon firing event {agent.designation} {projectile}</source>
+        <target>武器開火事件 {agent.designation} {projectile}</target></segment>
+    </unit>
+    <unit id="WeaponHit">
+      <segment state="translated">
+        <source>Weapon impact event {agent.designation} {projectile} {subject.designation}</source>
+        <target>武器命中事件 {agent.designation} {projectile} {subject.designation}</target></segment>
+    </unit>
+  </file>
+</xliff>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" trgLang="zh-TW">
+  <file id="XWVM.xwing.Tips" srcLang="en" trgLang="zh-TW">
+    <unit id="pressToContinue">
+      <segment state="translated">
+        <source>Press Fire to continue.</source>
+        <target>按下開火鍵繼續。</target></segment>
+    </unit>
+      <unit id="tip_sfoils">
+      <segment state="translated">
+        <source>If your craft has s-foils, you won't be able to fire when they are closed.</source>
+        <target>如果你的戰機有 S翼，在 S翼收合時將無法開火。</target></segment>
+    </unit>
+      <unit id="tip_capitalShipDistance">
+      <segment state="translated">
+        <source>Keep your distance from enemy capital ships - their turrets can pack a punch.</source>
+        <target>與敵方主力艦保持距離——它們的砲塔威力驚人。</target></segment>
+    </unit>
+      <unit id="tip_powerLevels">
+      <segment state="translated">
+        <source>Maintain your power levels to maximise damage done by your lasers.</source>
+        <target>維持你的能量分配，讓雷射砲發揮最大傷害。</target></segment>
+    </unit>
+      <unit id="tip_rotateShields">
+      <segment state="translated">
+        <source>Rotate your shields to face the enemy for maximum protection.</source>
+        <target>將護盾轉向敵人方向，以獲得最佳防護。</target></segment>
+    </unit>
+      <unit id="tip_prioritiseObjectives">
+      <segment state="translated">
+        <source>Prioritise your mission objectives carefully - sometimes, blowing stuff up &lt;b&gt;isn't&lt;/b&gt; the answer.</source>
+        <target>謹慎安排任務目標的優先順序——有時候，把東西炸掉&lt;b&gt;並不是&lt;/b&gt;正確答案。</target></segment>
+    </unit>
+      <unit id="tip_wingmenOrders">
+      <segment state="translated">
+        <source>Issue orders to your wingmen to maximise their effectiveness.</source>
+        <target>對僚機下達命令，讓他們發揮最大效用。</target></segment>
+    </unit>
+      <unit id="tip_linkWeapons">
+      <segment state="translated">
+        <source>Try linking your weapons together to increase your firepower.</source>
+        <target>試著將武器連動發射，以提升火力。</target></segment>
+    </unit>
+      <unit id="tip_tieSpeeds">
+      <segment state="translated">
+        <source>Most TIEs are fast, but unshielded - use this to your advantage.</source>
+        <target>大多數鈦戰機速度很快，但沒有護盾——好好利用這一點。</target></segment>
+    </unit>
+      <unit id="tip_inflightMap">
+      <segment state="translated">
+        <source>The inflight map can provide vital information about your mission objectives.</source>
+        <target>飛行中地圖能提供關於任務目標的重要資訊。</target></segment>
+    </unit>
+      <unit id="tip_pilotProvingGround">
+      <segment state="translated">
+        <source>The &lt;b&gt;Pilot Proving Ground&lt;/b&gt; provides an opportunity to hone flying skills for new and experienced pilots alike.</source>
+        <target>&lt;b&gt;飛行員試煉場&lt;/b&gt;讓新手與資深飛行員都有機會磨練飛行技巧。</target></segment>
+    </unit>
+      <unit id="tip_repairPriority">
+      <segment state="translated">
+        <source>Only one system on your craft can be repaired at any one time, so prioritise your systems carefully.</source>
+        <target>戰機上一次只能修復一個系統，請謹慎安排系統的修復順序。</target></segment>
+    </unit>
+      <unit id="tip_wreckageCollision">
+      <segment state="translated">
+        <source>Be careful not to collide with the wreckage of any destroyed ships - you can still take damage.</source>
+        <target>小心別撞上被摧毀艦船的殘骸——你仍然會受到損傷。</target></segment>
+    </unit>
+      <unit id="tip_historicalMissions">
+      <segment state="translated">
+        <source>Hone your combat skills by flying &lt;b&gt;Historical Missions&lt;/b&gt;.</source>
+        <target>駕駛&lt;b&gt;歷史任務&lt;/b&gt;來磨練你的戰鬥技巧。</target></segment>
+    </unit>
+      <unit id="tip_scopes">
+      <segment state="translated">
+        <source>Use your scopes to maintain awareness of other craft on the battlefield.</source>
+        <target>善用掃描器，隨時掌握戰場上其他艦艇的動向。</target></segment>
+    </unit>
+      <unit id="tip_wotanWeave">
+      <segment state="translated">
+        <source>The &lt;b&gt;Wotan Weave&lt;/b&gt; is favoured by many pilots to escape from a tricky situation.</source>
+        <target>許多飛行員偏好用&lt;b&gt;沃坦迂迴&lt;/b&gt;擺脫棘手的處境。</target></segment>
+    </unit>
+      <unit id="tip_ejection">
+      <segment state="translated">
+        <source>Ejecting near some types of enemy ship is likely to result in your capture.</source>
+        <target>在某些類型的敵艦附近彈射逃生，很可能會讓你遭俘。</target></segment>
+    </unit>
+      <unit id="tip_hyperspace">
+      <segment state="translated">
+        <source>Plotting a hyperspace course takes a few seconds - don't leave yourself vulnerable during the jump.</source>
+        <target>規劃超空間航線需要幾秒鐘——跳躍期間別讓自己暴露在危險中。</target></segment>
+    </unit>
+      <unit id="tip_moveLeft">
+      <segment state="translated">
+        <source>Despite what some pilots claim, moving slightly to the left is not a good evasive manoeuvre.</source>
+        <target>不管某些飛行員怎麼說，稍微往左移並不是好的閃避動作。</target></segment>
+    </unit>
+      <unit id="tip_stayFast">
+      <segment state="translated">
+        <source>Staying fast is key to staying alive. Manage your power settings carefully to ensure you have enough engine power.</source>
+        <target>保持高速是活命的關鍵。謹慎管理能量設定，確保引擎有足夠的動力。</target></segment>
+    </unit>
+      <unit id="tip_powerEngines">
+      <segment state="translated">
+        <source>At increased laser and shield power levels, less power is available for your engines.</source>
+        <target>雷射砲與護盾的能量越高，可分配給引擎的能量就越少。</target></segment>
+    </unit>
+      <unit id="tip_starDestroyers">
+      <segment state="translated">
+        <source>Star Destroyers are formidable in battle, but have weak spots that can be exploited.</source>
+        <target>滅星者在戰鬥中十分難纏，但也有可供利用的弱點。</target></segment>
+    </unit>
+      <unit id="tip_anticipateMovement">
+      <segment state="translated">
+        <source>Anticipate your enemies' movement and aim accordingly for maximum accuracy.</source>
+        <target>預判敵人的動向並據此瞄準，以獲得最高命中率。</target></segment>
+    </unit>
+      <unit id="tip_transferLaserToShields">
+      <segment state="translated">
+        <source>Transfer laser energy to your shields for extra protection during a fight.</source>
+        <target>在戰鬥中將雷射能量轉移到護盾，以獲得額外防護。</target></segment>
+    </unit>
+      <unit id="tip_transferShieldsToLaser">
+      <segment state="translated">
+        <source>Shield energy can be used to recharge your lasers during a battle.</source>
+        <target>戰鬥中可以用護盾能量為雷射砲充能。</target></segment>
+    </unit>
+      <unit id="tip_orderCoverMe">
+      <segment state="translated">
+        <source>If you get into trouble, order your wingmen to help you out.</source>
+        <target>如果陷入困境，命令你的僚機前來支援。</target></segment>
+    </unit>
+      <unit id="tip_damageControl">
+      <segment state="translated">
+        <source>Check the repair order of your systems in the damage control screen.</source>
+        <target>在損害控制畫面中查看各系統的修復順序。</target></segment>
+    </unit>
+      <unit id="tip_orderIgnore">
+      <segment state="translated">
+        <source>You can order your wingmen to ignore a target if needed.</source>
+        <target>必要時，你可以命令僚機忽略某個目標。</target></segment>
+    </unit>
+      <unit id="tip_timeMultiplier">
+      <segment state="translated">
+        <source>Mission taking too long? You can accelerate time, but use it wisely.</source>
+        <target>任務拖太久了？你可以加速時間，但請明智使用。</target></segment>
+    </unit>
+      <unit id="tip_reinforcements">
+      <segment state="translated">
+        <source>If a mission is too difficult, call for reinforcements if available.</source>
+        <target>如果任務太困難，可在有增援時呼叫增援。</target></segment>
+    </unit>
+  </file>
+</xliff>

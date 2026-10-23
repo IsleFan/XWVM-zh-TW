@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.xwing.OriginalStrings">
+    <unit id="Intro.Crawl.Full">
+      <segment state="translated">
+        <source>It is a time of Civil War. Using fear and intimidation, the Empire seeks to impose a New Order on the galaxy.  Only the Rebel Alliance stands in the way of their evil plans. 
+ Not yet willing to confront the Empire directly, the Rebels are marshalling their forces in secrecy.  Even now a group of their prized Calamari Cruisers is being intercepted by a squadron of Imperial Star Destroyers. 
+ The Rebel Fleet is outnumbered but, they have a surprise... the X-Wing Starfighter! </source>
+        <target>這是一個內戰的時代。帝國以恐懼與威嚇，企圖將新秩序強加於整個銀河。唯有反抗軍聯盟擋在他們的邪惡計畫之前。 
+ 反抗軍尚無意與帝國正面交鋒，正秘密集結兵力。就在此刻，他們珍貴的一批卡拉馬里巡洋艦正遭到一支帝國滅星者艦隊攔截。 
+ 反抗軍艦隊寡不敵眾，但他們握有一張王牌……X翼星際戰機！ </target></segment>
+    </unit>
+	<unit id="Intro.ALongTimeAgoLine">
+		<segment state="translated">
+			<source>A long time ago\nin a galaxy far, far away....</source>
+			<target>很久很久以前，\n在遙遠的銀河系……</target></segment>
+	</unit>
+  </file>
+</xliff>

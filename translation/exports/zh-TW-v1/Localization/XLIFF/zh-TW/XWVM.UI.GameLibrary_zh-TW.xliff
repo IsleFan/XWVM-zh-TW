@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.UI.GameLibrary" srcLang="en" trgLang="zh-TW">
+      <unit id="MainMenu.Label.StartGame">
+        <segment state="translated">
+          <source>Start Game</source>
+          <target>開始遊戲</target></segment>
+      </unit>
+      <unit id="MainMenu.Label.AddGame">
+        <segment state="translated">
+          <source>Add Game</source>
+          <target>新增遊戲</target></segment>
+      </unit>
+      <unit id="MainMenu.Label.RemoveGame">
+        <segment state="translated">
+          <source>Remove Game</source>
+          <target>移除遊戲</target></segment>
+      </unit>
+      <unit id="MainMenu.Label.GetXwing">
+        <segment state="translated">
+          <source>Game Content</source>
+          <target>遊戲內容</target></segment>
+      </unit>
+      <unit id="MainMenu.Label.Settings">
+        <segment state="translated">
+          <source>Settings</source>
+          <target>設定</target></segment>
+      </unit>
+      <unit id="MainMenu.Label.Exit">
+        <segment state="translated">
+          <source>Exit</source>
+          <target>離開</target></segment>
+      </unit>
+      <unit id="Library.Label.SelectedGame">
+        <segment state="translated">
+          <source>Selected Game:</source>
+          <target>已選遊戲：</target></segment>
+      </unit>
+      <unit id="Library.Label.Library">
+        <segment state="translated">
+          <source>Library:</source>
+          <target>遊戲庫：</target></segment>
+      </unit>
+      <unit id="Library.Value.LibraryCount">
+        <segment state="translated">
+          <source>{gameCount:plural:1 game|{} games} installed</source>
+          <target>已安裝 {gameCount:plural:{} 款遊戲|{} 款遊戲}</target></segment>
+      </unit>
+      <unit id="Library.Value.NoGameSelected">
+        <segment state="translated">
+          <source>None</source>
+          <target>無</target></segment>
+      </unit>
+      <unit id="Library.Value.SelectedGame">
+        <segment state="translated">
+          <source>{selectedGame:{selectedGame}|None}</source>
+          <target>{selectedGame:{selectedGame}|無}</target></segment>
+      </unit>
+      <unit id="Library.Empty">
+        <segment state="translated">
+          <source>&lt;b&gt;Welcome to XWVM!&lt;/b&gt;
+
+To get started, use &lt;b&gt;Add Game&lt;/b&gt; to locate games to play in XWVM.
+
+Once added, your games will appear in the Game Library here.
+
+Multiple variants of the same game can be added (e.g. X-Wing 1993 and X-Wing 1994 GoG edition can both be present in the library).</source>
+          <target>&lt;b&gt;歡迎使用 XWVM！&lt;/b&gt;
+
+請先使用&lt;b&gt;新增遊戲&lt;/b&gt;，找出要在 XWVM 中遊玩的遊戲。
+
+新增完成後，你的遊戲會顯示在這裡的遊戲庫中。
+
+同一款遊戲可以新增多個版本（例如 1993 年版《X翼戰機》與 1994 年 GoG 版《X翼戰機》可同時存在於遊戲庫中）。</target></segment>
+      </unit>
+      <unit id="GameContent.Title.Label">
+        <segment state="translated">
+          <source>Manage Game Content</source>
+          <target>管理遊戲內容</target></segment>
+      </unit>
+      <unit id="GameContent.OriginalGame.Header">
+        <segment state="translated">
+          <source>Base Game Content</source>
+          <target>基本遊戲內容</target></segment>
+      </unit>
+      <unit id="GameContent.OriginalGame.Label">
+        <segment state="translated">
+          <source>XWVM requires a legal copy of a compatible game to play.
+
+Don't have the games? You can purchase a copy at one of these stores:</source>
+          <target>XWVM 需要相容遊戲的合法副本才能遊玩。
+
+還沒有遊戲嗎？你可以在下列商店購買：</target></segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Header">
+        <segment state="translated">
+          <source>Custom Content</source>
+          <target>自訂內容</target></segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Table.Header.Name">
+        <segment state="translated">
+          <source>Name</source>
+          <target>名稱</target></segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Table.Header.Description">
+        <segment state="translated">
+          <source>Description</source>
+          <target>說明</target></segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Table.Header.Version">
+        <segment state="translated">
+          <source>Version</source>
+          <target>版本</target></segment>
+      </unit>
+      <unit id="GameContent.CustomContent.Table.Header.Status">
+        <segment state="translated">
+          <source>Status</source>
+          <target>狀態</target></segment>
+      </unit>
+      <unit id="GameInformation.Button.BackToLibrary">
+        <segment state="translated">
+          <source>Library</source>
+          <target>遊戲庫</target></segment>
+      </unit>
+      <unit id="Dialog.ControlsInvalidNotification.Text">
+        <segment state="translated">
+          <source>XWVM has detected invalid control bindings for:
+&lt;b&gt;{controls}&lt;/b&gt;
+The default keyboard and mouse bindings will now be applied and saved unless you cancel. Controller bindings will not be affected.
+
+&lt;b&gt;Continuing without applying default binding settings may affect critical game interactivity, and is not recommended.&lt;/b&gt;</source>
+          <target>XWVM 偵測到下列控制項的按鍵綁定無效：
+&lt;b&gt;{controls}&lt;/b&gt;
+除非你取消，否則將套用並儲存預設的鍵盤與滑鼠綁定。控制器綁定不受影響。
+
+&lt;b&gt;若不套用預設綁定設定就繼續，可能會影響關鍵的遊戲操作，不建議這麼做。&lt;/b&gt;</target></segment>
+      </unit>
+      <unit id="Dialog.ControlsInvalidNotification.Button.Cancel">
+        <segment state="translated">
+          <source>Cancel</source>
+          <target>取消</target></segment>
+      </unit>
+      <unit id="Dialog.ControlsInvalidNotification.Button.ApplyDefaults">
+        <segment state="translated">
+          <source>Apply Defaults &lt;b&gt;({time})&lt;/b&gt;</source>
+          <target>套用預設值 &lt;b&gt;（{time}）&lt;/b&gt;</target></segment>
+      </unit>
+      <unit id="Library.Button.Label.GameInformation">
+        <segment state="translated">
+          <source>Game Information</source>
+          <target>遊戲資訊</target></segment>
+      </unit>
+      <unit id="Library.Button.Label.GameSettings">
+        <segment state="translated">
+          <source>Game Settings</source>
+          <target>遊戲設定</target></segment>
+      </unit>
+      <unit id="Library.GameInformation.Button.Label.Library">
+        <segment state="translated">
+          <source>Library</source>
+          <target>遊戲庫</target></segment>
+      </unit>
+      <unit id="FolderSetup.HeaderText">
+        <segment state="translated">
+          <source>XWVM requires that you have a compatible game installed on your computer, and that you select the folder where it is installed.
+When you select a folder with a valid installation of compatible game, it will be indicated at the right hand list.</source>
+          <target>XWVM 需要你的電腦上已安裝相容的遊戲，並選取其安裝資料夾。
+選取含有有效相容遊戲安裝的資料夾後，右側清單會顯示該遊戲。</target></segment>
+      </unit>
+      <unit id="FolderSetup.CDROMText">
+        <segment state="translated">
+          <source>If you have a retail version of a compatible game on CD-ROM, either insert the disk, or copy its content to a folder on your PC.</source>
+          <target>如果你有相容遊戲的 CD-ROM 零售版，請放入光碟，或將光碟內容複製到電腦上的資料夾。</target></segment>
+      </unit>
+      <unit id="Dialog.ControlsUnusableNotification.Text">
+        <segment state="translated">
+          <source>XWVM has detected invalid control bindings for:
+&lt;b&gt;{controls}&lt;/b&gt;
+The bindings will now be cleared and saved unless you cancel.
+
+&lt;b&gt;Continuing without clearing these binding settings may affect critical game interactivity, and is not recommended.&lt;/b&gt;</source>
+          <target>XWVM 偵測到下列控制項的按鍵綁定無效：
+&lt;b&gt;{controls}&lt;/b&gt;
+除非你取消，否則這些綁定將被清除並儲存。
+
+&lt;b&gt;若不清除這些綁定設定就繼續，可能會影響關鍵的遊戲操作，不建議這麼做。&lt;/b&gt;</target></segment>
+      </unit>
+      <unit id="Dialog.ControlsInvalidNotification.Button.ClearBindings">
+        <segment state="translated">
+          <source>Clear Bindings &lt;b&gt;({time})&lt;/b&gt;</source>
+          <target>清除綁定 &lt;b&gt;（{time}）&lt;/b&gt;</target></segment>
+      </unit>
+	 <unit id="BootstrapScene.InitMessage">
+      <segment state="translated">
+        <source>Loading...</source>
+        <target>載入中……</target></segment>
+    </unit>
+    <unit id="MainMenu.Label.UpdateGame.CheckingUpdates">
+      <segment state="translated">
+        <source>Checking for Updates...</source>
+        <target>正在檢查更新……</target></segment>
+    </unit>
+    <unit id="MainMenu.Label.UpdateGame.DownloadUpdate">
+      <segment state="translated">
+        <source>Download Update</source>
+        <target>下載更新</target></segment>
+    </unit>
+  </file>
+</xliff>

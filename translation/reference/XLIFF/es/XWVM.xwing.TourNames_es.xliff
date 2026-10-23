@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.XWing.TourNames">
+    
+      <unit id="xcombat">
+        <segment state="translated">
+          <source>X-Wing Historic Combat Missions</source>
+          <target>Misiones de Combate Históricas de Ala-X</target>
+        </segment>
+      </unit>
+      <unit id="ycombat">
+        <segment state="translated">
+          <source>Y-Wing Historic Combat Missions</source>
+          <target>Misiones de Combate Históricas de Ala-Y</target>
+        </segment>
+      </unit>
+      <unit id="acombat">
+        <segment state="translated">
+          <source>A-Wing Historic Combat Missions</source>
+          <target>Misiones de Combate Históricas de Ala-A</target>
+        </segment>
+      </unit>
+      <unit id="bcombat">
+        <segment state="translated">
+          <source>B-Wing Historic Combat Missions</source>
+          <target>Misiones de Combate Históricas de Ala-B</target>
+        </segment>
+      </unit>
+      <unit id="bonus">
+        <segment state="translated">
+          <source>Bonus Combat Missions</source>
+          <target>Misiones de Combate Adicionales</target>
+        </segment>
+      </unit>
+      <unit id="tour1">
+        <segment>
+          <source>1</source>
+          <target>1</target>
+        </segment>
+      </unit>
+      <unit id="tour2">
+        <segment>
+          <source>2</source>
+          <target>2</target>
+        </segment>
+      </unit>
+      <unit id="tour3">
+        <segment>
+          <source>3</source>
+          <target>3</target>
+        </segment>
+      </unit>
+      <unit id="tour4">
+        <segment>
+          <source>4</source>
+          <target>4</target>
+        </segment>
+      </unit>
+      <unit id="tour5">
+        <segment>
+          <source>5</source>
+          <target>5</target>
+        </segment>
+      </unit>
+      <unit id="tour6">
+        <segment>
+          <source>6</source>
+          <target>6</target>
+        </segment>
+      </unit>
+      <unit id="tour7">
+        <segment>
+          <source>7</source>
+          <target>7</target>
+        </segment>
+      </unit>
+      <unit id="custom">
+        <segment state="translated">
+          <source>Custom</source>
+          <target>Misiones Personalizadas</target>
+        </segment>
+      </unit>
+    
+  </file>
+</xliff>

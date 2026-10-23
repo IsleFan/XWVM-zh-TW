@@ -1,0 +1,3160 @@
+<?xml version="1.0"?>
+<xliff version="2.0" srcLang="en" trgLang="es" xmlns="urn:oasis:names:tc:xliff:document:2.0">
+  <file id="XWVM.UI.EscMenu">
+      <unit id="MainOptions.CurrentGame">
+        <segment state="translated">
+          <source>Current Game</source>
+          <target>Juego Actual</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.AudioAndLanguage">
+        <segment state="translated">
+          <source>Audio and Language</source>
+          <target>Audio e Idioma</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Display">
+        <segment state="translated">
+          <source>Display and Video</source>
+          <target>Presentación y Gráficos</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Camera">
+        <segment state="translated">
+          <source>Camera</source>
+          <target>Cámara</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Controls">
+        <segment state="translated">
+          <source>Controls and Input</source>
+          <target>Controles y Entrada</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Achievements">
+        <segment state="translated">
+          <source>Achievements</source>
+          <target>Logros</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Defaults">
+        <segment state="translated">
+          <source>Defaults</source>
+          <target>Valores por Defecto</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.About">
+        <segment state="translated">
+          <source>About XWVM</source>
+          <target>Acerca de XWVM</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Buttons.Quit">
+        <segment state="translated">
+          <source>Quit to Desktop</source>
+          <target>Salir al Escritorio</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Buttons.Cancel">
+        <segment state="translated">
+          <source>Cancel Changes</source>
+          <target>Cancelar Cambios</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Buttons.Save">
+        <segment state="translated">
+          <source>Save and Close</source>
+          <target>Guardar y Salir</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Buttons.Concourse">
+        <segment state="translated">
+          <source>Return to Debriefing</source>
+          <target>Volver al Informe de Misión</target>
+        </segment>
+      </unit>
+      <unit id="About.AlphaNotice">
+        <segment state="translated">
+          <source>You can discuss your experiences, thoughts and any bugs you find in the &lt;b&gt;#bug-report-forum&lt;/b&gt; channel on our discord server, located here: &lt;link="https://discord.gg/nfQN9ht"&gt;&lt;color=blue&gt;https://discord.gg/nfQN9ht&lt;/color&gt;&lt;/link&gt;</source>
+          <target>Puedes comentar tu experiencia, ideas y errores que encuentres en el canal &lt;b&gt;#bug-report-forum&lt;/b&gt; de nuestro servidor de Discord, aquí: &lt;link="https://discord.gg/nfQN9ht"&gt;&lt;color=blue&gt;https://discord.gg/nfQN9ht&lt;/color&gt;&lt;/link&gt;</target>
+        </segment>
+      </unit>
+      <unit id="About.ThirdPartyLabel">
+        <segment state="translated">
+          <source>Third party licence information:</source>
+          <target>Información de licencias de terceros:</target>
+        </segment>
+      </unit>
+      <unit id="About.ThirdPartyText">
+        <segment state="translated">
+          <source>XWVM is made possible by the below components, extensions and products. 
+Full licence information is available in the accompanying LICENSE.TXT file in the XWVM installation directory.
+
+-----
+Unity UI Extensions
+-----
+#Unity UI Extensions License (BSD)#
+Copyright (c) 2015
+
+-----
+Rewired
+-----
+Standard Unity Asset Store EULA
+
+-----
+PrimeTween
+-----
+Standard Unity Asset Store EULA
+
+-----
+gomuiso9660
+-----
+Microsoft Public License (Ms-PL)
+
+-----
+YOGEME
+-----
+Mozilla Public Licence, Version 2.0 
+
+-----
+Graphy
+-----
+The MIT Licence (MIT)
+
+Copyright (c) 2018 Martín Pane
+
+-----
+Font Awesome
+-----
+
+Fonticons, Inc. (https://fontawesome.com)
+
+
+Font Awesome Free License
+
+Font Awesome Free is free, open source, and GPL friendly. You can use it for
+commercial projects, open source projects, or really almost whatever you want.
+Full Font Awesome Free license: https://fontawesome.com/license/free.
+
+
+# Fonts: SIL OFL 1.1 License
+
+In the Font Awesome Free download, the SIL OFL license applies to all icons
+packaged as web and desktop font files.
+
+Copyright (c) 2022 Fonticons, Inc. (https://fontawesome.com)
+with Reserved Font Name: "Font Awesome".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+Atmospheric Shader Source
+Copyright (c) 2017 Eric Bruneton
+Link: https://github.com/ebruneton/precomputed_atmospheric_scattering
+
+LfdReader
+Copyright (C) 2009-2016 Michael Gaisser (mjgaisser@gmail.com)
+Link: https://github.com/MikeG621/LfdReader
+
+ShaderNoise
+Copyright (c) 2011 Stefan Gustavson. All rights reserved.
+Link: https://github.com/stegu/webgl-noise
+
+Doom
+Copyright (C) 1993-1996 Id Software, Inc.
+Copyright (C) 2019-2020 Nobuaki Tanaka
+Link: https://github.com/xabblll/DoomInUnityInspector
+
+CSharpSynth
+Copyright (C) Alex Veltsistas 2014 
+Link: https://github.com/sinshu/CSharpSynthProject
+
+Habrador Computational Geometry
+Erik Nordeus
+Link: https://github.com/Habrador/Computational-geometry
+
+gzdoom.sf2
+Copyright (c) 1998-2023 ZDoom + GZDoom teams, and contributors
+Link: https://github.com/ZDoom/gzdoom</source>
+          <target>XWVM es posible gracias a los componentes, extensiones y productos abajo listados. 
+Para información completa de licencia, el fichero LICENSE.TXT está disponible en el directorio de instalación de XWVM.
+
+-----
+Unity UI Extensions
+-----
+#Unity UI Extensions License (BSD)#
+Copyright (c) 2015
+
+-----
+Rewired
+-----
+Standard Unity Asset Store EULA
+
+-----
+PrimeTween
+-----
+Standard Unity Asset Store EULA
+
+-----
+gomuiso9660
+-----
+Microsoft Public License (Ms-PL)
+
+-----
+YOGEME
+-----
+Mozilla Public Licence, Version 2.0 
+
+-----
+Graphy
+-----
+The MIT Licence (MIT)
+
+Copyright (c) 2018 Martín Pane
+
+-----
+Font Awesome
+-----
+
+Fonticons, Inc. (https://fontawesome.com)
+
+
+Font Awesome Free License
+
+Font Awesome Free is free, open source, and GPL friendly. You can use it for
+commercial projects, open source projects, or really almost whatever you want.
+Full Font Awesome Free license: https://fontawesome.com/license/free.
+
+
+# Fonts: SIL OFL 1.1 License
+
+In the Font Awesome Free download, the SIL OFL license applies to all icons
+packaged as web and desktop font files.
+
+Copyright (c) 2022 Fonticons, Inc. (https://fontawesome.com)
+with Reserved Font Name: "Font Awesome".
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+Atmospheric Shader Source
+Copyright (c) 2017 Eric Bruneton
+Link: https://github.com/ebruneton/precomputed_atmospheric_scattering
+
+LfdReader
+Copyright (C) 2009-2016 Michael Gaisser (mjgaisser@gmail.com)
+Link: https://github.com/MikeG621/LfdReader
+
+ShaderNoise
+Copyright (c) 2011 Stefan Gustavson. All rights reserved.
+Link: https://github.com/stegu/webgl-noise
+
+Doom
+Copyright (C) 1993-1996 Id Software, Inc.
+Copyright (C) 2019-2020 Nobuaki Tanaka
+Link: https://github.com/xabblll/DoomInUnityInspector
+
+CSharpSynth
+Copyright (C) Alex Veltsistas 2014 
+Link: https://github.com/sinshu/CSharpSynthProject
+
+Habrador Computational Geometry
+Erik Nordeus
+Link: https://github.com/Habrador/Computational-geometry
+
+Nuked-OPL3
+Copyright (c) nukeykt, and contributors
+Link: https://github.com/nukeykt/Nuked-OPL3
+C# Port by Guy Newman
+Fork: https://github.com/guy-newman/Nuked-OPL3-Port
+
+gzdoom.sf2
+Copyright (c) 1998-2023 ZDoom + GZDoom teams, and contributors
+Link: https://github.com/ZDoom/gzdoom</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.Header">
+        <segment state="translated">
+          <source>Game</source>
+          <target>Juego</target>
+        </segment>
+      </unit>
+      <unit id="RestartNotification.Label">
+        <segment state="translated">
+          <source>Please note that you will need to restart the game for this change to take effect.</source>
+          <target>Ten en cuenta que el juego deberá reiniciarse para que este cambio surta efecto.</target>
+        </segment>
+      </unit>
+      <unit id="RestartNotification.Button.Text">
+        <segment state="translated">
+          <source>OK</source>
+          <target>Aceptar</target>
+        </segment>
+      </unit>
+      <unit id="DefaultSettings.Header">
+        <segment state="translated">
+          <source>Restore Default Settings</source>
+          <target>Restaurar Ajustes por Defecto</target>
+        </segment>
+      </unit>
+      <unit id="DefaultSettings.Description">
+        <segment state="translated">
+          <source>You can reset &lt;b&gt;all&lt;/b&gt; settings to their defaults by selecting the button below.</source>
+          <target>Puedes restaurar &lt;b&gt;todos&lt;/b&gt; los ajustes a sus valores por defecto pulsando el botón de abajo.</target>
+        </segment>
+      </unit>
+      <unit id="DefaultSettings.Button.Text">
+        <segment state="translated">
+          <source>Restore Default Settings</source>
+          <target>Restaurar Ajustes por Defecto</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.NoGameSelected.Text">
+        <segment state="translated">
+          <source>No game is currently active. 
+
+Start a game from the Game Library to customise its settings.</source>
+          <target>Ningún juego está activo actualmente. 
+
+Inicia un juego desde la Biblioteca de Juegos para personalizar sus ajustes.</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.Header">
+        <segment>
+          <source>Audio</source>
+          <target>Audio</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.VolumeAndSpeakers.Label">
+        <segment state="translated">
+          <source>Volume and Speakers</source>
+          <target>Volumen y Altavoces</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.VolumeAndSpeakers.MusicVolume.Label">
+        <segment state="translated">
+          <source>Music Volume</source>
+          <target>Volumen de la Música</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.VolumeAndSpeakers.SfxVolume.Label">
+        <segment state="translated">
+          <source>SFX Volume</source>
+          <target>Volumen de los Efectos</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.VolumeAndSpeakers.EngineVolume.Label">
+        <segment state="translated">
+          <source>Engine Volume</source>
+          <target>Volumen de los Motores</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.VolumeAndSpeakers.VoiceVolume.Label">
+        <segment state="translated">
+          <source>Voice Volume</source>
+          <target>Volumen de las Voces</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.VolumeAndSpeakers.Speakers.Label">
+        <segment state="translated">
+          <source>Speakers</source>
+          <target>Altavoces</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.SubtitlesAndLanguage.Label">
+        <segment state="translated">
+          <source>Subtitles and Language</source>
+          <target>Subtítulos e Idioma</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.SubtitlesAndLanguage.Subtitles.Label">
+        <segment state="translated">
+          <source>Subtitles</source>
+          <target>Subtítulos</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.SubtitlesAndLanguage.Language.Label">
+        <segment state="translated">
+          <source>Language</source>
+          <target>Idioma</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.MusicSource.Label">
+        <segment state="translated">
+          <source>Music Source</source>
+          <target>Origen de la Música</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.MusicSource.MusicSource.Label">
+        <segment state="translated">
+          <source>Music Source</source>
+          <target>Origen de la Música</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.MusicSource.MIDIFormat.Label">
+        <segment state="translated">
+          <source>MIDI Synth Format</source>
+          <target>Formato de Sintetizado MIDI</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.MusicSource.UseSoundfont.Label">
+        <segment state="translated">
+          <source>Use External SoundFont (sf2 or sfz)</source>
+          <target>Utilizar SoundFont Externa (sf2 o sfz)</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.MusicSource.SoundfontTest.Button.Text">
+        <segment state="translated">
+          <source>Test</source>
+          <target>Probar</target>
+        </segment>
+      </unit>
+      <unit id="WindowTitle">
+        <segment state="translated">
+          <source>Settings	</source>
+          <target>Ajustes	</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.Header">
+        <segment state="translated">
+          <source>Display and Video</source>
+          <target>Presentación y Gráficos</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.Memory.VideoMemory.Label">
+        <segment state="translated">
+          <source>Video Memory: &lt;b&gt;({used}/{available} GB)&lt;/b&gt;</source>
+          <target>Memoria de Vídeo: &lt;b&gt;({used}/{available} GB)&lt;/b&gt;</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.Memory.SystemMemory.Label">
+        <segment state="translated">
+          <source>System Memory: &lt;b&gt;({used}/{available} GB)&lt;/b&gt;</source>
+          <target>Memoria del Sistema: &lt;b&gt;({used}/{available} GB)&lt;/b&gt;</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettingsType.2D">
+        <segment state="translated">
+          <source>2D Visual Settings (Normal, TrackIR modes)</source>
+          <target>Ajustes Visuales en 2D (modos Normal o TrackIR)</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettingsType.VR">
+        <segment state="translated">
+          <source>VR Visual Settings</source>
+          <target>Ajustes Visuales en RV</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Label">
+        <segment state="translated">
+          <source>Resolution and Rendering</source>
+          <target>Resolución y Renderizado</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Resolution.Label">
+        <segment state="translated">
+          <source>Resolution</source>
+          <target>Resolución</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Fullscreen.Label">
+        <segment state="translated">
+          <source>Full screen</source>
+          <target>Pantalla completa</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.VSync.Label">
+        <segment>
+          <source>VSync</source>
+          <target>VSync</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.Label">
+        <segment state="translated">
+          <source>Dynamic Resolution</source>
+          <target>Resolución Dinámica</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.STPQuality.Label">
+        <segment state="translated">
+          <source>STP Quality</source>
+          <target>Calidad STP</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.DLSSQuality.Label">
+        <segment state="translated">
+          <source>DLSS Quality</source>
+          <target>Calidad DLSS</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.LimitFrames.Label">
+        <segment state="translated">
+          <source>Limit Frame Rate</source>
+          <target>Limitar Tasa de Refresco</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualQuality.Label">
+        <segment state="translated">
+          <source>Visual Quality</source>
+          <target>Calidad Gráfica</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualQuality.QualityMode.Label">
+        <segment state="translated">
+          <source>Quality</source>
+          <target>Calidad</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualQuality.MSAA.Label">
+        <segment state="translated">
+          <source>Multi-Sample Anti-Aliasing</source>
+          <target>Suavizado Multi-Muestra (MSAA)</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualQuality.PostProcessingAA.Label">
+        <segment state="translated">
+          <source>Post Process Anti-Aliasing</source>
+          <target>Suavizado por Postprocesado</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualQuality.TextureLimit.Label">
+        <segment state="translated">
+          <source>Texture Limit</source>
+          <target>Límite de Textura</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowCascades.Label">
+        <segment state="translated">
+          <source>Sun Shadow Cascades</source>
+          <target>Cascadas de Sombras de Soles</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowQuality.Label">
+        <segment state="translated">
+          <source>Sun Shadow Quality</source>
+          <target>Calidad de Sombras de Soles</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualQuality.CockpitReflections.Label">
+        <segment state="translated">
+          <source>Cockpit Reflections</source>
+          <target>Reflejos en la Cabina</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualPreferences.Label">
+        <segment state="translated">
+          <source>Visual Preferences</source>
+          <target>Preferencias Visuales</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualPreferences.Grain.Label">
+        <segment state="translated">
+          <source>Grain</source>
+          <target>Grano tipo Celuloide</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualPreferences.Vignette.Label">
+        <segment state="translated">
+          <source>Vignette</source>
+          <target>Oscurecer Esquinas</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualPreferences.SpaceDebris.Label">
+        <segment state="translated">
+          <source>Space Debris</source>
+          <target>Partículas Espaciales</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualPreferences.Bloom.Label">
+        <segment state="translated">
+          <source>Bloom</source>
+          <target>Resplandor (Bloom)</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualPreferences.HUDOpacity.Label">
+        <segment state="translated">
+          <source>HUD Opacity</source>
+          <target>Opacidad del Punto de Mira</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.Brightness.Label">
+        <segment state="translated">
+          <source>Brightness</source>
+          <target>Brillo</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessCalibration.Label">
+        <segment state="translated">
+          <source>Brightness Calibration</source>
+          <target>Calibrado de Brillo</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessLiftAdjust.Label">
+        <segment state="translated">
+          <source>Brightness Lift Adjustment</source>
+          <target>Compensación de Negros</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGammaAdjust.Label">
+        <segment state="translated">
+          <source>Brightness Gamma Adjustment</source>
+          <target>Ajuste Gamma</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGainAdjust.Label">
+        <segment state="translated">
+          <source>Brightness Gain Adjustment</source>
+          <target>Ajuste de Brillo Máximo</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Camera.Label">
+        <segment state="translated">
+          <source>Camera and FOV</source>
+          <target>Cámara y Campo de Visión</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Camera.CameraMode.Label">
+        <segment state="translated">
+          <source>Camera Mode</source>
+          <target>Modo de Cámara</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Camera.CustomFOV.Label">
+        <segment state="translated">
+          <source>Custom FOV</source>
+          <target>Campo de Visión Personalizado</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Camera.FOVSlider.Label">
+        <segment state="translated">
+          <source>Field of view</source>
+          <target>Campo de Visión</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Camera.FOVModifierStep.Label">
+        <segment state="translated">
+          <source>FOV Modifier Step</source>
+          <target>Incremento Modificador CdV</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Camera.FOVModifierMax.Label">
+        <segment state="translated">
+          <source>FOV Modifier Max</source>
+          <target>Máximo Modificador CdV</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Astronomical.Label">
+        <segment state="translated">
+          <source>Astronomical objects</source>
+          <target>Objetos Astronómicos</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Astronomical.StarSizeMultiplier.Label">
+        <segment state="translated">
+          <source>Star Size Multiplier</source>
+          <target>Multiplicador del Tamaño de Estrellas</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Astronomical.PlanetSizeMultiplier.Label">
+        <segment state="translated">
+          <source>Planet Size Multiplier</source>
+          <target>Multiplicador del Tamaño de Planetas</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Headbobbing.Label">
+        <segment state="translated">
+          <source>Headbobbing</source>
+          <target>Balanceo Inercial de Cabeza</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Headbobbing.HeadbobbingOffset.Label">
+        <segment state="translated">
+          <source>Inertial headbobbing - Panning</source>
+          <target>Balanceo Inercia de Cabeza - Desplazamiento</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Headbobbing.HeadbobbingCompensation.Label">
+        <segment state="translated">
+          <source>Inertial headbobbing - Eye Compensation</source>
+          <target>Balanceo Inercial de Cabeza - Compensación Ocular</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.Label">
+        <segment>
+          <source>TrackIR</source>
+          <target>TrackIR</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.SampleFiltering.Label">
+        <segment state="translated">
+          <source>Sample filtering count</source>
+          <target>Cantidad de muestras filtradas</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.LeftRightLimit.Label">
+        <segment state="translated">
+          <source>Left/Right movement limit (meters)</source>
+          <target>Límite al Movimiento Izquierda/Derecha (metros)</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.InvertX.Label">
+        <segment state="translated">
+          <source>Invert Left/Right axis</source>
+          <target>Invertir Eje Izquierda/Derecha</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.UpDownLimit.Label">
+        <segment state="translated">
+          <source>Up/Down movement limit (meters)</source>
+          <target>Límite al Movimiento Arriba/Abajo (metros)</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.InvertY.Label">
+        <segment state="translated">
+          <source>Invert Up/Down axis</source>
+          <target>Invertir Eje Arriba/Abajo</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.ForwardBackward.Label">
+        <segment state="translated">
+          <source>Foward/Backward movement limit (meters)</source>
+          <target>Límite al Movimiento Adelante/Atrás (metros)</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.InvertZ.Label">
+        <segment state="translated">
+          <source>Invert Forward/Backward axis</source>
+          <target>Invertir Eje Adelante/Atrás</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.PitchLimit.Label">
+        <segment state="translated">
+          <source>Pitch limit (degrees)</source>
+          <target>Límite al Cabeceo (grados)</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.InvertPitch.Label">
+        <segment state="translated">
+          <source>Invert Pitch axis</source>
+          <target>Invertir Eje de Cabeceo</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.YawLimit.Label">
+        <segment state="translated">
+          <source>Yaw limit (degrees)</source>
+          <target>Límite al Guiñada (grados)</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.InvertYaw.Label">
+        <segment state="translated">
+          <source>Invert Yaw axis</source>
+          <target>Invertir Eje de Guiñada</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.RollLimit.Label">
+        <segment state="translated">
+          <source>Roll limit (degrees)</source>
+          <target>Límite de Alabeo (grados)</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.InvertRoll.Label">
+        <segment state="translated">
+          <source>Invert Roll axis</source>
+          <target>Invertir Eje de Alabeo</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.PositionMultiplier.Label">
+        <segment state="translated">
+          <source>Position Multiplier</source>
+          <target>Multiplicador de Posición</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.TrackIR.RotationMultiplier.Label">
+        <segment state="translated">
+          <source>Rotation Multiplier</source>
+          <target>Multiplicador de Rotación</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControlsSection.Label">
+        <segment state="translated">
+          <source>Controls</source>
+          <target>Controles</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControlsSection.GameControls.Label">
+        <segment state="translated">
+          <source>Game Controls</source>
+          <target>Controles del Juego</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControlsSection.GameControls.Button.Label">
+        <segment state="translated">
+          <source>Remap Game Controls</source>
+          <target>Re-asignar Controles del Juego</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.MouseSection.Label">
+        <segment state="translated">
+          <source>Mouse</source>
+          <target>Ratón</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.MouseSection.MouseSensitivity.Label">
+        <segment state="translated">
+          <source>Mouse Sensitivity</source>
+          <target>Sensibilidad del Ratón</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.MouseSection.MouseControl.Label">
+        <segment state="translated">
+          <source>Mouse Control</source>
+          <target>Control del Ratón</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.MouseSection.SoftwareCursor.Label">
+        <segment state="translated">
+          <source>Software Cursor</source>
+          <target>Cursor Software</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControllerSection.Label">
+        <segment state="translated">
+          <source>Controllers</source>
+          <target>Dispositivos de Control</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControllerSection.HyperspaceThrottle.Label">
+        <segment state="translated">
+          <source>Hyperspace Throttle Mode</source>
+          <target>Modo de Acelerador para Hiperespacio</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControllerSection.HyperspaceThrottleThreshold.Label">
+        <segment state="translated">
+          <source>Hyperspace Throttle Engage Threshold</source>
+          <target>Umbral de Activación de Acelerador para Hiperespacio</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControllerSection.Vibration.Label">
+        <segment state="translated">
+          <source>Vibration</source>
+          <target>Vibración</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControllerSection.VibrationStrength.Label">
+        <segment state="translated">
+          <source>Vibration Strength</source>
+          <target>Fuerza de la Vibración</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameLibrary.Button.Label">
+        <segment state="translated">
+          <source>Game Library</source>
+          <target>Biblioteca de Juegos</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsBar.Text">
+        <segment state="translated">
+          <source>Cheat settings enabled. Progression will be affected.</source>
+          <target>Trampas activadas. El progreso se verá afectado.</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsSection.Label">
+        <segment state="translated">
+          <source>Cheats</source>
+          <target>Trampas</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsSection.Collisions.Label">
+        <segment state="translated">
+          <source>Disable Collisions &lt;color=red&gt;*&lt;/color&gt;</source>
+          <target>Desactivar colisiones &lt;color=red&gt;*&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Label">
+        <segment state="translated">
+          <source>Unlimited Weapons &lt;color=red&gt;*&lt;/color&gt;</source>
+          <target>Armas Ilimitadas &lt;color=red&gt;*&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsSection.Invulnerability.Label">
+        <segment state="translated">
+          <source>Invulnerability &lt;color=red&gt;*&lt;/color&gt;</source>
+          <target>Invulnerabilidad &lt;color=red&gt;*&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.ModelsAndDetailSection.Label">
+        <segment state="translated">
+          <source>Models and Detail</source>
+          <target>Modelos y Detalle</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.ModelsAndDetailSection.Models.Label">
+        <segment state="translated">
+          <source>Ship Models
+(requires restart)</source>
+          <target>Modelos de las Naves
+(requiere reinicio)</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.ModelsAndDetailSection.DeathStarSurfaceDetail.Label">
+        <segment state="translated">
+          <source>Death Star Surface Detail</source>
+          <target>Detalle de la Superficie de la Estrella de la Muerte</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.ModelsAndDetailSection.DeathStarTrenchDetail.Label">
+        <segment state="translated">
+          <source>Death Star Trench Detail</source>
+          <target>Detalle de la Trinchera de la Estrella de la Muerte</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.Label">
+        <segment state="translated">
+          <source>Gameplay Preferences</source>
+          <target>Preferencias de Jugabilidad</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.ContentType.Label">
+        <segment state="translated">
+          <source>Preferred Content</source>
+          <target>Contenido Preferido</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.CMDType.Label">
+        <segment state="translated">
+          <source>CMD Type</source>
+          <target>Tipo de Computador de Objetivos</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.LockWarning.Label">
+        <segment state="translated">
+          <source>Warhead Lock Warning Sound</source>
+          <target>Advertencia Sonora de Ojiva Fijada</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.ScopeIcons.Label">
+        <segment state="translated">
+          <source>Icons on Scopes</source>
+          <target>Iconos en los Radares</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.Outline.Label">
+        <segment state="translated">
+          <source>Selection Outline</source>
+          <target>Contorno de Selección</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.Cutscenes.Label">
+        <segment state="translated">
+          <source>Play Transitions</source>
+          <target>Reproducir Transiciones</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.BlinkThreat.Label">
+        <segment state="translated">
+          <source>Blinking Threat Indicators</source>
+          <target>Indicadores de Amenaza Parpadeantes</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.ExteriorHUD.Label">
+        <segment state="translated">
+          <source>Show Exterior HUD</source>
+          <target>Mostrar Punto de Mira en Vista Exterior</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.ProjectileLimit.Label">
+        <segment state="translated">
+          <source>AI Projectile Limit</source>
+          <target>Límite a los Proyectiles de la IA</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.RandomSpecial.Label">
+        <segment state="translated">
+          <source>Randomize Special Craft</source>
+          <target>Aleatorizar Nave Especial</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.LaserMultiplier.Label">
+        <segment state="translated">
+          <source>Player Laser Cinematic Multiplier</source>
+          <target>Multiplicador para Láseres Peliculeros del Jugador</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.ProgressHeader">
+        <segment state="translated">
+          <source>{game:Achievement Progress: {game}|Achievement Progress}</source>
+          <target>{game:Achievement Progress: {game}|Progreso de Logros}</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.ProgressText">
+        <segment state="translated">
+          <source>{unlocked}/{total} Achievements Unlocked</source>
+          <target>{unlocked}/{total} Logros Desbloqueados</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.UnlockedAchievementsHeader.Text">
+        <segment state="translated">
+          <source>Unlocked Achievements</source>
+          <target>Logros Desbloqueados</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.UnlockedAchievements.NoUnlockedAchievements.Text">
+        <segment state="translated">
+          <source>No unlocked achievements available.</source>
+          <target>No hay logros desbloqueados disponibles.</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.LockedAchievementsHeader.Text">
+        <segment state="translated">
+          <source>Locked Achievements</source>
+          <target>Logros Bloqueados</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.LockedAchievements.NoLockedAchievements.Text">
+        <segment state="translated">
+          <source>No locked achievements available.</source>
+          <target>No hay logros bloqueados disponibles.</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsSection.Collisions.Tooltip.Title">
+        <segment state="translated">
+          <source>Disable Collisions</source>
+          <target>Desactivar Colisiones</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsSection.Collisions.Tooltip.Content">
+        <segment state="translated">
+          <source>Toggle player collisions with other craft.
+&lt;b&gt;Counts as cheating.&lt;/b&gt;</source>
+          <target>Activa/desactiva las colisiones del jugador con otras naves.
+&lt;b&gt;Cuenta como hacer trampas.&lt;/b&gt;</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Tooltip.Content">
+        <segment state="translated">
+          <source>Toggle unlimited player weapons.
+&lt;b&gt;Counts as cheating.&lt;/b&gt;</source>
+          <target>Activa/desactiva armamento infinito para el jugador.
+&lt;b&gt;Cuenta como hacer trampas.&lt;/b&gt;</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Tooltip.Title">
+        <segment state="translated">
+          <source>Unlimited Weapons</source>
+          <target>Armamento Ilimitado</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CheatsSection.UnlockedArmoury.Label">
+        <segment state="translated">
+          <source>Unlocked Armoury &lt;color=red&gt;*&lt;/color&gt;</source>
+          <target>Arsenal Desbloqueado &lt;color=red&gt;*&lt;/color&gt;</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualQuality.EnableVolumetrics.Label">
+        <segment state="translated">
+          <source>Volumetric Lighting</source>
+          <target>Iluminación Volumétrica</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.DifficultySection.BalancedEnergyTransfer.Label">
+        <segment state="translated">
+          <source>Balanced Laser/Shield Energy Transfer Rate</source>
+          <target>Equilibrado de la Transferencia de Energía entre Láseres y Escudos</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.DifficultySection.RemoveEnemyFirepowerDebuff.Label">
+        <segment state="translated">
+          <source>Remove Enemy Firepower Debuff</source>
+          <target>Eliminar Reducción de Potencia de Fuego Enemiga</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.DifficultySection.PromoteEnemyAiRank.Label">
+        <segment state="translated">
+          <source>Promote Enemy AI Rank</source>
+          <target>Aumentar Veteranía de la IA Enemiga</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.DifficultySection.PromoteEnemyShipTypes.Label">
+        <segment state="translated">
+          <source>Promote Enemy Ship Types</source>
+          <target>Mejorar los Tipos de Nave del Enemigo</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.Difficulty.Label">
+        <segment state="translated">
+          <source>Extra Difficulty</source>
+          <target>Dificultad Adicional</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Camera.UsePaniniProjection.Label">
+        <segment state="translated">
+          <source>Use Panini Projection</source>
+          <target>Utilizar Proyección Panini</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Camera.PaniniDistance.Label">
+        <segment state="translated">
+          <source>Panini Distance</source>
+          <target>Distancia Panini</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.FullscreenMode.Label">
+        <segment state="translated">
+          <source>Use Exclusive Fullscreen Mode</source>
+          <target>Modo Pantalla Completa Exclusivo</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.GameSummary.ProgressText">
+        <segment state="translated">
+          <source>{unlocked} of {total} achievements unlocked</source>
+          <target>{unlocked} de {total} logros desbloqueados</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.GameListButton">
+        <segment state="translated">
+          <source>Game List</source>
+          <target>Lista de Juegos</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.GameListHeading">
+        <segment state="translated">
+          <source>Games with Unlocked Achievements</source>
+          <target>Juegos con Logros Desbloqueados</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Progress.GameList.NoGameAchievementsAvailable">
+        <segment state="translated">
+          <source>No games with current achievements are available.
+You may need to install games via the Game Library, or achievements may not be supported for the current game(s).</source>
+          <target>No hay juegos disponibles con logros en marcha.
+Tal vez debas instalar juegos a través de la Biblioteca de Juegos, o es posible que no haya logros soportados para los juegos actuales.</target>
+        </segment>
+      </unit>
+      <unit id="Achievements.Settings.ShowAchievementNotificationsLabel">
+        <segment state="translated">
+          <source>Show Achievement Notifications</source>
+          <target>Mostrar Notificaciones de Logros</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.FacingAssistPrecision.Label">
+        <segment state="translated">
+          <source>Facing Assist Precision</source>
+          <target>Precisión de la Asistencia de Dirección</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControllerSection.VRGazeCursor.Label">
+        <segment state="translated">
+          <source>VR Gaze Cursor</source>
+          <target>Cursor de Mirada RV</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.Models.HighDef">
+        <segment state="translated">
+          <source>High Definition</source>
+          <target>Alta Definición</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.Models.ClassicUntextured">
+        <segment state="translated">
+          <source>Classic Untextured (DOS)</source>
+          <target>Clásicos Sin Texturas (DOS)</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.Models.ClassicTextured">
+        <segment state="translated">
+          <source>Classic Textured (Windows)</source>
+          <target>Clásicos Con Texturas (Windows)</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.AudioDucking.Label">
+        <segment state="translated">
+          <source>Auto Ducking</source>
+          <target>Atenuación automática</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.CraftLimit.Label">
+        <segment state="translated">
+          <source>Craft Limit</source>
+          <target>Límite al Número de Naves</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.SeasonalContent.Label">
+        <segment state="translated">
+          <source>Use Seasonal Content</source>
+          <target>Utilizar Contenido de Temporada</target>
+        </segment>
+      </unit>
+      <unit id="EnableDithering">
+        <segment state="translated">
+          <source>Enable Dithering</source>
+          <target>Activar Tramado (Dithering)</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.WeaponConvergence.Label">
+        <segment state="translated">
+          <source>Weapon Convergence</source>
+          <target>Convergencia de Armamento</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.MusicSource.MIDIDriver.Label">
+        <segment state="translated">
+          <source>MIDI Driver</source>
+          <target>Controlador MIDI</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.MusicSource.MIDIDevice.Label">
+        <segment state="translated">
+          <source>MIDI Device</source>
+          <target>Dispositivo MIDI</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.HideTargetSelectionBrackets.Label">
+        <segment state="translated">
+          <source>Hide Target Selection Brackets</source>
+          <target>Ocultar los Corchetes de Selección de Blanco</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.MusicThemeTweaks.Label">
+        <segment state="translated">
+          <source>Musical Theme Tweaks</source>
+          <target>Reajustes a los Temas Musicales</target>
+        </segment>
+      </unit>
+      <unit id="New Entry">
+        <segment state="translated">
+          <source>VR Controls</source>
+          <target>Controles de RV</target>
+        </segment>
+      </unit>
+      <unit id="AudioSettings.VolumeAndSpeakers.MasterVolume.Label">
+        <segment state="translated">
+          <source>Master Volume</source>
+          <target>Volumen Maestro</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.ThrottleIncreaseStep.Label">
+        <segment state="translated">
+          <source>Throttle Increase/Decrease Step</source>
+          <target>Incremento/Decremento del Acelerador</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.NewInputSystemBinding.Binding.GazeCursorSelect.Label">
+        <segment state="translated">
+          <source>Gaze Cursor Select</source>
+          <target>Selección Cursor de Mirada</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControlsSection.VRControls.Button.Label">
+        <segment state="translated">
+          <source>Remap VR Controls</source>
+          <target>Reasignar Controles RV</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControlsSection.VRControls.ResetButton.Label">
+        <segment state="translated">
+          <source>Reset</source>
+          <target>Restablecer</target>
+        </segment>
+      </unit>
+      <unit id="ControlSettings.ControlsSection.VRHandControls.Button.Label">
+        <segment state="translated">
+          <source>Allow VR Hand Controls when Gaze Cursor in use</source>
+          <target>Permitir Controles de Mano en RV cuando el Cursor de Mirada está en uso</target>
+        </segment>
+      </unit>
+      <unit id="TelemetrySettings.EnableTelemetryToggle.Label">
+        <segment state="translated">
+          <source>Enable Telemetry Broadcasting</source>
+          <target>Activar la Emisión de Telemetría</target>
+        </segment>
+      </unit>
+      <unit id="MainOptions.Telemetry">
+        <segment state="translated">
+          <source>Telemetry</source>
+          <target>Telemetría</target>
+        </segment>
+      </unit>
+      <unit id="TelemetrySettings.BroadcastAddress">
+        <segment state="translated">
+          <source>Broadcast Address</source>
+          <target>Dirección de Emisión</target>
+        </segment>
+      </unit>
+      <unit id="TelemetrySettings.BroadcastPort">
+        <segment state="translated">
+          <source>Broadcast Port</source>
+          <target>Puerto de Emisión</target>
+        </segment>
+      </unit>
+      <unit id="TelemetrySettings.BroadcastInterval">
+        <segment state="translated">
+          <source>Broadcast Interval</source>
+          <target>Intervalo de Emisión</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.DropWhenNoSelectionAhead.Label">
+        <segment state="translated">
+          <source>Drop Target When Nothing in Front to Be Targeted</source>
+          <target>Deseleccionar Blanco Cuando No Hay Nada Delante a Seleccionar</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.IonDamageMitigation.Label">
+        <segment state="translated">
+          <source>Ion Damage Mitigation by Ship's Armor</source>
+          <target>Reducción de Daño por Iones por el Blindaje de la Nave</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.Targeting.Label">
+        <segment state="translated">
+          <source>Targeting</source>
+          <target>Selección de Blancos</target>
+        </segment>
+      </unit>
+      <unit id="CameraSettings.SelectTargetAheadConeWidth.Label">
+        <segment state="translated">
+          <source>Select Target Ahead Cone Width</source>
+          <target>Seleccionar el Blanco Enfrente - Ancho del Cono</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.CrossLinkedWeapons.Label">
+        <segment state="translated">
+          <source>Allow Cross-Linked Weapons</source>
+          <target>Permitir Vinculación Cruzada de Armas</target>
+        </segment>
+      </unit>
+      <unit id="TelemetrySettings.TelemetryFormat.Label">
+        <segment state="translated">
+          <source>Format</source>
+          <target>Formato</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.VirtualMFDScaling.Label">
+        <segment state="translated">
+          <source>Virtual MFDs scaling factor</source>
+          <target>Factor de Escalado de Pantallas Multifunción</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.VirtualCMDScaling.Label">
+        <segment state="translated">
+          <source>Virtual CMD scaling factor</source>
+          <target>Factor de Escalado de Pantalla Central</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.HomingWarning.Label">
+        <segment state="translated">
+          <source>Warhead Homing Warning Sound</source>
+          <target>Aviso Acústico de Rastreo de Ojivas</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.CriticalAnnouncements.Label">
+        <segment state="translated">
+          <source>Mission Critical Craft Announcements</source>
+          <target>Anuncios de Nave Crítica de Misión</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.AnnounceFriendlies.Label">
+        <segment state="translated">
+          <source>Announce friendlies</source>
+          <target>Anunciar los Amistosos</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.AnnounceNeutrals.Label">
+        <segment state="translated">
+          <source>Announce neutrals</source>
+          <target>Anunciar los Neutrales</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.AnnounceHostiles.Label">
+        <segment state="translated">
+          <source>Announce hostiles</source>
+          <target>Anunciar los Hostiles</target>
+        </segment>
+      </unit>
+      <unit id="GameSettings.GameplayPrefs.AnnouncementInterval.Label">
+        <segment state="translated">
+          <source>Minimum interval between status announcements</source>
+          <target>Intervalo Mínimo entre Anuncios de Estado</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitles.Label">
+        <segment state="translated">
+          <source>Display cockpit interaction subtitles</source>
+          <target>Mostrar Subtítulos para Interacciones de Cabina</target>
+        </segment>
+      </unit>
+      <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitlesAltFont.Label">
+        <segment state="translated">
+          <source>Use a different typography for interaction subtitles</source>
+          <target>Utilizar Tipografía Distinta para Subtítulos de Interacción</target>
+        </segment>
+      </unit>    
+      <unit id="DisplaySettings.VisualSettings.FramerateWarning.Label">
+        <segment state="translated">
+          <source>WARNING: Disabling both VSync and Limit Frame Rate at the same time might cause instability and crashes.</source>
+          <target>ATENCIÓN: Desactivar tanto VSync como Limitar Tasa de Refresco a la misma vez puede causar inestabilidad y cierres inesperados.</target>
+        </segment>
+      </unit>    
+	  <unit id="AudioSettings.SubtitlesAndLanguage.Export.Label">
+        <segment state="translated">
+          <source>Export Original Game Strings</source>
+          <target>Exportar Cadenas de Texto Originales del Juego</target>
+        </segment>
+      </unit>
+
+    <unit id="GameSettings.Header.TooltipTitle">
+      <segment>
+        <source>Game Library</source>
+        <target>Biblioteca de Juegos</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.Header.TooltipContent">
+      <segment>
+        <source>To make any changes or change the current game, select the Game Library button to leave the game and go to the Game Library.
+
+[[This will end the current game session. Unsaved progress will be lost.]]</source>
+        <target>Para realizar cambios o cambiar de juego activo, pulsa el botón de la Biblioteca de Juegos para abandonar el juego e ir a la Biblioteca de Juegos.
+
+[[Esto finalizará la sesión en progreso. Los cambios no guardados se perderán.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.ModelsAndDetailSection.Models.TooltipTitle">
+      <segment>
+        <source>Ship Models</source>
+        <target>Modelos de Naves</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.ModelsAndDetailSection.Models.TooltipContent">
+      <segment>
+        <source>Select the type of ship models used in-game (where available).
+[[This setting is not available while in flight.]]
+[[Some model types may affect performance.]]</source>
+        <target>Escoge el tipo de modelos de naves a ser utilizados por el juego (si están disponibles).
+[[Este ajuste no está disponible durante el vuelo.]]
+[[Algunos tipos de modelos pueden afectar al rendimiento.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.ModelsAndDetailSection.DeathStarSurfaceDetail.TooltipTitle">
+      <segment>
+        <source>Death Star Surface Detail</source>
+        <target>Detalles de Superficie de la Estrella de la Muerte</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.ModelsAndDetailSection.DeathStarSurfaceDetail.TooltipContent">
+      <segment>
+        <source>Object clutter amount in Death Star surface.</source>
+        <target>Cantidad de objetos desperdigados sobre la superficie de la Estrella de la Muerte.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.ModelsAndDetailSection.DeathStarTrenchDetail.TooltipTitle">
+      <segment>
+        <source>Death Star Trench Detail</source>
+        <target>Detalles de Trinchera de la Estrella de la Muerte</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.ModelsAndDetailSection.DeathStarTrenchDetail.TooltipContent">
+      <segment>
+        <source>Object clutter amount in Death Star trench.</source>
+        <target>Cantidad de objetos desperdigados en la trinchera de la Estrella de la Muerte.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ContentType.TooltipTitle">
+      <segment state="translated">
+        <source>Preferred Content</source>
+        <target>Contenido Preferido</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ContentType.TooltipContent">
+      <segment state="translated">
+        <source>Select the type of content to favour in-game.
+[[Classic]] will favour the original game content for characters and dialogue.
+[[XWVM Remastered]] will favour new characters and dialogue, such as the registration droid.</source>
+        <target>Escoge el tipo de contenido que se prefiere durante el juego.
+[[Clásico]] favorece el contenido original del juego para personajes y diálogo.
+[[Remasterizado por XWVM]] favorecerá nuevos personajes y diálogos, tales como el droide de registro.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.CMDType.TooltipTitle">
+      <segment state="translated">
+        <source>CMD Type</source>
+        <target>Tipo de Computador de Objetivos</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.CMDType.TooltipContent">
+      <segment state="translated">
+        <source>Select the type of CMD display shown. 
+[[Classic Graph]] is similar to the original X-Wing display, and does not display absolute values or order information. 
+[[TIE Fighter]] uses a display similar to TIE Fighter and later games.
+[[Classic Hybrid]] combines both styles.</source>
+        <target>Escoge el tipo de Computador de Objetivos que se mostrará.
+[[Barras Clásicas]] es similar a la pantalla original de X-wing, y no muestra valores absolutos o información de órdenes.
+[[TIE Fighter]] utiliza una pantalla similar a la de TIE Fighter y juegos posteriores.
+[[Híbrido Clásico]] combina ambos estilos.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.WeaponConvergence.TooltipTitle">
+      <segment state="translated">
+        <source>Weapon Convergence</source>
+        <target>Convergencia de Armamento</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.WeaponConvergence.TooltipContent">
+      <segment state="translated">
+        <source>Select the type of weapon convergence. 
+[[None]]: No weapon convergence. 
+[[Bullseye]]: Energy weapons converge on the target when the center of the HUD is aiming at the target lead.</source>
+        <target>Escoge el tipo de convergencia de armas.
+[[Ninguna]]: Sin convergencia de armas.
+[[Diana]]: Las armas de energía convergen sobre el objetivo cuando el centro de la mira apunta a donde el objetivo va a estar.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.CrossLinkedWeapons.TooltipTitle">
+      <segment state="translated">
+        <source>Allow Cross-linked Weapons</source>
+        <target>Permitir Entrelazado Cruzado de Armas</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.CrossLinkedWeapons.TooltipContent">
+      <segment state="translated">
+        <source>Ships with multiple energy cannon types can fire all of them at the same time as an additional linked-fire mode.</source>
+        <target>Naves con múltiples tipos de cañones de energía pueden disparar todos ellos a la vez como un modo adicional de fuego entrelazado.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.LockWarning.TooltipTitle">
+      <segment state="translated">
+        <source>Warhead Lock Warning Sound</source>
+        <target>Advertencia Sonora de Ojiva Fijada</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.LockWarning.TooltipContent">
+      <segment state="translated">
+        <source>Play a beeping sound when enemies are locking your ship.</source>
+        <target>Reproduce un bip intermitente cuando los enemigos están fijando tu nave.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.HomingWarning.TooltipTitle">
+      <segment state="translated">
+        <source>Warhead Homing Warning Sound</source>
+        <target>Aviso Acústico de Rastreo de Ojivas</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.HomingWarning.TooltipContent">
+      <segment state="translated">
+        <source>Play a warning sound while a warhead is homing onto your ship.</source>
+        <target>Reproduce un bip intermitente cuando una ojiva está rastreando tu nave.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ScopeIcons.TooltipTitle">
+      <segment state="translated">
+        <source>Icons on Scopes</source>
+        <target>Iconos en los Radares</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ScopeIcons.TooltipContent">
+      <segment state="translated">
+        <source>When enabled, contacts on the radar scopes are represented by ship icons, rather than dots.</source>
+        <target>Al activarlo, los contactos en los radares son representados por iconos en lugar de puntos.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.Outline.TooltipTitle">
+      <segment state="translated">
+        <source>Selection Outline</source>
+        <target>Contorno de Selección</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.Outline.TooltipContent">
+      <segment state="translated">
+        <source>When enabled, the targeted ship is shown with a highlighted outline.</source>
+        <target>Al activarlo, la nave seleccionada se muestra con un contorno resaltado.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.Cutscenes.TooltipTitle">
+      <segment state="translated">
+        <source>Play Transitions</source>
+        <target>Reproducir Transiciones</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.Cutscenes.TooltipContent">
+      <segment state="translated">
+        <source>Play the transition cutscenes.
+Other cutscenes (campaign events, medals, etc.) will still play.</source>
+        <target>Reproduce las escenas de transición.
+Otras escenas (eventos de campaña, medallas, etc.) siempre se reproducen.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.BlinkThreat.TooltipTitle">
+      <segment state="translated">
+        <source>Blinking Theat Indicators</source>
+        <target>Indicadores de Amenaza Parpadeantes</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.BlinkThreat.TooltipContent">
+      <segment state="translated">
+        <source>Laser and turret threat indicators will blink.</source>
+        <target>Los indicadores de amenaza de láseres y torretas parpadearán.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ExteriorHUD.TooltipTitle">
+      <segment state="translated">
+        <source>Show Exterior HUD</source>
+        <target>Mostrar Punto de Mira en Vista Exterior</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ExteriorHUD.TooltipContent">
+      <segment state="translated">
+        <source>Display the targeting reticle while the exterior camera is on.</source>
+        <target>Muestra la mirilla de apuntado mientras la cámara exterior está activa.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.HideTargetSelectionBrackets.TooltipTitle">
+      <segment state="translated">
+        <source>Hide Target Selection Brackets</source>
+        <target>Ocultar los Corchetes de Selección de Blanco</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.HideTargetSelectionBrackets.TooltipContent">
+      <segment state="translated">
+        <source>Hides the selections brackets UI indicator that appear around a target when it is selected.
+Some players prefer hiding this UI indicator for extra immersion.</source>
+        <target>Oculta el recuadro indicador de la interfaz que aparece alrededor de un objetivo cuando está seleccionado.
+Algunos jugadores prefieren ocultar este indicador de la interfaz para mayor inmersión.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.DropWhenNoSelectionAhead.TooltipTitle">
+      <segment state="translated">
+        <source>Drop Target When Nothing in Front to Be Targeted</source>
+        <target>Deseleccionar Objetivo Cuando No Hay Nada Enfrente a Seleccionar</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.DropWhenNoSelectionAhead.TooltipContent">
+      <segment state="translated">
+        <source>If this setting is active, when using the "Select Target In Front" action, if there is nothing to target, the targeting computer will remove its current target.</source>
+        <target>Si este ajuste está activo, al utilizar la acción de "Seleccionar Objetivo Enfrente", si no hay nada que seleccionar, el computador de objetivos deseleccionará el objetivo actual.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.SeasonalContent.TooltipTitle">
+      <segment state="translated">
+        <source>Set Seasonal Content</source>
+        <target>Utilizar Contenido de Temporada</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.SeasonalContent.TooltipContent">
+      <segment state="translated">
+        <source>Display some additional effects depending on the date.</source>
+        <target>Muestra ciertos efectos adicionales dependiendo de la fecha.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ProjectileLimit.TooltipTitle">
+      <segment state="translated">
+        <source>AI Projectile Limit</source>
+        <target>Límite a los Proyectiles de la IA</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ProjectileLimit.TooltipContent">
+      <segment state="translated">
+        <source>Optionally increase the limit of total AI projectiles that can be active at any one time. [[Affects game balance.]]</source>
+        <target>Opcionalmente aumenta el límite total de proyectiles de la IA que pueden existir a la vez.
+[[Afecta al equilibrio del juego.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.CraftLimit.TooltipTitle">
+      <segment state="translated">
+        <source>Craft Limit</source>
+        <target>Límite al Número de Naves</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.CraftLimit.TooltipContent">
+      <segment state="translated">
+        <source>Optionally increase the limit of total craft that can be active at any one time. [[Affects game balance.]]</source>
+        <target>Opcionalmente aumenta el límite total de naves que pueden estar activas a la vez. [[Afecta al balance del juego.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.LaserMultiplier.TooltipTitle">
+      <segment state="translated">
+        <source>Cinematic Laser Multiplier</source>
+        <target>Multiplicador para Láseres Peliculeros del Jugador</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.LaserMultiplier.TooltipContent">
+      <segment state="translated">
+        <source>Optionally increase the fire rate of the player's lasers to make them feel more like in other media. It accordingly reduces damage by the same amount, to maintain the game balance. [[Might affect mission balance]]</source>
+        <target>Opcionalmente aumenta la tasa de disparo de los láseres del jugador para hacer que se parezcan más a los de series y películas. Al mismo tiempo, reduce el daño proporcionalmente para mantener el equilibrio del juego. [[Puede afectar al equilibrio del juego.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.FacingAssistAngle.TooltipTitle">
+      <segment state="translated">
+        <source>Facing Assist Precision</source>
+        <target>Precisión de la Asistencia de Dirección</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.FacingAssistAngle.TooltipContent">
+      <segment state="translated">
+        <source>Determines how precisely the ship turns when the Face Target binding is held. [[This setting is provided for accessibility reasons. Might affect mission balance]]</source>
+        <target>Determina con cuánta precisión la nave gira cuando se pulsa la acción de Enfrentarse al Objetivo. [[Este ajuste se ofrece por motivos de accesibilidad. Puede afectar al equilibrio del juego.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ThrottleIncreaseStep.TooltipTitle">
+      <segment state="translated">
+        <source>Throttle Increase/Decrease Step</source>
+        <target>Incremento/Decremento del Acelerador</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.ThrottleIncreaseStep.TooltipContent">
+      <segment state="translated">
+        <source>Determines how much (in percentage) does the throttle go up or down when the control for increasing or decreasing Throttle is held or pressed.
+For low values, the throttle will increase or decrease for as long as the control is held down. For larger values, the control will only increase one step per keystroke.</source>
+        <target>Determina cuando aumenta o se reduce el nivel del acelerador (en porcentaje) cuando se pulsa o se mantiene pulsado el control del acelerador. 
+Para valores pequeños, el acelerador se incrementará o reducirá continuamente mientras el control se mantenga pulsado. Para valores mayores, el control sólo responderá a pulsaciones individuales.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.CheatsSection.Collisions.Tooltip.Content.TooltipTitle">
+      <segment state="translated">
+        <source>Disable Collisions</source>
+        <target>Desactivar Colisiones</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.CheatsSection.Collisions.Tooltip.Content.TooltipContent">
+      <segment state="translated">
+        <source>Toggle player collisions with other craft.
+[[Counts as cheating.]]</source>
+        <target>Activa o desactiva las colisiones entre el jugador y otras naves.
+[[Cuenta como usar trucos.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Tooltip.Title.TooltipTitle">
+      <segment state="translated">
+        <source>Unlimited Weapons</source>
+        <target>Armamento Ilimitado</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.CheatsSection.UnlimitedWeapons.Tooltip.Title.TooltipContent">
+      <segment state="translated">
+        <source>Toggle unlimited player weapons.
+[[Counts as cheating.]]</source>
+        <target>Activa o desactiva armamento ilimitado para el jugador.
+[[Cuenta como usar trucos.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.CheatsSection.Invulnerability.TooltipTitle">
+      <segment state="translated">
+        <source>Invulnerability</source>
+        <target>Invulnerabilidad.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.CheatsSection.Invulnerability.TooltipContent">
+      <segment state="translated">
+        <source>Toggle player invulnerability.
+[[Counts as cheating.]]</source>
+        <target>Activa o desactiva la invulnerabilidad del jugador.
+[[Cuenta como usar trucos.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.CheatsSection.UnlockedArmoury.TooltipTitle">
+      <segment state="translated">
+        <source>Unlocked Armoury</source>
+        <target>Arsenal Desbloqueado</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.CheatsSection.UnlockedArmoury.TooltipContent">
+      <segment state="translated">
+        <source>Craft selection and weapon configuration can be changed.
+[[Counts as cheating.]]</source>
+        <target>Se puede cambiar de nave o la configuración de armamento.
+[[Cuenta como usar trucos.]]</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.DifficultySection.BalancedEnergyTransfer.TooltipTitle">
+      <segment state="translated">
+        <source>Balanced Laser/Shield Energy Transfer</source>
+        <target>Equilibrado de la Transferencia de Energía entre Láseres y Escudos</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.DifficultySection.BalancedEnergyTransfer.TooltipContent">
+      <segment state="translated">
+        <source>Lasers usually recharge much faster than shields, but you can transfer energy from lasers to shields to recharge shields as fast as lasers. Enabling this setting removes that advantage of lasers over shields, and transferring energy between laser and shields will be balanced.</source>
+        <target>Los láseres normalmente se recargan mucho más rápido que los escudos, pero puedes transferir energía de los láseres a los escudos para recargar los escudos tan rápido como los láseres.
+Activar este ajuste elimina esta ventaja que tienen los láseres sobre los escudos, y transferir energía entre láseres y escudos se equilibra.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.DifficultySection.RemoveEnemyFirepowerDebuff.TooltipTitle">
+      <segment state="translated">
+        <source>Remove Enemy Firepower Debuff</source>
+        <target>Eliminar Reducción de Potencia de Fuego Enemiga</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.DifficultySection.RemoveEnemyFirepowerDebuff.TooltipContent">
+      <segment state="translated">
+        <source>Enemy firepower is usually debuffed to always shoot underpowered lasers, regardless of their actual charge level. This setting removes that debuff.</source>
+        <target>La potencia de fuego del enemigo está normalmente reducida para que siempre disparen láseres débiles, sin importar el nivel de carga de sus naves.
+Este ajuste elimina esa reducción.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.DifficultySection.PromoteEnemyAiRank.TooltipTitle">
+      <segment state="translated">
+        <source>Promote Enemy AI Rank</source>
+        <target>Aumentar Veteranía de la IA Enemiga</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.DifficultySection.PromoteEnemyAiRank.TooltipContent">
+      <segment state="translated">
+        <source>All enemy AI is promoted to Top Ace.</source>
+        <target>Toda la IA enemiga asciende a As de Ases.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.DifficultySection.PromoteEnemyShipTypes.TooltipTitle">
+      <segment state="translated">
+        <source>Promote Enemy Ship Types</source>
+        <target>Mejorar los Tipos de Nave del Enemigo</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.DifficultySection.PromoteEnemyShipTypes.TooltipContent">
+      <segment state="translated">
+        <source>Some enemy ships are upgraded to different, more challenging models.</source>
+        <target>Algunas naves enemigas son ascendidas a otros modelos distintos, más difíciles.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.RandomSpecial.TooltipTitle">
+      <segment state="translated">
+        <source>Randomize Special Craft</source>
+        <target>Aleatorizar Nave Especial</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.RandomSpecial.TooltipContent">
+      <segment state="translated">
+        <source>When enabled, the special craft in flight groups will be random, instead of the same every time. This may affect mission compatibility in some circumstances.</source>
+        <target>Al activar esto, la nave especial de los grupos de vuelo es aleatoria en lugar de la misma en cada intento. Esto puede afectar a la compatibilidad de las misiones bajo ciertas circunstancias.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.IonDamageMitigation.TooltipTitle">
+      <segment state="translated">
+        <source>Ion Damage Mitigation by Ship's Armor</source>
+        <target>Reducción de Daño por Iones por el Blindaje de la Nave</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.IonDamageMitigation.TooltipContent">
+      <segment state="translated">
+        <source>When enabled, the armor of the craft will mitigate incoming ion damage applied on the craft's systems (when the shields are already down).\nFreighter-class craft will reduce ion damage to 1/4th.\nFrigate-class craft will reduce it to 1/16th.</source>
+        <target>Al activar esto, el blindaje de la nave mitigará el daño entrante de iones que se aplica a los sistemas de la nave (cuando los escudos ya estén caídos).
+Naves de clase carguero reducen el daño a 1/4.
+Naves de clase fragata reducen el daño a 1/16.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.AnnounceFriendlies.TooltipTitle">
+      <segment state="translated">
+        <source>Announce Friendly Mission Critical Craft Status</source>
+        <target>Anuncios de Nave Aliada Crítica de Misión</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.AnnounceFriendlies.TooltipContent">
+      <segment state="translated">
+        <source>When enabled, while playing with XWVM custom content, you will hear announcements about the status changes of friendly craft that are mission objectives.</source>
+        <target>Al activarse, mientras se juega con contenido de XWVM, se escucharán anuncios sobre el cambio de estado de naves amistosas que son objetivos de misión.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.AnnounceNeutrals.TooltipTitle">
+      <segment state="translated">
+        <source>Announce Neutral Mission Critical Craft Status</source>
+        <target>Anuncios de Nave Neutral Crítica de Misión</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.AnnounceNeutrals.TooltipContent">
+      <segment state="translated">
+        <source>When enabled, while playing with XWVM custom content, you will hear announcements about the status changes of neutral craft that are mission objectives.</source>
+        <target>Al activarse, mientras se juega con contenido de XWVM, se escucharán anuncios sobre el cambio de estado de naves neutrales que son objetivos de misión.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.AnnounceHostiles.TooltipTitle">
+      <segment state="translated">
+        <source>Announce Hostile Mission Critical Craft Status</source>
+        <target>Anuncios de Nave Hostil Crítica de Misión</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.AnnounceHostiles.TooltipContent">
+      <segment state="translated">
+        <source>When enabled, while playing with XWVM custom content, you will hear announcements about the status changes of hostile craft that are mission objectives.</source>
+        <target>Al activarse, mientras se juega con contenido de XWVM, se escucharán anuncios sobre el cambio de estado de naves hostiles que son objetivos de misión.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.AnnouncementInterval.TooltipTitle">
+      <segment state="translated">
+        <source>Minimum Interval between Status Announcements</source>
+        <target>Intervalo Mínimo entre Anuncios de Estado</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.AnnouncementInterval.TooltipContent">
+      <segment state="translated">
+        <source>When using custom XWVM content, the game will wait at least this amount of time between status announcements for the same ship.
+The game will always announce the destruction of a ship, however.</source>
+        <target>Al usar contenido de XWVM, el juego esperará al menos esta cantidad de tiempo entre anuncios de estado para la misma nave.
+El juego siempre anunciará la destrucción de una nave, en cualquier caso.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.MasterVolume.TooltipTitle">
+      <segment state="translated">
+        <source>Master Volume</source>
+        <target>Volumen Maestro</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.MasterVolume.TooltipContent">
+      <segment state="translated">
+        <source>Adjusts the volume of the game in general.</source>
+        <target>Ajusta el volumen del juego en general.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.MusicVolume.TooltipTitle">
+      <segment state="translated">
+        <source>Music Volume</source>
+        <target>Volumen de la Música</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.MusicVolume.TooltipContent">
+      <segment state="translated">
+        <source>Adjust the volume of music throughout the concourse and in flight.</source>
+        <target>Ajusta el volumen de la música en la cubierta central y durante el vuelo.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.SfxVolume.TooltipTitle">
+      <segment state="translated">
+        <source>SFX Volume</source>
+        <target>Volumen de los Efectos</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.SfxVolume.TooltipContent">
+      <segment state="translated">
+        <source>Adjust the volume of sound effects throughout the concourse and in flight.</source>
+        <target>Ajusta el volumen de los efectos de sonido en la cubierta central y durante el vuelo.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.EngineVolume.TooltipTitle">
+      <segment state="translated">
+        <source>Engine Volume</source>
+        <target>Volumen de los Motores</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.EngineVolume.TooltipContent">
+      <segment state="translated">
+        <source>Adjust the volume of engine noise in flight.</source>
+        <target>Ajusta el volumen del ruido de motores durante el vuelo.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.VoiceVolume.TooltipTitle">
+      <segment state="translated">
+        <source>Voice Volume</source>
+        <target>Volumen de las Voces</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.VoiceVolume.TooltipContent">
+      <segment state="translated">
+        <source>Adjust the volume of voices throughout the concourse and in flight.</source>
+        <target>Ajusta el volumen de las voces en la cubierta central y durante el vuelo.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.AudioDucking.TooltipTitle">
+      <segment state="translated">
+        <source>Auto Ducking</source>
+        <target>Atenuación automática</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.AudioDucking.TooltipContent">
+      <segment state="translated">
+        <source>Prioritise voice by automatically lowering the volume of music and engines during speech.</source>
+        <target>Prioriza las voces reduciendo el volumen de la música y los motores mientras alguien habla.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.Speakers.TooltipTitle">
+      <segment state="translated">
+        <source>Speakers</source>
+        <target>Altavoces</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.VolumeAndSpeakers.Speakers.TooltipContent">
+      <segment state="translated">
+        <source>Select the number / configuration of speakers for XWVM to use.</source>
+        <target>Escoge la cantidad y configuración de los altavoces para el uso de XWVM.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.SubtitlesAndLanguage.Subtitles.TooltipTitle">
+      <segment state="translated">
+        <source>Subtitle Mode</source>
+        <target>Modo de Subtítulos</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.SubtitlesAndLanguage.Subtitles.TooltipContent">
+      <segment state="translated">
+        <source>Choose the current subtitle mode shown in flight.
+
+[[Off]] - No subtitles are shown.
+[[Dialogue only]] - Only subtitles for spoken dialogue are shown.
+[[All]] - Show all subtitles, including non-speech events like R2 messages.</source>
+        <target>Escoge el modo actual de subtítulos mostrados durante el vuelo.
+
+[[Desactivados]] - No se muestran subtítulos.
+[[Sólo Diálogos]] - Sólo mostrar subtítulos para diálogos hablados.
+[[Todos]] - Mostrar todos los subtítulos, incluyendo eventos no hablados, como los mensajes del astromecánico.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.SubtitlesAndLanguage.Language.TooltipTitle">
+      <segment state="translated">
+        <source>Language</source>
+        <target>Idioma</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.SubtitlesAndLanguage.Language.TooltipContent">
+      <segment state="translated">
+        <source>Select the language to be used by XWVM.</source>
+        <target>Escoge el idioma que se usará para XWVM.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.SubtitlesAndLanguage.Export.TooltipTitle">
+      <segment state="translated">
+        <source>Export Original String Data</source>
+        <target>Exportar Datos de Textos Originales</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.SubtitlesAndLanguage.Export.TooltipContent">
+      <segment state="translated">
+        <source>Exports the original string data from your installation of the registered game into XLIFF files at (your user data folder)/XWVM/Localization.</source>
+        <target>Exporta los datos de texto originales desde tu instalación del juego registrado a ficheros en formato XLIFF en (carpeta de datos de tu usuario)/XWVM/Localization.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicThemeTweaks.TooltipTitle">
+      <segment state="translated">
+        <source>Musical Theme Tweaks</source>
+        <target>Reajustes a los Temas Musicales</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicThemeTweaks.TooltipContent">
+      <segment state="translated">
+        <source>Reuses some themes for different situations. For example, in X-Wing, the Death Star theme will play when close to an enemy capital ship.</source>
+        <target>Reutiliza algunos temas musicales en situaciones diferentes. Por ejemplo, en X-wing se empleará el tema de la Estrella de la Muerte cuando se esté volando cerca de una nave capital enemiga.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.MusicSource.TooltipTitle">
+      <segment state="translated">
+        <source>Music Source</source>
+        <target>Origen de la Música</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.MusicSource.TooltipContent">
+      <segment state="translated">
+        <source>Choose the source of music used by XWVM, where available.</source>
+        <target>Escoge el origen de la música utilizada por XWVM, si está disponible.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.MIDIDriver.TooltipTitle">
+      <segment state="translated">
+        <source>MIDI Driver</source>
+        <target>Controlador MIDI</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.MIDIDriver.TooltipContent">
+      <segment state="translated">
+        <source>Choose the output driver used with realtime MIDI music</source>
+        <target>Escoge el controlador de salida empleado para la reproducción de música MIDI en tiempo real.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.MIDIFormat.TooltipTitle">
+      <segment state="translated">
+        <source>MIDI Synth Format</source>
+        <target>Formato de Sintetización MIDI</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.MIDIFormat.TooltipContent">
+      <segment state="translated">
+        <source>Choose the format of the MIDI synthesised soundtrack, if available.</source>
+        <target>Escoge el formato de la banda sonora sintetizada MIDI, si está disponible.</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.MIDIDevice.TooltipTitle">
+      <segment state="translated">
+        <source>MIDI Output Device</source>
+        <target>Dispositivo de Salida MIDI</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.MIDIDevice.TooltipContent">
+      <segment state="translated">
+        <source>Choose the MIDI port external MIDI commands are sent to. [[(Windows only)]]</source>
+        <target>Escoge el puerto MIDI al que se envían los comandos MIDI externos. [[(Sólo en Windows)]]</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.UseSoundfont.TooltipTitle">
+      <segment state="translated">
+        <source>Use external soundfont</source>
+        <target>Utilizar SoundFont Externa</target>
+      </segment>
+    </unit>
+    <unit id="AudioSettings.MusicSource.UseSoundfont.TooltipContent">
+      <segment state="translated">
+        <source>Enable to allow use of an external soundfont.</source>
+        <target>Permite el uso de una soundfont externa.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.Memory.VideoMemory.TooltipTitle">
+      <segment state="translated">
+        <source>Video Memory Usage</source>
+        <target>Uso de Memoria de Vídeo</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.Memory.VideoMemory.TooltipContent">
+      <segment state="translated">
+        <source>The estimated amount of video memory used by XWVM.
+[[Please note that this value may not always be accurate.]]</source>
+        <target>La cantidad estimada de memoria de vídeo empleada por XWVM.
+[[Por favor, ten presente que este valor no siempre es preciso.]]</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.Memory.SystemMemory.TooltipTitle">
+      <segment state="translated">
+        <source>System Memory Usage</source>
+        <target>Uso de Memoria del Sistema</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.Memory.SystemMemory.TooltipContent">
+      <segment state="translated">
+        <source>The estimated amount of system memory used by XWVM.
+This does not include memory used by other applications.</source>
+        <target>La cantidad estimada de memoria del sistema usada por XWVM.
+Esto no incluye memoria empleada por otras aplicaciones.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Resolution.TooltipTitle">
+      <segment state="translated">
+        <source>Rendering Resolution</source>
+        <target>Resolución de Renderizado</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Resolution.TooltipContent">
+      <segment state="translated">
+        <source>Choose the resolution to be used for rendering the game. 
+[[Higher values may affect performance.]]</source>
+        <target>Escoge la resolución a usar para renderizar el juego.
+[[Valores mayores pueden afectar al rendimiento.]]</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Fullscreen.TooltipTitle">
+      <segment state="translated">
+        <source>Full screen</source>
+        <target>Pantalla completa</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.Fullscreen.TooltipContent">
+      <segment state="translated">
+        <source>Display mode (Full screen vs Windowed)</source>
+        <target>Modo de presentación (Pantalla Completa o En Ventana)</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.FullscreenMode.TooltipTitle">
+      <segment state="translated">
+        <source>Full screen Mode (Windows only)</source>
+        <target>Modo Pantalla Completa (sólo Windows)</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.FullscreenMode.TooltipContent">
+      <segment state="translated">
+        <source>Enable to use Exclusive Fullscreen Mode, otherwise Fullscreen Window mode will be used (borderless). Enable this option if using adaptive refresh rates.</source>
+        <target>Activa el modo Pantalla Completa Exclusiva. De lo contrario se empleará el modo Ventana Sin Bordes a Pantalla Completa. 
+Activa esta opción si se usan tasas de refresco adaptativas.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.VSync.TooltipTitle">
+      <segment state="translated">
+        <source>VSync</source>
+        <target>Sincronización de Refresco (VSync)</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.VSync.TooltipContent">
+      <segment state="translated">
+        <source>Adjust VSync settings. If using adaptive refresh rates, set this to off.</source>
+        <target>Ajusta la configuración del VSync.
+Si se usa tasas de refresco adaptativas, desactiva esta opción.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.TooltipTitle">
+      <segment state="translated">
+        <source>Dynamic Resolution</source>
+        <target>Resolución Dinámica</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.TooltipContent">
+      <segment state="translated">
+        <source>Manage the screen rendering resolution to use scaling and/or AI techniques for greater visual quality and performance.
+DLSS is available on nVidia RTX and Windows only, other cards will use an alternative upscaling mechanism. Note: DLSS support is experimental.</source>
+        <target>Selecciona que la resolución de renderizado use escalado y/o técnicas IA para mayor calidad gráfica y rendimiento.
+DLSS está disponible sólo para nVidia RTX y Windows. Otro hardware usarán mecanismos de reescalado alternativos.
+Ten presente que el soporte de DLSS es experimental.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.STPQuality.TooltipTitle">
+      <segment state="translated">
+        <source>STP Quality</source>
+        <target>Calidad STP</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.STPQuality.TooltipContent">
+      <segment state="translated">
+        <source>If STP is enabled, select the image quality used. Higher values may affect performance.</source>
+        <target>Si STP está activo, selecciona la calidad de imagen empleada. Valores mayores pueden afectar al rendimiento.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.DLSSQuality.TooltipTitle">
+      <segment state="translated">
+        <source>DLSS Quality</source>
+        <target>Calidad DLSS</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.DynamicResolution.DLSSQuality.TooltipContent">
+      <segment state="translated">
+        <source>If DLSS is enabled, select the desired image quality setting. Higher settings may affect performance.
+(nVidia RTX only)</source>
+        <target>Si DLSS está activo, selecciona la calidad de imagen deseada. Valores mayores pueden afectar al rendimiento.
+(Sólo nVidia RTX)</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.LimitFrames.TooltipTitle">
+      <segment state="translated">
+        <source>Limit Frame Rate</source>
+        <target>Limitar Tasa de Refresco</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.ResolutionAndRendering.LimitFrames.TooltipContent">
+      <segment state="translated">
+        <source>Choose whether to enable frame rate limiting and the target FPS. Please note that the achieved FPS may vary.
+Only available when VSync is off.</source>
+        <target>Escoge si activar la limitación de la tasa de refresco y los FPS objetivo.
+Ten presente que los FPS alcanzados pueden variar.
+Sólo disponible cuando VSync está desactivado.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.QualityMode.TooltipTitle">
+      <segment state="translated">
+        <source>Quality Settings</source>
+        <target>Ajustes de Calidad</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.QualityMode.TooltipContent">
+      <segment state="translated">
+        <source>Set the baseline graphics quality appropriate for your system.
+[[Higher values may affect performance.]]</source>
+        <target>Establece la calidad base apropiada para tu sistema.
+[[Valores mayores pueden afectar al rendimiento.]]</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.MSAA.TooltipTitle">
+      <segment state="translated">
+        <source>Multi-Sample Anti-Aliasing</source>
+        <target>Suavizado Multi-Muestra (MSAA)</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.MSAA.TooltipContent">
+      <segment state="translated">
+        <source>Select the level of MSAA applied to the image.
+[[Available for High and Ludicrous quality only.]]</source>
+        <target>Escoge el nivel de MSAA aplicado a la imagen.
+[[Sólo disponible en calidades Alta y Absurda.]]</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.PostProcessingAA.TooltipTitle">
+      <segment state="translated">
+        <source>Post-Process Antialiasing</source>
+        <target>Suavizado por Postprocesado</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.PostProcessingAA.TooltipContent">
+      <segment state="translated">
+        <source>Choose whether to use post-processing anti-aliasing to improve image quality, at the expense of performance. Note that the effects are applied to the entire display, including text and icons.</source>
+        <target>Escoge si usar suavizado por post-procesado para mejorar la calidad de imagen a cambio de una pérdida de rendimiento.
+Ten presente que los efectos se aplican a toda la pantalla, incluyendo textos e iconos.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.TextureLimit.TooltipTitle">
+      <segment state="translated">
+        <source>Texture Limit</source>
+        <target>Límite de Textura</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.TextureLimit.TooltipContent">
+      <segment state="translated">
+        <source>Choose the size limit for textures.
+Lower values may increase performance and reduce memory consumption, at the cost of lower visual quality.</source>
+        <target>Escoge el tamaño máximo de las texturas.
+Niveles más bajos incrementarán el rendimiento al reducir el consumo de memoria, a costa de una calidad visual menor.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowCascades.TooltipTitle">
+      <segment state="translated">
+        <source>Sun Shadow Cascades</source>
+        <target>Cascadas de Sombras de Soles</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowCascades.TooltipContent">
+      <segment state="translated">
+        <source>Select the number of cascades used in shadows cast by sunlight.
+[[Higher values will affect performance.]]</source>
+        <target>Selecciona cuántas cascadas se emplean en las sombras proyectadas por la luz del sol.
+[[Niveles mayores pueden afectar al rendimiento.]]</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowQuality.TooltipTitle">
+      <segment state="translated">
+        <source>Sun Shadow Quality</source>
+        <target>Calidad de Sombras de Soles</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.SunShadowQuality.TooltipContent">
+      <segment state="translated">
+        <source>Select the quality of shadows cast by sunlight. The available values will depend on the Quality setting chosen.
+[[Higher values may affect performance.]]</source>
+        <target>Selecciona la calidad de las sombras proyectadas por la luz del sol.
+Los valores disponibles dependerán del ajuste de Calidad escogido.
+[[Niveles mayores pueden afectar al rendimiento.]]</target>
+      </segment>
+    </unit>
+    <unit id="EnableDithering.TooltipTitle">
+      <segment state="translated">
+        <source>Enable Dithering</source>
+        <target>Activar Tramado (Dithering)</target>
+      </segment>
+    </unit>
+    <unit id="EnableDithering.TooltipContent">
+      <segment state="translated">
+        <source>If enabled, use dithering to reduce visual colour banding.</source>
+        <target>Si se activa, se empleará tramado para reducir las franjas de color visuales.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.CockpitReflections.TooltipTitle">
+      <segment state="translated">
+        <source>Cockpit Reflections</source>
+        <target>Reflejos en la Cabina</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.CockpitReflections.TooltipContent">
+      <segment state="translated">
+        <source>Reflect cockpit light back onto itself (slower)</source>
+        <target>Refleja las luces de la cabina sobre sí misma.
+[[Gran impacto al rendimiento.]]</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.EnableVolumetrics.TooltipTitle">
+      <segment state="translated">
+        <source>Volumetric Lighting</source>
+        <target>Iluminación Volumétrica</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualQuality.EnableVolumetrics.TooltipContent">
+      <segment state="translated">
+        <source>Enable volumetric lighting effects.
+[[Note that this can be very performance intensive.]]</source>
+        <target>Activa efectos de iluminación volumétrica.
+[[Puede significar un gran impacto al rendimiento]]</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.Grain.TooltipTitle">
+      <segment state="translated">
+        <source>Grain</source>
+        <target>Grano tipo Celuloide</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.Grain.TooltipContent">
+      <segment state="translated">
+        <source>The diet of every Rebel. Just grain.</source>
+        <target>La dieta de todo rebelde. Simplemente grano.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.Vignette.TooltipTitle">
+      <segment state="translated">
+        <source>Vignette</source>
+        <target>Oscurecer Esquinas</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.Vignette.TooltipContent">
+      <segment state="translated">
+        <source>Screen's corners are darkened for mood.</source>
+        <target>Las esquinas de la pantalla se oscurecen para establecer el tono.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.SpaceDebris.TooltipTitle">
+      <segment state="translated">
+        <source>Space Debris</source>
+        <target>Partículas Espaciales</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.SpaceDebris.TooltipContent">
+      <segment state="translated">
+        <source>Space dust particles fly past your ship.</source>
+        <target>Motas de polvo espacial flotan junto a tu nave.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.Bloom.TooltipTitle">
+      <segment state="translated">
+        <source>Bloom</source>
+        <target>Resplandor (Bloom)</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.Bloom.TooltipContent">
+      <segment state="translated">
+        <source>Glow effect cast by bright light sources.</source>
+        <target>Efecto de brillo proyectado por fuentes de luz intensas.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.HUDOpacity.TooltipTitle">
+      <segment state="translated">
+        <source>HUD Opacity Level</source>
+        <target>Opacidad del Punto de Mira</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.HUDOpacity.TooltipContent">
+      <segment state="translated">
+        <source>Chooses the opacity level of the in-flight heads up display.
+0% for fully invisible. 100% for fully opaque.</source>
+        <target>Escoge la opacidad del punto de mira durante el vuelo.
+0% para totalmente invisible. 100% para totalmente opaco.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.VirtualMFDScaling.TooltipTitle">
+      <segment state="translated">
+        <source>Virtual Multi-function Displays Scaling Factor</source>
+        <target>Factor de Escalado de Pantallas Multifunción</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.VirtualMFDScaling.TooltipContent">
+      <segment state="translated">
+        <source>When using virtual cockpits (which appears when hiding the real cockpit geometry during flight, or when there is no physical model available for a ship's cockpit), this factor determines how big or small the lateral screens look.</source>
+        <target>Al utilizar cabinas virtuales (que aparecen al ocultar la cabina real durante el vuelo, o cuando no hay un modelo físico disponible para la cabina de una nave), este factor determina cómo de grandes o pequeñas se muestran las pantallas laterales.</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.VirtualCMDScaling.TooltipTitle">
+      <segment state="translated">
+        <source>Virtual Combat Multi-view Display Scaling Factor</source>
+        <target>Factor de Escalado de Computador de Objetivos</target>
+      </segment>
+    </unit>
+    <unit id="GameSettings.GameplayPrefs.VirtualCMDScaling.TooltipContent">
+      <segment state="translated">
+        <source>When using virtual cockpits (which appears when hiding the real cockpit geometry during flight, or when there is no physical model available for a ship's cockpit), this factor determines how big or small the the CMD (or targeting computer) looks.</source>
+        <target>Al utilizar cabinas virtuales (que aparecen al ocultar la cabina real durante el vuelo, o cuando no hay un modelo físico disponible para la cabina de una nave), este factor determina cómo de grande o pequeño se muestra la pantalla central (el computador de objetivos).</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitles.TooltipTitle">
+      <segment state="translated">
+        <source>Display cockpit interaction subtitles</source>
+        <target>Mostrar Subtítulos para Interacciones de Cabina</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitles.TooltipContent">
+      <segment state="translated">
+        <source>When interacting with the instruments and controls in a ship, display a special subtitle that provides immediate feedback of what the player has just interacted with.</source>
+        <target>Al interactuar con instrumentos y controles de una nave, mostrar un subtítulo especial que proporciona respuesta inmediata a la interacción del jugador.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitlesAltFont.TooltipTitle">
+      <segment state="translated">
+        <source>Use a different typography for interaction subtitles</source>
+        <target>Utilizar tipografía diferente para los subtítulos de interacción</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.InteractionSubtitlesAltFont.TooltipContent">
+      <segment state="translated">
+        <source>The subtitles shown as response of interacting with the instruments and controls will be displayed using a different font to make them more distinguishable from other subtitles.</source>
+        <target>Los subtítulos mostrados como respuesta a las interacciones con instrumentos y controles serán mostrados usando una fuente distinta para hacerlos más distinguibles de los otros subtítulos.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessLiftAdjust.TooltipTitle">
+      <segment state="translated">
+        <source>Brightness Lift Adjustment</source>
+        <target>Compensación de Negros</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessLiftAdjust.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGammaAdjust.TooltipTitle">
+      <segment state="translated">
+        <source>Brightness Gamma Adjustment</source>
+        <target>Ajuste Gamma</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGammaAdjust.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGainAdjust.TooltipTitle">
+      <segment state="translated">
+        <source>Brightness Gain Adjustment</source>
+        <target>Ajuste de Brillo Máximo</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.Brightness.BrightnessGainAdjust.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.CameraMode.TooltipTitle">
+      <segment state="translated">
+        <source>Camera Mode</source>
+        <target>Modo de Cámara</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.CameraMode.TooltipContent">
+      <segment state="translated">
+        <source>[[Normal]] - The regular 2D viewport.
+[[TrackIR]] - For use with TrackIR or OpenTrack view devices for look around support.
+[[Virtual Reality]] - For use with VR headsets. (Windows only)
+[[OpenTrack UDP]] - For use with VR headsets. (Multi-platform)</source>
+        <target>[[Normal]] - Pantalla normal 2D.
+[[TrackIR]] - Para uso con dispositivos TrackIR u OpenTrack que permiten mirar alrededor.
+[[Realidad Virtual]] - Para uso con visores de RV (Sólo Windows)
+[[OpenTrack UDP]] - Para uso con visores de RV (Multiplataforma)</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.CustomFOV.TooltipTitle">
+      <segment state="translated">
+        <source>Custom FOV</source>
+        <target>Campo de Visión Personalizado</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.CustomFOV.TooltipContent">
+      <segment state="translated">
+        <source>If selected, allows further options for customising the FOV value. This will affect the concourse and flight views. 
+Default value is off, as XWVM will intelligently adjust the FOV based on the current screen resolution.</source>
+        <target>Al activarlo, muestra más opciones para personalizar el CdV. 
+Esto afectará a la cubierta central y el vuelo.
+El valor por defecto es desactivado, en el que XWVM intentará ajustar el CdV de forma inteligente en base a la resolución actual de la pantalla.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.FOVSlider.TooltipTitle">
+      <segment state="translated">
+        <source>FOV</source>
+        <target>Campo de Visión</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.FOVSlider.TooltipContent">
+      <segment state="translated">
+        <source>Adjust the vertical FOV.</source>
+        <target>Ajusta el CdV vertical.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.FOVModifierStep.TooltipTitle">
+      <segment state="translated">
+        <source>FOV Modifier Step</source>
+        <target>Incremento Modificador CdV</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.FOVModifierStep.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.FOVModifierMax.TooltipTitle">
+      <segment state="translated">
+        <source>FOV Modifier Max</source>
+        <target>Máximo Modificador CdV</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.FOVModifierMax.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.UsePaniniProjection.TooltipTitle">
+      <segment state="translated">
+        <source>Use Panini Projection</source>
+        <target>Utilizar Proyección Panini</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.UsePaniniProjection.TooltipContent">
+      <segment state="translated">
+        <source>If selected, panini projection can be used to alter the geometric properties of the image. Useful for some curved display arrangements.</source>
+        <target>Al seleccionarlo, se puede usar proyección Panini para alterar las propiedades geométricas de la imagen.
+Útil con ciertas disposiciones de pantallas curvadas.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.PaniniDistance.TooltipTitle">
+      <segment state="translated">
+        <source>Panini Distance</source>
+        <target>Distancia Panini</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Camera.PaniniDistance.TooltipContent">
+      <segment state="translated">
+        <source>Increase panini distance to distort image curvature.</source>
+        <target>Incrementa la distancia Panini para distorsionar la curvatura de la imagen.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.SelectTargetAheadConeWidth.TooltipTitle">
+      <segment state="translated">
+        <source>Select Target Ahead Cone Width</source>
+        <target>Seleccionar el Blanco Enfrente - Ancho del Cono</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.SelectTargetAheadConeWidth.TooltipContent">
+      <segment state="translated">
+        <source>When using the "Select Target Ahead" action, the game will try to find a target in front of the camera within a cone of this many degrees. Higher values make the game able to select targets further away from the center of the screen, while lower values are for players that prefer having to be more precise.</source>
+        <target>Al usar la acción de "Seleccionar Blanco Enfrente", el juego intentará encontrar un blanco en frente de la cámara dentro de un cono con estos grados de ángulo.
+Valores mayores permiten al juego escoger blancos más alejados del centro de la pantalla, mientras que valores menores son para jugadores que prefieren tener que ser más precisos.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Astronomical.StarSizeMultiplier.TooltipTitle">
+      <segment state="translated">
+        <source>Star Size Multiplier</source>
+        <target>Multiplicador del Tamaño de Estrellas</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Astronomical.StarSizeMultiplier.TooltipContent">
+      <segment state="translated">
+        <source>Control the scale of stars in the starfield.</source>
+        <target>Controla el tamaño de las estrellas en el espacio.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Astronomical.PlanetSizeMultiplier.TooltipTitle">
+      <segment state="translated">
+        <source>Planet Size Multiplier</source>
+        <target>Multiplicador del Tamaño de Planetas</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Astronomical.PlanetSizeMultiplier.TooltipContent">
+      <segment state="translated">
+        <source>Set the scale of planets.</source>
+        <target>Ajusta el tamaño de los planetas.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Headbobbing.HeadbobbingOffset.TooltipTitle">
+      <segment state="translated">
+        <source>Inertial Headbobbing - Panning</source>
+        <target>Balanceo Inercia de Cabeza - Desplazamiento</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Headbobbing.HeadbobbingOffset.TooltipContent">
+      <segment state="translated">
+        <source>Adjust the panning when the pilot's head moves with inertia.</source>
+        <target>Ajusta el desplazamiento cuando la cabeza del piloto se mueve debido a la inercia.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Headbobbing.HeadbobbingCompensation.TooltipTitle">
+      <segment state="translated">
+        <source>Inertial headbobbing - Eye Compensation</source>
+        <target>Balanceo Inercial de Cabeza - Compensación Ocular</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.Headbobbing.HeadbobbingCompensation.TooltipContent">
+      <segment state="translated">
+        <source>Adjust the eye compensation for intertial headbobbing.</source>
+        <target>Ajusta la compensación ocular para el balanceo inercial de cabeza.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.SampleFiltering.TooltipTitle">
+      <segment state="translated">
+        <source>Sample filtering count</source>
+        <target>Cantidad de muestras filtradas</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.SampleFiltering.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.LeftRightLimit.TooltipTitle">
+      <segment state="translated">
+        <source>Left/Right movement limit (meters)</source>
+        <target>Límite al Movimiento Izquierda/Derecha (metros)</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.LeftRightLimit.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertX.TooltipTitle">
+      <segment state="translated">
+        <source>Invert Left/Right axis</source>
+        <target>Invertir Eje Izquierda/Derecha</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertX.TooltipContent">
+      <segment state="translated">
+        <source>Invert X axis</source>
+        <target>Invertir Eje X</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.UpDownLimit.TooltipTitle">
+      <segment state="translated">
+        <source>Up/Down movement limit (meters)</source>
+        <target>Límite al Movimiento Arriba/Abajo (metros)</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.UpDownLimit.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertY.TooltipTitle">
+      <segment state="translated">
+        <source>Invert Up/Down axis</source>
+        <target>Invertir Eje Arriba/Abajo</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertY.TooltipContent">
+      <segment state="translated">
+        <source>Invert Y axis</source>
+        <target>Invertir Eje Y</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.ForwardBackward.TooltipTitle">
+      <segment state="translated">
+        <source>Foward/Background movement limit (meters)</source>
+        <target>Límite al Movimiento Adelante/Atrás (metros)</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.ForwardBackward.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertZ.TooltipTitle">
+      <segment state="translated">
+        <source>Invert Forward/Backward axis</source>
+        <target>Invertir Eje Adelante/Atrás</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertZ.TooltipContent">
+      <segment state="translated">
+        <source>Invert Z axis</source>
+        <target>Invertir Eje Z</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.PitchLimit.TooltipTitle">
+      <segment state="translated">
+        <source>Pitch limit (degrees)</source>
+        <target>Límite al Cabeceo (grados)</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.PitchLimit.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertPitch.TooltipTitle">
+      <segment state="translated">
+        <source>Invert Pitch axis</source>
+        <target>Invertir Eje de Cabeceo</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertPitch.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.YawLimit.TooltipTitle">
+      <segment state="translated">
+        <source>Yaw limit (degrees)</source>
+        <target>Límite al Guiñada (grados)</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.YawLimit.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertYaw.TooltipTitle">
+      <segment state="translated">
+        <source>Invert Yaw axis</source>
+        <target>Invertir Eje de Guiñada</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertYaw.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.RollLimit.TooltipTitle">
+      <segment state="translated">
+        <source>Roll limit (degrees)</source>
+        <target>Límite de Alabeo (grados)</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.RollLimit.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertRoll.TooltipTitle">
+      <segment state="translated">
+        <source>Invert Roll axis</source>
+        <target>Invertir Eje de Alabeo</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.InvertRoll.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.PositionMultiplier.TooltipTitle">
+      <segment state="translated">
+        <source>Position Multiplier</source>
+        <target>Multiplicador de Posición</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.PositionMultiplier.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.RotationMultiplier.TooltipTitle">
+      <segment state="translated">
+        <source>Rotation Multiplier</source>
+        <target>Multiplicador de Rotación</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.TrackIR.RotationMultiplier.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControlsSection.GameControls.TooltipTitle">
+      <segment state="translated">
+        <source>Remap Game Controls</source>
+        <target>Re-asignar Controles del Juego</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControlsSection.GameControls.TooltipContent">
+      <segment state="translated">
+        <source>Access the control mapper to add, change or remove key, button and controller assignments.</source>
+        <target>Accede al configurador de controles para añadir, cambiar, o eliminar asignaciones de teclas, botones y controles.</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.NewInputSystemBinding.TooltipTitle">
+      <segment state="translated">
+        <source>Remap VR Controls</source>
+        <target>Reasignar Controles RV</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.NewInputSystemBinding.TooltipContent">
+      <segment state="translated">
+        <source>Access the VR control mapper to add, change or remove key, button and controller assignments.</source>
+        <target>Accede al configurador de controles de RV para añadir, cambiar, o eliminar asignaciones de teclas, botones y controles.</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.MouseSection.MouseSensitivity.TooltipTitle">
+      <segment state="translated">
+        <source>Mouse Sensitivity</source>
+        <target>Sensibilidad del Ratón</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.MouseSection.MouseSensitivity.TooltipContent">
+      <segment state="translated">
+        <source>Adjust the sensitivity of the mouse pointer.</source>
+        <target>Ajusta la sensibilidad del puntero del ratón.</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.MouseSection.MouseControl.TooltipTitle">
+      <segment state="translated">
+        <source>Mouse Control</source>
+        <target>Control del Ratón</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.MouseSection.MouseControl.TooltipContent">
+      <segment state="translated">
+        <source>Enable/disable mouse control when in-flight.
+
+[[Disabled]] (default) - No mouse control used. To fly the craft, use a controller or the keyboard.
+[[X-Wing style]] - Move the mouse to steer the craft, similar to the behaviour in the DOS games.</source>
+        <target>Activa o desactiva el control con ratón durante el vuelo.
+
+[[Inactivo]] (por defecto) - No se usa control con ratón. Para controlar la nave, usa un controlador o el teclado.
+[[Estilo X-Wing]] - Mueve el ratón para controlar la nave, similar al comportamiento en las versiones de MS-DOS.</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.MouseCursorScale.Label">
+      <segment state="translated">
+        <source>Mouse Cursor Scale</source>
+        <target>Escala del Cursor</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.MouseCursorScale.TooltipTitle">
+      <segment state="translated">
+        <source>Mouse Cursor Scale</source>
+        <target>Escala del Cursor</target>
+      </segment>
+    </unit>
+	<unit id="DisplaySettings.VisualSettings.VisualPreferences.LensFlares.Label">
+      <segment state="translated">
+        <source>Lens Flares</source>
+        <target>Destellos de lente</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.MouseCursorScale.TooltipContent">
+      <segment state="translated">
+        <source>Select the size of the mouse cursor.</source>
+        <target>Selecciona el tamaño del cursor del ratón.</target>
+      </segment>
+    </unit>
+	<unit id="DisplaySettings.VisualSettings.VisualPreferences.LensFlares.TooltipTitle">
+      <segment state="translated">
+        <source>Lens Flares</source>
+        <target>Destellos de lente</target>
+      </segment>
+    </unit>
+    <unit id="DisplaySettings.VisualSettings.VisualPreferences.LensFlares.TooltipContent">
+      <segment state="translated">
+        <source>Enable lens flares and chromatic abberation.</source>
+        <target>Activa los destellos de lente y aberración cromática.</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.VRGazeCursor.TooltipTitle">
+      <segment state="translated">
+        <source>VR Gaze Cursor</source>
+        <target>Cursor de Mirada RV</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.VRGazeCursor.TooltipContent">
+      <segment state="translated">
+        <source>If enabled, a dot in the cente of the player's view can be used to interact with the world.</source>
+        <target>Si está activa, aparece un punto en el centro de la vista del jugador para interactuar con el entorno.</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControlsSection.VRHandControls.Button.TooltipTitle">
+      <segment state="translated">
+        <source>VR Hand Controls Used When Gaze Cursor Enabled</source>
+        <target>Permitir Controles de Mano en RV cuando el Cursor de Mirada está en uso</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControlsSection.VRHandControls.Button.TooltipContent">
+      <segment state="translated">
+        <source>If enabled, VR hand controls remain enabled when the gaze cursor is active.</source>
+        <target>Si se activa, los controles de mano de RV permanecen activos cuando el cursor de mirada está activo.</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.HyperspaceThrottle.TooltipTitle">
+      <segment state="translated">
+        <source>Hyperspace Throttle</source>
+        <target>Modo de Acelerador para Hiperespacio</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.HyperspaceThrottle.TooltipContent">
+      <segment state="translated">
+        <source>Punch it! Use an alternative hyperspace method with a controller axis.
+When enabled, the hyperspace throttle must be held below 20% until the hyperjump is ready. The throttle can then be increased to the chosen threshold to engage hyperspace.
+[[Please bind a controller axis to 'Hyperspace slider' for this to function correctly.]]</source>
+        <target>Utiliza un método de hiperespacio alternativo con el eje de un controlador.
+Al activarlo, el acelerador de hiperespacio debe mantenerse por debajo del 20% hasta que el hipersalto esté preparado. El acelerador entonces se puede aumentar hasta el umbral escogido para entrar al hiperespacio.
+[[Por favor, asigna un eje de controlador a 'Hyperspace Slider' para que esta característica funcione correctamente.]]</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.HyperspaceThrottleThreshold.TooltipTitle">
+      <segment>
+        <source>Disable Collisions</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.HyperspaceThrottleThreshold.TooltipContent">
+      <segment>
+        <source>Toggle player collisions with other craft.
+[[Counts as cheating.]]</source>
+        <target></target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.Vibration.TooltipTitle">
+      <segment state="translated">
+        <source>Vibration</source>
+        <target>Vibración</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.Vibration.TooltipContent">
+      <segment state="translated">
+        <source>Enable controller vibration.
+(Xbox and Dualshock 4 controllers only)</source>
+        <target>Activa la vibración del controlador.
+(Sólo controladores Xbox y Dualshock 4)</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.VibrationStrength.TooltipTitle">
+      <segment state="translated">
+        <source>Vibration Strength</source>
+        <target>Fuerza de la Vibración</target>
+      </segment>
+    </unit>
+    <unit id="ControlSettings.ControllerSection.VibrationStrength.TooltipContent">
+      <segment state="translated">
+        <source>Adjust the strength of controller vibration in-game.</source>
+        <target>Ajusta la fuerza de la vibración del controlador durante el juego.</target>
+      </segment>
+    </unit>
+    <unit id="DefaultSettings.Header.TooltipTitle">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="DefaultSettings.Header.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="Achievements.Settings.ShowAchievementNotificationsLabel.TooltipTitle">
+      <segment state="translated">
+        <source>Show Achievement Notifications</source>
+        <target>Mostrar Notificaciones de Logros</target>
+      </segment>
+    </unit>
+    <unit id="Achievements.Settings.ShowAchievementNotificationsLabel.TooltipContent">
+      <segment state="translated">
+        <source>If enabled, achievement popups are shown when progress is earned or achievements completed.</source>
+        <target>Si está activo, se mostrarán notificaciones emergentes de logros cuando se obtenga progreso o se consiga un logro.</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.EnableTelemetryToggle.TooltipTitle">
+      <segment state="translated">
+        <source>Enable Telemetry</source>
+        <target>Activar la Emisión de Telemetría</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.EnableTelemetryToggle.TooltipContent">
+      <segment state="translated">
+        <source>Activates the broadcasting of telemetry data for motion seats or other local accessory devices.</source>
+        <target>Activa la emisión de datos de telemetría para asientos móviles u otros dispositivos periféricos locales.</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.TelemetryFormat.TooltipTitle">
+      <segment state="translated">
+        <source>Telemetry Format</source>
+        <target>Formato de Telemetría</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.TelemetryFormat.TooltipContent">
+      <segment state="translated">
+        <source>Select which format will XWVM use to broadcast game state data.</source>
+        <target>Selecciona qué formato usará XWVM para emitir datos del estado del juego.</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.BroadcastAddress.TooltipTitle">
+      <segment state="translated">
+        <source>Broadcast Address</source>
+        <target>Dirección de Emisión</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.BroadcastAddress.TooltipContent">
+      <segment state="translated">
+        <source>Determines the network address used for broadcasting UDP packets with telemetry data.</source>
+        <target>Determina la dirección de red usada para emitir paquetes UDP con datos de telemetría.</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.BroadcastPort.TooltipTitle">
+      <segment state="translated">
+        <source>Broadcast Port</source>
+        <target>Puerto de Emisión</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.BroadcastPort.TooltipContent">
+      <segment state="translated">
+        <source>Determines which network port the game uses to emit UDP packets with telemetry data.</source>
+        <target>Determina qué puerto de red utilizará el juego para emitir paquetes UDP con datos de telemetría.</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.BroadcastInterval.TooltipTitle">
+      <segment state="translated">
+        <source>Broadcast Interval</source>
+        <target>Intervalo de Emisión</target>
+      </segment>
+    </unit>
+    <unit id="TelemetrySettings.BroadcastInterval.TooltipContent">
+      <segment state="translated">
+        <source>Determines how often the game emits telemetry data.</source>
+        <target>Determina cada cuánto tiempo el juego emite datos de telemetría.</target>
+      </segment>
+    </unit>
+    <unit id="RestartNotification.TooltipTitle">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="RestartNotification.TooltipContent">
+      <segment>
+        <source/>
+        <target/>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.Label">
+      <segment>
+        <source>Over-the-Shoulder Camera Mode</source>
+        <target>Modo Cámara Tercera Persona</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.RightSlider.Label">
+      <segment>
+        <source>Right Offset</source>
+        <target>Sesgo Lateral</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.RightSlider.TooltipTitle">
+      <segment>
+        <source>Over-the-Shoulder Camera - Right Offset</source>
+        <target>Cámara Tercera Persona - Sesgo Lateral</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.RightSlider.TooltipContent">
+      <segment>
+        <source>How much should the camera be offset towards the right during Over-the-Shoulder camera mode.</source>
+        <target>Cuánto debería estar sesgada la cámara lateralmente durante el modo de cámara de tercera persona.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.BackSlider.Label">
+      <segment>
+        <source>Back Offset</source>
+        <target>Sesgo hacia Atrás</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.BackSlider.TooltipTitle">
+      <segment>
+        <source>Over-the-Shoulder Camera - Back Offset</source>
+        <target>Cámara Tercera Persona - Sesgo hacia Atrás</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.BackSlider.TooltipContent">
+      <segment>
+        <source>How much should the camera be offset backwards during Over-the-Shoulder camera mode.</source>
+        <target>Cuánto debería estar sesgada la cámara hacia atrás durante el modo de cámara de tercera persona.</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.UpSlider.Label">
+      <segment>
+        <source>Up Offset</source>
+        <target>Sesgo hacia Arriba</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.UpSlider.TooltipTitle">
+      <segment>
+        <source>Over-the-Shoulder Camera - Up Offset</source>
+        <target>Cámara Tercera Persona - Sesgo hacia Arriba</target>
+      </segment>
+    </unit>
+    <unit id="CameraSettings.OverTheShoulderCamera.UpSlider.TooltipContent">
+      <segment>
+        <source>How much should the camera be offset upwards during Over-the-Shoulder camera mode.</source>
+        <target>Cuánto debería estar sesgada la cámara hacia arriba durante el modo de cámara de tercera persona.</target>
+      </segment>
+    </unit>
+  </file>
+</xliff>

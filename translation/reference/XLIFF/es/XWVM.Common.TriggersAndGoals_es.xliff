@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" trgLang="es">
+	<file id="XWVM.Common.TriggersAndGoals" srcLang="en" trgLang="en">
+
+		<!-- ==================== TRIGGER CONDITIONS (Neutral/Description) ==================== -->
+		<!-- Available selectors: count: totals ship count; species: usual species columns -->
+		<unit id="Condition_Always">
+			<segment state="translated">
+				<source>Always</source>
+				<target>Siempre</target>
+			</segment>
+		</unit>
+		<unit id="Condition_None">
+			<segment state="translated">
+				<source>None</source>
+				<target>Ninguno</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Arrived">
+			<segment state="translated">
+				<source>Arrived</source>
+				<target>Lleg{count:plural:ó|aron}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Attacked">
+			<segment state="translated">
+				<source>Attacked</source>
+				<target>Atacad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Boarded">
+			<segment state="translated">
+				<source>Boarded</source>
+				<target>Abordad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_CannonSysDisabled">
+			<segment state="translated">
+				<source>Cannons Disabled</source>
+				<target>Cañones Incapacitados</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Captured">
+			<segment state="translated">
+				<source>Captured</source>
+				<target>Capturad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_CompletedBonusGoals">
+			<segment state="translated">
+				<source>Completed Bonus Goals</source>
+				<target>Objetivos Extra Completados</target>
+			</segment>
+		</unit>
+		<unit id="Condition_CompletedMission">
+			<segment state="translated">
+				<source>Completed Mission</source>
+				<target>Complet{count:plural:ó|aron} la Misión</target>
+			</segment>
+		</unit>
+		<unit id="Condition_CompletedPrimaryGoals">
+			<segment state="translated">
+				<source>Completed Primary Goals</source>
+				<target>Objetivos Primarios Completados</target>
+			</segment>
+		</unit>
+		<unit id="Condition_CompletedSecondaryGoals">
+			<segment state="translated">
+				<source>Completed Secondary Goals</source>
+				<target>Objetivos Secundarios Completados</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Destroyed">
+			<segment state="translated">
+				<source>Destroyed</source>
+				<target>Destruid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Disabled">
+			<segment state="translated">
+				<source>Disabled</source>
+				<target>Incapacitad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Docked">
+			<segment state="translated">
+				<source>Docked</source>
+				<target>Acoplad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_DroppedOff">
+			<segment state="translated">
+				<source>Dropped Off</source>
+				<target>Soltad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_FailedBonusGoals">
+			<segment state="translated">
+				<source>Failed Bonus Goals</source>
+				<target>Objetivos Extra Fallados</target>
+			</segment>
+		</unit>
+		<unit id="Condition_FailedPrimaryGoals">
+			<segment state="translated">
+				<source>Failed Primary Goals</source>
+				<target>Objetivos Primarios Fallados</target>
+			</segment>
+		</unit>
+		<unit id="Condition_FailedSecondaryGoals">
+			<segment state="translated">
+				<source>Failed Secondary Goals</source>
+				<target>Objetivos Secundarios Fallados</target>
+			</segment>
+		</unit>
+		<unit id="Condition_FiftyHull">
+			<segment state="translated">
+				<source>Fifty Hull</source>
+				<target>Casco al 50%</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Inspected">
+			<segment state="translated">
+				<source>Inspected</source>
+				<target>Inspeccionad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_OutOfWarheads">
+			<segment state="translated">
+				<source>Out of Warheads</source>
+				<target>Sin Ojivas</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Reinforced">
+			<segment state="translated">
+				<source>Reinforced</source>
+				<target>Reforzad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Survived">
+			<segment state="translated">
+				<source>Survived</source>
+				<target>Sobrevivi{count:plural:ó|eron}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Threatened">
+			<segment state="translated">
+				<source>Threatened</source>
+				<target>Amenazad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_ZeroShields">
+			<segment state="translated">
+				<source>Zero Shields</source>
+				<target>Sin Escudos</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Recovered">
+			<segment state="translated">
+				<source>Recovered</source>
+				<target>Recuperad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Condition_Unknown">
+			<segment state="translated">
+				<source>Unknown</source>
+				<target>Desconocido</target>
+			</segment>
+		</unit>
+
+		<!-- ==================== TRIGGER AMOUNTS ==================== -->
+		<unit id="Amount_AllButOne">
+			<segment state="translated">
+				<source>All But One</source>
+				<target>Tod{species.GENDER:choose(M|F):os|as} Menos Un{species.GENDER:choose(M|F):o|a}</target>
+			</segment>
+		</unit>
+		<unit id="Amount_AllButOneOfFirstWave">
+			<segment state="translated">
+				<source>All But One of First Wave</source>
+				<target>Tod{species.GENDER:choose(M|F):os|as} Menos Un{species.GENDER:choose(M|F):o|a} de la Primera Oleada</target>
+			</segment>
+		</unit>
+		<unit id="Amount_AllNonPlayerCraft">
+			<segment state="translated">
+				<source>All Non-Player Craft</source>
+				<target>Tod{species.GENDER:choose(M|F):os los|as las} que No Son Jugador</target>
+			</segment>
+		</unit>
+		<unit id="Amount_AllNonSpecialCraft">
+			<segment state="translated">
+				<source>All Non-Special Craft</source>
+				<target>Tod{species.GENDER:choose(M|F):os los|as las} No Especiales</target>
+			</segment>
+		</unit>
+		<unit id="Amount_AtLeastOne">
+			<segment state="translated">
+				<source>Any</source>
+				<target>Cualquiera</target>
+			</segment>
+		</unit>
+		<unit id="Amount_AtLeastOneOfFirstWave">
+			<segment state="translated">
+				<source>Any of First Wave</source>
+				<target>Cualquiera de la Primera Oleada</target>
+			</segment>
+		</unit>
+		<unit id="Amount_FiftyPercent">
+			<segment>
+				<source>50%</source>
+				<target>50%</target>
+			</segment>
+		</unit>
+		<unit id="Amount_FiftyPercentFirstWave">
+			<segment state="translated">
+				<source>50% of First Wave</source>
+				<target>50% de la Primera Oleada</target>
+			</segment>
+		</unit>
+		<unit id="Amount_HundredPercent">
+			<segment>
+				<source>100%</source>
+				<target>100%</target>
+			</segment>
+		</unit>
+		<unit id="Amount_HundredPercentFirstWave">
+			<segment state="translated">
+				<source>100% of First Wave</source>
+				<target>100% de la Primera Oleada</target>
+			</segment>
+		</unit>
+		<unit id="Amount_PlayerCraft">
+			<segment state="translated">
+				<source>Player Craft</source>
+				<target>Nave del Jugador</target>
+			</segment>
+		</unit>
+		<unit id="Amount_SeventyFivePercent">
+			<segment>
+				<source>75%</source>
+				<target>75%</target>
+			</segment>
+		</unit>
+		<unit id="Amount_SeventyFivePercentFirstWave">
+			<segment state="translated">
+				<source>75% of First Wave</source>
+				<target>75% de la Primera Oleada</target>
+			</segment>
+		</unit>
+		<unit id="Amount_SpecialCraft">
+			<segment state="translated">
+				<source>Special Craft</source>
+				<target>{species.GENDER:choose(M|F):Los|Las} Especiales</target>
+			</segment>
+		</unit>
+		<unit id="Amount_TwentyFivePercent">
+			<segment>
+				<source>25%</source>
+				<target>25%</target>
+			</segment>
+		</unit>
+		<unit id="Amount_TwentyFivePercentFirstWave">
+			<segment state="translated">
+				<source>25% of First Wave</source>
+				<target>25% de la Primera Oleada</target>
+			</segment>
+		</unit>
+
+		<!-- ==================== FLIGHT GROUP GOAL CONDITIONS (State-dependent) ==================== -->
+		<!-- Unresolved state -->
+		<unit id="Goal_Arrived_Unresolved">
+			<segment state="translated">
+				<source>must arrive</source>
+				<target>deb{count:plural:e|en} llegar</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Attacked_Unresolved">
+			<segment state="translated">
+				<source>must be attacked</source>
+				<target>deb{count:plural:e|en} ser atacad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Boarded_Unresolved">
+			<segment state="translated">
+				<source>must be boarded</source>
+				<target>deb{count:plural:e|en} ser abordad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_CannonSysDisabled_Unresolved">
+			<segment state="translated">
+				<source>must have cannons disabled</source>
+				<target>deb{count:plural:e|en} tener los cañones incapacitados</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Captured_Unresolved">
+			<segment state="translated">
+				<source>must be captured</source>
+				<target>deb{count:plural:e|en} ser capturad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_CompletedMission_Unresolved">
+			<segment state="translated">
+				<source>must complete mission</source>
+				<target>deb{count:plural:e|en} completar la misión</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Destroyed_Unresolved">
+			<segment state="translated">
+				<source>must be destroyed</source>
+				<target>deb{count:plural:e|en} ser destruid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Disabled_Unresolved">
+			<segment state="translated">
+				<source>must be disabled</source>
+				<target>deb{count:plural:e|en} ser incapacitad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Docked_Unresolved">
+			<segment state="translated">
+				<source>must have docked</source>
+				<target>deb{count:plural:e|en} haberse acoplado</target>
+			</segment>
+		</unit>
+		<unit id="Goal_DroppedOff_Unresolved">
+			<segment state="translated">
+				<source>must have dropped off</source>
+				<target>deb{count:plural:e|en} haber soltado</target>
+			</segment>
+		</unit>
+		<unit id="Goal_FiftyHull_Unresolved">
+			<segment state="translated">
+				<source>must have half hull</source>
+				<target>deb{count:plural:e|en} tener el casco al 50%</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Inspected_Unresolved">
+			<segment state="translated">
+				<source>must be inspected</source>
+				<target>deb{count:plural:e|en} ser inspeccionad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_OutOfWarheads_Unresolved">
+			<segment state="translated">
+				<source>must be out of warheads</source>
+				<target>deb{count:plural:e|en} estar sin ojivas</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Survived_Unresolved">
+			<segment state="translated">
+				<source>must survive</source>
+				<target>deb{count:plural:e|en} sobrevivir</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Threatened_Unresolved">
+			<segment state="translated">
+				<source>must be threatened</source>
+				<target>deb{count:plural:e|en} ser amenazad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_ZeroShields_Unresolved">
+			<segment state="translated">
+				<source>must have zero shields</source>
+				<target>deb{count:plural:e|en} quedarse sin escudos</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Recovered_Unresolved">
+			<segment state="translated">
+				<source>must be recovered</source>
+				<target>deb{count:plural:e|en} ser recuperad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Unknown_Unresolved">
+			<segment state="translated">
+				<source>Unknown</source>
+				<target>Desconocido</target>
+			</segment>
+		</unit>
+
+		<!-- Passed state -->
+		<unit id="Goal_Arrived_Passed">
+			<segment state="translated">
+				<source>arrived</source>
+				<target>lleg{count:plural:ó|aron}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Attacked_Passed">
+			<segment state="translated">
+				<source>attacked</source>
+				<target>atacad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Boarded_Passed">
+			<segment state="translated">
+				<source>boarded</source>
+				<target>abordad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_CannonSysDisabled_Passed">
+			<segment state="translated">
+				<source>cannons disabled</source>
+				<target>cañones incapacitados</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Captured_Passed">
+			<segment state="translated">
+				<source>captured</source>
+				<target>capturad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_CompletedMission_Passed">
+			<segment state="translated">
+				<source>completed mission</source>
+				<target>completó la misión</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Destroyed_Passed">
+			<segment state="translated">
+				<source>destroyed</source>
+				<target>destruid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Disabled_Passed">
+			<segment state="translated">
+				<source>disabled</source>
+				<target>incapacitad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Docked_Passed">
+			<segment state="translated">
+				<source>docked</source>
+				<target>acoplad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_DroppedOff_Passed">
+			<segment state="translated">
+				<source>dropped off</source>
+				<target>soltó</target>
+			</segment>
+		</unit>
+		<unit id="Goal_FiftyHull_Passed">
+			<segment state="translated">
+				<source>half hull</source>
+				<target>con casco al 50%</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Inspected_Passed">
+			<segment state="translated">
+				<source>inspected</source>
+				<target>inspeccionad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_OutOfWarheads_Passed">
+			<segment state="translated">
+				<source>out of warheads</source>
+				<target>sin ojivas</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Survived_Passed">
+			<segment state="translated">
+				<source>survived</source>
+				<target>sobrevivió</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Threatened_Passed">
+			<segment state="translated">
+				<source>threatened</source>
+				<target>amenazad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_ZeroShields_Passed">
+			<segment state="translated">
+				<source>zero shields</source>
+				<target>sin escudos</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Recovered_Passed">
+			<segment state="translated">
+				<source>recovered</source>
+				<target>recuperad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Unknown_Passed">
+			<segment state="translated">
+				<source>Unknown</source>
+				<target>Desconocido</target>
+			</segment>
+		</unit>
+
+		<!-- Failed state -->
+		<unit id="Goal_Arrived_Failed">
+			<segment state="translated">
+				<source>didn't arrive</source>
+				<target>no lleg{count:plural:ó|aron}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Attacked_Failed">
+			<segment state="translated">
+				<source>was not attacked</source>
+				<target>no fu{count:plural:e|eron} atacad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Boarded_Failed">
+			<segment state="translated">
+				<source>not boarded</source>
+				<target>no fu{count:plural:e|eron} abordad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_CannonSysDisabled_Failed">
+			<segment state="translated">
+				<source>didn't have cannons disabled</source>
+				<target>sus cañones no fueron incapacitados</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Captured_Failed">
+			<segment state="translated">
+				<source>not captured</source>
+				<target>no capturad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_CompletedMission_Failed">
+			<segment state="translated">
+				<source>didn't complete mission</source>
+				<target>no complet{count:plural:ó|aron} la misión</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Destroyed_Failed">
+			<segment state="translated">
+				<source>not destroyed</source>
+				<target>no destruid{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Disabled_Failed">
+			<segment state="translated">
+				<source>not disabled</source>
+				<target>no incapacitad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Docked_Failed">
+			<segment state="translated">
+				<source>not docked</source>
+				<target>no se acopl{count:plural:ó|aron}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_DroppedOff_Failed">
+			<segment state="translated">
+				<source>didn't drop off</source>
+				<target>no solt{count:plural:ó|aron}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_FiftyHull_Failed">
+			<segment state="translated">
+				<source>not half hull</source>
+				<target>no lleg{count:plural:ó|aron} a tener el casco al 50%</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Inspected_Failed">
+			<segment state="translated">
+				<source>not inspected</source>
+				<target>no inspeccionad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_OutOfWarheads_Failed">
+			<segment state="translated">
+				<source>not out of warheads</source>
+				<target>no lleg{count:plural:ó|aron} a estar sin ojivas</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Survived_Failed">
+			<segment state="translated">
+				<source>didn't survive</source>
+				<target>no sobrevivi{count:plural:ó|eron}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Threatened_Failed">
+			<segment state="translated">
+				<source>not threatened</source>
+				<target>no amenazad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_ZeroShields_Failed">
+			<segment state="translated">
+				<source>not zero shields</source>
+				<target>no lleg{count:plural:ó|aron} a estar sin escudos</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Recovered_Failed">
+			<segment state="translated">
+				<source>not recovered</source>
+				<target>no recuperad{species.GENDER:choose(M|F):{count:plural:o|os}|{count:plural:a|as}}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_Unknown_Failed">
+			<segment state="translated">
+				<source>Unknown</source>
+				<target>Desconocido</target>
+			</segment>
+		</unit>
+
+		<!-- ==================== TRIGGER FORMAT STRINGS ==================== -->
+		<unit id="Trigger_FgCondition_Format">
+			<notes>
+				<note>{amount} = amount text, {condition} = condition text. Don't alter the \{0\} placeholder.</note>
+			</notes>
+			<segment state="translated">
+				<source>{amount} of \{0\}: {condition}</source>
+				<target>{amount} de \{0\}: {condition}</target>
+			</segment>
+		</unit>
+		<unit id="Trigger_OrWentHome">
+			<segment state="translated">
+				<source> or Went Home</source>
+				<target> o se march{count:plural:ó|aron}</target>
+			</segment>
+		</unit>
+		<unit id="Trigger_Or">
+			<segment state="translated">
+				<source> or </source>
+				<target> o </target>
+			</segment>
+		</unit>
+		<unit id="Trigger_And">
+			<segment state="translated">
+				<source> and </source>
+				<target> y </target>
+			</segment>
+		</unit>
+
+		<!-- ==================== GOAL FORMAT STRINGS ==================== -->
+		<!-- For single ship: just condition. For multiple: amount + condition -->
+		<unit id="Goal_SingleShip_Format">
+			<segment>
+				<source>{condition}</source>
+				<target>{condition}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_MultipleShips_Format">
+			<segment>
+				<source>{amount} {condition}</source>
+				<target>{amount} {condition}</target>
+			</segment>
+		</unit>
+		<unit id="Goal_MissingCondition">
+			<segment state="translated">
+				<source>Missing Goal Condition Lookup!!!</source>
+				<target>No se puede encontrar la condición de la misión!!!</target>
+			</segment>
+		</unit>
+		<unit id="Goal_InvalidCondition">
+			<segment state="translated">
+				<source>Invalid Goal Condition!!!</source>
+				<target>Condición de objetivo no válida!!!</target>
+			</segment>
+		</unit>
+
+		<!-- ==================== VARIABLE TYPE DESCRIPTIONS ==================== -->
+		<!-- Craft Categories -->
+		<unit id="CraftCategory_Fighter">
+			<segment state="translated">
+				<source>Fighters</source>
+				<target>Cazas</target>
+			</segment>
+		</unit>
+		<unit id="CraftCategory_Transport">
+			<segment state="translated">
+				<source>Transports</source>
+				<target>Transportes</target>
+			</segment>
+		</unit>
+		<unit id="CraftCategory_FreighterContainer">
+			<segment state="translated">
+				<source>Freighters/Containers</source>
+				<target>Cargueros/Contenedores</target>
+			</segment>
+		</unit>
+		<unit id="CraftCategory_Capital">
+			<segment state="translated">
+				<source>Starships</source>
+				<target>Naves Capitales</target>
+			</segment>
+		</unit>
+		<unit id="CraftCategory_Utility">
+			<segment state="translated">
+				<source>Utility</source>
+				<target>Servicio</target>
+			</segment>
+		</unit>
+		<unit id="CraftCategory_Platform">
+			<segment state="translated">
+				<source>Platforms</source>
+				<target>Plataformas</target>
+			</segment>
+		</unit>
+		<unit id="CraftCategory_Mine">
+			<segment state="translated">
+				<source>Mines</source>
+				<target>Minas</target>
+			</segment>
+		</unit>
+		<unit id="CraftCategory_Object">
+			<segment state="translated">
+				<source>Probes/Sats/Navs</source>
+				<target>Sondas/Satélites/Boyas</target>
+			</segment>
+		</unit>
+
+		<!-- Object Categories -->
+		<unit id="ObjectCategory_Craft">
+			<segment state="translated">
+				<source>Craft</source>
+				<target>Naves</target>
+			</segment>
+		</unit>
+		<unit id="ObjectCategory_Weapon">
+			<segment state="translated">
+				<source>Mines</source>
+				<target>Minas</target>
+			</segment>
+		</unit>
+		<unit id="ObjectCategory_Satellite">
+			<segment state="translated">
+				<source>Probes/Sats/Navs</source>
+				<target>Sondas/Satélites/Boyas</target>
+			</segment>
+		</unit>
+
+		<!-- Status descriptions -->
+		<unit id="Status_Normal">
+			<segment state="translated">
+				<source>craft with no special initial status</source>
+				<target>naves sin estado inicial especial</target>
+			</segment>
+		</unit>
+		<unit id="Status_HalfShields">
+			<segment state="translated">
+				<source>craft starting with half shields</source>
+				<target>naves que empiezan al 50% de escudos</target>
+			</segment>
+		</unit>
+		<unit id="Status_NoShields">
+			<segment state="translated">
+				<source>craft starting with no shields</source>
+				<target>naves que empiezan sin escudos</target>
+			</segment>
+		</unit>
+		<unit id="Status_DoubleMissiles">
+			<segment state="translated">
+				<source>craft starting with double payload</source>
+				<target>naves que empiezan con doble carga de ojivas</target>
+			</segment>
+		</unit>
+		<unit id="Status_HalfMissiles">
+			<segment state="translated">
+				<source>craft starting with half payload</source>
+				<target>naves que empiezan con media carga de ojivas</target>
+			</segment>
+		</unit>
+		<unit id="Status_HalfShieldsNoCharging">
+			<segment state="translated">
+				<source>craft starting with half, non-charging shields</source>
+				<target>naves que empiezan con escudos al 50%, sin recarga</target>
+			</segment>
+		</unit>
+		<unit id="Status_HyperdriveAdded">
+			<segment state="translated">
+				<source>craft with added hyperdrive</source>
+				<target>naves con hipermotor añadido</target>
+			</segment>
+		</unit>
+		<unit id="Status_NoHyperdrive">
+			<segment state="translated">
+				<source>craft starting with no hyperdrive</source>
+				<target>naves que empiezan sin hipermotor</target>
+			</segment>
+		</unit>
+		<unit id="Status_NoMissiles">
+			<segment state="translated">
+				<source>craft starting with no payload</source>
+				<target>naves que empiezan sin carga de ojivas</target>
+			</segment>
+		</unit>
+		<unit id="Status_NoTurrets">
+			<segment state="translated">
+				<source>craft starting with no turrets</source>
+				<target>naves que empiezan sin torretas</target>
+			</segment>
+		</unit>
+		<unit id="Status_ShieldAdded">
+			<segment state="translated">
+				<source>craft with added shields</source>
+				<target>naves con escudos añadidos</target>
+			</segment>
+		</unit>
+		<unit id="Status_ShieldToZero">
+			<segment state="translated">
+				<source>craft starting with depleted shields</source>
+				<target>naves que empiezan con los escudos agotados</target>
+			</segment>
+		</unit>
+		<unit id="Status_Fallback">
+			<notes>
+				<note>{status} = the status enum name</note>
+			</notes>
+			<segment state="translated">
+				<source>craft with status '{status}'</source>
+				<target>naves con el estado '{status}'</target>
+			</segment>
+		</unit>
+
+		<!-- CraftWhen descriptions -->
+		<unit id="CraftWhen_CAPTURED">
+			<segment state="translated">
+				<source>craft that have been captured</source>
+				<target>naves que han sido capturadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_PLAYER_CRAFT">
+			<segment state="translated">
+				<source>player craft</source>
+				<target>nave del jugador</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_SPECIAL_CRAFT">
+			<segment state="translated">
+				<source>special craft</source>
+				<target>nave especial</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_NONPLAYER_CRAFT">
+			<segment state="translated">
+				<source>non-player craft</source>
+				<target>nave de no jugador</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_ANY_HULL_DAMAGE">
+			<segment state="translated">
+				<source>craft that have taken hull damage</source>
+				<target>naves con el casco dañado</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_ATTACKED">
+			<segment state="translated">
+				<source>craft that have been attacked</source>
+				<target>naves que han sido atacadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_INSPECTED">
+			<segment state="translated">
+				<source>craft that have been inspected</source>
+				<target>naves que han sido inspeccionadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_DISABLED">
+			<segment state="translated">
+				<source>craft that have been disabled</source>
+				<target>naves que han sido incapacitadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_FINISHED_BEING_BOARDED">
+			<segment state="translated">
+				<source>craft that have finished being boarded</source>
+				<target>naves que han terminado de ser abordadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_FINISHED_DOCKING">
+			<segment state="translated">
+				<source>craft that have finished docking</source>
+				<target>naves que han terminado de acoplarse</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_HULL_25PERCENT">
+			<segment state="translated">
+				<source>craft that have 25% hull remaining</source>
+				<target>naves con el casco al 25%</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_HULL_50PERCENT">
+			<segment state="translated">
+				<source>craft that have 50% hull remaining</source>
+				<target>naves con el casco al 50%</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_HULL_75PERCENT">
+			<segment state="translated">
+				<source>craft that have 75% hull remaining</source>
+				<target>naves con el casco al 75%</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_OUT_OF_WARHEADS">
+			<segment state="translated">
+				<source>craft that have run out of warheads</source>
+				<target>naves que se han quedado sin ojivas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_NOT_ATTACKED">
+			<segment state="translated">
+				<source>craft that have not been attacked</source>
+				<target>naves que no han sido atacadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_NOT_INSPECTED">
+			<segment state="translated">
+				<source>craft that have not been inspected</source>
+				<target>naves que no han sido inspeccionadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_NOT_DISABLED">
+			<segment state="translated">
+				<source>craft that have not been disabled</source>
+				<target>naves que no han sido incapacitadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_NOT_FINISHED_BEING_BOARDED">
+			<segment state="translated">
+				<source>craft that have not finished being boarded</source>
+				<target>naves que no han terminado de ser abordadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_NOT_FINISHED_DOCKING">
+			<segment state="translated">
+				<source>craft that have not finished docking</source>
+				<target>naves que no han terminado de acoplarse</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_NONSPECIAL_CRAFT">
+			<segment state="translated">
+				<source>craft that are not special</source>
+				<target>naves que no son especiales</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_NOT_CAPTURED">
+			<segment state="translated">
+				<source>craft that are not captured</source>
+				<target>naves que no están capturadas</target>
+			</segment>
+		</unit>
+		<unit id="CraftWhen_Fallback">
+			<notes>
+				<note>{situation} = the enum name</note>
+			</notes>
+			<segment state="translated">
+				<source>craft that are '{situation}'</source>
+				<target>naves que están '{situation}'</target>
+			</segment>
+		</unit>
+
+		<!-- Order descriptions -->
+		<unit id="Order_AttackAll">
+			<segment state="translated">
+				<source>attacking craft</source>
+				<target>naves que atacan</target>
+			</segment>
+		</unit>
+		<unit id="Order_AttackPrimaryAndSecondaryTargets">
+			<segment state="translated">
+				<source>attacking craft</source>
+				<target>naves que atacan</target>
+			</segment>
+		</unit>
+		<unit id="Order_AttackEscorts">
+			<segment state="translated">
+				<source>escort-attacking craft</source>
+				<target>naves que escoltan-atacan</target>
+			</segment>
+		</unit>
+		<unit id="Order_AttackFreightersAndCorvettes">
+			<segment state="translated">
+				<source>freighter/corvette-attacking craft</source>
+				<target>naves que atacan cargueros/corbetas</target>
+			</segment>
+		</unit>
+		<unit id="Order_AttackStarships">
+			<segment state="translated">
+				<source>starship-attacking craft</source>
+				<target>naves que atacan naves capitales</target>
+			</segment>
+		</unit>
+		<unit id="Order_AttackTransports">
+			<segment state="translated">
+				<source>transport-attacking craft</source>
+				<target>naves que atacan transportes</target>
+			</segment>
+		</unit>
+		<unit id="Order_AwaitBoarding">
+			<segment state="translated">
+				<source>craft awaiting boarding</source>
+				<target>naves que esperan abordaje</target>
+			</segment>
+		</unit>
+		<unit id="Order_BoardToCapture">
+			<segment state="translated">
+				<source>capturing craft</source>
+				<target>naves que capturan</target>
+			</segment>
+		</unit>
+		<unit id="Order_BoardToDeliver">
+			<segment state="translated">
+				<source>cargo-delivering craft</source>
+				<target>naves que entregan cargamento</target>
+			</segment>
+		</unit>
+		<unit id="Order_BoardToDestroy">
+			<segment state="translated">
+				<source>cargo-destroying craft</source>
+				<target>naves que destruyen cargamento</target>
+			</segment>
+		</unit>
+		<unit id="Order_BoardToExchange">
+			<segment state="translated">
+				<source>cargo-exchanging craft</source>
+				<target>naves que intercambian cargamento</target>
+			</segment>
+		</unit>
+		<unit id="Order_BoardToPickup">
+			<segment state="translated">
+				<source>picking-up craft</source>
+				<target>naves que recogen</target>
+			</segment>
+		</unit>
+		<unit id="Order_BoardToRepair">
+			<segment state="translated">
+				<source>repairing craft</source>
+				<target>naves que reparan</target>
+			</segment>
+		</unit>
+		<unit id="Order_BoardToTake">
+			<segment state="translated">
+				<source>cargo-taking craft</source>
+				<target>naves que toman cargamento</target>
+			</segment>
+		</unit>
+		<unit id="Order_CircleAndEvade">
+			<segment state="translated">
+				<source>patrolling craft</source>
+				<target>naves que patrullan</target>
+			</segment>
+		</unit>
+		<unit id="Order_CircleAndIgnore">
+			<segment state="translated">
+				<source>patrolling craft</source>
+				<target>naves que patrullan</target>
+			</segment>
+		</unit>
+		<unit id="Order_CloseEscort">
+			<segment state="translated">
+				<source>escorting craft</source>
+				<target>naves que escoltan</target>
+			</segment>
+		</unit>
+		<unit id="Order_LooseEscort">
+			<segment state="translated">
+				<source>escorting craft</source>
+				<target>naves que escoltan</target>
+			</segment>
+		</unit>
+		<unit id="Order_DisableAll">
+			<segment state="translated">
+				<source>disabling craft</source>
+				<target>naves que incapacitan</target>
+			</segment>
+		</unit>
+		<unit id="Order_DisablePrimaryAndSecondaryTargets">
+			<segment state="translated">
+				<source>disabling craft</source>
+				<target>naves que incapacitan</target>
+			</segment>
+		</unit>
+		<unit id="Order_DisableFreightersAndCorvettes">
+			<segment state="translated">
+				<source>craft disabling freighters/corvettes</source>
+				<target>naves que incapacitan cargueros/corbetas</target>
+			</segment>
+		</unit>
+		<unit id="Order_DisableTransports">
+			<segment state="translated">
+				<source>craft disabling transports</source>
+				<target>naves que incapacitan transportes</target>
+			</segment>
+		</unit>
+		<unit id="Order_DisableStarships">
+			<segment state="translated">
+				<source>craft disabling starships</source>
+				<target>naves que incapacitan naves capitales</target>
+			</segment>
+		</unit>
+		<unit id="Order_DropOffCraft">
+			<segment state="translated">
+				<source>dropping craft</source>
+				<target>naves que sueltan</target>
+			</segment>
+		</unit>
+		<unit id="Order_FlyHome">
+			<segment state="translated">
+				<source>craft flying home</source>
+				<target>naves yéndose</target>
+			</segment>
+		</unit>
+		<unit id="Order_FlyOnceAndEvade">
+			<segment state="translated">
+				<source>craft en route</source>
+				<target>naves en camino</target>
+			</segment>
+		</unit>
+		<unit id="Order_FlyOnceAndIgnore">
+			<segment state="translated">
+				<source>craft en route</source>
+				<target>naves en camino</target>
+			</segment>
+		</unit>
+		<unit id="Order_HoldSteady">
+			<segment state="translated">
+				<source>craft holding steady</source>
+				<target>naves que permanecen detenidas</target>
+			</segment>
+		</unit>
+		<unit id="Order_ProtectTargets">
+			<segment state="translated">
+				<source>protecting craft</source>
+				<target>naves que protegen</target>
+			</segment>
+		</unit>
+		<unit id="Order_Rendezvous">
+			<segment state="translated">
+				<source>craft rendezvousing</source>
+				<target>naves que se reúnen</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipAwaitArrival">
+			<segment state="translated">
+				<source>starships awaiting arrivals</source>
+				<target>naves capitales que esperan llegadas</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipAwaitBoarding">
+			<segment state="translated">
+				<source>starships awaiting boardings</source>
+				<target>naves capitales que esperan abordajes</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipAwaitLaunch">
+			<segment state="translated">
+				<source>starships awaiting launches</source>
+				<target>naves capitales que esperan despegues</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipAwaitReturn">
+			<segment state="translated">
+				<source>starships awaiting returns</source>
+				<target>naves capitales que esperan regresos</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipCircle">
+			<segment state="translated">
+				<source>patrolling starships</source>
+				<target>naves capitales que patrullan</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipFlyHome">
+			<segment state="translated">
+				<source>starships flying home</source>
+				<target>naves capitales yéndose</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipFlyOnce">
+			<segment state="translated">
+				<source>starships en route</source>
+				<target>naves capitales en camino</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipLookingToBoard">
+			<segment state="translated">
+				<source>starships looking to board</source>
+				<target>naves capitales buscando qué abordar</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipPatrolAttack">
+			<segment state="translated">
+				<source>starships patrolling for attack</source>
+				<target>naves capitales en patrulla para atacar</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipPatrolDisable">
+			<segment state="translated">
+				<source>starships patrolling for disable</source>
+				<target>naves capitales en patrulla para incapacitar</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipProtect">
+			<segment state="translated">
+				<source>starships protecting</source>
+				<target>naves capitales protegiendo</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipSitAndFire">
+			<segment state="translated">
+				<source>starships holding station</source>
+				<target>naves capitales permaneciendo inmóviles</target>
+			</segment>
+		</unit>
+		<unit id="Order_StarshipWaitProtect">
+			<segment state="translated">
+				<source>starships waiting to protect</source>
+				<target>naves capitales esperando para proteger</target>
+			</segment>
+		</unit>
+		<unit id="Order_TimedWait">
+			<segment state="translated">
+				<source>craft waiting</source>
+				<target>naves esperando</target>
+			</segment>
+		</unit>
+		<unit id="Order_Fallback">
+			<notes>
+				<note>{order} = the order enum name</note>
+			</notes>
+			<segment state="translated">
+				<source>craft with '{order}' orders</source>
+				<target>naves con órdenes '{order}'</target>
+			</segment>
+		</unit>
+
+		<!-- AI Skill -->
+		<unit id="AiSkill_Format">
+			<notes>
+				<note>{skill} = the AI skill enum name</note>
+			</notes>
+			<segment state="translated">
+				<source>{skill} craft</source>
+				<target>naves {skill}</target>
+			</segment>
+		</unit>
+
+		<!-- Global Group fallback -->
+		<unit id="GlobalGroup_Nothing">
+			<segment state="translated">
+				<source>nothing</source>
+				<target>nada</target>
+			</segment>
+		</unit>
+
+		<!-- Not yet implemented -->
+		<unit id="NotYetImplemented">
+			<segment state="translated">
+				<source>!!Not Yet Implemented!!</source>
+				<target>¡¡Aún no implementado!!</target>
+			</segment>
+		</unit>
+
+		<!-- ==================== SPECIAL MISSION GOALS ==================== -->
+		<unit id="PpgGoal_CrossGates">
+			<notes>
+				<note>{gatesLeft} = number of gates remaining</note>
+			</notes>
+			<segment state="translated">
+				<source>Cross {gatesLeft} more gates.</source>
+				<target>Cruza {gatesLeft} puertas más.</target>
+			</segment>
+		</unit>
+		<unit id="PpgGoal_Failed">
+			<segment state="translated">
+				<source>Failed!</source>
+				<target>¡Fracasado!</target>
+			</segment>
+		</unit>
+		<unit id="DsGoal_DestroyExhaustPort_Unresolved">
+			<segment state="translated">
+				<source>You must Destroy the Exhaust Port.</source>
+				<target>Debes Destruir el Puerto de Escape Térmico</target>
+			</segment>
+		</unit>
+		<unit id="DsGoal_DestroyExhaustPort_Passed">
+			<segment state="translated">
+				<source>You did Destroy the Exhaust Port.</source>
+				<target>Destruiste el Puerto de Escape Térmico.</target>
+			</segment>
+		</unit>
+		<unit id="DsGoal_DestroyLaserTowers_Unresolved">
+			<segment state="translated">
+				<source>You must destroy the Laser Towers.</source>
+				<target>Debes Destruir las Torres Láser.</target>
+			</segment>
+		</unit>
+		<unit id="DsGoal_DestroyLaserTowers_Passed">
+			<segment state="translated">
+				<source>You did Destroy the Laser Towers.</source>
+				<target>Destruiste las Torres Láser.</target>
+			</segment>
+		</unit>
+		<unit id="TimeLimitGoal_Remaining">
+			<notes>
+				<note>{minutes} and {seconds} are formatted time</note>
+			</notes>
+			<segment state="translated">
+				<source>Time remaining: {minutes}:{seconds}</source>
+				<target>Tiempo Restante: {minutes}:{seconds}</target>
+			</segment>
+		</unit>
+		<unit id="TimeLimitGoal_Expired">
+			<segment state="translated">
+				<source>Mission time expired</source>
+				<target>Tiempo de misión agotado</target>
+			</segment>
+		</unit>
+	</file>
+</xliff>

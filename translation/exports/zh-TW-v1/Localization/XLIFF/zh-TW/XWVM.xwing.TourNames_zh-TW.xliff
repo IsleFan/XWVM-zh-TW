@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="zh-TW">
+  <file id="XWVM.XWing.TourNames">
+    
+      <unit id="xcombat">
+        <segment state="translated">
+          <source>X-Wing Historic Combat Missions</source>
+          <target>X翼戰機歷史戰役任務</target></segment>
+      </unit>
+      <unit id="ycombat">
+        <segment state="translated">
+          <source>Y-Wing Historic Combat Missions</source>
+          <target>Y翼戰機歷史戰役任務</target></segment>
+      </unit>
+      <unit id="acombat">
+        <segment state="translated">
+          <source>A-Wing Historic Combat Missions</source>
+          <target>A翼戰機歷史戰役任務</target></segment>
+      </unit>
+      <unit id="bcombat">
+        <segment state="translated">
+          <source>B-Wing Historic Combat Missions</source>
+          <target>B翼戰機歷史戰役任務</target></segment>
+      </unit>
+      <unit id="bonus">
+        <segment state="translated">
+          <source>Bonus Combat Missions</source>
+          <target>額外戰役任務</target></segment>
+      </unit>
+      <unit id="tour1">
+        <segment state="translated">
+          <source>1</source>
+          <target>1</target></segment>
+      </unit>
+      <unit id="tour2">
+        <segment state="translated">
+          <source>2</source>
+          <target>2</target></segment>
+      </unit>
+      <unit id="tour3">
+        <segment state="translated">
+          <source>3</source>
+          <target>3</target></segment>
+      </unit>
+      <unit id="tour4">
+        <segment state="translated">
+          <source>4</source>
+          <target>4</target></segment>
+      </unit>
+      <unit id="tour5">
+        <segment state="translated">
+          <source>5</source>
+          <target>5</target></segment>
+      </unit>
+      <unit id="tour6">
+        <segment state="translated">
+          <source>6</source>
+          <target>6</target></segment>
+      </unit>
+      <unit id="tour7">
+        <segment state="translated">
+          <source>7</source>
+          <target>7</target></segment>
+      </unit>
+      <unit id="custom">
+        <segment state="translated">
+          <source>Custom</source>
+          <target>自訂</target></segment>
+      </unit>
+    
+  </file>
+</xliff>
